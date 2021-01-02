@@ -1,0 +1,126 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.box
+{
+height:100px;
+width:100px;
+background-color:green;
+float:left;
+margin:10px;
+}
+</style>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<br>
+<br>
+
+<div class="box">
+<br>
+<center>
+<h4 style="margin-top:10px">Wheat <br> Rs:500</h4>
+
+
+
+<form method="POST" action="cookiesetter.jsp">
+<input type="hidden" value="Wheat_Rs_500" name="item" >
+<input type="hidden" value="500" name="price" >
+<input type="submit" value="click">
+
+</form>
+
+</center>
+</div>
+
+
+
+
+
+<div class="box">
+<br>
+<center>
+<h4 style="margin-top:10px">Rice <br> Rs:300</h4>
+<form method="POST" action="cookiesetter.jsp">
+<input type="hidden" value="Rice_Rs_300" name="item" >
+<input type="hidden" value="300" name="price" >
+<input type="submit" value="click">
+
+</form>
+
+</center>
+</div>
+
+
+
+
+
+<div class="box">
+<br>
+<center>
+<h4 style="margin-top:10px">Pulses <br> Rs:100</h4>
+<form method="POST" action="cookiesetter.jsp">
+<input type="hidden" value="Pulses_Rs_100" name="item" >
+<input type="hidden" value="100" name="price" >
+<input type="submit" value="click">
+
+</form>
+</center>
+</div>
+
+<div class="box">
+<br>
+<center>
+<h4 style="margin-top:10px">Oil <br> Rs:90</h4>
+<form method="POST" action="cookiesetter.jsp">
+<input type="hidden" value="Oil_Rs_90" name="item" >
+<input type="hidden" value="90" name="price" >
+<input type="submit" value="click">
+
+</form>
+
+
+
+
+</center>
+</div>
+
+
+
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br><br>
+<h1><h2> Items in your cart:</h2>
+<h4> <ol><li>Wheat_Rs_500</li> <br/><li>Rice_Rs_300</li> <br/></ol></h4></h1>
+
+<h1>
+Total : 300
+
+</h1>
+<form method="POST" action="clear.jsp">
+<input type="submit" name="Clear cart" value="Clear cart">
+</form>
+<br>
+<form method="POST" action="checkout.jsp">
+<input type="submit" name="checkout" value="checkout">
+</form>
+
+
+
+
+
+<br>
+
+</body>
+</html>
