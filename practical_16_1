@@ -1,1 +1,17 @@
 
+<html><head><style>
+body
+{
+background-color:purple;
+color:white
+}
+</style>
+
+
+</head><body><h1><center>Welcome harshiash@gmail.com</center></h1><br><br>
+<h3><center>You are successfully logged in.</center></h3><br><br>
+ <p style="margin-left:200px">Name : Harshita<br>Email: harshiash@gmail.com<br>Mobile: 8960647586</p>
+<br><br><br><center> <a style="color:white" href="index.jsp">Logout</a></center>
+
+
+</body></html>
