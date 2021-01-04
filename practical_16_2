@@ -1,0 +1,31 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+body
+{
+background-color:#334422;
+color:white
+}
+</style>
+<meta charset="UTF-8">
+<title>Practical 16</title>
+</head>
+<body>
+<center>
+<h1>Welcome to practical 16</h1>
+<form action="login.jsp" method="post">  
+Email:<input type="text" name="email"/><br/><br/>  
+Password:<input type="password" name="password"/><br/><br/>  
+<input type="submit" value="login"/>
+<br>
+<br>
+</form>  
+<a style="color:white" href="register.jsp"><button href="register.jsp">New User</button></a>
+</center>
+
+</body>
+</html>
