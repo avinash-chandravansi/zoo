@@ -1,0 +1,336 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NTPC GK Practice</title>
+<meta name="description" content="RRB NTPC GK previous-year-question practice: MCQs with answer keys from Parmar Sir's lecture series.">
+<style>
+:root{
+  --bg:#f6f5f1; --surface:#ffffff; --surface-2:#f0eee8; --text:#1d1c1a; --muted:#6b6862; --line:#e3e0d8;
+  --accent:#2f5bd3; --accent-ink:#ffffff;
+  --ok:#1e8a4c; --ok-bg:#e5f5ec; --bad:#c23b32; --bad-bg:#fbe9e7;
+  --hist:#b45f06; --hist-bg:#fbeedd; --geo:#0d7d6c; --geo-bg:#dcf2ee; --pol:#5141c9; --pol-bg:#e8e5fb;
+  --shadow:0 1px 2px rgba(0,0,0,.04),0 4px 14px rgba(0,0,0,.05);
+  --radius:14px;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#141413; --surface:#1e1d1b; --surface-2:#272623; --text:#ecebe7; --muted:#a19e97; --line:#34322e;
+    --accent:#7d9cff; --accent-ink:#0f1320;
+    --ok:#4fc685; --ok-bg:#16301f; --bad:#ff7b70; --bad-bg:#3a1c19;
+    --hist:#f0a64a; --hist-bg:#33260f; --geo:#4ccdb8; --geo-bg:#10302b; --pol:#a79bff; --pol-bg:#241f45;
+    --shadow:none;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#141413; --surface:#1e1d1b; --surface-2:#272623; --text:#ecebe7; --muted:#a19e97; --line:#34322e;
+  --accent:#7d9cff; --accent-ink:#0f1320;
+  --ok:#4fc685; --ok-bg:#16301f; --bad:#ff7b70; --bad-bg:#3a1c19;
+  --hist:#f0a64a; --hist-bg:#33260f; --geo:#4ccdb8; --geo-bg:#10302b; --pol:#a79bff; --pol-bg:#241f45;
+  --shadow:none;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--text);font:16px/1.55 system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif}
+a{color:var(--accent)}
+button{font:inherit;color:inherit}
+.wrap{max-width:860px;margin:0 auto;padding:0 16px}
+.hidden{display:none!important}
+
+/* header */
+.top{position:sticky;top:0;z-index:10;background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+.top .wrap{display:flex;align-items:center;gap:10px;height:56px}
+.brand{font-weight:700;letter-spacing:-.01em;text-decoration:none;color:var(--text);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.spacer{flex:1}
+.icon-btn{border:1px solid var(--line);background:var(--surface);border-radius:10px;height:36px;min-width:36px;padding:0 10px;cursor:pointer;display:inline-flex;align-items:center;justify-content:center;gap:6px;font-size:14px}
+.icon-btn:hover{background:var(--surface-2)}
+
+/* home */
+.hero{padding:32px 0 8px}
+.hero h1{font-size:clamp(26px,5vw,38px);line-height:1.15;letter-spacing:-.02em;margin:0 0 8px}
+.hero p{margin:0;color:var(--muted);max-width:60ch}
+.stats{display:flex;gap:10px;flex-wrap:wrap;margin:20px 0 4px}
+.stat{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:10px 14px;min-width:110px}
+.stat b{display:block;font-size:22px;letter-spacing:-.01em}
+.stat span{font-size:13px;color:var(--muted)}
+.chips{display:flex;gap:8px;flex-wrap:wrap;margin:22px 0 14px}
+.chip{border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:7px 14px;cursor:pointer;font-size:14px}
+.chip[aria-pressed="true"]{background:var(--text);color:var(--bg);border-color:var(--text)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:12px;padding-bottom:12px}
+.card{display:block;text-decoration:none;color:inherit;background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:16px;box-shadow:var(--shadow);transition:transform .12s ease,border-color .12s ease}
+.card:hover{transform:translateY(-2px);border-color:color-mix(in srgb,var(--accent) 40%,var(--line))}
+.badge{display:inline-block;font-size:12px;font-weight:600;padding:3px 9px;border-radius:999px;letter-spacing:.01em}
+.b-History{color:var(--hist);background:var(--hist-bg)}
+.b-Geography{color:var(--geo);background:var(--geo-bg)}
+.b-Polity{color:var(--pol);background:var(--pol-bg)}
+.card h3{margin:10px 0 2px;font-size:18px;letter-spacing:-.01em}
+.card .meta{font-size:14px;color:var(--muted)}
+.bar{height:6px;background:var(--surface-2);border-radius:99px;overflow:hidden;margin-top:12px}
+.bar i{display:block;height:100%;background:var(--accent);border-radius:99px;width:0}
+.card .prog{font-size:12px;color:var(--muted);margin-top:6px}
+.note{margin:24px 0 40px;padding:14px 16px;border-radius:12px;background:var(--surface);border:1px dashed var(--line);font-size:14px;color:var(--muted)}
+.note b{color:var(--text)}
+
+/* lecture */
+.lhead{padding:24px 0 6px}
+.lhead h1{margin:8px 0 4px;font-size:clamp(24px,4.5vw,32px);letter-spacing:-.02em;line-height:1.2}
+.lhead .meta{color:var(--muted);font-size:14px}
+.lhead .meta a{white-space:nowrap}
+.panel{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);margin:16px 0;box-shadow:var(--shadow)}
+details.panel>summary{list-style:none;cursor:pointer;padding:14px 16px;font-weight:650;display:flex;align-items:center;gap:8px}
+details.panel>summary::-webkit-details-marker{display:none}
+details.panel>summary::after{content:"";margin-left:auto;width:9px;height:9px;border-right:2px solid var(--muted);border-bottom:2px solid var(--muted);transform:rotate(45deg);transition:transform .15s}
+details[open].panel>summary::after{transform:rotate(-135deg)}
+.kp{margin:0;padding:0 16px 16px 34px}
+.kp li{margin:6px 0}
+.toolbar{position:sticky;top:56px;z-index:9;background:var(--bg);padding:10px 0;display:flex;gap:8px;align-items:center;flex-wrap:wrap;border-bottom:1px solid var(--line)}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:10px;overflow:hidden;background:var(--surface)}
+.seg button{border:0;background:transparent;padding:7px 12px;cursor:pointer;font-size:14px}
+.seg button[aria-pressed="true"]{background:var(--text);color:var(--bg)}
+.score{font-size:14px;color:var(--muted);margin-left:auto;white-space:nowrap}
+.score b{color:var(--text)}
+.qlist{list-style:none;margin:16px 0;padding:0}
+.q{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:16px;margin:0 0 12px;box-shadow:var(--shadow);scroll-margin-top:120px}
+.q .qt{font-weight:600;margin:0 0 12px;display:flex;gap:8px}
+.q .qn{color:var(--muted);font-variant-numeric:tabular-nums;flex:none}
+.opts{display:grid;gap:8px}
+.opt{display:flex;gap:10px;align-items:flex-start;text-align:left;width:100%;border:1px solid var(--line);background:var(--bg);border-radius:10px;padding:10px 12px;cursor:pointer;line-height:1.4}
+.opt:hover:not(:disabled){border-color:color-mix(in srgb,var(--accent) 50%,var(--line))}
+.opt:disabled{cursor:default}
+.opt .l{flex:none;width:24px;height:24px;border-radius:7px;display:inline-flex;align-items:center;justify-content:center;font-size:13px;font-weight:700;background:var(--surface-2);color:var(--muted)}
+.opt.correct{border-color:var(--ok);background:var(--ok-bg)}
+.opt.correct .l{background:var(--ok);color:#fff}
+.opt.wrong{border-color:var(--bad);background:var(--bad-bg)}
+.opt.wrong .l{background:var(--bad);color:#fff}
+.exp{margin:12px 0 0;padding:10px 12px;border-radius:10px;background:var(--surface-2);font-size:14px}
+.exp b{font-weight:650}
+h2.sec{font-size:20px;letter-spacing:-.01em;margin:32px 0 4px}
+.sec-sub{color:var(--muted);font-size:14px;margin:0 0 12px}
+.key{display:grid;grid-template-columns:repeat(auto-fill,minmax(64px,1fr));gap:6px}
+.key a{display:flex;justify-content:space-between;align-items:center;text-decoration:none;color:var(--text);background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:6px 8px;font-size:14px;font-variant-numeric:tabular-nums}
+.key a b{color:var(--accent)}
+.key a.k-ok{border-color:var(--ok)}
+.key a.k-bad{border-color:var(--bad)}
+.foot-actions{display:flex;gap:8px;flex-wrap:wrap;margin:24px 0 48px}
+.btn{border:1px solid var(--line);background:var(--surface);border-radius:10px;padding:10px 14px;cursor:pointer;text-decoration:none;color:var(--text);font-size:14px}
+.btn.primary{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+.loading{padding:60px 0;text-align:center;color:var(--muted)}
+@media print{
+  .top,.toolbar,.foot-actions,.chips{display:none!important}
+  body{background:#fff;color:#000}
+  .q,.panel{box-shadow:none;break-inside:avoid}
+}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <a class="brand" href="#" id="brand">NTPC GK Practice</a>
+    <span class="spacer"></span>
+    <button class="icon-btn" id="themeBtn" title="Switch light / dark" aria-label="Switch light or dark theme">◐</button>
+  </div>
+</header>
+
+<main class="wrap">
+  <section id="home">
+    <div class="hero">
+      <h1>RRB NTPC GK — PYQ Practice</h1>
+      <p>Lecture-wise MCQs from Parmar Sir's NTPC GK PYQ Series. Tap an option to check your answer. Every lecture ends with a full answer key.</p>
+      <div class="stats" id="stats"></div>
+    </div>
+    <div class="chips" id="chips" role="toolbar" aria-label="Filter by subject"></div>
+    <div class="grid" id="grid"></div>
+    <div class="note">
+      <b>Note:</b> These questions were made from the lectures' auto-generated captions and then fact-checked, but a few mistakes may remain. Check important facts against a standard book before the exam.
+      Not included yet: Medieval History Lec 1 &amp; Lec 3, Polity Lec 5.
+    </div>
+  </section>
+
+  <section id="lecture" class="hidden"></section>
+</main>
+
+<script>
+(function(){
+  const L = "ABCD";
+  const $ = s => document.querySelector(s);
+  const esc = s => String(s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+  const store = {
+    get(k, d){ try{ const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; }catch(e){ return d; } },
+    set(k, v){ try{ localStorage.setItem(k, JSON.stringify(v)); }catch(e){} }
+  };
+
+  // theme
+  const root = document.documentElement;
+  const savedTheme = store.get("ntpc-theme", null);
+  if (savedTheme) root.setAttribute("data-theme", savedTheme);
+  $("#themeBtn").onclick = () => {
+    const dark = root.getAttribute("data-theme") ? root.getAttribute("data-theme") === "dark"
+                                                   : matchMedia("(prefers-color-scheme: dark)").matches;
+    const next = dark ? "light" : "dark";
+    root.setAttribute("data-theme", next); store.set("ntpc-theme", next);
+  };
+
+  let manifest = [];
+  let filter = store.get("ntpc-filter", "All");
+  const cache = {};
+
+  function answers(id){ return store.get("ntpc-ans-" + id, {}); }
+  function progressOf(id, total){
+    const a = answers(id), d = Object.keys(a).length;
+    return { done: d, total };
+  }
+
+  function renderHome(){
+    const total = manifest.reduce((s, m) => s + m.count, 0);
+    let done = 0, correct = 0;
+    manifest.forEach(m => { const a = answers(m.id); for (const k in a){ done++; if (a[k].c) correct++; } });
+    $("#stats").innerHTML =
+      `<div class="stat"><b>${manifest.length}</b><span>Lectures</span></div>` +
+      `<div class="stat"><b>${total.toLocaleString("en-IN")}</b><span>MCQs</span></div>` +
+      `<div class="stat"><b>${done.toLocaleString("en-IN")}</b><span>Attempted</span></div>` +
+      `<div class="stat"><b>${done ? Math.round(correct * 100 / done) + "%" : "—"}</b><span>Accuracy</span></div>`;
+    const subs = ["All", ...new Set(manifest.map(m => m.subject))];
+    $("#chips").innerHTML = subs.map(s => `<button class="chip" data-s="${s}" aria-pressed="${s === filter}">${s}</button>`).join("");
+    $("#chips").onclick = e => {
+      const b = e.target.closest(".chip"); if (!b) return;
+      filter = b.dataset.s; store.set("ntpc-filter", filter); renderHome();
+    };
+    $("#grid").innerHTML = manifest.filter(m => filter === "All" || m.subject === filter).map(m => {
+      const p = progressOf(m.id, m.count), pct = Math.round(p.done * 100 / p.total);
+      return `<a class="card" href="#/${encodeURIComponent(m.id)}">
+        <span class="badge b-${m.subject}">${esc(m.subject)}</span>
+        <h3>${esc(m.title)}</h3>
+        <div class="meta">${m.count} questions</div>
+        <div class="bar"><i style="width:${pct}%"></i></div>
+        <div class="prog">${p.done ? `${p.done} of ${p.total} attempted` : "Not started"}</div>
+      </a>`;
+    }).join("");
+  }
+
+  async function loadLecture(id){
+    if (!cache[id]) {
+      const r = await fetch("data_en/" + encodeURIComponent(id) + ".json");
+      if (!r.ok) throw new Error("HTTP " + r.status);
+      cache[id] = await r.json();
+    }
+    return cache[id];
+  }
+
+  async function renderLecture(id){
+    const m = manifest.find(x => x.id === id);
+    const sec = $("#lecture");
+    if (!m) { location.hash = ""; return; }
+    sec.innerHTML = `<div class="loading">Loading ${esc(m.title)}…</div>`;
+    let d;
+    try { d = await loadLecture(id); }
+    catch (e) { sec.innerHTML = `<div class="loading">Could not load this lecture. Please refresh the page.</div>`; return; }
+
+    let mode = store.get("ntpc-mode", "practice");
+    const ans = answers(id);
+
+    sec.innerHTML = `
+      <div class="lhead">
+        <span class="badge b-${m.subject}">${esc(m.subject)}</span>
+        <h1>${esc(m.title)}</h1>
+        <div class="meta">${d.mcqs.length} questions · <a href="https://www.youtube.com/watch?v=${encodeURIComponent(id)}" target="_blank" rel="noopener">Watch the lecture ↗</a> · <a href="${esc(m.pdf)}" target="_blank" rel="noopener">Download PDF</a></div>
+      </div>
+      <details class="panel" open>
+        <summary>Key points from this lecture</summary>
+        <ul class="kp">${d.summary.map(s => `<li>${esc(s)}</li>`).join("")}</ul>
+      </details>
+      <div class="toolbar">
+        <div class="seg" role="group" aria-label="Mode">
+          <button data-m="practice" aria-pressed="${mode === "practice"}">Practice</button>
+          <button data-m="study" aria-pressed="${mode === "study"}">Show answers</button>
+        </div>
+        <a class="btn" href="#key-${esc(id)}" id="jumpKey">Answer key ↓</a>
+        <span class="score" id="score"></span>
+      </div>
+      <ol class="qlist" id="qlist"></ol>
+      <h2 class="sec" id="key-${esc(id)}">Answer Key</h2>
+      <p class="sec-sub">Tap a number to jump to that question.</p>
+      <div class="key" id="key"></div>
+      <div class="foot-actions">
+        <a class="btn" href="#">← All lectures</a>
+        <button class="btn" id="resetBtn">Reset my answers</button>
+        ${nextLink(id)}
+      </div>`;
+
+    const qlist = $("#qlist");
+    function qHtml(q, i){
+      const a = ans[i];
+      const reveal = mode === "study" || a;
+      const opts = q.o.map((o, j) => {
+        let cls = "opt";
+        if (reveal) {
+          if (j === q.a) cls += " correct";
+          else if (a && a.p === j) cls += " wrong";
+        }
+        return `<button class="${cls}" data-q="${i}" data-o="${j}" ${reveal ? "disabled" : ""}><span class="l">${L[j]}</span><span>${esc(o)}</span></button>`;
+      }).join("");
+      const exp = reveal ? `<div class="exp"><b>Answer: ${L[q.a]}.</b> ${esc(q.e || "")}</div>` : "";
+      return `<li class="q" id="q-${i + 1}"><p class="qt"><span class="qn">${i + 1}.</span><span>${esc(q.q)}</span></p><div class="opts">${opts}</div>${exp}</li>`;
+    }
+    function drawQs(){ qlist.innerHTML = d.mcqs.map(qHtml).join(""); }
+    function drawKey(){
+      $("#key").innerHTML = d.mcqs.map((q, i) => {
+        const a = ans[i], cls = a ? (a.c ? "k-ok" : "k-bad") : "";
+        return `<a class="${cls}" href="#q-${i + 1}" data-jump="${i + 1}"><span>${i + 1}</span><b>${L[q.a]}</b></a>`;
+      }).join("");
+    }
+    function drawScore(){
+      const keys = Object.keys(ans), c = keys.filter(k => ans[k].c).length;
+      $("#score").innerHTML = keys.length ? `<b>${c}</b> / ${keys.length} correct · ${d.mcqs.length - keys.length} left` : `${d.mcqs.length} to go`;
+    }
+    drawQs(); drawKey(); drawScore();
+
+    qlist.onclick = e => {
+      const b = e.target.closest(".opt"); if (!b || b.disabled) return;
+      const i = +b.dataset.q, j = +b.dataset.o, q = d.mcqs[i];
+      ans[i] = { p: j, c: j === q.a };
+      store.set("ntpc-ans-" + id, ans);
+      const li = b.closest(".q"); li.outerHTML = qHtml(q, i);
+      drawKey(); drawScore();
+    };
+    sec.querySelector(".seg").onclick = e => {
+      const b = e.target.closest("button"); if (!b) return;
+      mode = b.dataset.m; store.set("ntpc-mode", mode);
+      sec.querySelectorAll(".seg button").forEach(x => x.setAttribute("aria-pressed", x.dataset.m === mode));
+      drawQs();
+    };
+    // in-page jumps without changing the route
+    sec.addEventListener("click", e => {
+      const a = e.target.closest('a[href^="#q-"], a[href^="#key-"]'); if (!a) return;
+      e.preventDefault();
+      const t = document.getElementById(a.getAttribute("href").slice(1));
+      if (t) t.scrollIntoView({ behavior: "smooth", block: "start" });
+    });
+    $("#resetBtn").onclick = () => {
+      if (!confirm("Clear all your answers for this lecture?")) return;
+      for (const k in ans) delete ans[k];
+      store.set("ntpc-ans-" + id, ans); drawQs(); drawKey(); drawScore();
+    };
+  }
+
+  function nextLink(id){
+    const i = manifest.findIndex(m => m.id === id), n = manifest[i + 1];
+    return n ? `<a class="btn primary" href="#/${encodeURIComponent(n.id)}">Next: ${esc(n.title)} →</a>` : "";
+  }
+
+  function route(){
+    const h = decodeURIComponent(location.hash.replace(/^#\/?/, ""));
+    const isLecture = h && manifest.some(m => m.id === h);
+    $("#home").classList.toggle("hidden", isLecture);
+    $("#lecture").classList.toggle("hidden", !isLecture);
+    if (isLecture) { renderLecture(h); window.scrollTo(0, 0); }
+    else if (!h || !h.startsWith("q-") && !h.startsWith("key-")) { renderHome(); }
+  }
+
+  fetch("manifest.json").then(r => r.json()).then(m => {
+    manifest = m; window.addEventListener("hashchange", route); route();
+  }).catch(() => { $("#grid").innerHTML = `<div class="loading">Could not load the lecture list. Please refresh.</div>`; });
+})();
+</script>
+</body>
+</html>
