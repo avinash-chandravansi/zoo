@@ -1,0 +1,1979 @@
+{
+ "title": "History Lec 1",
+ "summary": [
+  "Harappan Civilization: 2500-1750 BC (Bronze Age); Early 3000-2600, Mature 2600-1900, Late 1900-1700 BC",
+  "Cities in two parts (citadel in the west); Dholavira in three parts, Chanhudaro had no citadel; brick ratio 1:2:4, weights in multiples of 16",
+  "Great Bath (12 x 7 x 2.4 m) and Great Granary at Mohenjodaro; Harappa had two rows of six granaries",
+  "Discoveries: Harappa - Daya Ram Sahni 1921, Mohenjodaro - R.D. Banerji 1922, Lothal - S.R. Rao, Dholavira - J.P. Joshi (excavated by R.S. Bisht); Rakhigarhi is the largest site in India (Vasant Shinde, 2013)",
+  "Lothal - dockyard, double burial; Kalibangan - ploughed field, fire altars, black bangles (Ghaggar); Surkotada - horse bones; Balakot, Chanhudaro, Nageshwar - bead industry",
+  "Seals of steatite, unicorn most common; Pashupati seal animals: BETTER DEER; Dancing Girl of bronze (lost-wax, 10.5 cm), Priest-King of steatite",
+  "Precious materials: tin - Afghanistan, copper - Rajasthan, gold - Kolar, carnelian - Gujarat, lapis lazuli - Shortugai/Badakhshan; trade: Meluhha, Dilmun (Bahrain), Magan (Oman)",
+  "Stone Age: Palaeolithic (Lower - hand axes, Middle - flakes, Upper - blades/burins), Mesolithic - microliths, Neolithic - agriculture and pottery; three-age system by C.J. Thomsen",
+  "Key sites: Hathnora (Homo erectus), Attirampakkam, Bhimbetka (Wakankar 1957), Adamgarh, Bagor, Burzahom-Gufkral (pit dwellings, dogs), Mehrgarh (oldest Neolithic, cotton)",
+  "Pottery mnemonic BOPN: BRW, OCP, PGW (Later Vedic), NBPW (Mahajanapada)",
+  "Vedic Age: Early 1500-1000, Later 1000-500 BC; Later Vedic saw iron, agriculture, hereditary varna and decline in women's status",
+  "Rigveda: 10 mandalas, 1028 hymns; 3 - Gayatri (Vishwamitra), 7 - Battle of Ten Kings (Sudas, Parushni/Ravi), 9 - Soma, 10 - Purusha Sukta",
+  "Literature: Samhita, Brahmana, Aranyaka, Upanishad (Vedanta); 6 Vedangas; Samaveda - music, Yajurveda - sacrificial formulae, Atharvaveda - magic and charms",
+  "Jabala Upanishad - four ashramas, Katha Upanishad - Yama-Nachiketa, Mundaka - Satyameva Jayate; Sabha (elders/learned) and Samiti (common people); wheat - Godhuma, rice - Vrihi, barley - Yava"
+ ],
+ "mcqs": [
+  {
+   "q": "The Harappan Civilization belongs to which age?",
+   "o": [
+    "Bronze Age",
+    "Neolithic Age",
+    "Iron Age",
+    "Chalcolithic Age"
+   ],
+   "a": 0,
+   "e": "The Harappans made bronze by alloying copper and tin; the civilization dates to c. 2500-1750 BC."
+  },
+  {
+   "q": "Bronze is an alloy of which metals?",
+   "o": [
+    "Copper and zinc",
+    "Copper and tin",
+    "Iron and tin",
+    "Copper and lead"
+   ],
+   "a": 1,
+   "e": "Copper + zinc = brass; copper + tin = bronze."
+  },
+  {
+   "q": "According to NCERT, what is the approximate period of the Harappan Civilization?",
+   "o": [
+    "1500-500 BC",
+    "3500-3000 BC",
+    "2500-1750 BC",
+    "1000-600 BC"
+   ],
+   "a": 2,
+   "e": "Radiocarbon dating places the Harappan Civilization at roughly 2500-1750 BC."
+  },
+  {
+   "q": "What is regarded as evidence of a highly centralised administration in the Harappan Civilization?",
+   "o": [
+    "Grand palaces",
+    "Huge temples",
+    "Royal tombs",
+    "Standardised weights and measures"
+   ],
+   "a": 3,
+   "e": "Weights followed multiples of 16 and bricks were made in a standard ratio."
+  },
+  {
+   "q": "What was the standard ratio of bricks in the Harappan Civilization?",
+   "o": [
+    "1:1:2",
+    "1:2:4",
+    "2:3:4",
+    "1:3:5"
+   ],
+   "a": 1,
+   "e": "Burnt bricks were made in the ratio 1:2:4."
+  },
+  {
+   "q": "Harappan weights were in multiples of which number?",
+   "o": [
+    "10",
+    "12",
+    "16",
+    "8"
+   ],
+   "a": 2,
+   "e": "Weights were used in multiples of 16 (16, 32, 64...)."
+  },
+  {
+   "q": "What does the 'grid pattern' of Harappan town planning mean?",
+   "o": [
+    "Cities were circular",
+    "Houses were built without planning",
+    "Roads were winding",
+    "Roads cut each other at right angles (90°)"
+   ],
+   "a": 3,
+   "e": "Streets were straight and intersected at right angles."
+  },
+  {
+   "q": "Into how many parts were Harappan cities generally divided?",
+   "o": [
+    "Two - upper town (citadel) and lower town",
+    "One",
+    "Three",
+    "Four"
+   ],
+   "a": 0,
+   "e": "The upper part, called the citadel (acropolis), lay on the western side."
+  },
+  {
+   "q": "By what other name is the citadel of Harappan cities known?",
+   "o": [
+    "Lower town",
+    "Agora",
+    "Acropolis",
+    "Necropolis"
+   ],
+   "a": 2,
+   "e": "The citadel was the upper town, built on the western side."
+  },
+  {
+   "q": "Which major Harappan site was divided into three parts?",
+   "o": [
+    "Lothal",
+    "Kalibangan",
+    "Chanhudaro",
+    "Dholavira"
+   ],
+   "a": 3,
+   "e": "Dholavira, in Kutch (Gujarat), is known for its huge water reservoirs."
+  },
+  {
+   "q": "At which Harappan site was no citadel found?",
+   "o": [
+    "Chanhudaro",
+    "Mohenjodaro",
+    "Harappa",
+    "Kalibangan"
+   ],
+   "a": 0,
+   "e": "Chanhudaro had no citadel; a bead-making factory was found there."
+  },
+  {
+   "q": "Which statement about the drainage of Harappan cities is correct?",
+   "o": [
+    "Drains were open",
+    "Drains were covered with (limestone) slabs",
+    "There was no drainage",
+    "There were only mud drains"
+   ],
+   "a": 1,
+   "e": "Every house drain joined the main drain; sumps along the way trapped waste."
+  },
+  {
+   "q": "Limestone is an example of which type of rock?",
+   "o": [
+    "Igneous rock",
+    "Metamorphic rock",
+    "Volcanic rock",
+    "Sedimentary rock"
+   ],
+   "a": 3,
+   "e": "Limestone slabs were used to cover Harappan drains."
+  },
+  {
+   "q": "What were the structures built in Harappan drains to trap solid waste called?",
+   "o": [
+    "Sumps/cesspits",
+    "Stupas",
+    "Chaityas",
+    "Stepwells"
+   ],
+   "a": 0,
+   "e": "Pits along the drains collected solid waste."
+  },
+  {
+   "q": "Which of the following is NOT a feature of Harappan architecture?",
+   "o": [
+    "Well-planned houses",
+    "Grand palaces and royal tombs",
+    "Drainage system",
+    "Burnt bricks"
+   ],
+   "a": 1,
+   "e": "Harappan architecture stressed functional design; no palaces or royal tombs are found."
+  },
+  {
+   "q": "Which statement about the Harappan script is correct?",
+   "o": [
+    "It has been fully deciphered",
+    "It is a form of Brahmi",
+    "It is mainly pictographic",
+    "It was written only from left to right"
+   ],
+   "a": 2,
+   "e": "The script remains undeciphered to this day."
+  },
+  {
+   "q": "What is the 'boustrophedon' style of the Harappan script?",
+   "o": [
+    "Right to left, then left to right in alternate lines",
+    "Only top to bottom",
+    "Only left to right",
+    "Circular writing"
+   ],
+   "a": 0,
+   "e": "In boustrophedon, alternate lines run in opposite directions."
+  },
+  {
+   "q": "Which is an important component of the Harappan citadel?",
+   "o": [
+    "Chaitya hall",
+    "Great Bath",
+    "Stupa",
+    "Theatre"
+   ],
+   "a": 1,
+   "e": "The Great Bath and the Great Granary were found in the citadel of Mohenjodaro."
+  },
+  {
+   "q": "Where was the Great Bath found?",
+   "o": [
+    "Harappa",
+    "Lothal",
+    "Mohenjodaro",
+    "Kalibangan"
+   ],
+   "a": 2,
+   "e": "The Great Bath lay in the citadel of Mohenjodaro."
+  },
+  {
+   "q": "What was used to waterproof the Great Bath?",
+   "o": [
+    "Lime cement",
+    "Only mud",
+    "Iron sheets",
+    "Gypsum mortar (and bitumen)"
+   ],
+   "a": 3,
+   "e": "The Great Bath was about 12 m long, 7 m wide and 2.4 m deep."
+  },
+  {
+   "q": "What was the approximate size of the Great Bath?",
+   "o": [
+    "30 m × 20 m × 5 m",
+    "12 m × 7 m × 2.4 m",
+    "6 m × 3 m × 1 m",
+    "50 m × 25 m × 3 m"
+   ],
+   "a": 1,
+   "e": "Length 12 m, width 7 m, depth about 2.4 m."
+  },
+  {
+   "q": "Which statement about Harappan granaries is correct?",
+   "o": [
+    "The Great Granary was found at Kalibangan",
+    "Two rows of six granaries each were found at Mohenjodaro",
+    "At Harappa, each row had 6 granaries",
+    "The largest granary was found at Lothal"
+   ],
+   "a": 2,
+   "e": "Mohenjodaro had the Great Granary; Harappa had two rows of six granaries each."
+  },
+  {
+   "q": "In which state/district is Dholavira located?",
+   "o": [
+    "Bikaner, Rajasthan",
+    "Hisar, Haryana",
+    "Ropar, Punjab",
+    "Kutch district, Gujarat"
+   ],
+   "a": 3,
+   "e": "Dholavira is famous for its huge water reservoirs."
+  },
+  {
+   "q": "Who discovered Dholavira and who excavated it?",
+   "o": [
+    "Discovered by J.P. Joshi; excavated by R.S. Bisht",
+    "Discovered by R.S. Bisht; excavated by J.P. Joshi",
+    "Discovered by Daya Ram Sahni; excavated by Marshall",
+    "Discovered by S.R. Rao; excavated by R.D. Banerji"
+   ],
+   "a": 0,
+   "e": "J.P. Joshi discovered it (1967-68) and R.S. Bisht excavated it."
+  },
+  {
+   "q": "Which is true about Lothal?",
+   "o": [
+    "It is in the Chambal valley",
+    "It is the largest Harappan site",
+    "It was an ancient port (dockyard)",
+    "It is in Pakistan"
+   ],
+   "a": 2,
+   "e": "Lothal, in Gujarat, had a brick basin linked to an old river channel."
+  },
+  {
+   "q": "Who discovered Lothal?",
+   "o": [
+    "Daya Ram Sahni",
+    "R.D. Banerji",
+    "J.P. Joshi",
+    "S.R. Rao"
+   ],
+   "a": 3,
+   "e": "S.R. Rao discovered Lothal in 1954-55."
+  },
+  {
+   "q": "What type of burial practice was found at Lothal?",
+   "o": [
+    "Double burial - husband and wife buried together",
+    "Coffin burial",
+    "Only cremation",
+    "Water burial"
+   ],
+   "a": 0,
+   "e": "It is also called the 'Laila-Majnu' burial."
+  },
+  {
+   "q": "What is the strongest evidence of Lothal being a maritime trade centre?",
+   "o": [
+    "Discovery of seals",
+    "A brick basin (dockyard) linked to an old river channel",
+    "A bead-making workshop",
+    "Grain stores"
+   ],
+   "a": 1,
+   "e": "The basin indicates the movement of boats and ships."
+  },
+  {
+   "q": "At which sites were bead-making workshops found?",
+   "o": [
+    "Kalibangan, Ropar, Alamgirpur",
+    "Dholavira, Rakhigarhi, Surkotada",
+    "Mehrgarh, Mohenjodaro, Harappa",
+    "Chanhudaro, Balakot, Nageshwar"
+   ],
+   "a": 3,
+   "e": "Balakot and Chanhudaro are in Pakistan; Nageshwar is in Gujarat."
+  },
+  {
+   "q": "Evidence of a ploughed field was found at which site?",
+   "o": [
+    "Kalibangan",
+    "Lothal",
+    "Dholavira",
+    "Banawali"
+   ],
+   "a": 0,
+   "e": "Kalibangan lies on the Ghaggar river in Rajasthan."
+  },
+  {
+   "q": "On the bank of which river is Kalibangan located?",
+   "o": [
+    "Ravi",
+    "Ghaggar",
+    "Indus",
+    "Sutlej"
+   ],
+   "a": 1,
+   "e": "'Kalibangan' means black bangles; fire altars were also found here."
+  },
+  {
+   "q": "Which of these were found at Kalibangan?",
+   "o": [
+    "Great Bath",
+    "Dockyard",
+    "Ploughed field, fire altars, black bangles",
+    "Pashupati seal"
+   ],
+   "a": 2,
+   "e": "Kalibangan is in Hanumangarh district, Rajasthan."
+  },
+  {
+   "q": "Who discovered Harappa and when?",
+   "o": [
+    "Daya Ram Sahni, 1921",
+    "R.D. Banerji, 1922",
+    "S.R. Rao, 1954",
+    "John Marshall, 1900"
+   ],
+   "a": 0,
+   "e": "Harappa was the first site discovered, so the civilization is named after it."
+  },
+  {
+   "q": "Who discovered Mohenjodaro?",
+   "o": [
+    "Daya Ram Sahni",
+    "Rakhal Das Banerji (1922)",
+    "S.R. Rao",
+    "Mortimer Wheeler"
+   ],
+   "a": 1,
+   "e": "Mohenjodaro, on the Indus, is called the 'Mound of the Dead'."
+  },
+  {
+   "q": "On the bank of which river was Harappa located?",
+   "o": [
+    "Indus",
+    "Ghaggar",
+    "Ravi",
+    "Jhelum"
+   ],
+   "a": 2,
+   "e": "Mohenjodaro was on the Indus and Harappa on the Ravi."
+  },
+  {
+   "q": "Which site is called the 'Mound of the Dead'?",
+   "o": [
+    "Harappa",
+    "Lothal",
+    "Rakhigarhi",
+    "Mohenjodaro"
+   ],
+   "a": 3,
+   "e": "Mohenjodaro lies on the Indus in present-day Pakistan."
+  },
+  {
+   "q": "Which is the largest Harappan site in India?",
+   "o": [
+    "Dholavira",
+    "Rakhigarhi",
+    "Kalibangan",
+    "Lothal"
+   ],
+   "a": 1,
+   "e": "Rakhigarhi is in Hisar, Haryana; earlier Mohenjodaro was considered the largest."
+  },
+  {
+   "q": "In which state is Rakhigarhi?",
+   "o": [
+    "Rajasthan",
+    "Gujarat",
+    "Haryana",
+    "Punjab"
+   ],
+   "a": 2,
+   "e": "Terracotta wheels and toys were found at Rakhigarhi."
+  },
+  {
+   "q": "Who began a major archaeological-scientific study of Rakhigarhi in 2013?",
+   "o": [
+    "R.S. Bisht",
+    "J.P. Joshi",
+    "B.B. Lal",
+    "Vasant Shinde"
+   ],
+   "a": 3,
+   "e": "Vasant Shinde (Deccan College) led studies, including DNA analysis, at Rakhigarhi."
+  },
+  {
+   "q": "What is terracotta?",
+   "o": [
+    "Baked clay",
+    "A soft stone",
+    "A metal",
+    "Ivory"
+   ],
+   "a": 0,
+   "e": "Terracotta wheels and toys were found at Rakhigarhi."
+  },
+  {
+   "q": "What does the Chalcolithic period mean?",
+   "o": [
+    "Age of iron",
+    "Age of stone alone",
+    "Age of copper and stone tools",
+    "Age of bronze"
+   ],
+   "a": 2,
+   "e": "Copper was the first metal used for tools; the period is placed around 2000-1000 BC."
+  },
+  {
+   "q": "Which is considered the first metal used by humans for making tools?",
+   "o": [
+    "Iron",
+    "Bronze",
+    "Aluminium",
+    "Copper"
+   ],
+   "a": 3,
+   "e": "The Chalcolithic (copper-stone) Age is named after it."
+  },
+  {
+   "q": "From where was tin brought during the Harappan period?",
+   "o": [
+    "Afghanistan",
+    "Karnataka",
+    "Bihar",
+    "Tamil Nadu"
+   ],
+   "a": 0,
+   "e": "Copper came mainly from Khetri in Rajasthan."
+  },
+  {
+   "q": "From which region did the Harappans mainly obtain copper?",
+   "o": [
+    "Karnataka",
+    "Rajasthan",
+    "Assam",
+    "Kerala"
+   ],
+   "a": 1,
+   "e": "Khetri in Rajasthan was close by; the Ahar-Banas-Gilund culture was a Chalcolithic culture there."
+  },
+  {
+   "q": "Where did gold mainly come from in the Harappan period?",
+   "o": [
+    "Rajasthan",
+    "Bihar",
+    "Uttar Pradesh",
+    "Karnataka (Kolar)"
+   ],
+   "a": 3,
+   "e": "Gold came from the Kolar region of Karnataka."
+  },
+  {
+   "q": "Which is the largest Chalcolithic site of Maharashtra linked with Late Harappan sites?",
+   "o": [
+    "Daimabad",
+    "Chandoli",
+    "Inamgaon",
+    "Takwada"
+   ],
+   "a": 0,
+   "e": "Daimabad is the largest Chalcolithic site in Maharashtra."
+  },
+  {
+   "q": "What is the period of the Early Harappan phase?",
+   "o": [
+    "2600-1900 BC",
+    "About 3000-2600 BC",
+    "1900-1700 BC",
+    "1500-1000 BC"
+   ],
+   "a": 1,
+   "e": "The Mature phase is 2600-1900 BC and the Late phase 1900-1700 BC."
+  },
+  {
+   "q": "Which is considered the Mature Harappan period?",
+   "o": [
+    "3000-2600 BC",
+    "1900-1700 BC",
+    "About 2600-1900 BC",
+    "1000-500 BC"
+   ],
+   "a": 2,
+   "e": "It was followed by the Late Harappan phase (1900-1700 BC)."
+  },
+  {
+   "q": "What kind of economy did the Harappan Civilization mainly have?",
+   "o": [
+    "Based on agriculture and trade",
+    "Based on hunting and gathering",
+    "Spiritually centred",
+    "Purely pastoral"
+   ],
+   "a": 0,
+   "e": "Harappan seals have been found as far as Iraq, Oman and Bahrain."
+  },
+  {
+   "q": "Who were the first people in Eurasia to grow cotton?",
+   "o": [
+    "Vedic Aryans",
+    "Harappans",
+    "Greeks",
+    "Egyptians"
+   ],
+   "a": 1,
+   "e": "The Greeks called cotton 'sindon', a word linked to Sindhu."
+  },
+  {
+   "q": "The oldest evidence of cotton cultivation comes from which site?",
+   "o": [
+    "Harappa",
+    "Kalibangan",
+    "Mehrgarh",
+    "Rakhigarhi"
+   ],
+   "a": 2,
+   "e": "Mehrgarh (Pakistan) is the oldest Neolithic site in the Indian subcontinent."
+  },
+  {
+   "q": "By what name did the Mesopotamians know the Harappans?",
+   "o": [
+    "Dilmun",
+    "Magan",
+    "Akkad",
+    "Meluhha"
+   ],
+   "a": 3,
+   "e": "Mesopotamia is called the cradle of civilization."
+  },
+  {
+   "q": "Dilmun and Magan are identified with which present-day regions?",
+   "o": [
+    "Dilmun - Oman, Magan - Bahrain",
+    "Dilmun - Bahrain, Magan - Oman",
+    "Dilmun - Iran, Magan - Iraq",
+    "Dilmun - Kuwait, Magan - Yemen"
+   ],
+   "a": 1,
+   "e": "They were intermediate trading ports between Harappa and Mesopotamia."
+  },
+  {
+   "q": "Between which rivers did the Mesopotamian civilization develop?",
+   "o": [
+    "Nile and Congo",
+    "Indus and Ganga",
+    "Tigris and Euphrates",
+    "Huang He and Yangtze"
+   ],
+   "a": 2,
+   "e": "It was the civilization of ancient Iraq."
+  },
+  {
+   "q": "Which material was most used for making Harappan beads and seals?",
+   "o": [
+    "Gold",
+    "Ivory",
+    "Terracotta",
+    "Steatite"
+   ],
+   "a": 3,
+   "e": "Steatite (soapstone) is a very soft stone."
+  },
+  {
+   "q": "Which animal appears most commonly on Harappan seals?",
+   "o": [
+    "Unicorn (one-horned animal)",
+    "Horse",
+    "Peacock",
+    "Sparrow"
+   ],
+   "a": 0,
+   "e": "The unicorn is considered a mythical one-horned animal."
+  },
+  {
+   "q": "The mnemonic 'BETTER DEER' stands for which animals on the Pashupati (Proto-Shiva) seal?",
+   "o": [
+    "Cow, horse, goat, donkey",
+    "Lion, camel, peacock, swan",
+    "Buffalo, elephant, tiger, rhinoceros, deer",
+    "Snake, fish, monkey, dog"
+   ],
+   "a": 2,
+   "e": "B-buffalo, E-elephant, T-tiger, R-rhino, DEER-deer."
+  },
+  {
+   "q": "Where was the Pashupati (Proto-Shiva) seal found and what was it made of?",
+   "o": [
+    "Harappa; bronze",
+    "Lothal; terracotta",
+    "Kalibangan; copper",
+    "Mohenjodaro; steatite"
+   ],
+   "a": 3,
+   "e": "It shows a figure in a yogic posture surrounded by animals."
+  },
+  {
+   "q": "Which statement about the Harappans is incorrect?",
+   "o": [
+    "They used only gold",
+    "They used bronze",
+    "They used steatite for beads",
+    "They engaged in trade"
+   ],
+   "a": 0,
+   "e": "Extreme words like 'only' often make a statement false."
+  },
+  {
+   "q": "What is the colour of carnelian?",
+   "o": [
+    "Blue",
+    "Orange/red",
+    "Green",
+    "Black"
+   ],
+   "a": 1,
+   "e": "Carnelian was obtained from Gujarat."
+  },
+  {
+   "q": "What colour is lapis lazuli?",
+   "o": [
+    "Green",
+    "Orange",
+    "White",
+    "Blue"
+   ],
+   "a": 3,
+   "e": "It came from Shortugai and the Badakhshan region of Afghanistan."
+  },
+  {
+   "q": "From where did the Harappans get lapis lazuli?",
+   "o": [
+    "Shortugai/Badakhshan (Afghanistan)",
+    "Gujarat",
+    "Karnataka",
+    "Rajasthan"
+   ],
+   "a": 0,
+   "e": "Shortugai is a Harappan site in Afghanistan."
+  },
+  {
+   "q": "Which Harappan artefact is made of bronze?",
+   "o": [
+    "Priest-King statue",
+    "Dancing Girl",
+    "Pashupati seal",
+    "Mother Goddess figurine"
+   ],
+   "a": 1,
+   "e": "The Dancing Girl, from Mohenjodaro, is about 10.5 cm tall."
+  },
+  {
+   "q": "By which technique was the Dancing Girl made?",
+   "o": [
+    "Hammering technique",
+    "Levallois technique",
+    "Lost-wax technique",
+    "Casting without a mould"
+   ],
+   "a": 2,
+   "e": "It was cast by the lost-wax method and is kept in the National Museum, New Delhi."
+  },
+  {
+   "q": "Where is the Dancing Girl statue kept?",
+   "o": [
+    "National Museum, New Delhi",
+    "National Museum, Karachi",
+    "Lothal Museum",
+    "Kolkata Museum"
+   ],
+   "a": 0,
+   "e": "It was found at Mohenjodaro."
+  },
+  {
+   "q": "The Priest-King statue is made of which material?",
+   "o": [
+    "Bronze",
+    "Steatite",
+    "Terracotta",
+    "Sandstone"
+   ],
+   "a": 1,
+   "e": "Also called the 'Bearded Man', it was found at Mohenjodaro."
+  },
+  {
+   "q": "Where is the 'Bearded Man' statue kept now?",
+   "o": [
+    "National Museum, Delhi",
+    "British Museum",
+    "National Museum of Pakistan, Karachi",
+    "Lahore Fort"
+   ],
+   "a": 2,
+   "e": "It is the Priest-King statue found at Mohenjodaro."
+  },
+  {
+   "q": "The Mother Goddess (Earth Goddess) figure from Harappa was made of what and what does it depict?",
+   "o": [
+    "Bronze; yogic posture",
+    "Steatite; lion",
+    "Gold; elephant",
+    "Terracotta; a plant growing from the womb"
+   ],
+   "a": 3,
+   "e": "It is regarded as a symbol of the Earth Goddess and fertility."
+  },
+  {
+   "q": "The male torso found at Harappa is made of which material?",
+   "o": [
+    "Bronze",
+    "Red sandstone",
+    "Steatite",
+    "Gold"
+   ],
+   "a": 1,
+   "e": "It was found at Harappa, the site with two rows of six granaries."
+  },
+  {
+   "q": "Finding jewellery of precious metals in smaller towns supports which idea?",
+   "o": [
+    "Equality",
+    "Golden age",
+    "Social stratification (rich-poor divide)",
+    "Trade alone"
+   ],
+   "a": 2,
+   "e": "Jewellery indicates a society divided into classes."
+  },
+  {
+   "q": "What type of burial was found at Harappa?",
+   "o": [
+    "Double burial",
+    "Cremation",
+    "Urn burial",
+    "Coffin burial"
+   ],
+   "a": 3,
+   "e": "At Harappa, bodies were buried in wooden coffins."
+  },
+  {
+   "q": "Where was evidence of horse bones found in the Harappan Civilization?",
+   "o": [
+    "Surkotada",
+    "Lothal",
+    "Kalibangan",
+    "Ropar"
+   ],
+   "a": 0,
+   "e": "Horse remains were found at Surkotada (Gujarat), though not considered conclusive."
+  },
+  {
+   "q": "Surkotada is known for the bones of which animal?",
+   "o": [
+    "Elephant",
+    "Camel",
+    "Horse",
+    "Bull"
+   ],
+   "a": 2,
+   "e": "Surkotada is in the Kutch region."
+  },
+  {
+   "q": "Catalhoyuk is an ancient town in which country?",
+   "o": [
+    "Iraq",
+    "Iran",
+    "Egypt",
+    "Turkey"
+   ],
+   "a": 3,
+   "e": "It was an early Neolithic town settlement."
+  },
+  {
+   "q": "Which rivers form the 'Sapta Sindhu' region settled by the Vedic Aryans?",
+   "o": [
+    "Indus, its five tributaries (Jhelum, Chenab, Ravi, Beas, Sutlej) and Saraswati",
+    "Ganga and Yamuna",
+    "Narmada and Tapti",
+    "Krishna and Kaveri"
+   ],
+   "a": 0,
+   "e": "Sapta Sindhu means the land of seven rivers."
+  },
+  {
+   "q": "Which inscription from Turkey supports the arrival of Vedic Aryans from Central Asia?",
+   "o": [
+    "Hathigumpha inscription",
+    "Boghazkoi inscription",
+    "Junagadh inscription",
+    "Prayag Prashasti"
+   ],
+   "a": 1,
+   "e": "It names Vedic gods such as Indra, Varuna, Mitra and the Nasatyas."
+  },
+  {
+   "q": "Into how many parts is the Stone Age divided?",
+   "o": [
+    "Two",
+    "Four",
+    "Five",
+    "Three - Palaeolithic, Mesolithic, Neolithic"
+   ],
+   "a": 3,
+   "e": "Palaeo = old, Meso = middle, Neo = new Stone Age."
+  },
+  {
+   "q": "What is the main identifying feature of the Mesolithic period?",
+   "o": [
+    "Microliths (tiny stone tools)",
+    "Hand axes",
+    "Iron ploughs",
+    "Bronze tools"
+   ],
+   "a": 0,
+   "e": "Micro = small, lith = stone."
+  },
+  {
+   "q": "What kind of people lived in the Mesolithic period?",
+   "o": [
+    "Only farmers",
+    "Hunters and herders",
+    "Only hunter-gatherers",
+    "Traders"
+   ],
+   "a": 1,
+   "e": "Palaeolithic people were hunter-gatherers and Neolithic people were farmers."
+  },
+  {
+   "q": "Who classified the past into the three ages (Stone, Bronze, Iron)?",
+   "o": [
+    "John Marshall",
+    "Cunningham",
+    "C.J. Thomsen",
+    "Mortimer Wheeler"
+   ],
+   "a": 2,
+   "e": "Christian Jurgensen Thomsen was a Danish archaeologist."
+  },
+  {
+   "q": "In ancient India, the Iron Age is associated with which period?",
+   "o": [
+    "Later Vedic period",
+    "Harappan period",
+    "Early Vedic period",
+    "Neolithic period"
+   ],
+   "a": 0,
+   "e": "Harappan and Rigvedic people did not know iron."
+  },
+  {
+   "q": "Till about when did the Palaeolithic period last?",
+   "o": [
+    "Till 5000 BC",
+    "Till about 10,000 BC",
+    "Till 2500 BC",
+    "Till 1000 BC"
+   ],
+   "a": 1,
+   "e": "The Mesolithic is dated c. 10,000-8,000 BC (some say 10,000-7,000 BC)."
+  },
+  {
+   "q": "Into how many sub-phases is the Palaeolithic period divided?",
+   "o": [
+    "Two",
+    "Four",
+    "Three - Lower, Middle, Upper",
+    "Five"
+   ],
+   "a": 2,
+   "e": "The Palaeolithic is the only Stone Age phase divided into three parts."
+  },
+  {
+   "q": "What were the main tools of the Lower Palaeolithic period?",
+   "o": [
+    "Flakes",
+    "Blades and burins",
+    "Microliths",
+    "Hand axes and cleavers"
+   ],
+   "a": 3,
+   "e": "It is also called the Acheulian phase."
+  },
+  {
+   "q": "Tools of which technique were made in the Middle Palaeolithic period?",
+   "o": [
+    "Blade technique",
+    "Flake / Levallois technique",
+    "Hand axes",
+    "Iron ploughs"
+   ],
+   "a": 1,
+   "e": "Sharp-edged flakes were struck off stone cores."
+  },
+  {
+   "q": "What is a feature of the Upper Palaeolithic period?",
+   "o": [
+    "Hand axes",
+    "Microliths",
+    "Blade and burin tools",
+    "Bronze weapons"
+   ],
+   "a": 2,
+   "e": "Modern Homo sapiens became active in this period."
+  },
+  {
+   "q": "Which human species is associated with the Upper Palaeolithic period?",
+   "o": [
+    "Homo erectus",
+    "Neanderthal",
+    "Homo habilis",
+    "Modern Homo sapiens"
+   ],
+   "a": 3,
+   "e": "Modern Homo sapiens spread across the world."
+  },
+  {
+   "q": "Where was a Homo erectus skull found in India?",
+   "o": [
+    "Hathnora (Narmada valley)",
+    "Bhimbetka",
+    "Adamgarh",
+    "Attirampakkam"
+   ],
+   "a": 0,
+   "e": "Hathnora is on the Narmada in Madhya Pradesh."
+  },
+  {
+   "q": "The 'Acheulian' phase refers to which period?",
+   "o": [
+    "Middle Palaeolithic",
+    "Upper Palaeolithic",
+    "Lower Palaeolithic",
+    "Mesolithic"
+   ],
+   "a": 2,
+   "e": "Large stone tools and hand axes were used in this phase."
+  },
+  {
+   "q": "The oldest evidence of stone tools in India comes from which site?",
+   "o": [
+    "Mehrgarh",
+    "Lothal",
+    "Hunsgi",
+    "Attirampakkam"
+   ],
+   "a": 3,
+   "e": "Attirampakkam in Tamil Nadu has Acheulian tools about 1.5 million years old."
+  },
+  {
+   "q": "In which state is Attirampakkam?",
+   "o": [
+    "Tamil Nadu",
+    "Karnataka",
+    "Maharashtra",
+    "Andhra Pradesh"
+   ],
+   "a": 0,
+   "e": "It is a Lower and Middle Palaeolithic site near Chennai; animal footprints were also found."
+  },
+  {
+   "q": "Who discovered Bhimbetka?",
+   "o": [
+    "S.R. Rao",
+    "V.S. Wakankar",
+    "R.D. Banerji",
+    "B.B. Lal"
+   ],
+   "a": 1,
+   "e": "Wakankar discovered it in 1957 while travelling from Bhopal to Itarsi."
+  },
+  {
+   "q": "In which state is Bhimbetka located?",
+   "o": [
+    "Rajasthan",
+    "Gujarat",
+    "Uttar Pradesh",
+    "Madhya Pradesh"
+   ],
+   "a": 3,
+   "e": "It lies about 45 km south-east of Bhopal and has rock shelters with cave paintings."
+  },
+  {
+   "q": "Adamgarh provides evidence of the domestication of what?",
+   "o": [
+    "Animals",
+    "Wheat",
+    "Cotton",
+    "Rice"
+   ],
+   "a": 0,
+   "e": "Adamgarh (MP) and Bagor (Rajasthan) give the earliest evidence of animal domestication."
+  },
+  {
+   "q": "Where is the Mesolithic site of Bagor located?",
+   "o": [
+    "Madhya Pradesh",
+    "Rajasthan",
+    "Gujarat",
+    "Bihar"
+   ],
+   "a": 1,
+   "e": "Evidence of animal rearing has been found at Bagor."
+  },
+  {
+   "q": "Which famous Mesolithic site is in Mehsana, Gujarat?",
+   "o": [
+    "Lothal",
+    "Dholavira",
+    "Langhnaj",
+    "Rangpur"
+   ],
+   "a": 2,
+   "e": "Langhnaj is in Mehsana district."
+  },
+  {
+   "q": "In the pottery mnemonic 'BOPN', what does B stand for?",
+   "o": [
+    "Black and Red Ware (BRW)",
+    "Ochre Coloured Pottery",
+    "Painted Grey Ware",
+    "Northern Black Polished Ware"
+   ],
+   "a": 0,
+   "e": "B-BRW, O-OCP, P-PGW, N-NBPW."
+  },
+  {
+   "q": "Painted Grey Ware (PGW) is associated with which period?",
+   "o": [
+    "Harappan period",
+    "Later Vedic period (Iron Age)",
+    "Mahajanapada period",
+    "Neolithic period"
+   ],
+   "a": 1,
+   "e": "PGW is linked to the iron-using Later Vedic period."
+  },
+  {
+   "q": "Northern Black Polished Ware (NBPW) is the hallmark of which period?",
+   "o": [
+    "Harappan period",
+    "Rigvedic period",
+    "Mahajanapada period",
+    "Palaeolithic period"
+   ],
+   "a": 2,
+   "e": "Sequence: Harappan, Early Vedic, Later Vedic, Mahajanapada (BOPN)."
+  },
+  {
+   "q": "What is a feature of the Neolithic period?",
+   "o": [
+    "Only hunting",
+    "Use of iron",
+    "Urbanisation",
+    "Beginning of agriculture and pottery"
+   ],
+   "a": 3,
+   "e": "Cord-impressed pottery is also found in this period."
+  },
+  {
+   "q": "What Neolithic evidence has been found at Chirand (Bihar)?",
+   "o": [
+    "Iron ploughs",
+    "Bone tools",
+    "Bronze statue",
+    "Gold ornaments"
+   ],
+   "a": 1,
+   "e": "Chirand is near Patna."
+  },
+  {
+   "q": "What is the literal meaning of Burzahom?",
+   "o": [
+    "Cave",
+    "Pond",
+    "Place of birch",
+    "Hill"
+   ],
+   "a": 2,
+   "e": "Burzahom and Gufkral (potter's cave) are in Jammu and Kashmir."
+  },
+  {
+   "q": "What is the literal meaning of Gufkral?",
+   "o": [
+    "Place of birch",
+    "City of stone",
+    "River bank",
+    "Cave of the potter"
+   ],
+   "a": 3,
+   "e": "It is a Neolithic site in Jammu and Kashmir."
+  },
+  {
+   "q": "Where did people live at Burzahom and Gufkral?",
+   "o": [
+    "In pit dwellings",
+    "In grand palaces",
+    "On trees",
+    "In burnt-brick houses"
+   ],
+   "a": 0,
+   "e": "Evidence of dogs buried with their masters was also found here."
+  },
+  {
+   "q": "Which is the oldest Neolithic settlement in the Indian subcontinent?",
+   "o": [
+    "Chirand",
+    "Koldihwa",
+    "Mehrgarh",
+    "Sanganakallu"
+   ],
+   "a": 2,
+   "e": "Mehrgarh is in Balochistan, Pakistan."
+  },
+  {
+   "q": "In which state is Koldihwa?",
+   "o": [
+    "Bihar",
+    "Karnataka",
+    "Rajasthan",
+    "Uttar Pradesh"
+   ],
+   "a": 3,
+   "e": "Koldihwa is a Neolithic site."
+  },
+  {
+   "q": "In which state is Sanganakallu located?",
+   "o": [
+    "Karnataka",
+    "Tamil Nadu",
+    "Kerala",
+    "Andhra Pradesh"
+   ],
+   "a": 0,
+   "e": "Sanganakallu is a Neolithic site."
+  },
+  {
+   "q": "What evidence was found in the Kurnool caves?",
+   "o": [
+    "Ostrich eggs",
+    "Ash remains",
+    "Bone tools",
+    "Copper tools"
+   ],
+   "a": 1,
+   "e": "Kurnool is in Andhra Pradesh."
+  },
+  {
+   "q": "What evidence was found at Patne in Maharashtra?",
+   "o": [
+    "Ash",
+    "Dog bones",
+    "Horse bones",
+    "Ostrich eggshells"
+   ],
+   "a": 3,
+   "e": "Patne is an Upper Palaeolithic site known for engraved ostrich eggshells."
+  },
+  {
+   "q": "In which state is the Lower Palaeolithic site of Bori?",
+   "o": [
+    "Maharashtra",
+    "Rajasthan",
+    "Punjab",
+    "Madhya Pradesh"
+   ],
+   "a": 0,
+   "e": "Son valley, Belan valley, Didwana, Hunsgi and Pahalgam are also Lower Palaeolithic sites."
+  },
+  {
+   "q": "Where is the Belan valley located?",
+   "o": [
+    "Rajasthan",
+    "Around Mirzapur (Uttar Pradesh)",
+    "Karnataka",
+    "Punjab"
+   ],
+   "a": 1,
+   "e": "Didwana is in Rajasthan and Hunsgi in Karnataka."
+  },
+  {
+   "q": "In which state is Didwana?",
+   "o": [
+    "Gujarat",
+    "Punjab",
+    "Rajasthan",
+    "Bihar"
+   ],
+   "a": 2,
+   "e": "Didwana has both Lower and Upper Palaeolithic remains."
+  },
+  {
+   "q": "The Ahar-Banas Chalcolithic culture belongs to which state?",
+   "o": [
+    "Rajasthan",
+    "Madhya Pradesh",
+    "Maharashtra",
+    "Gujarat"
+   ],
+   "a": 0,
+   "e": "Ganeshwar-Jodhpura and Gilund are also in Rajasthan."
+  },
+  {
+   "q": "Kayatha, Malwa and Eran are Chalcolithic cultures of which state?",
+   "o": [
+    "Rajasthan",
+    "Madhya Pradesh",
+    "Maharashtra",
+    "Bihar"
+   ],
+   "a": 1,
+   "e": "Maharashtra has the Jorwe culture (Daimabad is its largest site)."
+  },
+  {
+   "q": "In which state is the Chalcolithic Jorwe culture found?",
+   "o": [
+    "Rajasthan",
+    "Madhya Pradesh",
+    "Maharashtra",
+    "Uttar Pradesh"
+   ],
+   "a": 2,
+   "e": "Jorwe is the type site and Daimabad the largest site."
+  },
+  {
+   "q": "Nagda (Malwa region) is located near which river?",
+   "o": [
+    "Narmada",
+    "Ganga",
+    "Kaveri",
+    "Chambal"
+   ],
+   "a": 3,
+   "e": "Nagda is in Madhya Pradesh."
+  },
+  {
+   "q": "What is the period of the Early (Rigvedic) Vedic Age?",
+   "o": [
+    "1000-500 BC",
+    "1500-1000 BC",
+    "2500-1750 BC",
+    "600-300 BC"
+   ],
+   "a": 1,
+   "e": "The Rigveda was composed in this period."
+  },
+  {
+   "q": "What is the period of the Later Vedic Age?",
+   "o": [
+    "1500-1000 BC",
+    "2500-1750 BC",
+    "1000-500 BC",
+    "500-200 BC"
+   ],
+   "a": 2,
+   "e": "The Samaveda, Yajurveda and Atharvaveda were compiled in this period."
+  },
+  {
+   "q": "What was the economy of Early Vedic society mainly like?",
+   "o": [
+    "Purely agricultural",
+    "Industrial",
+    "Trade-based urban",
+    "Pastoral"
+   ],
+   "a": 3,
+   "e": "Agriculture became dominant in the Later Vedic period after the use of iron."
+  },
+  {
+   "q": "What was the main reason for the expansion of agriculture in the Later Vedic period?",
+   "o": [
+    "Use of iron",
+    "Discovery of copper",
+    "Use of bronze",
+    "Use of coins"
+   ],
+   "a": 0,
+   "e": "Iron ploughshares and axes boosted agriculture."
+  },
+  {
+   "q": "How did the status of women change from the Early to the Later Vedic period?",
+   "o": [
+    "It improved",
+    "No change",
+    "It began to decline",
+    "They got more rights in the Sabha"
+   ],
+   "a": 2,
+   "e": "In the Later Vedic period women were excluded from the Sabha and Samiti."
+  },
+  {
+   "q": "What was the basis of the varna system in the Early Vedic period?",
+   "o": [
+    "Birth",
+    "Property",
+    "Religion",
+    "Occupation/deeds"
+   ],
+   "a": 3,
+   "e": "In the Later Vedic period varna became hereditary and rigid."
+  },
+  {
+   "q": "What did the varna system become in the Later Vedic period?",
+   "o": [
+    "Hereditary and rigid",
+    "Flexible and occupation-based",
+    "Abolished",
+    "Limited to two varnas"
+   ],
+   "a": 0,
+   "e": "Growing rituals and Brahmin dominance led to the rise of Jainism and Buddhism."
+  },
+  {
+   "q": "What was one reason for the rise of Jainism and Buddhism?",
+   "o": [
+    "Shortage of iron",
+    "Complex rituals and rigid varna system of the Later Vedic period",
+    "Foreign invasions",
+    "Lack of coins"
+   ],
+   "a": 1,
+   "e": "Vaishyas and Shudras were drawn to these new religions."
+  },
+  {
+   "q": "In which period was the Rigveda compiled?",
+   "o": [
+    "Later Vedic period",
+    "Harappan period",
+    "Mauryan period",
+    "Early Vedic period"
+   ],
+   "a": 3,
+   "e": "Hence the Early Vedic period is also called the Rigvedic period."
+  },
+  {
+   "q": "In which period were the Samaveda, Yajurveda and Atharvaveda compiled?",
+   "o": [
+    "Later Vedic period",
+    "Early Vedic period",
+    "Harappan period",
+    "Gupta period"
+   ],
+   "a": 0,
+   "e": "Apart from the Rigveda, the other three Vedas were compiled in the Later Vedic period."
+  },
+  {
+   "q": "Which is called the Veda of music?",
+   "o": [
+    "Rigveda",
+    "Samaveda",
+    "Yajurveda",
+    "Atharvaveda"
+   ],
+   "a": 1,
+   "e": "The Samaveda is regarded as the oldest text on music."
+  },
+  {
+   "q": "What is the subject matter of the Yajurveda?",
+   "o": [
+    "Magic and charms",
+    "Music",
+    "Sacrificial rituals and prayers (mantras)",
+    "War strategy"
+   ],
+   "a": 2,
+   "e": "The Yajurveda has two parts - Shukla (white) and Krishna (black)."
+  },
+  {
+   "q": "What does the Atharvaveda mainly contain?",
+   "o": [
+    "Magic spells and charms",
+    "Music",
+    "Sacrificial procedures",
+    "Descriptions of war"
+   ],
+   "a": 0,
+   "e": "It contains charms and spells for curing diseases."
+  },
+  {
+   "q": "Into how many parts is the Yajurveda divided?",
+   "o": [
+    "Three",
+    "Two - Shukla and Krishna",
+    "Four",
+    "One"
+   ],
+   "a": 1,
+   "e": "The Shukla Yajurveda is pure; the Krishna Yajurveda is mixed with prose commentary."
+  },
+  {
+   "q": "Which is the oldest of the Vedas?",
+   "o": [
+    "Samaveda",
+    "Yajurveda",
+    "Rigveda",
+    "Atharvaveda"
+   ],
+   "a": 2,
+   "e": "The Rigveda has 1028 hymns and about 10,600 verses."
+  },
+  {
+   "q": "How many hymns (suktas) are there in the Rigveda?",
+   "o": [
+    "1500",
+    "600",
+    "2000",
+    "1028"
+   ],
+   "a": 3,
+   "e": "The Rigveda is a collection of about 10,600 verses."
+  },
+  {
+   "q": "How many mandalas are there in the Rigveda?",
+   "o": [
+    "8",
+    "10",
+    "12",
+    "7"
+   ],
+   "a": 1,
+   "e": "Mandalas 2 to 7 are the oldest (family books); 1, 8, 9 and 10 are later."
+  },
+  {
+   "q": "Which mandalas of the Rigveda are considered the oldest?",
+   "o": [
+    "First and tenth",
+    "Eighth and ninth",
+    "Second to seventh",
+    "First to third"
+   ],
+   "a": 2,
+   "e": "Mandalas 1, 8, 9 and 10 were added later."
+  },
+  {
+   "q": "What is the priest who recites the hymns of the Rigveda called?",
+   "o": [
+    "Adhvaryu",
+    "Udgata",
+    "Brahma",
+    "Hotri"
+   ],
+   "a": 3,
+   "e": "The Hotri recited the Rigvedic hymns."
+  },
+  {
+   "q": "In which mandala of the Rigveda is the Gayatri Mantra found?",
+   "o": [
+    "Third",
+    "First",
+    "Seventh",
+    "Tenth"
+   ],
+   "a": 0,
+   "e": "It was composed by Vishwamitra in praise of the sun god Savitr."
+  },
+  {
+   "q": "Who composed the Gayatri Mantra?",
+   "o": [
+    "Vashishtha",
+    "Valmiki",
+    "Vishwamitra",
+    "Vyasa"
+   ],
+   "a": 2,
+   "e": "It is in the third mandala and is addressed to Savitr."
+  },
+  {
+   "q": "Which battle is described in the seventh mandala of the Rigveda?",
+   "o": [
+    "Mahabharata",
+    "Kalinga War",
+    "Battle of the Hydaspes",
+    "Battle of Ten Kings (Dasarajna)"
+   ],
+   "a": 3,
+   "e": "Sudas, king of the Bharatas, defeated a confederacy of ten kings."
+  },
+  {
+   "q": "Who was the victorious king of the Bharatas in the Battle of Ten Kings?",
+   "o": [
+    "Sudas",
+    "Divodasa",
+    "Purukutsa",
+    "Trasadasyu"
+   ],
+   "a": 0,
+   "e": "Sudas defeated a confederacy of ten kings."
+  },
+  {
+   "q": "On the bank of which river was the Battle of Ten Kings fought?",
+   "o": [
+    "Saraswati",
+    "Parushni (Ravi)",
+    "Ganga",
+    "Indus"
+   ],
+   "a": 1,
+   "e": "Parushni is the Vedic name of the Ravi."
+  },
+  {
+   "q": "Which deity is described in the ninth mandala of the Rigveda?",
+   "o": [
+    "Indra",
+    "Agni",
+    "Varuna",
+    "Soma (god of plants)"
+   ],
+   "a": 3,
+   "e": "It also describes the Soma drink."
+  },
+  {
+   "q": "In which mandala of the Rigveda is the Purusha Sukta found?",
+   "o": [
+    "Tenth",
+    "First",
+    "Third",
+    "Ninth"
+   ],
+   "a": 0,
+   "e": "It describes the origin of the four varnas."
+  },
+  {
+   "q": "According to the Purusha Sukta, Brahmins emerged from which part of the Cosmic Being?",
+   "o": [
+    "Arms",
+    "Mouth",
+    "Thighs",
+    "Feet"
+   ],
+   "a": 1,
+   "e": "Kshatriyas came from the arms, Vaishyas from the thighs and Shudras from the feet."
+  },
+  {
+   "q": "According to the Purusha Sukta, Shudras emerged from which part?",
+   "o": [
+    "Mouth",
+    "Arms",
+    "Feet",
+    "Thighs"
+   ],
+   "a": 2,
+   "e": "Kshatriyas - arms, Vaishyas - thighs."
+  },
+  {
+   "q": "By what other name was Indra known in the Rigveda?",
+   "o": [
+    "Purandara",
+    "Varuna",
+    "Agni",
+    "Soma"
+   ],
+   "a": 0,
+   "e": "Purandara means 'destroyer of forts'."
+  },
+  {
+   "q": "In the Rigveda, Varuna is regarded as the god of what?",
+   "o": [
+    "Fire",
+    "Rita (cosmic/moral order)",
+    "Rain",
+    "Sun"
+   ],
+   "a": 1,
+   "e": "Agni is the god of fire and Soma the god of plants."
+  },
+  {
+   "q": "What is Aditi regarded as in the Rigveda?",
+   "o": [
+    "Friend of Usha",
+    "Goddess of rain",
+    "Mother of the gods",
+    "Earth goddess"
+   ],
+   "a": 2,
+   "e": "Aditi is regarded as the mother of the gods."
+  },
+  {
+   "q": "Usha is the goddess of what in the Rigveda?",
+   "o": [
+    "Night",
+    "Earth",
+    "Food",
+    "Dawn"
+   ],
+   "a": 3,
+   "e": "Usha is the goddess of the time before sunrise."
+  },
+  {
+   "q": "In the Rigvedic period, the terms 'Arya' and 'Dasa/Dasyu' referred to whom?",
+   "o": [
+    "King and subjects",
+    "Vedic people and non-Vedic people",
+    "Brahmins and Shudras",
+    "Traders and farmers"
+   ],
+   "a": 1,
+   "e": "Dasas/Dasyus are described as enemies or subjects of the Aryas."
+  },
+  {
+   "q": "What was the head of the household called in the Vedic period?",
+   "o": [
+    "Gopati",
+    "Rajan",
+    "Grihapati",
+    "Gramani"
+   ],
+   "a": 2,
+   "e": "The warrior-ruler was called Rajan."
+  },
+  {
+   "q": "Who was called 'Gomat' in the Rigvedic period?",
+   "o": [
+    "Protector of cows",
+    "Woman who milks cows",
+    "War leader",
+    "A wealthy person owning many cows"
+   ],
+   "a": 3,
+   "e": "Gopala was the protector/herder of cows."
+  },
+  {
+   "q": "What does 'Gavishti' mean in the Rigvedic period?",
+   "o": [
+    "War for cows",
+    "Milking cows",
+    "Worship of cows",
+    "Gift of cows"
+   ],
+   "a": 0,
+   "e": "Cattle were the measure of wealth in the Rigvedic period."
+  },
+  {
+   "q": "What was the Vedic meaning of the word 'Duhitri'?",
+   "o": [
+    "Cowherd",
+    "Warrior",
+    "One who milks cows (daughter)",
+    "Priest"
+   ],
+   "a": 2,
+   "e": "The word is related to 'duhita', meaning daughter."
+  },
+  {
+   "q": "What did 'Gopala' mean in the Vedic period?",
+   "o": [
+    "A wealthy person",
+    "King",
+    "Priest",
+    "Protector/herder of cows"
+   ],
+   "a": 3,
+   "e": "Gomat was a wealthy person."
+  },
+  {
+   "q": "What are the four subdivisions of Vedic literature?",
+   "o": [
+    "Samhita, Brahmana, Aranyaka, Upanishad",
+    "Sutra, Smriti, Purana, Gatha",
+    "Rik, Sama, Yajus, Atharva",
+    "Shiksha, Kalpa, Nirukta, Chhanda"
+   ],
+   "a": 0,
+   "e": "The Samhita is the collection of mantras."
+  },
+  {
+   "q": "What do the Brahmana texts mainly contain?",
+   "o": [
+    "Rules for forest hermits",
+    "Procedures of sacrifices and rituals",
+    "Philosophical thought",
+    "Collection of mantras"
+   ],
+   "a": 1,
+   "e": "Samhita - collection of mantras; Aranyaka - for forest-dwelling hermits."
+  },
+  {
+   "q": "For whom were the Aranyakas composed?",
+   "o": [
+    "Kings",
+    "Farmers",
+    "Traders",
+    "Hermits living in forests"
+   ],
+   "a": 3,
+   "e": "The Aranyakas describe rituals to be performed while living in the forest."
+  },
+  {
+   "q": "What is called 'Vedanta'?",
+   "o": [
+    "The Upanishads",
+    "The Aranyakas",
+    "The Brahmanas",
+    "The Puranas"
+   ],
+   "a": 0,
+   "e": "The Upanishads come at the end of the Vedas, hence 'Vedanta'."
+  },
+  {
+   "q": "How many Vedangas are there?",
+   "o": [
+    "Four",
+    "Six",
+    "Eight",
+    "Ten"
+   ],
+   "a": 1,
+   "e": "Shiksha, Kalpa, Vyakarana, Nirukta, Chhanda and Jyotisha."
+  },
+  {
+   "q": "The Vedanga 'Shiksha' is the study of what?",
+   "o": [
+    "Grammar",
+    "Metre",
+    "Phonetics",
+    "Etymology"
+   ],
+   "a": 2,
+   "e": "Shiksha deals with correct pronunciation and accent."
+  },
+  {
+   "q": "The Vedanga 'Nirukta' is the study of what?",
+   "o": [
+    "Etymology",
+    "Phonetics",
+    "Poetic metre",
+    "Rituals"
+   ],
+   "a": 0,
+   "e": "Vyakarana is the study of the rules of language (grammar)."
+  },
+  {
+   "q": "The Vedanga 'Chhanda' is related to what?",
+   "o": [
+    "Astronomy",
+    "Poetic metre",
+    "Grammar",
+    "Rituals"
+   ],
+   "a": 1,
+   "e": "Kalpa is the science of rituals."
+  },
+  {
+   "q": "The Vedanga 'Kalpa' is the study of what?",
+   "o": [
+    "Astronomy",
+    "Etymology",
+    "Ritual procedures",
+    "Metre"
+   ],
+   "a": 2,
+   "e": "Jyotisha is the science of astronomy and timekeeping."
+  },
+  {
+   "q": "Which Upanishad first mentions the four ashramas?",
+   "o": [
+    "Katha Upanishad",
+    "Mundaka Upanishad",
+    "Chhandogya Upanishad",
+    "Jabala Upanishad"
+   ],
+   "a": 3,
+   "e": "The Jabala Upanishad belongs to the Shukla Yajurveda."
+  },
+  {
+   "q": "What is the correct order of the ashrama system?",
+   "o": [
+    "Grihastha, Brahmacharya, Sannyasa, Vanaprastha",
+    "Brahmacharya, Grihastha, Vanaprastha, Sannyasa",
+    "Brahmacharya, Vanaprastha, Grihastha, Sannyasa",
+    "Sannyasa, Grihastha, Vanaprastha, Brahmacharya"
+   ],
+   "a": 1,
+   "e": "Brahmacharya for the first 25 years, then Grihastha from 25 to 50."
+  },
+  {
+   "q": "In which Upanishad is the dialogue between Yama and Nachiketa found?",
+   "o": [
+    "Mundaka Upanishad",
+    "Jabala Upanishad",
+    "Katha Upanishad",
+    "Isha Upanishad"
+   ],
+   "a": 2,
+   "e": "The Katha Upanishad belongs to the Krishna Yajurveda."
+  },
+  {
+   "q": "From which Upanishad is 'Satyameva Jayate' taken?",
+   "o": [
+    "Katha Upanishad",
+    "Chhandogya Upanishad",
+    "Prashna Upanishad",
+    "Mundaka Upanishad"
+   ],
+   "a": 3,
+   "e": "The Mundaka Upanishad belongs to the Atharvaveda."
+  },
+  {
+   "q": "What was the 'Sabha' in the Vedic period?",
+   "o": [
+    "Assembly of learned/elite people",
+    "Assembly of common people",
+    "Assembly of women",
+    "Assembly of soldiers"
+   ],
+   "a": 0,
+   "e": "The 'Samiti' was the assembly of the common people."
+  },
+  {
+   "q": "What was the 'Samiti' in the Vedic period?",
+   "o": [
+    "Assembly of learned Brahmins",
+    "Assembly of generals",
+    "Assembly of the common people",
+    "King's council of ministers"
+   ],
+   "a": 2,
+   "e": "Women's participation was stopped in the Later Vedic period."
+  },
+  {
+   "q": "What was wheat called in the Vedic period?",
+   "o": [
+    "Vrihi",
+    "Yava",
+    "Masha",
+    "Godhuma"
+   ],
+   "a": 3,
+   "e": "Godhuma = wheat."
+  },
+  {
+   "q": "What was rice called in the Vedic period?",
+   "o": [
+    "Vrihi",
+    "Godhuma",
+    "Yava",
+    "Tila"
+   ],
+   "a": 0,
+   "e": "Rice was called Vrihi."
+  },
+  {
+   "q": "What was barley called in the Vedic period?",
+   "o": [
+    "Godhuma",
+    "Yava",
+    "Vrihi",
+    "Masha"
+   ],
+   "a": 1,
+   "e": "The Vedic name for barley is Yava."
+  },
+  {
+   "q": "What are the three primary accents of Vedic mantras?",
+   "o": [
+    "Mandrata, Udatta, Svarita",
+    "Anudatta, Mandrata, Tara",
+    "Udatta, Madhyama, Tara",
+    "Udatta, Anudatta, Svarita"
+   ],
+   "a": 3,
+   "e": "Udatta is high, Anudatta low and Svarita a combined (falling) accent."
+  },
+  {
+   "q": "What does the 'Anudatta' accent mean?",
+   "o": [
+    "Low tone",
+    "High tone",
+    "Combined tone",
+    "Middle tone"
+   ],
+   "a": 0,
+   "e": "Udatta is the high tone and Svarita the combined tone."
+  },
+  {
+   "q": "Gandharvaveda is the Upaveda related to what?",
+   "o": [
+    "Medicine",
+    "Music",
+    "Architecture",
+    "Archery"
+   ],
+   "a": 1,
+   "e": "Ayurveda is the Upaveda of medicine, and Shilpa/Sthapatya Veda of architecture and arts."
+  },
+  {
+   "q": "What is another name for Shilpa Veda?",
+   "o": [
+    "Gandharva Veda",
+    "Ayurveda",
+    "Sthapatya Veda",
+    "Dhanurveda"
+   ],
+   "a": 2,
+   "e": "It deals with architecture, arts and crafts."
+  },
+  {
+   "q": "Which animal came to be used more in agriculture in the Later Vedic period?",
+   "o": [
+    "Ox (bullock)",
+    "Horse",
+    "Camel",
+    "Elephant"
+   ],
+   "a": 0,
+   "e": "Heavy ploughs were drawn by teams of oxen in the Later Vedic period."
+  },
+  {
+   "q": "Why did Palaeolithic people move from place to place? Which of the following was NOT a reason?",
+   "o": [
+    "Scarcity of resources",
+    "Crop failure",
+    "Migration of hunted animals",
+    "Change of seasons"
+   ],
+   "a": 1,
+   "e": "Farming began only in the Neolithic, so crop failure could not be a Palaeolithic reason."
+  }
+ ]
+}

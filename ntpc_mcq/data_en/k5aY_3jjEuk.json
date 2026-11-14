@@ -1,0 +1,1979 @@
+{
+ "title": "Polity Lec 2",
+ "summary": [
+  "DPSPs are in Part IV (Articles 36-51), inspired by Ireland; non-justiciable but fundamental in governance (Article 37).",
+  "DPSPs aim at social and economic democracy (a 'novel feature' - Ambedkar); Fundamental Rights establish political democracy and are negative obligations, DPSPs are positive obligations.",
+  "The Socialist/Gandhian/Liberal-Intellectual classification is not written in the Constitution.",
+  "Article 39(a)-(f): livelihood, distribution of resources, preventing concentration of wealth, equal pay, workers' health, child development - trick 'LDC goes to PHC'.",
+  "Article 40 panchayats, 41 work/public assistance, 42 work conditions and maternity relief, 43 living wage/cottage industries, 44 UCC, 45 early childhood care, 46 SC/ST, 47 prohibition/nutrition, 48 agriculture and animal husbandry, 48A environment, 49 monuments, 50 separation of judiciary from executive, 51 international peace.",
+  "The 42nd Amendment (1976) added 4 DPSPs: 39A, 39(f), 43A, 48A; the 44th added 38(2); the 97th added 43B; the 86th changed the subject of Article 45.",
+  "Uttarakhand is the first state to implement a UCC; Goa follows the Portuguese Civil Code of 1867.",
+  "FR vs DPSP: Champakam (1951) FR supreme; Golaknath 1967; 24th and 25th (Art. 31C) Amendments 1971; Kesavananda 1973 basic structure; 42nd gave DPSP primacy; Minerva Mills 1980 restored balance.",
+  "Maneka Gandhi (1978) recognised 'due process'; Gopalan upheld 'procedure established by law'; the 39th Amendment is linked to the Raj Narain case.",
+  "Fundamental Duties: Part IVA, Article 51A, 42nd Amendment 1976, borrowed from the USSR, Swaran Singh Committee; increased from 10 to 11 (86th Amendment, 2002, Vajpayee).",
+  "Trick A-K: Abide, Bapu, Three (sovereignty-unity-integrity), Defend, Equality, Fort, Greenery, Humanism, Violence (I), Jadeja (excellence), Kids.",
+  "Justice Verma Committee (constituted 1998, report 1999); Articles 15, 16, 19, 29, 30 are available only to citizens.",
+  "Official Language: Part XVII, Articles 343-351; 343 Hindi in Devanagari, 344 Commission, 345-347 regional, 348-349 courts, 350 grievances, 350A/B (7th Amendment 1956), 351 promotion of Hindi.",
+  "Eighth Schedule: 14 to 22 languages; Sindhi (21st, 1967), KNM (71st, 1992), BDSM (92nd, 2003), Oriya renamed Odia (96th, 2011); language families: Indo-European ~73%, Dravidian ~20%."
+ ],
+ "mcqs": [
+  {
+   "q": "In which Part of the Constitution are the Directive Principles of State Policy (DPSP) contained?",
+   "o": [
+    "Part IV",
+    "Part III",
+    "Part IVA",
+    "Part V"
+   ],
+   "a": 0,
+   "e": "DPSPs are in Part IV (Articles 36-51); Fundamental Rights are in Part III."
+  },
+  {
+   "q": "DPSPs are contained in which Articles?",
+   "o": [
+    "Articles 12 to 35",
+    "Articles 36 to 51",
+    "Articles 343 to 351",
+    "Articles 52 to 78"
+   ],
+   "a": 1,
+   "e": "Articles 36-51 = Directive Principles of State Policy."
+  },
+  {
+   "q": "What is the basic objective of the DPSPs?",
+   "o": [
+    "Establishing military rule",
+    "Establishing monarchy",
+    "Establishing a welfare state",
+    "Political democracy only"
+   ],
+   "a": 2,
+   "e": "DPSPs are directions to the State to build a welfare state."
+  },
+  {
+   "q": "The DPSPs of the Indian Constitution are inspired by the Constitution of which country?",
+   "o": [
+    "Britain",
+    "USA",
+    "Canada",
+    "Ireland"
+   ],
+   "a": 3,
+   "e": "DPSPs were borrowed from the Irish Constitution."
+  },
+  {
+   "q": "What is the nature of the DPSPs?",
+   "o": [
+    "Non-justiciable",
+    "Justiciable",
+    "Justiciable only during an Emergency",
+    "Enforceable through writs"
+   ],
+   "a": 0,
+   "e": "DPSPs cannot be enforced in court but are fundamental in governance."
+  },
+  {
+   "q": "Which Article gives the right to move the Supreme Court for violation of Fundamental Rights?",
+   "o": [
+    "Article 226",
+    "Article 32",
+    "Article 36",
+    "Article 13"
+   ],
+   "a": 1,
+   "e": "Article 32 for the Supreme Court; Article 226 for High Courts."
+  },
+  {
+   "q": "Under which Article does a High Court issue writs for the protection of Fundamental Rights?",
+   "o": [
+    "Article 32",
+    "Article 136",
+    "Article 226",
+    "Article 51"
+   ],
+   "a": 2,
+   "e": "High Court writ jurisdiction is wider: covers legal rights as well as Fundamental Rights."
+  },
+  {
+   "q": "Why is the writ jurisdiction of a High Court considered wider than that of the Supreme Court?",
+   "o": [
+    "It issues writs only for DPSPs",
+    "It has no power to issue writs",
+    "It issues writs only during an Emergency",
+    "It can issue writs for legal rights as well as Fundamental Rights"
+   ],
+   "a": 3,
+   "e": "The scope of Article 226 is wider than that of Article 32."
+  },
+  {
+   "q": "The concept of writs (Habeas Corpus etc.) in India is borrowed from which country?",
+   "o": [
+    "Britain",
+    "USA",
+    "Ireland",
+    "Japan"
+   ],
+   "a": 0,
+   "e": "The writs come from Britain, as do single citizenship, parliamentary system, FPTP and bicameralism."
+  },
+  {
+   "q": "Which of the following is NOT a writ?",
+   "o": [
+    "Habeas Corpus",
+    "Appeal",
+    "Mandamus",
+    "Certiorari"
+   ],
+   "a": 1,
+   "e": "The five writs: Habeas Corpus, Mandamus, Prohibition, Certiorari, Quo Warranto."
+  },
+  {
+   "q": "What is the literal meaning of 'Habeas Corpus'?",
+   "o": [
+    "We command",
+    "By what authority",
+    "To have the body (produce the body)",
+    "Prohibition"
+   ],
+   "a": 2,
+   "e": "Habeas Corpus = 'to have the body of'; a remedy against unlawful detention."
+  },
+  {
+   "q": "How did Dr. Ambedkar describe the DPSPs?",
+   "o": [
+    "Soul of the Constitution",
+    "Heart of the Constitution",
+    "Binding law",
+    "A novel feature"
+   ],
+   "a": 3,
+   "e": "He called DPSPs a 'novel feature'; Article 32 he called the heart and soul of the Constitution."
+  },
+  {
+   "q": "The DPSPs resemble the 'Instrument of Instructions' contained in which Act?",
+   "o": [
+    "Government of India Act, 1935",
+    "Indian Councils Act, 1909",
+    "Government of India Act, 1919",
+    "Indian Independence Act, 1947"
+   ],
+   "a": 0,
+   "e": "According to Ambedkar, DPSPs are like the Instrument of Instructions of the 1935 Act."
+  },
+  {
+   "q": "Fundamental Rights establish which type of democracy?",
+   "o": [
+    "Social and economic democracy",
+    "Political democracy",
+    "Economic democracy only",
+    "Military democracy"
+   ],
+   "a": 1,
+   "e": "Fundamental Rights = political democracy; DPSPs = social and economic democracy."
+  },
+  {
+   "q": "DPSPs aim at establishing which type of democracy?",
+   "o": [
+    "Political democracy only",
+    "Monarchical democracy",
+    "Social and economic democracy",
+    "Religious democracy"
+   ],
+   "a": 2,
+   "e": "Preventing concentration of wealth and discrimination is the goal of DPSPs."
+  },
+  {
+   "q": "What kind of obligation do Fundamental Rights impose on the State?",
+   "o": [
+    "Positive obligation",
+    "No obligation",
+    "Economic obligation only",
+    "Negative obligation (restraining the State)"
+   ],
+   "a": 3,
+   "e": "Rights like Article 15 restrain the State from discriminating; DPSPs are positive obligations."
+  },
+  {
+   "q": "What kind of obligation do DPSPs impose on the State?",
+   "o": [
+    "Positive obligation",
+    "Negative obligation",
+    "Punitive obligation",
+    "None"
+   ],
+   "a": 0,
+   "e": "DPSPs ask the State to do certain things."
+  },
+  {
+   "q": "Where is the Socialist, Gandhian and Liberal-Intellectual classification of DPSPs written?",
+   "o": [
+    "In Article 36",
+    "Nowhere in the Constitution",
+    "In Article 37",
+    "In the Preamble"
+   ],
+   "a": 1,
+   "e": "This classification was made by scholars; the Constitution does not mention it."
+  },
+  {
+   "q": "Which of the following is NOT a DPSP?",
+   "o": [
+    "Promotion of cottage industries in rural areas",
+    "Organisation of village panchayats",
+    "Large-scale corporate farming",
+    "Uniform Civil Code"
+   ],
+   "a": 2,
+   "e": "There is no DPSP on corporate farming; cottage industries are in Article 43."
+  },
+  {
+   "q": "Which Article provides for the promotion of cottage industries in rural areas?",
+   "o": [
+    "Article 41",
+    "Article 44",
+    "Article 46",
+    "Article 43"
+   ],
+   "a": 3,
+   "e": "Article 43: living wage and cottage industries (Gandhian part)."
+  },
+  {
+   "q": "Which Article provides for participation of workers in the management of industries?",
+   "o": [
+    "Article 43A",
+    "Article 43",
+    "Article 43B",
+    "Article 42"
+   ],
+   "a": 0,
+   "e": "Article 43A was added by the 42nd Amendment, 1976."
+  },
+  {
+   "q": "What does Article 43 provide for?",
+   "o": [
+    "Uniform Civil Code",
+    "Living wage and decent conditions of work",
+    "International peace",
+    "Protection of monuments"
+   ],
+   "a": 1,
+   "e": "Living wage is socialist and cottage industries Gandhian in nature."
+  },
+  {
+   "q": "In the context of DPSPs, the meaning of 'State' is the same as in which Article?",
+   "o": [
+    "Article 13",
+    "Article 14",
+    "Article 12",
+    "Article 32"
+   ],
+   "a": 2,
+   "e": "Article 36 adopts the same definition of 'State' as Article 12."
+  },
+  {
+   "q": "Which Article defines 'State' for the purposes of DPSPs?",
+   "o": [
+    "Article 37",
+    "Article 38",
+    "Article 39",
+    "Article 36"
+   ],
+   "a": 3,
+   "e": "Article 36 defines the State."
+  },
+  {
+   "q": "Which of the following is NOT included in 'State' under Article 12?",
+   "o": [
+    "A private company",
+    "Parliament of India",
+    "State Legislature",
+    "Panchayats and municipalities"
+   ],
+   "a": 0,
+   "e": "Parliament, State Legislatures, Union and State Governments and local bodies are 'State'."
+  },
+  {
+   "q": "Which Article deals with the application of DPSPs?",
+   "o": [
+    "Article 36",
+    "Article 37",
+    "Article 38",
+    "Article 50"
+   ],
+   "a": 1,
+   "e": "Article 37: DPSPs are not enforceable by any court but are fundamental in governance."
+  },
+  {
+   "q": "Which Article talks about minimising inequalities in income, status, facilities and opportunities?",
+   "o": [
+    "Article 38(1)",
+    "Article 39(a)",
+    "Article 38(2)",
+    "Article 41"
+   ],
+   "a": 2,
+   "e": "Article 38(2) stresses reducing inequalities."
+  },
+  {
+   "q": "Article 38(2) was added by which Constitutional Amendment?",
+   "o": [
+    "42nd Amendment, 1976",
+    "86th Amendment, 2002",
+    "97th Amendment, 2011",
+    "44th Amendment, 1978"
+   ],
+   "a": 3,
+   "e": "The 44th Amendment (Janata government) added Article 38(2)."
+  },
+  {
+   "q": "Which Article speaks of a social order based on social, economic and political justice?",
+   "o": [
+    "Article 38(1)",
+    "Article 38(2)",
+    "Article 37",
+    "Article 51"
+   ],
+   "a": 0,
+   "e": "Article 38(1): social order for the welfare of the people."
+  },
+  {
+   "q": "Which Article provides for equal justice and free legal aid to the poor?",
+   "o": [
+    "Article 39(b)",
+    "Article 39A",
+    "Article 40",
+    "Article 43A"
+   ],
+   "a": 1,
+   "e": "Article 39A was added by the 42nd Amendment, 1976."
+  },
+  {
+   "q": "Equal pay for equal work for both men and women is part of which Article?",
+   "o": [
+    "Article 39(a)",
+    "Article 39(c)",
+    "Article 39(d)",
+    "Article 39(e)"
+   ],
+   "a": 2,
+   "e": "39(d): equal pay for equal work (socialist)."
+  },
+  {
+   "q": "How many clauses (a to f) does Article 39 have?",
+   "o": [
+    "4",
+    "5",
+    "8",
+    "6"
+   ],
+   "a": 3,
+   "e": "39(a) to 39(f); memory trick: LDC goes to PHC."
+  },
+  {
+   "q": "What does Article 39(a) provide?",
+   "o": [
+    "Right of men and women to an adequate means of livelihood",
+    "Equitable distribution of resources",
+    "Preventing concentration of wealth",
+    "Healthy development of children"
+   ],
+   "a": 0,
+   "e": "39(a) = right to livelihood for men and women."
+  },
+  {
+   "q": "'Equitable distribution of material resources' is in which clause?",
+   "o": [
+    "Article 39(a)",
+    "Article 39(b)",
+    "Article 39(d)",
+    "Article 39(f)"
+   ],
+   "a": 1,
+   "e": "39(b) = distribution of material resources to subserve the common good."
+  },
+  {
+   "q": "Preventing concentration of wealth and means of production is in which clause?",
+   "o": [
+    "Article 39(b)",
+    "Article 39(e)",
+    "Article 39(c)",
+    "Article 39(a)"
+   ],
+   "a": 2,
+   "e": "39(c): the economic system should not result in concentration of wealth."
+  },
+  {
+   "q": "Protection of the health of workers and of children from abuse is in which clause?",
+   "o": [
+    "Article 39(d)",
+    "Article 39(f)",
+    "Article 39(b)",
+    "Article 39(e)"
+   ],
+   "a": 3,
+   "e": "39(e) = health and strength of workers and tender age of children."
+  },
+  {
+   "q": "Opportunities for the healthy development of children (in conditions of freedom and dignity) are in which clause?",
+   "o": [
+    "Article 39(f)",
+    "Article 39(e)",
+    "Article 39(c)",
+    "Article 39(a)"
+   ],
+   "a": 0,
+   "e": "39(f) was added by the 42nd Amendment, 1976."
+  },
+  {
+   "q": "Which Article provides for the organisation of village panchayats?",
+   "o": [
+    "Article 39",
+    "Article 40",
+    "Article 41",
+    "Article 43"
+   ],
+   "a": 1,
+   "e": "Article 40 is a Gandhian DPSP."
+  },
+  {
+   "q": "Which Article provides the right to work, to education and to public assistance in certain cases?",
+   "o": [
+    "Article 40",
+    "Article 42",
+    "Article 41",
+    "Article 43"
+   ],
+   "a": 2,
+   "e": "Public assistance in unemployment, old age, sickness etc. - Article 41."
+  },
+  {
+   "q": "Just and humane conditions of work and maternity relief are provided in which Article?",
+   "o": [
+    "Article 41",
+    "Article 43",
+    "Article 45",
+    "Article 42"
+   ],
+   "a": 3,
+   "e": "Article 42: just and humane conditions of work, maternity relief."
+  },
+  {
+   "q": "Which Article provides for the promotion of co-operative societies?",
+   "o": [
+    "Article 43B",
+    "Article 43A",
+    "Article 43",
+    "Article 44"
+   ],
+   "a": 0,
+   "e": "Article 43B was added by the 97th Amendment, 2011."
+  },
+  {
+   "q": "Article 43B was added by which Constitutional Amendment?",
+   "o": [
+    "86th Amendment (2002)",
+    "97th Amendment (2011)",
+    "42nd Amendment (1976)",
+    "44th Amendment (1978)"
+   ],
+   "a": 1,
+   "e": "The 97th Amendment also added Part IXB (Co-operative Societies)."
+  },
+  {
+   "q": "The Uniform Civil Code (UCC) is in which Article?",
+   "o": [
+    "Article 43",
+    "Article 45",
+    "Article 44",
+    "Article 48"
+   ],
+   "a": 2,
+   "e": "Memory trick: 44 has two identical fours = uniform."
+  },
+  {
+   "q": "Which is the first state after Independence to fully implement a UCC?",
+   "o": [
+    "Goa",
+    "Gujarat",
+    "Assam",
+    "Uttarakhand"
+   ],
+   "a": 3,
+   "e": "Uttarakhand is the first; Goa follows the Portuguese Civil Code of 1867."
+  },
+  {
+   "q": "Which civil code is in force in Goa?",
+   "o": [
+    "Portuguese Civil Code, 1867",
+    "French Civil Code",
+    "British Civil Code",
+    "Dutch Code"
+   ],
+   "a": 0,
+   "e": "The pre-liberation Portuguese Civil Code of 1867 still applies in Goa."
+  },
+  {
+   "q": "Early childhood care (0-6 years) is provided in which Article?",
+   "o": [
+    "Article 21A",
+    "Article 45",
+    "Article 46",
+    "Article 47"
+   ],
+   "a": 1,
+   "e": "The 86th Amendment, 2002 changed the subject matter of Article 45."
+  },
+  {
+   "q": "What did the 86th Amendment, 2002 do with Article 45?",
+   "o": [
+    "Deleted Article 45",
+    "Added a new Article 45A",
+    "Changed its content and added the right to education as Article 21A",
+    "Made no change"
+   ],
+   "a": 2,
+   "e": "Education for 6-14 years moved to Article 21A; Article 45 now covers care up to 6 years."
+  },
+  {
+   "q": "Promotion of educational and economic interests of SCs, STs and weaker sections is in which Article?",
+   "o": [
+    "Article 45",
+    "Article 47",
+    "Article 15",
+    "Article 46"
+   ],
+   "a": 3,
+   "e": "Article 46 is a Gandhian DPSP."
+  },
+  {
+   "q": "Prohibition of intoxicating drinks/drugs and raising the level of nutrition and standard of living is in which Article?",
+   "o": [
+    "Article 47",
+    "Article 46",
+    "Article 48",
+    "Article 49"
+   ],
+   "a": 0,
+   "e": "Article 47: nutrition, standard of living, public health and prohibition."
+  },
+  {
+   "q": "Organisation of agriculture and animal husbandry on modern lines is in which Article?",
+   "o": [
+    "Article 47",
+    "Article 48",
+    "Article 48A",
+    "Article 49"
+   ],
+   "a": 1,
+   "e": "Article 48 (Gandhian) - also covers prohibition of cow slaughter."
+  },
+  {
+   "q": "Protection of the environment, forests and wildlife is in which Article?",
+   "o": [
+    "Article 48",
+    "Article 49",
+    "Article 48A",
+    "Article 51A(g)"
+   ],
+   "a": 2,
+   "e": "48A was added by the 42nd Amendment; 51A(g) is a citizen's duty."
+  },
+  {
+   "q": "Protection of monuments, places and objects of national importance is in which Article?",
+   "o": [
+    "Article 48",
+    "Article 50",
+    "Article 51",
+    "Article 49"
+   ],
+   "a": 3,
+   "e": "Article 49: protection of monuments."
+  },
+  {
+   "q": "Separation of the judiciary from the executive is in which Article?",
+   "o": [
+    "Article 50",
+    "Article 49",
+    "Article 51",
+    "Article 39A"
+   ],
+   "a": 0,
+   "e": "Article 50: keeping judiciary and executive separate (liberal-intellectual)."
+  },
+  {
+   "q": "Promotion of international peace and security is in which Article?",
+   "o": [
+    "Article 50",
+    "Article 51",
+    "Article 51A",
+    "Article 49"
+   ],
+   "a": 1,
+   "e": "Memory trick: offer Rs 51 as prasad and pray for peace."
+  },
+  {
+   "q": "Which of the following is NOT a provision of Article 51?",
+   "o": [
+    "Promotion of international peace",
+    "Just and honourable relations between nations",
+    "Protection of forests and wildlife",
+    "Respect for international law and treaty obligations"
+   ],
+   "a": 2,
+   "e": "Protection of forests and wildlife is in Article 48A."
+  },
+  {
+   "q": "Which is true about 'providing safe drinking water' or 'granting religious freedom' as DPSPs?",
+   "o": [
+    "They are in Article 47",
+    "They are in Article 51",
+    "They are in Article 39",
+    "No such DPSPs exist"
+   ],
+   "a": 3,
+   "e": "Religious freedom is a Fundamental Right (Articles 25-28), not a DPSP."
+  },
+  {
+   "q": "According to Article 13, a law that violates Fundamental Rights shall be:",
+   "o": [
+    "Void (null and void)",
+    "Valid",
+    "Suspended",
+    "Only amended"
+   ],
+   "a": 0,
+   "e": "The power of judicial review flows from Article 13."
+  },
+  {
+   "q": "How many new DPSP provisions were added by the 42nd Amendment?",
+   "o": [
+    "2",
+    "4",
+    "5",
+    "6"
+   ],
+   "a": 1,
+   "e": "39A, 39(f), 43A and 48A (trick: poor workers' children and environment)."
+  },
+  {
+   "q": "Which DPSP was NOT added by the 42nd Amendment?",
+   "o": [
+    "Article 39A",
+    "Article 43A",
+    "Article 43B",
+    "Article 48A"
+   ],
+   "a": 2,
+   "e": "43B was added by the 97th Amendment."
+  },
+  {
+   "q": "What did the 86th Amendment do with regard to DPSPs?",
+   "o": [
+    "Added Article 43A",
+    "Added Article 48A",
+    "Added Article 38(2)",
+    "Changed the subject matter of Article 45"
+   ],
+   "a": 3,
+   "e": "The 86th changed Article 45; it added no new DPSP."
+  },
+  {
+   "q": "Which judicial doctrine saves laws promoting DPSPs from being struck down for violating Fundamental Rights, by interpreting both in harmony?",
+   "o": [
+    "Doctrine of Harmonious Construction",
+    "Doctrine of Severability",
+    "Doctrine of Eclipse",
+    "Doctrine of Basic Structure"
+   ],
+   "a": 0,
+   "e": "FRs and DPSPs are read together in harmony."
+  },
+  {
+   "q": "Only the unconstitutional part of a law is struck down, not the whole law - what is this doctrine called?",
+   "o": [
+    "Doctrine of Eclipse",
+    "Doctrine of Severability",
+    "Basic Structure Doctrine",
+    "Harmonious Construction"
+   ],
+   "a": 1,
+   "e": "Linked to Article 13: cut off the rotten limb, do not kill the body."
+  },
+  {
+   "q": "A pre-Constitution law inconsistent with Fundamental Rights becomes dormant but can revive if the inconsistency is removed - this is the:",
+   "o": [
+    "Doctrine of Severability",
+    "Doctrine of Colourable Legislation",
+    "Doctrine of Eclipse",
+    "Doctrine of Pith and Substance"
+   ],
+   "a": 2,
+   "e": "The law is overshadowed, not dead; it revives once the conflicting FR is amended."
+  },
+  {
+   "q": "The 'Doctrine of Eclipse' is associated with which Article?",
+   "o": [
+    "Article 32",
+    "Article 368",
+    "Article 21",
+    "Article 13"
+   ],
+   "a": 3,
+   "e": "It applies to pre-Constitution laws (before 26 January 1950)."
+  },
+  {
+   "q": "Which 1931 resolution inspired India's Directive Principles?",
+   "o": [
+    "Karachi Resolution",
+    "Lahore Resolution",
+    "Nehru Report",
+    "August Offer"
+   ],
+   "a": 0,
+   "e": "The 1931 Karachi session passed resolutions on Fundamental Rights and National Economic Policy."
+  },
+  {
+   "q": "Who presided over the 1931 Karachi session of the Congress?",
+   "o": [
+    "Jawaharlal Nehru",
+    "Sardar Vallabhbhai Patel",
+    "Mahatma Gandhi",
+    "Subhas Chandra Bose"
+   ],
+   "a": 1,
+   "e": "The Karachi Resolution covered Fundamental Rights and National Economic Policy."
+  },
+  {
+   "q": "What did the court hold in the Champakam Dorairajan case (1951)?",
+   "o": [
+    "DPSPs are superior to Fundamental Rights",
+    "Both are in balance",
+    "Fundamental Rights are superior to DPSPs",
+    "Basic structure cannot be touched"
+   ],
+   "a": 2,
+   "e": "The case concerned caste-based reservation; FR prevail over DPSP."
+  },
+  {
+   "q": "What did the Supreme Court decide in the Shankari Prasad case (1951)?",
+   "o": [
+    "Fundamental Rights cannot be amended",
+    "DPSPs are justiciable",
+    "Parliament can change the basic structure",
+    "Fundamental Rights can be amended"
+   ],
+   "a": 3,
+   "e": "Shankari Prasad (1951): FRs can be amended under Article 368."
+  },
+  {
+   "q": "In which year was Golaknath v. State of Punjab decided?",
+   "o": [
+    "1967",
+    "1951",
+    "1973",
+    "1980"
+   ],
+   "a": 0,
+   "e": "It held that Fundamental Rights cannot be amended."
+  },
+  {
+   "q": "What did the Supreme Court hold in the Golaknath case (1967)?",
+   "o": [
+    "Fundamental Rights are amendable",
+    "Fundamental Rights cannot be amended",
+    "DPSPs are above Fundamental Rights",
+    "The Preamble is not amendable"
+   ],
+   "a": 1,
+   "e": "Golaknath reversed the view taken in Shankari Prasad."
+  },
+  {
+   "q": "In response to Golaknath, which 1971 amendment declared that Parliament can amend Fundamental Rights?",
+   "o": [
+    "25th Amendment",
+    "26th Amendment",
+    "24th Amendment",
+    "42nd Amendment"
+   ],
+   "a": 2,
+   "e": "The 24th Amendment, 1971 amended Articles 13 and 368."
+  },
+  {
+   "q": "Article 31C was added by which amendment?",
+   "o": [
+    "24th Amendment, 1971",
+    "42nd Amendment, 1976",
+    "44th Amendment, 1978",
+    "25th Amendment, 1971"
+   ],
+   "a": 3,
+   "e": "Added under Indira Gandhi; shielded laws implementing 39(b) and (c) from Articles 14 and 19."
+  },
+  {
+   "q": "Under the original Article 31C, laws implementing which DPSPs could not be challenged?",
+   "o": [
+    "Articles 39(b) and 39(c)",
+    "Articles 39(a) and (d)",
+    "Articles 40 and 41",
+    "Articles 44 and 45"
+   ],
+   "a": 0,
+   "e": "They could not be challenged on grounds of Articles 14, 19 and 31."
+  },
+  {
+   "q": "When was the right to property removed from the list of Fundamental Rights?",
+   "o": [
+    "1951",
+    "1978 (44th Amendment)",
+    "1971",
+    "1976"
+   ],
+   "a": 1,
+   "e": "It is now a legal right under Article 300A."
+  },
+  {
+   "q": "What did the 26th Amendment, 1971 do?",
+   "o": [
+    "Removed the right to property",
+    "Added Fundamental Duties",
+    "Abolished privy purses",
+    "Added the Ninth Schedule"
+   ],
+   "a": 2,
+   "e": "Indira Gandhi ended privy purses paid to former princely rulers."
+  },
+  {
+   "q": "The Ninth Schedule and Articles 31A and 31B were added by which amendment?",
+   "o": [
+    "24th Amendment",
+    "42nd Amendment",
+    "44th Amendment",
+    "First Amendment, 1951 (Nehru)"
+   ],
+   "a": 3,
+   "e": "Mainly to protect land reform laws from judicial challenge."
+  },
+  {
+   "q": "In which year was the Kesavananda Bharati case decided?",
+   "o": [
+    "1973",
+    "1967",
+    "1971",
+    "1980"
+   ],
+   "a": 0,
+   "e": "On 24 April 1973, by a 13-judge bench."
+  },
+  {
+   "q": "How many judges sat on the bench in the Kesavananda Bharati case?",
+   "o": [
+    "11",
+    "13",
+    "9",
+    "7"
+   ],
+   "a": 1,
+   "e": "The largest constitutional bench so far."
+  },
+  {
+   "q": "The Basic Structure doctrine originated from which case?",
+   "o": [
+    "Golaknath case",
+    "Maneka Gandhi case",
+    "Kesavananda Bharati case",
+    "Minerva Mills case"
+   ],
+   "a": 2,
+   "e": "The term 'basic structure' is not written anywhere in the Constitution."
+  },
+  {
+   "q": "What did the Supreme Court say about Parliament's amending power in Kesavananda Bharati?",
+   "o": [
+    "No amendment is possible",
+    "Any amendment is possible",
+    "Only DPSPs can be amended",
+    "Fundamental Rights can be amended but not the basic structure"
+   ],
+   "a": 3,
+   "e": "Parliament can amend the Constitution but cannot alter its basic structure."
+  },
+  {
+   "q": "Which case is known as the 'Ninth Schedule case'?",
+   "o": [
+    "I.R. Coelho case (2007)",
+    "Kesavananda Bharati case",
+    "Minerva Mills case",
+    "Golaknath case"
+   ],
+   "a": 0,
+   "e": "Laws placed in the Ninth Schedule after 24 April 1973 are open to judicial review."
+  },
+  {
+   "q": "What did the 42nd Amendment (1976) do regarding DPSPs and Fundamental Rights?",
+   "o": [
+    "Gave Fundamental Rights primacy over DPSPs",
+    "Gave all DPSPs primacy over Fundamental Rights (Articles 14, 19, 31)",
+    "Kept both equal",
+    "Abolished DPSPs"
+   ],
+   "a": 1,
+   "e": "The 42nd Amendment is called the 'Mini Constitution'."
+  },
+  {
+   "q": "The 42nd Constitutional Amendment is known as the:",
+   "o": [
+    "Heart of the Constitution",
+    "Soul of the Constitution",
+    "Mini Constitution",
+    "Key to the Constitution"
+   ],
+   "a": 2,
+   "e": "Enacted in 1976 under Indira Gandhi."
+  },
+  {
+   "q": "Which amendment undid many provisions of the 42nd Amendment?",
+   "o": [
+    "43rd Amendment",
+    "45th Amendment",
+    "52nd Amendment",
+    "44th Amendment, 1978"
+   ],
+   "a": 3,
+   "e": "Passed under the Janata Party government in 1978."
+  },
+  {
+   "q": "'The Constitution is founded on the bedrock of balance between Fundamental Rights and DPSPs' - this was held in which case?",
+   "o": [
+    "Minerva Mills case (1980)",
+    "Kesavananda Bharati case",
+    "Golaknath case",
+    "Shankari Prasad case"
+   ],
+   "a": 0,
+   "e": "Minerva Mills Ltd. was a Karnataka company; the court upheld balance between the two."
+  },
+  {
+   "q": "Which case struck down the 42nd Amendment's extension of Article 31C to all DPSPs, restoring the primacy of Fundamental Rights?",
+   "o": [
+    "Kesavananda Bharati case",
+    "Minerva Mills case (1980)",
+    "Golaknath case",
+    "Shankari Prasad case"
+   ],
+   "a": 1,
+   "e": "Minerva Mills (1980) held that DPSPs cannot override Articles 14 and 19 wholesale."
+  },
+  {
+   "q": "Which amendment is associated with the Indira Gandhi v. Raj Narain case?",
+   "o": [
+    "38th Amendment",
+    "40th Amendment",
+    "39th Amendment",
+    "42nd Amendment"
+   ],
+   "a": 2,
+   "e": "It put elections of the President, VP, PM and Speaker beyond judicial review."
+  },
+  {
+   "q": "From which constituency did Raj Narain contest against Indira Gandhi?",
+   "o": [
+    "Amethi",
+    "Phulpur",
+    "Allahabad",
+    "Rae Bareli"
+   ],
+   "a": 3,
+   "e": "The Allahabad High Court set aside Indira Gandhi's election."
+  },
+  {
+   "q": "Which concept did the court accept in the A.K. Gopalan case?",
+   "o": [
+    "Procedure established by law",
+    "Due process of law",
+    "Basic structure",
+    "Natural justice"
+   ],
+   "a": 0,
+   "e": "At that time the Supreme Court did not recognise 'due process'."
+  },
+  {
+   "q": "In which case was 'Due Process of Law' first recognised in India?",
+   "o": [
+    "A.K. Gopalan case",
+    "Maneka Gandhi case (1978)",
+    "Kesavananda Bharati case",
+    "Minerva Mills case"
+   ],
+   "a": 1,
+   "e": "It is an American concept; Article 21 says 'procedure established by law'."
+  },
+  {
+   "q": "The concept of 'procedure established by law' is borrowed from which country's Constitution?",
+   "o": [
+    "USA",
+    "Britain",
+    "Japan",
+    "Ireland"
+   ],
+   "a": 2,
+   "e": "This narrower concept in Article 21 was taken from Japan."
+  },
+  {
+   "q": "In the Maneka Gandhi case, which right was held to be a Fundamental Right?",
+   "o": [
+    "Right to property",
+    "Right to education",
+    "Right to information",
+    "Right to travel abroad and return"
+   ],
+   "a": 3,
+   "e": "Under Article 21; the law must be 'just, fair and reasonable'."
+  },
+  {
+   "q": "In which Part of the Constitution are the Fundamental Duties?",
+   "o": [
+    "Part IVA",
+    "Part IV",
+    "Part III",
+    "Part XVII"
+   ],
+   "a": 0,
+   "e": "Part IVA contains only Article 51A."
+  },
+  {
+   "q": "Fundamental Duties are given in which Article?",
+   "o": [
+    "Article 51",
+    "Article 51A",
+    "Article 50",
+    "Article 48A"
+   ],
+   "a": 1,
+   "e": "All Fundamental Duties are in a single Article, 51A."
+  },
+  {
+   "q": "Fundamental Duties (Part IVA) were added by which amendment?",
+   "o": [
+    "44th Amendment, 1978",
+    "86th Amendment, 2002",
+    "42nd Amendment, 1976",
+    "24th Amendment, 1971"
+   ],
+   "a": 2,
+   "e": "Added under Indira Gandhi, during the Emergency."
+  },
+  {
+   "q": "India's Fundamental Duties are borrowed from the Constitution of which country?",
+   "o": [
+    "USA",
+    "Ireland",
+    "Japan",
+    "Soviet Union (USSR)"
+   ],
+   "a": 3,
+   "e": "Inspired by the Constitution of the former USSR."
+  },
+  {
+   "q": "On whose recommendation were the Fundamental Duties added?",
+   "o": [
+    "Sardar Swaran Singh Committee",
+    "Justice Verma Committee",
+    "Balwant Rai Mehta Committee",
+    "Sarkaria Commission"
+   ],
+   "a": 0,
+   "e": "Swaran Singh was a minister in Indira Gandhi's cabinet."
+  },
+  {
+   "q": "How many Fundamental Duties did the Swaran Singh Committee recommend?",
+   "o": [
+    "10",
+    "8",
+    "11",
+    "5"
+   ],
+   "a": 1,
+   "e": "It suggested 8, but the 42nd Amendment included 10 duties."
+  },
+  {
+   "q": "Which recommendation of the Swaran Singh Committee was NOT accepted by the government?",
+   "o": [
+    "Respect for the National Flag",
+    "Abiding by the Constitution",
+    "Penalty for non-performance of duties / duty to pay taxes",
+    "Defence of the nation"
+   ],
+   "a": 2,
+   "e": "Duty to pay taxes and penalties for non-compliance were not included."
+  },
+  {
+   "q": "How many Fundamental Duties were originally added by the 42nd Amendment?",
+   "o": [
+    "8",
+    "11",
+    "6",
+    "10"
+   ],
+   "a": 3,
+   "e": "The 11th duty was added by the 86th Amendment, 2002."
+  },
+  {
+   "q": "How many Fundamental Duties are there at present?",
+   "o": [
+    "11",
+    "10",
+    "12",
+    "9"
+   ],
+   "a": 0,
+   "e": "The 11th duty was added by the 86th Amendment, 2002."
+  },
+  {
+   "q": "The 11th Fundamental Duty was added by which amendment?",
+   "o": [
+    "42nd Amendment, 1976",
+    "86th Amendment, 2002",
+    "97th Amendment, 2011",
+    "44th Amendment, 1978"
+   ],
+   "a": 1,
+   "e": "During Atal Bihari Vajpayee's tenure."
+  },
+  {
+   "q": "Under the 11th Fundamental Duty (Article 51A(k)), who shall provide opportunities for education to a child aged 6-14?",
+   "o": [
+    "State government only",
+    "Teachers only",
+    "Parent or guardian",
+    "Panchayat"
+   ],
+   "a": 2,
+   "e": "Trick: K = Kids; parents/guardians must send children to school."
+  },
+  {
+   "q": "What is a citizen's duty under Article 51A(a)?",
+   "o": [
+    "Protect wildlife",
+    "Safeguard public property",
+    "Educate children",
+    "Abide by the Constitution and respect the National Flag and National Anthem"
+   ],
+   "a": 3,
+   "e": "Trick: A = Abide / Anthem."
+  },
+  {
+   "q": "What is the duty under Article 51A(b)?",
+   "o": [
+    "To cherish and follow the noble ideals of the freedom struggle",
+    "Scientific temper",
+    "Protect the environment",
+    "Abjure violence"
+   ],
+   "a": 0,
+   "e": "Trick: B = Bapu / Bhagat Singh."
+  },
+  {
+   "q": "Upholding the sovereignty, unity and integrity of India is in which clause?",
+   "o": [
+    "51A(d)",
+    "51A(c)",
+    "51A(b)",
+    "51A(e)"
+   ],
+   "a": 1,
+   "e": "Trick: C = three things (sovereignty, unity, integrity)."
+  },
+  {
+   "q": "Defending the country and rendering national service when called upon is in which clause?",
+   "o": [
+    "51A(c)",
+    "51A(e)",
+    "51A(d)",
+    "51A(f)"
+   ],
+   "a": 2,
+   "e": "Trick: D = Defend."
+  },
+  {
+   "q": "Promoting harmony and the spirit of common brotherhood among all the people of India is in which clause?",
+   "o": [
+    "51A(d)",
+    "51A(f)",
+    "51A(g)",
+    "51A(e)"
+   ],
+   "a": 3,
+   "e": "Trick: E = Equality (harmony, brotherhood)."
+  },
+  {
+   "q": "Renouncing practices derogatory to the dignity of women is in which clause?",
+   "o": [
+    "51A(e)",
+    "51A(f)",
+    "51A(a)",
+    "51A(i)"
+   ],
+   "a": 0,
+   "e": "Remember both duties with E = Equality."
+  },
+  {
+   "q": "Valuing and preserving the rich heritage of our composite culture is in which clause?",
+   "o": [
+    "51A(g)",
+    "51A(f)",
+    "51A(h)",
+    "51A(e)"
+   ],
+   "a": 1,
+   "e": "Trick: F = Fort (fort = culture)."
+  },
+  {
+   "q": "Protecting and improving the natural environment (forests, lakes, rivers, wildlife) is in which clause?",
+   "o": [
+    "51A(h)",
+    "51A(f)",
+    "51A(g)",
+    "51A(i)"
+   ],
+   "a": 2,
+   "e": "Trick: G = Greenery."
+  },
+  {
+   "q": "Developing scientific temper, humanism and the spirit of inquiry and reform is in which clause?",
+   "o": [
+    "51A(g)",
+    "51A(i)",
+    "51A(j)",
+    "51A(h)"
+   ],
+   "a": 3,
+   "e": "Trick: H = Humanism."
+  },
+  {
+   "q": "Safeguarding public property and abjuring violence is in which clause?",
+   "o": [
+    "51A(i)",
+    "51A(h)",
+    "51A(j)",
+    "51A(k)"
+   ],
+   "a": 0,
+   "e": "Trick: I = 'showing eyes' = violence."
+  },
+  {
+   "q": "Striving towards excellence in all spheres of individual and collective activity is in which clause?",
+   "o": [
+    "51A(i)",
+    "51A(j)",
+    "51A(k)",
+    "51A(h)"
+   ],
+   "a": 1,
+   "e": "Trick: J = Jadeja (excellent in every field)."
+  },
+  {
+   "q": "What is Article 51A(k) about?",
+   "o": [
+    "Protecting the environment",
+    "Respecting the National Flag",
+    "Providing educational opportunities to children aged 6 to 14",
+    "Scientific temper"
+   ],
+   "a": 2,
+   "e": "K = Kids."
+  },
+  {
+   "q": "What is the difference between Article 48A and Article 51A(g)?",
+   "o": [
+    "48A is a citizen's duty, 51A(g) the State's",
+    "Both are for the State",
+    "Both are for citizens",
+    "48A is the State's obligation, 51A(g) a citizen's duty"
+   ],
+   "a": 3,
+   "e": "Environment: State - 48A (DPSP); citizens - 51A(g) (Fundamental Duty)."
+  },
+  {
+   "q": "When was the Justice Verma Committee on Fundamental Duties set up and when did it report?",
+   "o": [
+    "Set up in 1998, reported in 1999",
+    "Set up in 1976, reported in 1977",
+    "Set up in 2002, reported in 2003",
+    "Set up in 1990, reported in 1991"
+   ],
+   "a": 0,
+   "e": "It identified existing laws enforcing duties and advised including them in education."
+  },
+  {
+   "q": "The Prevention of Insults to National Honour Act, 1971 helps enforce which Fundamental Duty?",
+   "o": [
+    "Wildlife protection",
+    "Respect for the Constitution, National Flag and National Anthem (51A(a))",
+    "Brotherhood",
+    "Education"
+   ],
+   "a": 1,
+   "e": "Punishes insult to national symbols."
+  },
+  {
+   "q": "The Wildlife (Protection) Act helps enforce which Fundamental Duty?",
+   "o": [
+    "51A(a)",
+    "51A(d)",
+    "51A(g) - protection of the environment",
+    "51A(k)"
+   ],
+   "a": 2,
+   "e": "G = Greenery."
+  },
+  {
+   "q": "For whom are Fundamental Duties meant?",
+   "o": [
+    "Both citizens and foreigners",
+    "Only foreigners",
+    "Only government employees",
+    "Only Indian citizens"
+   ],
+   "a": 3,
+   "e": "Fundamental Duties are non-justiciable and apply only to citizens."
+  },
+  {
+   "q": "Which of the following Fundamental Rights are available only to Indian citizens?",
+   "o": [
+    "Articles 15, 16, 19, 29, 30",
+    "Articles 14, 20, 21",
+    "Articles 21, 22, 25",
+    "Articles 23, 24, 25"
+   ],
+   "a": 0,
+   "e": "The remaining Fundamental Rights are available to both citizens and foreigners."
+  },
+  {
+   "q": "What is the nature of Fundamental Duties?",
+   "o": [
+    "Justiciable",
+    "Non-justiciable",
+    "Justiciable only during an Emergency",
+    "Punishable"
+   ],
+   "a": 1,
+   "e": "The Constitution provides no direct penalty for non-performance of duties."
+  },
+  {
+   "q": "Which of the following is NOT linked to Article 51A(h)?",
+   "o": [
+    "Humanism",
+    "Scientific temper",
+    "Safeguarding public property and abjuring violence",
+    "Spirit of inquiry and reform"
+   ],
+   "a": 2,
+   "e": "Public property and non-violence are in 51A(i)."
+  },
+  {
+   "q": "Which Part of the Constitution deals with the Official Language of the Union?",
+   "o": [
+    "Part XVI",
+    "Part XVIII",
+    "Part XV",
+    "Part XVII"
+   ],
+   "a": 3,
+   "e": "Official Language: Part XVII, Articles 343-351."
+  },
+  {
+   "q": "Which Articles deal with the Official Language?",
+   "o": [
+    "Articles 343 to 351",
+    "Articles 330 to 342",
+    "Articles 352 to 360",
+    "Articles 36 to 51"
+   ],
+   "a": 0,
+   "e": "Part XVII has four chapters."
+  },
+  {
+   "q": "What has been declared the Official Language of the Union?",
+   "o": [
+    "English",
+    "Hindi in Devanagari script",
+    "Sanskrit",
+    "Hindi and Urdu"
+   ],
+   "a": 1,
+   "e": "Article 343(1)."
+  },
+  {
+   "q": "Under Article 343, English was to be used for how many years?",
+   "o": [
+    "10 years",
+    "5 years",
+    "15 years",
+    "25 years"
+   ],
+   "a": 2,
+   "e": "The Official Languages Act extended it; English continues to be used today."
+  },
+  {
+   "q": "Article 344 relates to:",
+   "o": [
+    "Languages of the states",
+    "Language of the courts",
+    "Promotion of Hindi",
+    "Official Language Commission and Committee of Parliament"
+   ],
+   "a": 3,
+   "e": "The President constitutes the Official Language Commission."
+  },
+  {
+   "q": "Who constitutes the Official Language Commission?",
+   "o": [
+    "President",
+    "Prime Minister",
+    "Speaker of the Lok Sabha",
+    "Chief Justice"
+   ],
+   "a": 0,
+   "e": "Under Article 344."
+  },
+  {
+   "q": "Chapter I of Part XVII deals with:",
+   "o": [
+    "Regional languages",
+    "Language of the Union (Articles 343-344)",
+    "Language of the courts",
+    "Special directives"
+   ],
+   "a": 1,
+   "e": "Ch. II regional languages (345-347); Ch. III courts (348-349); Ch. IV special directives (350-351)."
+  },
+  {
+   "q": "Regional languages are dealt with in which Articles of Part XVII?",
+   "o": [
+    "Articles 343-344",
+    "Articles 348-349",
+    "Articles 345 to 347",
+    "Articles 350-351"
+   ],
+   "a": 2,
+   "e": "Chapter II: regional languages."
+  },
+  {
+   "q": "Which Article empowers a State Legislature to adopt one or more languages as the official language of the State?",
+   "o": [
+    "Article 346",
+    "Article 347",
+    "Article 351",
+    "Article 345"
+   ],
+   "a": 3,
+   "e": "Article 345: official language of a State."
+  },
+  {
+   "q": "The language for communication between states, or between a state and the Union, is dealt with in which Article?",
+   "o": [
+    "Article 346",
+    "Article 345",
+    "Article 348",
+    "Article 350"
+   ],
+   "a": 0,
+   "e": "Article 346."
+  },
+  {
+   "q": "The language of the Supreme Court and High Courts is dealt with in which Articles?",
+   "o": [
+    "Articles 345-347",
+    "Articles 348-349",
+    "Articles 350-351",
+    "Articles 343-344"
+   ],
+   "a": 1,
+   "e": "Chapter III: language of the courts; mainly English."
+  },
+  {
+   "q": "Who can authorise the use of Hindi/a regional language in a High Court in addition to English?",
+   "o": [
+    "Prime Minister",
+    "Chief Minister",
+    "Governor (with the President's consent)",
+    "Speaker of the Lok Sabha"
+   ],
+   "a": 2,
+   "e": "English is used in the Supreme Court."
+  },
+  {
+   "q": "Which Article gives the right to submit a grievance in any language used in the Union or a State?",
+   "o": [
+    "Article 349",
+    "Article 351",
+    "Article 345",
+    "Article 350"
+   ],
+   "a": 3,
+   "e": "Article 350 (Chapter IV: special directives)."
+  },
+  {
+   "q": "Facilities for primary education in the mother tongue for linguistic minority children are provided in which Article?",
+   "o": [
+    "Article 350A",
+    "Article 350B",
+    "Article 351",
+    "Article 350"
+   ],
+   "a": 0,
+   "e": "350A: directive to local authorities."
+  },
+  {
+   "q": "Which Article provides for a Special Officer for linguistic minorities?",
+   "o": [
+    "Article 350A",
+    "Article 350B",
+    "Article 351",
+    "Article 349"
+   ],
+   "a": 1,
+   "e": "The Special Officer is appointed by the President."
+  },
+  {
+   "q": "Who appoints the Special Officer for linguistic minorities?",
+   "o": [
+    "Governor",
+    "Prime Minister",
+    "President",
+    "Chief Justice"
+   ],
+   "a": 2,
+   "e": "Article 350B."
+  },
+  {
+   "q": "Articles 350A and 350B were added by which amendment?",
+   "o": [
+    "42nd Amendment",
+    "44th Amendment",
+    "21st Amendment",
+    "7th Amendment, 1956"
+   ],
+   "a": 3,
+   "e": "Added at the time of states' reorganisation."
+  },
+  {
+   "q": "Which Article contains the directive for the spread and development of Hindi?",
+   "o": [
+    "Article 351",
+    "Article 350",
+    "Article 349",
+    "Article 343"
+   ],
+   "a": 0,
+   "e": "Directs the Union to promote the spread of Hindi."
+  },
+  {
+   "q": "Article 351 gives a directive to whom?",
+   "o": [
+    "The States",
+    "The Union (Centre)",
+    "The Judiciary",
+    "The Panchayats"
+   ],
+   "a": 1,
+   "e": "Developing Hindi is a duty of the Union."
+  },
+  {
+   "q": "Directives outside Part IV (special directives) are found in which part of the Constitution?",
+   "o": [
+    "Part IVA",
+    "Part III",
+    "Part XVII, Chapter IV (Articles 350-351)",
+    "Part XVI"
+   ],
+   "a": 2,
+   "e": "These are directives not contained in Part IV."
+  },
+  {
+   "q": "How many languages were originally in the Eighth Schedule?",
+   "o": [
+    "15",
+    "18",
+    "22",
+    "14"
+   ],
+   "a": 3,
+   "e": "At present there are 22 languages."
+  },
+  {
+   "q": "How many languages are there in the Eighth Schedule at present?",
+   "o": [
+    "22",
+    "14",
+    "18",
+    "24"
+   ],
+   "a": 0,
+   "e": "22 languages after the 92nd Amendment, 2003."
+  },
+  {
+   "q": "Sindhi was added to the Eighth Schedule by which amendment?",
+   "o": [
+    "71st Amendment",
+    "21st Amendment, 1967",
+    "92nd Amendment",
+    "96th Amendment"
+   ],
+   "a": 1,
+   "e": "Sindhi was added in 1967."
+  },
+  {
+   "q": "Konkani, Manipuri and Nepali were added to the Eighth Schedule by which amendment?",
+   "o": [
+    "21st Amendment, 1967",
+    "92nd Amendment, 2003",
+    "71st Amendment, 1992",
+    "96th Amendment, 2011"
+   ],
+   "a": 2,
+   "e": "Trick: KNM = Konkani, Nepali, Manipuri."
+  },
+  {
+   "q": "Bodo, Dogri, Santhali and Maithili were added by which amendment?",
+   "o": [
+    "71st Amendment, 1992",
+    "21st Amendment, 1967",
+    "96th Amendment, 2011",
+    "92nd Amendment, 2003"
+   ],
+   "a": 3,
+   "e": "Trick: BDSM = Bodo, Dogri, Santhali, Maithili."
+  },
+  {
+   "q": "What did the 96th Amendment, 2011 do to the Eighth Schedule?",
+   "o": [
+    "Renamed 'Oriya' as 'Odia'",
+    "Added a new language",
+    "Added Sanskrit",
+    "Removed a language"
+   ],
+   "a": 0,
+   "e": "No new language was added."
+  },
+  {
+   "q": "Which Eighth Schedule language belongs to the Tibeto-Burman family?",
+   "o": [
+    "Konkani",
+    "Bodo",
+    "Maithili",
+    "Santhali"
+   ],
+   "a": 1,
+   "e": "Bodo is spoken in the Assam region."
+  },
+  {
+   "q": "Where is Konkani mainly spoken?",
+   "o": [
+    "Assam",
+    "Jharkhand",
+    "Goa and southern Maharashtra",
+    "Bihar"
+   ],
+   "a": 2,
+   "e": "Konkani belongs to the Indo-Aryan family."
+  },
+  {
+   "q": "Santhali is mainly spoken in which region?",
+   "o": [
+    "Goa",
+    "Assam",
+    "Mizoram",
+    "Chota Nagpur Plateau (Jharkhand region)"
+   ],
+   "a": 3,
+   "e": "Santhali belongs to the Austroasiatic family."
+  },
+  {
+   "q": "Maithili is mainly the language of which region?",
+   "o": [
+    "Bihar",
+    "Assam",
+    "Goa",
+    "Nagaland"
+   ],
+   "a": 0,
+   "e": "Maithili belongs to the Indo-Aryan family."
+  },
+  {
+   "q": "Which is the largest autonomous council in Assam, associated with the Bodo language?",
+   "o": [
+    "Karbi Anglong Council",
+    "Bodoland Territorial Council",
+    "Dima Hasao Council",
+    "Ladakh Council"
+   ],
+   "a": 1,
+   "e": "Sixth Schedule states: Assam, Meghalaya, Tripura, Mizoram."
+  },
+  {
+   "q": "Which states are covered under the Sixth Schedule?",
+   "o": [
+    "Assam, Nagaland, Manipur, Sikkim",
+    "Assam, Bihar, Odisha, Jharkhand",
+    "Assam, Meghalaya, Tripura, Mizoram",
+    "Meghalaya, Goa, Nagaland, Arunachal"
+   ],
+   "a": 2,
+   "e": "Trick: ATM - Assam, Tripura, Meghalaya, Mizoram."
+  },
+  {
+   "q": "Which language is mainly spoken in Mizoram?",
+   "o": [
+    "Ao",
+    "Bodo",
+    "Konkani",
+    "Mizo"
+   ],
+   "a": 3,
+   "e": "Mizo is Tibeto-Burman; Ao is a language of Nagaland."
+  },
+  {
+   "q": "The Ao language is associated with which state?",
+   "o": [
+    "Nagaland",
+    "Mizoram",
+    "Assam",
+    "Manipur"
+   ],
+   "a": 0,
+   "e": "Ao is the language of the Ao Naga tribe."
+  },
+  {
+   "q": "The most widely spoken languages in India belong to which language family?",
+   "o": [
+    "Dravidian",
+    "Indo-European (Indo-Aryan)",
+    "Austroasiatic",
+    "Sino-Tibetan"
+   ],
+   "a": 1,
+   "e": "About three-quarters of the population; Hindi belongs to this family."
+  },
+  {
+   "q": "The languages of South India (Tamil, Telugu, Kannada, Malayalam) belong to which family?",
+   "o": [
+    "Indo-European",
+    "Austric",
+    "Dravidian",
+    "Sino-Tibetan"
+   ],
+   "a": 2,
+   "e": "About 20% of the population."
+  },
+  {
+   "q": "Sanskrit belongs to which language family?",
+   "o": [
+    "Dravidian",
+    "Austric",
+    "Sino-Tibetan",
+    "Indo-European"
+   ],
+   "a": 3,
+   "e": "Sanskrit belongs to the Indo-Aryan branch."
+  },
+  {
+   "q": "Austric family languages are mainly spoken in which part of India?",
+   "o": [
+    "Central-eastern and north-eastern India",
+    "Only South India",
+    "Only West India",
+    "Only the north-west"
+   ],
+   "a": 0,
+   "e": "Santhali (Jharkhand) and Khasi (Meghalaya) belong to this family."
+  },
+  {
+   "q": "Sino-Tibetan languages are mainly spoken in which region?",
+   "o": [
+    "South India",
+    "Himalayan/North-eastern region",
+    "Rajasthan",
+    "Gujarat"
+   ],
+   "a": 1,
+   "e": "Bodo, Mizo etc. belong to this family."
+  },
+  {
+   "q": "Which of the following statements about Sanskrit is correct?",
+   "o": [
+    "It is the national language of India",
+    "It is the root of all Indian languages",
+    "It is included in the Eighth Schedule of the Constitution",
+    "It was added to the Eighth Schedule by the 92nd Amendment"
+   ],
+   "a": 2,
+   "e": "Sanskrit was among the original 14 languages; India has no national language."
+  },
+  {
+   "q": "Has the Indian Constitution declared any national language?",
+   "o": [
+    "Yes, Hindi",
+    "Yes, Sanskrit",
+    "Yes, Hindi and English",
+    "No, it only provides for official languages"
+   ],
+   "a": 3,
+   "e": "The Constitution speaks only of official languages (343-351)."
+  },
+  {
+   "q": "When was the Official Language Commission to be constituted?",
+   "o": [
+    "After 5 years, then after 10 years",
+    "After 2 years",
+    "After 15 years",
+    "After 20 years"
+   ],
+   "a": 0,
+   "e": "Under Article 344, constituted by the President."
+  },
+  {
+   "q": "The Eighth Schedule of the Indian Constitution relates to:",
+   "o": [
+    "Panchayats",
+    "Languages",
+    "Land reforms",
+    "Anti-defection"
+   ],
+   "a": 1,
+   "e": "A total of 22 languages."
+  },
+  {
+   "q": "What is mainly the language of proceedings in the Supreme Court?",
+   "o": [
+    "Hindi",
+    "Sanskrit",
+    "English",
+    "Urdu"
+   ],
+   "a": 2,
+   "e": "Article 348(1)."
+  },
+  {
+   "q": "Which of the following DPSPs is purely Gandhian in nature?",
+   "o": [
+    "Article 39(a)",
+    "Article 39(d)",
+    "Article 38(2)",
+    "Article 40 (village panchayats)"
+   ],
+   "a": 3,
+   "e": "Panchayats, cottage industries, co-operatives, SC/ST upliftment, prohibition, agriculture - Gandhian."
+  },
+  {
+   "q": "Which of the following DPSPs falls in the Liberal-Intellectual category?",
+   "o": [
+    "Article 44 (Uniform Civil Code)",
+    "Article 40",
+    "Article 43",
+    "Article 47"
+   ],
+   "a": 0,
+   "e": "UCC, separation of judiciary, international peace, monuments - liberal-intellectual."
+  },
+  {
+   "q": "Which of the following DPSPs belongs to the Socialist category?",
+   "o": [
+    "Article 40",
+    "Article 39(d) - equal pay for equal work",
+    "Article 48",
+    "Article 46"
+   ],
+   "a": 1,
+   "e": "DPSPs on workers and inequality are socialist."
+  },
+  {
+   "q": "Which statement about DPSPs is correct?",
+   "o": [
+    "They can be enforced under Article 32",
+    "They are justiciable",
+    "They cannot be enforced by a citizen through a writ petition",
+    "They apply only to Parliament"
+   ],
+   "a": 2,
+   "e": "DPSPs are non-enforceable but fundamental in governance."
+  },
+  {
+   "q": "What did Dr. Ambedkar call Article 32?",
+   "o": [
+    "Key to the Constitution",
+    "Mirror of the Constitution",
+    "Novel feature",
+    "Heart and soul of the Constitution"
+   ],
+   "a": 3,
+   "e": "Right to Constitutional Remedies."
+  },
+  {
+   "q": "The 1971 amendment declaring that Parliament can amend Fundamental Rights was passed under which Prime Minister?",
+   "o": [
+    "Indira Gandhi",
+    "Jawaharlal Nehru",
+    "Morarji Desai",
+    "Atal Bihari Vajpayee"
+   ],
+   "a": 0,
+   "e": "The 24th and 25th Amendments were passed in 1971."
+  },
+  {
+   "q": "Clause (k), the 11th Fundamental Duty, was added under which Prime Minister?",
+   "o": [
+    "Indira Gandhi",
+    "Atal Bihari Vajpayee",
+    "Rajiv Gandhi",
+    "Manmohan Singh"
+   ],
+   "a": 1,
+   "e": "86th Amendment, 2002; the other 10 were added under Indira Gandhi."
+  },
+  {
+   "q": "Which Fundamental Right was added by the 86th Amendment, 2002?",
+   "o": [
+    "Article 19A",
+    "Article 20A",
+    "Article 21A (education for ages 6-14)",
+    "Article 22A"
+   ],
+   "a": 2,
+   "e": "Right to elementary education."
+  },
+  {
+   "q": "In the trick 'LDC goes to PHC' for Article 39, what does 'L' (clause (a)) stand for?",
+   "o": [
+    "Labour",
+    "Law",
+    "Land",
+    "Livelihood"
+   ],
+   "a": 3,
+   "e": "L-D-C: Livelihood, Distribution, Concentration; P-H-C: Pay, Health, Children."
+  },
+  {
+   "q": "In the trick 'LDC goes to PHC', what does 'P' stand for?",
+   "o": [
+    "Equal pay for equal work (Pay)",
+    "Property",
+    "Panchayat",
+    "Public assistance"
+   ],
+   "a": 0,
+   "e": "39(d) = equal pay for equal work."
+  },
+  {
+   "q": "What was the memory trick suggested for Article 51 (peace)?",
+   "o": [
+    "Donate Rs 51",
+    "Offer Rs 51 as prasad and pray for peace",
+    "Light 51 lamps",
+    "Plant 51 trees"
+   ],
+   "a": 1,
+   "e": "Article 51 = international peace."
+  }
+ ]
+}
