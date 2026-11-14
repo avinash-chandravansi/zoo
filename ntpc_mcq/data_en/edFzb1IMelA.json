@@ -1,0 +1,1782 @@
+{
+ "title": "Geography Lec 1",
+ "summary": [
+  "Latitudes are horizontal and longitudes are vertical imaginary lines; there are 181 latitudes and 360 longitudes in all.",
+  "The Equator (0°) is a great circle; Tropic of Cancer 23½° N, Tropic of Capricorn 23½° S, Arctic/Antarctic Circles 66½° N/S.",
+  "The Sun is overhead on the Tropic of Cancer on 21 June (summer solstice) and on the Tropic of Capricorn on 22 December (winter solstice); the equinoxes (Sun over the Equator) fall on 21 March and 23 September.",
+  "The Earth's axis is tilted at 23½°; beyond 66½° there are 6 months of day and 6 months of night. The Equator and both Tropics pass through Africa; the Equator does not pass through Europe.",
+  "8 states on the Tropic of Cancer: trick 'Gujarati Raja Made Chief Justice Win The Meeting' (Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, WB, Tripura, Mizoram).",
+  "15° = 1 hour, 1° = 4 minutes; IST is based on 82½° E (Mirzapur), 5½ hours ahead of GMT; the IDL follows 180° in the Pacific with zigzags.",
+  "India: latitude 8°4′–37°6′ N, longitude 68°7′–97°25′ E; N–S 3,214 km, E–W 2,933 km; westernmost Guhar Moti, easternmost Kibithu, northernmost Indira Col, southernmost Kanyakumari (Indira Point including islands).",
+  "Lakshadweep is the smallest UT (32.6 sq km); the 8° Channel separates Minicoy from the Maldives; Andaman and Nicobar are separated by the 10° Channel; Saddle Peak 732 m; Barren Island is an active volcano; capital Sri Vijaya Puram.",
+  "UNCLOS: internal waters, territorial sea 12 nautical miles, contiguous zone 24, EEZ 200, then the high seas; 1 nautical mile = 1.85 km.",
+  "India's land border is 15,106 km: Bangladesh > China > Pakistan > Nepal > Myanmar > Bhutan > Afghanistan; Bhutan states - 'BASA', Nepal - 'SUBU', Myanmar - 'Arunamami'.",
+  "Boundary lines: McMahon - China, Radcliffe - Pakistan/Bangladesh, Durand - Afghanistan/Pakistan; Sikkim: 35th (1974) and 36th (1975) Amendments, Article 371F; passes: Nathu La, Jelep La (Sikkim), Lipulekh, Mana, Niti (Uttarakhand).",
+  "Coastline about 11,098 km; 9 states and 4 UTs; Gujarat longest, Goa shortest; coasts: Malabar, Kannada, Konkan, Coromandel, Northern Circars, Utkal.",
+  "India has 6 physiographic divisions; the Thar is the world's most densely populated desert; the Chicken's Neck corridor and the Kaladan project (Sittwe port) are important.",
+  "Winds: trade winds, westerlies, polar easterlies; ITCZ/doldrums at the Equator, horse latitudes at 30°; Hadley, Ferrel and Polar cells; Coriolis force deflects right in the north, left in the south; southern westerlies: Roaring Forties, Furious Fifties, Shrieking Sixties.",
+  "Local winds: Loo, Chinook (snow eater), Bora and Mistral (cold), Sirocco, Harmattan (doctor wind), Khamsin; wind erosion forms yardangs, inselbergs, mushroom rocks, pediplains; deposition forms barchans, seifs, parabolic dunes."
+ ],
+ "mcqs": [
+  {
+   "q": "The tropical climatic zone is mainly confined to which latitudinal belt?",
+   "o": [
+    "0° to 66½° N",
+    "66½° N to 90° N",
+    "23½° N to 23½° S",
+    "23½° N to 66½° N"
+   ],
+   "a": 2,
+   "e": "The belt between the Tropics of Cancer and Capricorn is the Torrid Zone, where the Sun's rays fall vertically."
+  },
+  {
+   "q": "Lines of latitude are imaginary lines of which type?",
+   "o": [
+    "Vertical lines drawn north-south",
+    "Horizontal lines (circles) drawn east-west",
+    "Lines that meet only at the poles",
+    "Lines that are all of equal length"
+   ],
+   "a": 1,
+   "e": "Latitudes are horizontal circles and longitudes are vertical lines; together they locate any place on a map."
+  },
+  {
+   "q": "How many lines of latitude are there on the Earth in total?",
+   "o": [
+    "360",
+    "180",
+    "90",
+    "181"
+   ],
+   "a": 3,
+   "e": "Equator (0°) + 90 north + 90 south = 181 latitudes."
+  },
+  {
+   "q": "How many lines of longitude are there on the Earth in total?",
+   "o": [
+    "360",
+    "180",
+    "90",
+    "181"
+   ],
+   "a": 0,
+   "e": "Longitudes run 0°–180° E and 0°–180° W, totalling 360."
+  },
+  {
+   "q": "The Equator (0° latitude) forms the largest circle on the Earth and is therefore called a:",
+   "o": [
+    "International Date Line",
+    "Great circle",
+    "Prime Meridian",
+    "Small circle"
+   ],
+   "a": 1,
+   "e": "The Equator divides the Earth into two equal hemispheres, northern and southern."
+  },
+  {
+   "q": "The Tropic of Cancer lies at which latitude?",
+   "o": [
+    "66½° N",
+    "23½° N",
+    "23½° S",
+    "0°"
+   ],
+   "a": 1,
+   "e": "23½° N latitude is called the Tropic of Cancer."
+  },
+  {
+   "q": "The Tropic of Capricorn lies at which latitude?",
+   "o": [
+    "66½° S",
+    "23½° N",
+    "23½° S",
+    "90° S"
+   ],
+   "a": 2,
+   "e": "The Sun's rays fall vertically only between the two Tropics."
+  },
+  {
+   "q": "The Arctic Circle lies at which latitude?",
+   "o": [
+    "23½° N",
+    "66½° S",
+    "66½° N",
+    "90° N"
+   ],
+   "a": 2,
+   "e": "66½° S is the Antarctic Circle; from these circles to the poles lies the Frigid Zone."
+  },
+  {
+   "q": "The region between 23½° and 66½° latitude is called the:",
+   "o": [
+    "Torrid Zone",
+    "Temperate Zone",
+    "Equatorial Zone",
+    "Frigid Zone"
+   ],
+   "a": 1,
+   "e": "This zone receives slanting rays of the Sun, so temperatures are moderate."
+  },
+  {
+   "q": "What happens when the Sun's rays fall slantingly?",
+   "o": [
+    "Day length becomes zero",
+    "There is no difference in heating",
+    "The rays spread over a larger area, so heating is less",
+    "The rays concentrate on a point and increase heating"
+   ],
+   "a": 2,
+   "e": "Direct rays concentrate on a smaller area and give more heat (like a convex lens)."
+  },
+  {
+   "q": "The shape of the Earth is known as:",
+   "o": [
+    "A perfect sphere",
+    "Cylindrical",
+    "Geoid / oblate spheroid",
+    "A flat disc"
+   ],
+   "a": 2,
+   "e": "The Earth is slightly flattened at the poles, so it is not a perfect sphere."
+  },
+  {
+   "q": "By how many degrees is the Earth's axis tilted?",
+   "o": [
+    "23½°",
+    "45°",
+    "90°",
+    "66½°"
+   ],
+   "a": 0,
+   "e": "The axis is tilted 23½° from the vertical, i.e. it makes 66½° with the orbital plane."
+  },
+  {
+   "q": "During the June solstice, which of these latitudes has the longest day (most daylight)?",
+   "o": [
+    "66½° S",
+    "0°",
+    "23½° S",
+    "66½° N"
+   ],
+   "a": 3,
+   "e": "With the Northern Hemisphere tilted towards the Sun, areas beyond 66½° N get continuous daylight; the Sun is overhead at the Tropic of Cancer."
+  },
+  {
+   "q": "On 21 June, the Sun's rays fall vertically on which line?",
+   "o": [
+    "Equator",
+    "Tropic of Cancer",
+    "Tropic of Capricorn",
+    "Arctic Circle"
+   ],
+   "a": 1,
+   "e": "This is the summer solstice: the longest day and shortest night in the Northern Hemisphere."
+  },
+  {
+   "q": "On 22 December, the Sun's rays fall vertically on which line?",
+   "o": [
+    "Tropic of Capricorn",
+    "Tropic of Cancer",
+    "Antarctic Circle",
+    "Equator"
+   ],
+   "a": 0,
+   "e": "This is the winter solstice: the longest night in the Northern Hemisphere."
+  },
+  {
+   "q": "Which are the dates of the equinoxes, when day and night are equal?",
+   "o": [
+    "23 September and 22 December",
+    "21 March and 23 September",
+    "21 June and 22 December",
+    "21 March and 21 June"
+   ],
+   "a": 1,
+   "e": "On these days the Sun is overhead at the Equator and day and night are equal everywhere."
+  },
+  {
+   "q": "What is the event of 23 September called?",
+   "o": [
+    "Autumnal Equinox",
+    "Vernal Equinox",
+    "Winter Solstice",
+    "Summer Solstice"
+   ],
+   "a": 0,
+   "e": "The Vernal (Spring) Equinox falls on 21 March."
+  },
+  {
+   "q": "Beyond which latitude (towards the poles) do six months of day and six months of night occur?",
+   "o": [
+    "Beyond 66½° up to the poles",
+    "At 0°",
+    "Beyond 23½°",
+    "At 45°"
+   ],
+   "a": 0,
+   "e": "Because of the Earth's tilt, polar day and night occur beyond the Arctic/Antarctic Circles."
+  },
+  {
+   "q": "The Equator does NOT pass through which of the following continents?",
+   "o": [
+    "Asia",
+    "South America",
+    "Africa",
+    "Europe"
+   ],
+   "a": 3,
+   "e": "The Equator passes through Africa, South America and Asia (Indonesia, Maldives)."
+  },
+  {
+   "q": "Which continent is crossed by the Equator, the Tropic of Cancer and the Tropic of Capricorn?",
+   "o": [
+    "South America",
+    "Australia",
+    "Asia",
+    "Africa"
+   ],
+   "a": 3,
+   "e": "Africa is also the continent with the largest number of countries."
+  },
+  {
+   "q": "The Tropic of Cancer does NOT pass through which continent?",
+   "o": [
+    "North America",
+    "Asia",
+    "Australia",
+    "Africa"
+   ],
+   "a": 2,
+   "e": "The Tropic of Capricorn passes through South America, Africa and Australia."
+  },
+  {
+   "q": "The Tropic of Cancer passes through how many Indian states?",
+   "o": [
+    "10",
+    "5",
+    "8",
+    "6"
+   ],
+   "a": 2,
+   "e": "Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura and Mizoram."
+  },
+  {
+   "q": "The Tropic of Cancer does NOT pass through which of these Indian states?",
+   "o": [
+    "Odisha",
+    "Tripura",
+    "Jharkhand",
+    "Chhattisgarh"
+   ],
+   "a": 0,
+   "e": "Trick: 'Gujarati Raja Made Chief Justice Win The Meeting' (Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, WB, Tripura, Mizoram)."
+  },
+  {
+   "q": "The International Date Line (IDL) roughly follows which meridian?",
+   "o": [
+    "82½° E",
+    "0°",
+    "180°",
+    "90° E"
+   ],
+   "a": 2,
+   "e": "It runs through the Pacific and zigzags so that small island nations do not have two different dates."
+  },
+  {
+   "q": "The International Date Line mainly passes through which ocean?",
+   "o": [
+    "Arctic Ocean",
+    "Pacific Ocean",
+    "Indian Ocean",
+    "Atlantic Ocean"
+   ],
+   "a": 1,
+   "e": "The Pacific is the largest and deepest ocean."
+  },
+  {
+   "q": "When crossing the International Date Line westwards (from America towards Asia), what must be done?",
+   "o": [
+    "Subtract one day",
+    "The date stays the same",
+    "Add one day",
+    "Add 12 hours"
+   ],
+   "a": 2,
+   "e": "Crossing eastwards, one day is subtracted."
+  },
+  {
+   "q": "Which is the correct order of oceans from largest to smallest?",
+   "o": [
+    "Atlantic, Pacific, Indian, Arctic, Southern",
+    "Pacific, Atlantic, Indian, Southern, Arctic",
+    "Indian, Pacific, Atlantic, Arctic, Southern",
+    "Pacific, Indian, Atlantic, Southern, Arctic"
+   ],
+   "a": 1,
+   "e": "The Arctic is the smallest ocean; the Indian Ocean is the only ocean named after a country."
+  },
+  {
+   "q": "The Mariana Trench, the deepest point on Earth, lies in which ocean?",
+   "o": [
+    "Pacific Ocean",
+    "Indian Ocean",
+    "Atlantic Ocean",
+    "Arctic Ocean"
+   ],
+   "a": 0,
+   "e": "The Pacific is the largest and deepest ocean."
+  },
+  {
+   "q": "Which is the busiest ocean, shaped like the letter S?",
+   "o": [
+    "Indian Ocean",
+    "Atlantic Ocean",
+    "Arctic Ocean",
+    "Pacific Ocean"
+   ],
+   "a": 1,
+   "e": "It lies between the Americas, Europe and Africa, making it the busiest trade route."
+  },
+  {
+   "q": "In which ocean is the Sargasso Sea located, and what is it named after?",
+   "o": [
+    "Indian Ocean; corals",
+    "South Atlantic; mangroves",
+    "North Pacific; Sargassum (brown seaweed)",
+    "North Atlantic; Sargassum (brown seaweed)"
+   ],
+   "a": 3,
+   "e": "It is a 'sea without shores', bounded only by ocean currents."
+  },
+  {
+   "q": "What is the longitudinal extent of India?",
+   "o": [
+    "8°4′ E to 37°6′ E",
+    "68°7′ E to 97°25′ E",
+    "72°7′ E to 90°25′ E",
+    "68°7′ N to 97°25′ N"
+   ],
+   "a": 1,
+   "e": "Memory trick: western limit 68° + about 30° gives 97–98°."
+  },
+  {
+   "q": "What is the latitudinal extent of India?",
+   "o": [
+    "0° to 30° N",
+    "6°45′ N to 35°30′ N",
+    "8°4′ E to 37°6′ E",
+    "8°4′ N to 37°6′ N"
+   ],
+   "a": 3,
+   "e": "Adding about 29–30° to the southern limit of 8°4′ gives 37°."
+  },
+  {
+   "q": "What is the approximate distance between two consecutive latitudes?",
+   "o": [
+    "Zero at the poles",
+    "About 55 km",
+    "Least at the Equator and greatest at the poles",
+    "About 111 km, nearly the same everywhere"
+   ],
+   "a": 3,
+   "e": "In contrast, the distance between two longitudes is greatest at the Equator (111.32 km) and zero at the poles."
+  },
+  {
+   "q": "Where is the distance between two longitudes the greatest?",
+   "o": [
+    "At the Equator (about 111.32 km)",
+    "At 66½°",
+    "At the Tropic of Cancer",
+    "At the poles"
+   ],
+   "a": 0,
+   "e": "It decreases towards the poles and becomes zero at the poles."
+  },
+  {
+   "q": "The 0° longitude (Prime Meridian) passes through which place?",
+   "o": [
+    "Beijing",
+    "New York",
+    "Paris",
+    "Greenwich (London)"
+   ],
+   "a": 3,
+   "e": "It is the basis of Greenwich Mean Time (GMT); it was chosen largely due to Britain's dominance."
+  },
+  {
+   "q": "How many degrees does the Earth rotate in 1 hour, and how long does it take to rotate 1°?",
+   "o": [
+    "15°; 4 minutes",
+    "30°; 2 minutes",
+    "10°; 6 minutes",
+    "15°; 6 minutes"
+   ],
+   "a": 0,
+   "e": "360° ÷ 24 hours = 15° per hour, so 1° = 4 minutes."
+  },
+  {
+   "q": "Into how many time zones is the Earth divided?",
+   "o": [
+    "12",
+    "24",
+    "15",
+    "36"
+   ],
+   "a": 1,
+   "e": "Each time zone spans 15° of longitude."
+  },
+  {
+   "q": "Indian Standard Time (IST) is based on which longitude?",
+   "o": [
+    "90° E",
+    "97½° E",
+    "82½° E",
+    "68° E"
+   ],
+   "a": 2,
+   "e": "IST is 5½ hours ahead of GMT."
+  },
+  {
+   "q": "By how much is IST ahead of GMT?",
+   "o": [
+    "4½ hours",
+    "5½ hours",
+    "6 hours",
+    "5 hours"
+   ],
+   "a": 1,
+   "e": "82.5° ÷ 15 = 5.5 hours; time is added when moving east."
+  },
+  {
+   "q": "If it is 12 noon IST, what will be the approximate local time at 97½° E longitude?",
+   "o": [
+    "11 a.m.",
+    "6 p.m.",
+    "1 p.m.",
+    "2 p.m."
+   ],
+   "a": 2,
+   "e": "97½° is 15° (1 hour) east of 82½°, so 1 hour is added."
+  },
+  {
+   "q": "While calculating local time, what is done when moving east of Greenwich?",
+   "o": [
+    "The date is subtracted",
+    "Time is subtracted",
+    "Time is added",
+    "Nothing changes"
+   ],
+   "a": 2,
+   "e": "Moving west, time is subtracted, because the Sun rises in the east."
+  },
+  {
+   "q": "Which of the following cities is closest to the Prime Meridian (0°)?",
+   "o": [
+    "Kanyakumari",
+    "Kolkata",
+    "Ahmedabad",
+    "Agartala"
+   ],
+   "a": 2,
+   "e": "The westernmost place is nearest to 0°; Ahmedabad lies in western India."
+  },
+  {
+   "q": "The 24° N latitude passes closest to the capital of which Indian state?",
+   "o": [
+    "Assam (Dispur)",
+    "Bihar (Patna)",
+    "Chhattisgarh (Raipur)",
+    "Madhya Pradesh (Bhopal)"
+   ],
+   "a": 3,
+   "e": "Being just half a degree north of the Tropic of Cancer (23½°), it runs through central Madhya Pradesh."
+  },
+  {
+   "q": "Which neighbouring country is separated from India by the Palk Strait?",
+   "o": [
+    "Sri Lanka",
+    "Myanmar",
+    "Bangladesh",
+    "Maldives"
+   ],
+   "a": 0,
+   "e": "The Palk Strait lies between India and Sri Lanka, as does the Gulf of Mannar."
+  },
+  {
+   "q": "Which two neighbouring countries share only a maritime (and no land) boundary with India?",
+   "o": [
+    "Sri Lanka and Maldives",
+    "Myanmar and Sri Lanka",
+    "Pakistan and Maldives",
+    "Bangladesh and Sri Lanka"
+   ],
+   "a": 0,
+   "e": "All the other listed neighbours share a land border with India."
+  },
+  {
+   "q": "Which is the smallest island of Lakshadweep?",
+   "o": [
+    "Minicoy",
+    "Bitra",
+    "Kavaratti",
+    "Andrott"
+   ],
+   "a": 1,
+   "e": "Bitra has an area of only about 0.105 sq km."
+  },
+  {
+   "q": "Which is the largest island of Lakshadweep?",
+   "o": [
+    "Bitra",
+    "Minicoy",
+    "Andrott",
+    "Agatti"
+   ],
+   "a": 2,
+   "e": "Andrott has an area of about 4.9 sq km."
+  },
+  {
+   "q": "Which is the southernmost island of Lakshadweep?",
+   "o": [
+    "Andrott",
+    "Minicoy",
+    "Kalpeni",
+    "Bitra"
+   ],
+   "a": 1,
+   "e": "The Maldives begin just south of Minicoy."
+  },
+  {
+   "q": "What separates Minicoy Island from the Maldives?",
+   "o": [
+    "10° Channel",
+    "Duncan Passage",
+    "8° Channel",
+    "9° Channel"
+   ],
+   "a": 2,
+   "e": "The 8° Channel lies between Lakshadweep (Minicoy) and the Maldives."
+  },
+  {
+   "q": "What is the capital of the Maldives?",
+   "o": [
+    "Male",
+    "Kathmandu",
+    "Thimphu",
+    "Colombo"
+   ],
+   "a": 0,
+   "e": "The language of the Maldives is Dhivehi; its President is Mohamed Muizzu."
+  },
+  {
+   "q": "What is the approximate total area of Lakshadweep, which makes it India's smallest Union Territory?",
+   "o": [
+    "About 326 sq km",
+    "About 32.6 sq km",
+    "About 8,249 sq km",
+    "About 3.26 sq km"
+   ],
+   "a": 1,
+   "e": "Lakshadweep is the smallest UT and Ladakh the largest."
+  },
+  {
+   "q": "The Garo, Khasi, Jaintia and Naga hills join which north-south running hills?",
+   "o": [
+    "Satpuras",
+    "Vindhyas",
+    "Mizo Hills (Arakan Yoma / Rakhine)",
+    "Nilgiris"
+   ],
+   "a": 2,
+   "e": "These are the Purvanchal hills; the Nilgiris are in the south and the Vindhyas-Satpuras in central India."
+  },
+  {
+   "q": "Which neighbour of India is the only ASEAN member with which India shares a land border?",
+   "o": [
+    "Thailand",
+    "Bangladesh",
+    "Bhutan",
+    "Myanmar"
+   ],
+   "a": 3,
+   "e": "Bangladesh, Nepal and Bhutan are not ASEAN members; Myanmar is India's gateway to ASEAN."
+  },
+  {
+   "q": "When and where was ASEAN founded, and where is its headquarters?",
+   "o": [
+    "1975 in Singapore; HQ Manila",
+    "1967 in Bangkok; HQ Jakarta",
+    "1967 in Bangkok; HQ Singapore",
+    "1967 in Jakarta; HQ Bangkok"
+   ],
+   "a": 1,
+   "e": "ASEAN stands for Association of Southeast Asian Nations."
+  },
+  {
+   "q": "Which states are covered by the trick 'Arunamami' for Indian states bordering Myanmar?",
+   "o": [
+    "Arunachal Pradesh, Assam, Tripura, Mizoram",
+    "Sikkim, Nagaland, Manipur, Mizoram",
+    "Assam, Nagaland, Manipur, Meghalaya",
+    "Arunachal Pradesh, Nagaland, Manipur, Mizoram"
+   ],
+   "a": 3,
+   "e": "Myanmar was formerly Burma; its capital is Naypyidaw."
+  },
+  {
+   "q": "Bhutan is known as the:",
+   "o": [
+    "Land of the White Elephant",
+    "Land of the Rising Sun",
+    "Land of a Thousand Lakes",
+    "Land of the Thunder Dragon"
+   ],
+   "a": 3,
+   "e": "Bhutan is known for its Gross National Happiness index and hydropower."
+  },
+  {
+   "q": "What is a strait?",
+   "o": [
+    "A group of islands in the sea",
+    "A strip of land joining two continents",
+    "A narrow waterway connecting/separating two large water bodies",
+    "The mouth of a river"
+   ],
+   "a": 2,
+   "e": "For example, the Strait of Hormuz connects the Persian Gulf with the Gulf of Oman."
+  },
+  {
+   "q": "The Strait of Hormuz connects which two water bodies?",
+   "o": [
+    "Arabian Sea and Bay of Bengal",
+    "Persian Gulf and Gulf of Oman",
+    "Red Sea and Mediterranean Sea",
+    "Andaman Sea and South China Sea"
+   ],
+   "a": 1,
+   "e": "It is a vital route for the global oil trade."
+  },
+  {
+   "q": "Which Sri Lankan port has been leased to China for 99 years?",
+   "o": [
+    "Galle",
+    "Colombo",
+    "Trincomalee",
+    "Hambantota"
+   ],
+   "a": 3,
+   "e": "It is a matter of strategic concern for India."
+  },
+  {
+   "q": "Which Indian Union Territory claims a border with Afghanistan?",
+   "o": [
+    "Himachal Pradesh",
+    "Jammu and Kashmir",
+    "Ladakh",
+    "Lakshadweep"
+   ],
+   "a": 2,
+   "e": "Ladakh is also the largest Union Territory."
+  },
+  {
+   "q": "Which Indian Union Territory is an island group in the Arabian Sea?",
+   "o": [
+    "Lakshadweep",
+    "Puducherry",
+    "Ladakh",
+    "Andaman and Nicobar Islands"
+   ],
+   "a": 0,
+   "e": "The Andaman and Nicobar Islands lie in the Bay of Bengal."
+  },
+  {
+   "q": "Which Union Territory has the highest sex ratio (1037)?",
+   "o": [
+    "Chandigarh",
+    "Delhi",
+    "Lakshadweep",
+    "Puducherry"
+   ],
+   "a": 3,
+   "e": "This is as per Census 2011."
+  },
+  {
+   "q": "The McMahon Line is the boundary between India and which country?",
+   "o": [
+    "Afghanistan",
+    "Myanmar",
+    "Pakistan",
+    "China"
+   ],
+   "a": 3,
+   "e": "The Radcliffe Line is between India and Pakistan/Bangladesh; the Durand Line between Afghanistan and Pakistan."
+  },
+  {
+   "q": "The Radcliffe Line is the boundary between which countries?",
+   "o": [
+    "India-Nepal",
+    "India-Afghanistan",
+    "India-Pakistan and India-Bangladesh",
+    "India-China"
+   ],
+   "a": 2,
+   "e": "Drawn by Sir Cyril Radcliffe in 1947, when Bangladesh was East Pakistan."
+  },
+  {
+   "q": "The Durand Line lies between which two countries?",
+   "o": [
+    "India and Pakistan",
+    "India and Bhutan",
+    "Afghanistan and Pakistan",
+    "India and China"
+   ],
+   "a": 2,
+   "e": "It is regarded as the international border between Pakistan and Afghanistan."
+  },
+  {
+   "q": "The 24th parallel, linked to the Sir Creek dispute, is related to which countries?",
+   "o": [
+    "India and Nepal",
+    "India and Bangladesh",
+    "India and China",
+    "India and Pakistan"
+   ],
+   "a": 3,
+   "e": "Sir Creek lies between Gujarat (Kutch) and Sindh in Pakistan."
+  },
+  {
+   "q": "What is the approximate east-west extent of the Indian mainland?",
+   "o": [
+    "About 2,933 km",
+    "About 3,500 km",
+    "About 3,214 km",
+    "About 2,500 km"
+   ],
+   "a": 0,
+   "e": "Measured from Gujarat to Arunachal Pradesh; the north-south extent (Kashmir to Kanyakumari) is 3,214 km."
+  },
+  {
+   "q": "What is the approximate north-south length of India?",
+   "o": [
+    "About 2,400 km",
+    "About 3,214 km",
+    "About 2,933 km",
+    "About 4,000 km"
+   ],
+   "a": 1,
+   "e": "India's north-south extent is greater than its east-west extent."
+  },
+  {
+   "q": "In which hemisphere does India lie?",
+   "o": [
+    "Northern-Western Hemisphere",
+    "Northern-Eastern Hemisphere",
+    "Southern-Western Hemisphere",
+    "Southern-Eastern Hemisphere"
+   ],
+   "a": 1,
+   "e": "The Equator lies to India's south and the Prime Meridian to its west."
+  },
+  {
+   "q": "The Standard Meridian of India (82½° E) passes through which five states?",
+   "o": [
+    "Uttar Pradesh, Madhya Pradesh, Maharashtra, Odisha, Tamil Nadu",
+    "Uttar Pradesh, Madhya Pradesh, Chhattisgarh, Odisha, Andhra Pradesh",
+    "Uttar Pradesh, Bihar, Jharkhand, Odisha, Telangana",
+    "Rajasthan, Madhya Pradesh, Chhattisgarh, Odisha, Karnataka"
+   ],
+   "a": 1,
+   "e": "It passes through Mirzapur (UP), known for the Mirzapur Clock Tower reference, and Naini near Prayagraj."
+  },
+  {
+   "q": "The IST meridian passes through which city, whose clock tower serves as its reference?",
+   "o": [
+    "Varanasi",
+    "Nagpur",
+    "Bhopal",
+    "Mirzapur"
+   ],
+   "a": 3,
+   "e": "82½° E passes through Mirzapur (and Naini near Prayagraj)."
+  },
+  {
+   "q": "What is the approximate difference in local solar time between Gujarat (Guhar Moti) and Arunachal Pradesh (Kibithu)?",
+   "o": [
+    "No difference",
+    "About 4 hours",
+    "About 1 hour",
+    "About 2 hours"
+   ],
+   "a": 3,
+   "e": "About 30° of longitude = 2 hours; being in the east, the Sun rises earlier in Arunachal."
+  },
+  {
+   "q": "Which is the easternmost village (inhabited point) of India?",
+   "o": [
+    "Kibithu (Arunachal Pradesh)",
+    "Guhar Moti (Gujarat)",
+    "Indira Col (Ladakh)",
+    "Kanyakumari (Tamil Nadu)"
+   ],
+   "a": 0,
+   "e": "Guhar Moti (Gujarat) is India's westernmost inhabited village."
+  },
+  {
+   "q": "Which is the westernmost inhabited village of India?",
+   "o": [
+    "Longwa",
+    "Kibithu",
+    "Mawlynnong",
+    "Guhar Moti (Gujarat)"
+   ],
+   "a": 3,
+   "e": "Guhar Moti lies in the Kutch region."
+  },
+  {
+   "q": "Which is the northernmost point of India?",
+   "o": [
+    "Indira Point",
+    "Cape Comorin",
+    "Kibithu",
+    "Indira Col (Ladakh)"
+   ],
+   "a": 3,
+   "e": "It lies in the Siachen region."
+  },
+  {
+   "q": "Which is the southernmost point of the Indian mainland?",
+   "o": [
+    "Pamban",
+    "Rameswaram",
+    "Cape Comorin (Kanyakumari)",
+    "Indira Point"
+   ],
+   "a": 2,
+   "e": "Kanyakumari is also known as Cape Comorin."
+  },
+  {
+   "q": "Which is India's southernmost point (including islands), submerged in the 2004 tsunami?",
+   "o": [
+    "Indira Point (Great Nicobar)",
+    "Cape Comorin",
+    "Port Blair",
+    "Little Andaman"
+   ],
+   "a": 0,
+   "e": "Indira Point lies in the Andaman and Nicobar Islands, not the mainland; it was submerged in the 2004 Boxing Day tsunami."
+  },
+  {
+   "q": "Which country is called the 'Land of the Rising Sun'?",
+   "o": [
+    "China",
+    "India",
+    "Japan",
+    "South Korea"
+   ],
+   "a": 2,
+   "e": "In India, Arunachal Pradesh is called the 'Land of the Rising Sun'."
+  },
+  {
+   "q": "Under UNCLOS, up to what distance from the baseline does India's territorial sea extend?",
+   "o": [
+    "24 nautical miles",
+    "200 nautical miles",
+    "12 nautical miles",
+    "6 nautical miles"
+   ],
+   "a": 2,
+   "e": "12 nautical miles is about 22 km."
+  },
+  {
+   "q": "Into how many maritime zones does the UN Convention on the Law of the Sea (UNCLOS) divide the sea?",
+   "o": [
+    "5",
+    "7",
+    "3",
+    "4"
+   ],
+   "a": 0,
+   "e": "Internal waters, territorial sea, contiguous zone, Exclusive Economic Zone (EEZ) and high seas."
+  },
+  {
+   "q": "Up to what distance from the baseline does the Contiguous Zone extend?",
+   "o": [
+    "100 nautical miles",
+    "200 nautical miles",
+    "24 nautical miles",
+    "12 nautical miles"
+   ],
+   "a": 2,
+   "e": "Here a country can enforce customs, sanitary and similar laws."
+  },
+  {
+   "q": "Up to what distance from the baseline does the Exclusive Economic Zone (EEZ) extend?",
+   "o": [
+    "12 nautical miles",
+    "No limit beyond 350 km",
+    "24 nautical miles",
+    "200 nautical miles"
+   ],
+   "a": 3,
+   "e": "The country has rights to explore and exploit resources here; beyond it lie the high seas (common heritage)."
+  },
+  {
+   "q": "1 nautical mile is approximately equal to how many kilometres?",
+   "o": [
+    "1 km",
+    "2.5 km",
+    "1.85 km",
+    "1.6 km"
+   ],
+   "a": 2,
+   "e": "It is the unit used to measure distances at sea."
+  },
+  {
+   "q": "Which statement about the high seas is correct?",
+   "o": [
+    "They are under India's control alone",
+    "They are part of the territorial sea",
+    "Only the coastal country may fish there",
+    "They are the common heritage of all nations; no country can claim them"
+   ],
+   "a": 3,
+   "e": "The high seas lie beyond the Exclusive Economic Zone (200 nautical miles)."
+  },
+  {
+   "q": "What is the updated (revised) total length of India's coastline?",
+   "o": [
+    "About 15,106 km",
+    "About 5,000 km",
+    "About 11,098 km",
+    "About 7,516 km"
+   ],
+   "a": 2,
+   "e": "It was earlier taken as 7,516 km; the revised figure including islands is about 11,098 km."
+  },
+  {
+   "q": "How many states and Union Territories in India have a coastline?",
+   "o": [
+    "9 states and 2 UTs",
+    "9 states and 4 UTs",
+    "7 states and 2 UTs",
+    "13 states and 4 UTs"
+   ],
+   "a": 1,
+   "e": "The UT with the longest coastline is the Andaman and Nicobar Islands."
+  },
+  {
+   "q": "Which state has the longest coastline?",
+   "o": [
+    "Tamil Nadu",
+    "Andhra Pradesh",
+    "Maharashtra",
+    "Gujarat"
+   ],
+   "a": 3,
+   "e": "As per the revised figures: Gujarat (about 2,340 km), Tamil Nadu, Andhra Pradesh (trick 'GTA')."
+  },
+  {
+   "q": "Which state and which Union Territory, respectively, have the shortest coastlines?",
+   "o": [
+    "Odisha and Puducherry",
+    "Goa and Puducherry",
+    "Goa and Lakshadweep",
+    "Kerala and Lakshadweep"
+   ],
+   "a": 1,
+   "e": "The UT with the longest coastline is the Andaman and Nicobar Islands."
+  },
+  {
+   "q": "Which of the following is NOT a geographical feature bordering the Thar Desert?",
+   "o": [
+    "Aravalli Range",
+    "Indus River",
+    "Rann of Kutch",
+    "Vindhya Range"
+   ],
+   "a": 3,
+   "e": "The Vindhyas lie in central India, far from the Thar."
+  },
+  {
+   "q": "How many physiographic divisions does India have?",
+   "o": [
+    "5",
+    "4",
+    "8",
+    "6"
+   ],
+   "a": 3,
+   "e": "Himalayas, Northern Plains, Peninsular Plateau, Coastal Plains, Islands and the Thar Desert."
+  },
+  {
+   "q": "Which is the most densely populated desert in the world?",
+   "o": [
+    "Gobi",
+    "Thar Desert",
+    "Sahara",
+    "Atacama"
+   ],
+   "a": 1,
+   "e": "The Indian part of the Thar covers about 1.7–2 lakh sq km."
+  },
+  {
+   "q": "Across which Indian states does the Thar Desert extend?",
+   "o": [
+    "Gujarat, Maharashtra, Karnataka, Rajasthan",
+    "Himachal Pradesh, Punjab, Haryana, Delhi",
+    "Rajasthan, Uttar Pradesh, Madhya Pradesh, Bihar",
+    "Rajasthan, Gujarat, Punjab, Haryana"
+   ],
+   "a": 3,
+   "e": "The Thar is a hot desert lying west/north-west of the Aravallis."
+  },
+  {
+   "q": "The India-Bhutan border is mainly defined by:",
+   "o": [
+    "Border fencing",
+    "A river",
+    "Mountains and treaties",
+    "Desert"
+   ],
+   "a": 2,
+   "e": "The India-Bhutan and India-Nepal borders are open borders guarded by the Sashastra Seema Bal (SSB)."
+  },
+  {
+   "q": "Which countries are covered by the trick 'Bachpan mein MBA' for India's land neighbours?",
+   "o": [
+    "Bangladesh, China, Iran, Nepal, Myanmar, Bhutan, Afghanistan",
+    "Bangladesh, China, Pakistan, Nepal, Myanmar, Bhutan, Sri Lanka",
+    "Bangladesh, China, Pakistan, Nepal, Myanmar, Bhutan, Afghanistan",
+    "Bangladesh, China, Pakistan, Nepal, Maldives, Bhutan, Afghanistan"
+   ],
+   "a": 2,
+   "e": "India's total international land border is about 15,106 km; the countries are listed in decreasing order of border length."
+  },
+  {
+   "q": "With which country does India share its longest land border?",
+   "o": [
+    "China",
+    "Bangladesh",
+    "Nepal",
+    "Pakistan"
+   ],
+   "a": 1,
+   "e": "About 4,096 km; China 3,488, Pakistan 3,323, Nepal 1,751, Myanmar 1,643, Bhutan 699, Afghanistan 106 km."
+  },
+  {
+   "q": "With which country does India share its shortest land border?",
+   "o": [
+    "Afghanistan",
+    "Myanmar",
+    "Nepal",
+    "Bhutan"
+   ],
+   "a": 0,
+   "e": "The border with Afghanistan is about 106 km long."
+  },
+  {
+   "q": "Which Indian state has the longest border with Bangladesh?",
+   "o": [
+    "Tripura",
+    "West Bengal",
+    "Meghalaya",
+    "Assam"
+   ],
+   "a": 1,
+   "e": "States bordering Bangladesh: West Bengal, Assam, Meghalaya, Tripura, Mizoram."
+  },
+  {
+   "q": "Which states are covered by the trick 'BASA' for states bordering Bhutan?",
+   "o": [
+    "West Bengal, Assam, Sikkim, Meghalaya",
+    "Bihar, Assam, Sikkim, Arunachal Pradesh",
+    "West Bengal, Arunachal Pradesh, Nagaland, Sikkim",
+    "West Bengal, Assam, Sikkim, Arunachal Pradesh"
+   ],
+   "a": 3,
+   "e": "The capital of Bhutan is Thimphu."
+  },
+  {
+   "q": "Which states are covered by the trick 'SUBU' for states bordering Nepal?",
+   "o": [
+    "Sikkim, Uttar Pradesh, Bihar, Assam, Uttarakhand",
+    "Arunachal Pradesh, Uttar Pradesh, Bihar, West Bengal, Uttarakhand",
+    "Sikkim, Uttar Pradesh, Bihar, West Bengal, Uttarakhand",
+    "Sikkim, Himachal Pradesh, Bihar, West Bengal, Uttarakhand"
+   ],
+   "a": 2,
+   "e": "Five Indian states border Nepal."
+  },
+  {
+   "q": "As per the trick 'MAM Take Water', which is the correct list of states bordering Bangladesh?",
+   "o": [
+    "Meghalaya, Arunachal Pradesh, Mizoram, Tripura, West Bengal",
+    "Meghalaya, Assam, Manipur, Tripura, West Bengal",
+    "Meghalaya, Assam, Mizoram, Nagaland, West Bengal",
+    "Meghalaya, Assam, Mizoram, Tripura, West Bengal"
+   ],
+   "a": 3,
+   "e": "Tripura is surrounded by Bangladesh on three sides."
+  },
+  {
+   "q": "What is known as the 'Chicken's Neck' corridor?",
+   "o": [
+    "Tawang region of Arunachal Pradesh",
+    "Siliguri Corridor of West Bengal linking the North-East to the rest of India",
+    "Wakhan Corridor of Ladakh",
+    "Nathu La Pass of Sikkim"
+   ],
+   "a": 1,
+   "e": "This narrow corridor lies between Nepal, Bhutan and Bangladesh and is strategically very sensitive."
+  },
+  {
+   "q": "The Kaladan Multi-Modal Project connects India to which port of Myanmar?",
+   "o": [
+    "Sittwe",
+    "Kyaukphyu",
+    "Mandalay",
+    "Yangon"
+   ],
+   "a": 0,
+   "e": "It runs from Kolkata via Sittwe to Mizoram, giving India alternative access to the North-East."
+  },
+  {
+   "q": "Which Indian state is surrounded by Bangladesh on three sides?",
+   "o": [
+    "Meghalaya",
+    "Assam",
+    "Mizoram",
+    "Tripura"
+   ],
+   "a": 3,
+   "e": "Tripura shares an international border only with Bangladesh."
+  },
+  {
+   "q": "Which Indian state shares borders with China, Nepal and Bhutan?",
+   "o": [
+    "Arunachal Pradesh",
+    "West Bengal",
+    "Sikkim",
+    "Uttarakhand"
+   ],
+   "a": 2,
+   "e": "States bordering three countries: West Bengal (Nepal, Bhutan, Bangladesh), Sikkim (China, Nepal, Bhutan), Arunachal (China, Bhutan, Myanmar)."
+  },
+  {
+   "q": "West Bengal shares borders with which three countries?",
+   "o": [
+    "Nepal, Bhutan, Bangladesh",
+    "Nepal, Bhutan, China",
+    "Bhutan, China, Bangladesh",
+    "Nepal, Myanmar, Bangladesh"
+   ],
+   "a": 0,
+   "e": "Its longest international border is with Bangladesh."
+  },
+  {
+   "q": "Arunachal Pradesh shares borders with which three countries?",
+   "o": [
+    "China, Nepal, Bhutan",
+    "Bhutan, Bangladesh, Myanmar",
+    "China (Tibet), Bhutan, Myanmar",
+    "China, Myanmar, Bangladesh"
+   ],
+   "a": 2,
+   "e": "Myanmar was formerly Burma; its capital is Naypyidaw."
+  },
+  {
+   "q": "Which Constitutional Amendment gave Sikkim the status of an Associate State?",
+   "o": [
+    "42nd Amendment, 1976",
+    "35th Amendment, 1974",
+    "36th Amendment, 1975",
+    "26th Amendment, 1971"
+   ],
+   "a": 1,
+   "e": "The 36th Amendment (1975) made it a full state; Article 371F contains its special provisions."
+  },
+  {
+   "q": "Which Article contains special provisions for Sikkim?",
+   "o": [
+    "Article 371J",
+    "Article 370",
+    "Article 371F",
+    "Article 371A"
+   ],
+   "a": 2,
+   "e": "Sikkim was earlier ruled by the Chogyal dynasty; it is India's least populous state."
+  },
+  {
+   "q": "Which is the smallest state of India by population?",
+   "o": [
+    "Sikkim",
+    "Goa",
+    "Mizoram",
+    "Arunachal Pradesh"
+   ],
+   "a": 0,
+   "e": "Sikkim has the Nathu La and Jelep La passes."
+  },
+  {
+   "q": "Which are the two major passes located in Sikkim?",
+   "o": [
+    "Bomdila and Bum La",
+    "Shipki La and Rohtang",
+    "Nathu La and Jelep La",
+    "Niti and Mana"
+   ],
+   "a": 2,
+   "e": "Both passes lie on the India-China (Tibet) border."
+  },
+  {
+   "q": "In which state are the Lipulekh, Mana and Niti passes located?",
+   "o": [
+    "Arunachal Pradesh",
+    "Sikkim",
+    "Himachal Pradesh",
+    "Uttarakhand"
+   ],
+   "a": 3,
+   "e": "Muling La is another pass in Uttarakhand."
+  },
+  {
+   "q": "The Lipulekh Pass lies at the tri-junction of which three countries?",
+   "o": [
+    "India, China and Pakistan",
+    "India, China and Myanmar",
+    "India, Nepal and China (Tibet)",
+    "India, Nepal and Bhutan"
+   ],
+   "a": 2,
+   "e": "India and Nepal dispute Kalapani, Lipulekh and Limpiyadhura."
+  },
+  {
+   "q": "The Kalapani dispute is between India and which country?",
+   "o": [
+    "Bhutan",
+    "Myanmar",
+    "Nepal",
+    "China"
+   ],
+   "a": 2,
+   "e": "Kalapani, Lipulekh and Limpiyadhura form a disputed area adjoining Uttarakhand."
+  },
+  {
+   "q": "What is the name of the point where India, China and Myanmar meet?",
+   "o": [
+    "Diphu Pass (Arunachal Pradesh)",
+    "Bomdila",
+    "Lipulekh",
+    "Nathu La"
+   ],
+   "a": 0,
+   "e": "It marks the India-China-Myanmar tri-junction."
+  },
+  {
+   "q": "Which of the following passes is NOT in Arunachal Pradesh?",
+   "o": [
+    "Yonggyap",
+    "Nathu La",
+    "Bomdila",
+    "Bum La"
+   ],
+   "a": 1,
+   "e": "Nathu La is in Sikkim; Arunachal has Bum La, Bomdila, Yonggyap, Dihang and Diphu passes."
+  },
+  {
+   "q": "In which part of India is the Coromandel Coast located?",
+   "o": [
+    "South-western India",
+    "North-eastern India",
+    "North-western India",
+    "South-eastern India (Tamil Nadu)"
+   ],
+   "a": 3,
+   "e": "Eastern Coastal Plains: Utkal (Odisha), Northern Circars (Andhra), Coromandel (Tamil Nadu)."
+  },
+  {
+   "q": "What is the Kerala section of India's Western Coastal Plain called?",
+   "o": [
+    "Kannada Coast",
+    "Coromandel Coast",
+    "Konkan Coast",
+    "Malabar Coast"
+   ],
+   "a": 3,
+   "e": "The Karnataka section is the Kannada Coast and the Maharashtra-Goa section is the Konkan Coast."
+  },
+  {
+   "q": "What is the coastal plain of Andhra Pradesh called?",
+   "o": [
+    "Coromandel",
+    "Malabar",
+    "Utkal",
+    "Northern Circars"
+   ],
+   "a": 3,
+   "e": "The coastal plain of Odisha is called the Utkal Coast."
+  },
+  {
+   "q": "Which statement correctly differentiates the Eastern and Western Coastal Plains?",
+   "o": [
+    "The eastern coast is narrow and submerged",
+    "Both are equally wide",
+    "The eastern coast is wide and emergent; the western coast is narrow and submerged",
+    "The western coast is wide and emergent"
+   ],
+   "a": 2,
+   "e": "The wide eastern coast suits port development, but most of its ports are artificial."
+  },
+  {
+   "q": "The Strait of Malacca connects which two water bodies?",
+   "o": [
+    "Bay of Bengal and Arabian Sea",
+    "Andaman Sea and South China Sea",
+    "Arabian Sea and Red Sea",
+    "Persian Gulf and Gulf of Oman"
+   ],
+   "a": 1,
+   "e": "It is a major international trade route that gives the Andaman and Nicobar Islands strategic importance."
+  },
+  {
+   "q": "What separates the Andaman Islands from the Nicobar Islands?",
+   "o": [
+    "10° Channel",
+    "Palk Strait",
+    "8° Channel",
+    "Duncan Passage"
+   ],
+   "a": 0,
+   "e": "The Andamans lie north and the Nicobars south of the 10° Channel."
+  },
+  {
+   "q": "The Duncan Passage separates which two islands?",
+   "o": [
+    "North Andaman and Middle Andaman",
+    "South Andaman and Little Andaman",
+    "Great Nicobar and Little Nicobar",
+    "Little Andaman and Car Nicobar"
+   ],
+   "a": 1,
+   "e": "The 10° Channel separates Little Andaman from Car Nicobar."
+  },
+  {
+   "q": "Which is the highest peak of the Andaman and Nicobar Islands?",
+   "o": [
+    "Mount Diavolo",
+    "Mount Thuillier",
+    "Mount Koyob",
+    "Saddle Peak (732 m)"
+   ],
+   "a": 3,
+   "e": "Saddle Peak is in North Andaman; next come Mount Thuillier (Great Nicobar), Mount Diavolo (Middle Andaman) and Mount Koyob (South Andaman)."
+  },
+  {
+   "q": "Which is India's only active volcano, and where is it located?",
+   "o": [
+    "Barren Island volcano (Lakshadweep)",
+    "Barren Island volcano (Andaman)",
+    "Deccan Traps (Maharashtra)",
+    "Narcondam volcano (Andaman)"
+   ],
+   "a": 1,
+   "e": "Narcondam is a dormant volcano; Barren Island lies in the Andaman Sea, east of the main Andaman group."
+  },
+  {
+   "q": "What is the present name of Port Blair, the capital of the Andaman and Nicobar Islands?",
+   "o": [
+    "Havelock Nagar",
+    "Port Cornwallis",
+    "Sri Vijaya Puram",
+    "Kavaratti"
+   ],
+   "a": 2,
+   "e": "It is located in South Andaman; the islands cover about 8,249 sq km."
+  },
+  {
+   "q": "What is the approximate total area of the Andaman and Nicobar Islands?",
+   "o": [
+    "About 8,249 sq km",
+    "About 32.6 sq km",
+    "About 2,933 sq km",
+    "About 1 lakh sq km"
+   ],
+   "a": 0,
+   "e": "Lakshadweep covers only about 32.6 sq km."
+  },
+  {
+   "q": "Classification of winds: which are the three types of planetary (permanent) winds?",
+   "o": [
+    "Trade winds, Loo, Chinook",
+    "Polar winds, Sirocco, Harmattan",
+    "Trade winds, westerlies, polar easterlies",
+    "Westerlies, monsoon, Bora"
+   ],
+   "a": 2,
+   "e": "Planetary winds blow across the globe; local winds blow only over limited areas."
+  },
+  {
+   "q": "From which directions do the trade winds blow?",
+   "o": [
+    "From the north-west in the Northern Hemisphere and south-west in the Southern",
+    "From the west in both hemispheres",
+    "From the north-east in the Northern Hemisphere and south-east in the Southern Hemisphere",
+    "Only from the east in both hemispheres"
+   ],
+   "a": 2,
+   "e": "A wind is named after the direction from which it blows."
+  },
+  {
+   "q": "Which statement correctly describes the Inter-Tropical Convergence Zone (ITCZ)?",
+   "o": [
+    "It is the subtropical high-pressure belt",
+    "It is the westerly wind system",
+    "It is the equatorial low-pressure belt where the trade winds converge",
+    "It is a cold front zone"
+   ],
+   "a": 2,
+   "e": "The ITCZ is also called the doldrums (belt of calm)."
+  },
+  {
+   "q": "What are the doldrums?",
+   "o": [
+    "The polar high-pressure belt",
+    "The low-pressure belt around the Equator where the air is nearly calm",
+    "The low-pressure belt at 60° latitude",
+    "The high-pressure belt at 30° latitude"
+   ],
+   "a": 1,
+   "e": "Sailing ships got stranded here for lack of wind, hence the name."
+  },
+  {
+   "q": "What is the belt located at about 30° N and 30° S called?",
+   "o": [
+    "Horse latitudes",
+    "Doldrums",
+    "Polar circle",
+    "Chinook belt"
+   ],
+   "a": 0,
+   "e": "Air subsides here, forming the subtropical high-pressure belt."
+  },
+  {
+   "q": "Where is the subtropical high-pressure belt found?",
+   "o": [
+    "At 60° latitude",
+    "At about 30° N and S (horse latitudes)",
+    "At the poles as a low-pressure zone",
+    "At the Equator"
+   ],
+   "a": 1,
+   "e": "Warm air rising at the Equator cools and descends here."
+  },
+  {
+   "q": "Around which latitude is the sub-polar low-pressure belt found?",
+   "o": [
+    "60°",
+    "30°",
+    "0°",
+    "90°"
+   ],
+   "a": 0,
+   "e": "The poles have high pressure (polar highs)."
+  },
+  {
+   "q": "Wind always blows in which direction?",
+   "o": [
+    "Only from east to west",
+    "From high pressure to low pressure",
+    "From low pressure to high pressure",
+    "Always from warm to cold areas"
+   ],
+   "a": 1,
+   "e": "Warm regions develop low pressure and cold regions develop high pressure."
+  },
+  {
+   "q": "Which statement about warm and cold air is correct?",
+   "o": [
+    "Warm air rises (low pressure) and cold air sinks (high pressure)",
+    "Warm air sinks and creates high pressure",
+    "Cold air rises and creates low pressure",
+    "Both rise"
+   ],
+   "a": 0,
+   "e": "This is why a low-pressure belt forms at the Equator and a high-pressure belt at 30°."
+  },
+  {
+   "q": "In the general circulation of the atmosphere, what is the cell between 0° and 30° called?",
+   "o": [
+    "Ferrel cell",
+    "Hadley cell",
+    "Polar cell",
+    "Walker cell"
+   ],
+   "a": 1,
+   "e": "The Ferrel cell lies between 30° and 60°, and the Polar cell from 60° to the pole."
+  },
+  {
+   "q": "Which circulation cell forms between 30° and 60° latitude?",
+   "o": [
+    "Walker cell",
+    "Ferrel cell",
+    "Hadley cell",
+    "Polar cell"
+   ],
+   "a": 1,
+   "e": "The westerlies blow within the Ferrel cell."
+  },
+  {
+   "q": "The Coriolis force arises because of:",
+   "o": [
+    "The Sun's gravity",
+    "The Moon's attraction",
+    "The Earth's rotation",
+    "The Earth's revolution"
+   ],
+   "a": 2,
+   "e": "The resulting deflection of winds is described by Ferrel's law."
+  },
+  {
+   "q": "Due to the Coriolis force, in which direction are winds deflected in the Northern and Southern Hemispheres?",
+   "o": [
+    "Left in the north, right in the south",
+    "Right in both",
+    "Left in both",
+    "Right in the north, left in the south"
+   ],
+   "a": 3,
+   "e": "This produces the north-east and south-east trade winds."
+  },
+  {
+   "q": "What names are given to the westerlies of the Southern Hemisphere?",
+   "o": [
+    "Roaring Forties, Furious Fifties, Shrieking Sixties",
+    "Doldrums, horse latitudes, polar winds",
+    "Bora, Mistral, Chinook",
+    "Harmattan, Khamsin, Sirocco"
+   ],
+   "a": 0,
+   "e": "They blow very strongly at 40°, 50° and 60° S latitudes."
+  },
+  {
+   "q": "Why are the westerlies so strong in the Southern Hemisphere?",
+   "o": [
+    "Because there is little landmass to obstruct them",
+    "Because the population is larger",
+    "Because the Earth rotates faster there",
+    "Because there are more mountains"
+   ],
+   "a": 0,
+   "e": "In the Northern Hemisphere, landmasses and structures create friction."
+  },
+  {
+   "q": "What kind of wind is the Loo, and by what process is it produced?",
+   "o": [
+    "A hot, dry local wind of North India; by horizontal transfer of heat (advection)",
+    "A cold local wind; by convection",
+    "A sea breeze; by pressure difference",
+    "A planetary wind; by the Coriolis force"
+   ],
+   "a": 0,
+   "e": "The Loo blows in summer, not all year; advection is the horizontal transfer of heat."
+  },
+  {
+   "q": "Which statement about the Chinook is correct?",
+   "o": [
+    "It is the 'doctor wind' of Africa",
+    "It is a warm wind of North America (Rockies), called the 'snow eater'",
+    "It is a dusty wind of the Sahara",
+    "It is a cold wind of Europe"
+   ],
+   "a": 1,
+   "e": "The Chinook melts snow rapidly, hence 'snow eater'."
+  },
+  {
+   "q": "Bora and Mistral are what type of winds, and where do they blow?",
+   "o": [
+    "Hot winds of Europe",
+    "Hot winds of Africa",
+    "Cold local winds of Europe",
+    "Monsoon winds of Asia"
+   ],
+   "a": 2,
+   "e": "They are cold winds that blow mainly in winter."
+  },
+  {
+   "q": "Which hot wind blowing from the Sahara towards the Mediterranean can cause 'blood rain'?",
+   "o": [
+    "Mistral",
+    "Chinook",
+    "Bora",
+    "Sirocco"
+   ],
+   "a": 3,
+   "e": "Dust lifted from the desert gives the rain a reddish colour."
+  },
+  {
+   "q": "Which wind is known as the 'Doctor Wind', and where does it blow?",
+   "o": [
+    "Sirocco; Italy",
+    "Harmattan; Guinea Coast (West Africa)",
+    "Chinook; Canada",
+    "Khamsin; Iran"
+   ],
+   "a": 1,
+   "e": "It is a dry wind considered beneficial to health."
+  },
+  {
+   "q": "The Khamsin wind blows mainly in which country?",
+   "o": [
+    "Argentina",
+    "Italy",
+    "Egypt",
+    "Canada"
+   ],
+   "a": 2,
+   "e": "It is a hot, dusty local wind of the Sahara region."
+  },
+  {
+   "q": "What prevents cold winds from Central Asia/the Arctic from reaching North India?",
+   "o": [
+    "Aravalli Range",
+    "The Himalayas",
+    "Western Ghats",
+    "Vindhya Range"
+   ],
+   "a": 1,
+   "e": "Without the Himalayas, North India would be extremely cold."
+  },
+  {
+   "q": "What is the low-pressure belt near the Equator commonly called?",
+   "o": [
+    "Horse latitudes",
+    "Doldrums",
+    "Ferrel belt",
+    "Polar high"
+   ],
+   "a": 1,
+   "e": "It is where the trade winds converge and the air remains calm."
+  },
+  {
+   "q": "What is the general direction of the jet stream that affects Indian climate in winter?",
+   "o": [
+    "North to south",
+    "West to east",
+    "South to north",
+    "East to west"
+   ],
+   "a": 1,
+   "e": "The westerly jet stream brings winter rain (western disturbances) to north-west India."
+  },
+  {
+   "q": "What is the significance of the westerly jet streams in winter?",
+   "o": [
+    "They prevent cyclones",
+    "They bring winter rainfall to North India",
+    "They bring the south-west monsoon",
+    "They cause the Loo in summer"
+   ],
+   "a": 1,
+   "e": "This rain benefits rabi crops such as wheat."
+  },
+  {
+   "q": "Which of the following is a depositional landform made by wind?",
+   "o": [
+    "Yardang",
+    "Barchan",
+    "Inselberg",
+    "Mushroom rock"
+   ],
+   "a": 1,
+   "e": "Yardangs, inselbergs, mushroom rocks and pediplains are erosional landforms."
+  },
+  {
+   "q": "Landforms are mainly shaped by which two processes?",
+   "o": [
+    "Only rainfall and snowfall",
+    "Only heat and pressure",
+    "Erosion and deposition",
+    "Only volcanoes and earthquakes"
+   ],
+   "a": 2,
+   "e": "Wind, running water, glaciers and sea waves are the agents of these processes."
+  },
+  {
+   "q": "Which is a correct group of landforms formed by wind erosion?",
+   "o": [
+    "Yardang, inselberg, mushroom rock, pediplain",
+    "Delta, estuary, coastal bar",
+    "Barchan, seif, parabolic dune, transverse dune",
+    "Moraine, drumlin, esker"
+   ],
+   "a": 0,
+   "e": "Wind-formed landforms are called aeolian landforms."
+  },
+  {
+   "q": "What is characteristic of a 'seif' sand dune?",
+   "o": [
+    "It forms in reverse direction due to vegetation",
+    "It forms perpendicular to the wind direction",
+    "It has only one arm (wing)",
+    "It has two arms pointing in the wind direction"
+   ],
+   "a": 2,
+   "e": "A crescent dune with two arms is called a barchan."
+  },
+  {
+   "q": "What is characteristic of a barchan dune?",
+   "o": [
+    "Crescent-shaped, with two arms pointing downwind",
+    "A dune formed due to vegetation",
+    "Long dunes perpendicular to the wind",
+    "A sand dune with one arm"
+   ],
+   "a": 0,
+   "e": "It is a depositional sand landform."
+  },
+  {
+   "q": "Where does a parabolic dune form, and which way do its arms point?",
+   "o": [
+    "In open desert; arms point downwind",
+    "On river banks; arms follow the current",
+    "In vegetated areas; arms point upwind (against the wind)",
+    "In glacial areas; arms point downward"
+   ],
+   "a": 2,
+   "e": "Vegetation anchors the sand, so the arms trail behind."
+  },
+  {
+   "q": "Moraines are formed by:",
+   "o": [
+    "Sea waves",
+    "Rivers",
+    "Wind",
+    "Glaciers"
+   ],
+   "a": 3,
+   "e": "A moraine is debris deposited by a glacier."
+  },
+  {
+   "q": "What is the flat plain formed in deserts by erosion called?",
+   "o": [
+    "Floodplain",
+    "Delta",
+    "Pediplain",
+    "Peneplain"
+   ],
+   "a": 2,
+   "e": "A peneplain results from river erosion, while a pediplain forms in arid regions by wind and sheet-wash erosion."
+  },
+  {
+   "q": "What is a depression formed in deserts by wind erosion called?",
+   "o": [
+    "Yardang",
+    "Barchan",
+    "Deflation hollow",
+    "Moraine"
+   ],
+   "a": 2,
+   "e": "It is another erosional landform created by wind."
+  }
+ ]
+}

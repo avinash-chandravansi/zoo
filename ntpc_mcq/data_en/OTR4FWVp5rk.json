@@ -1,0 +1,2068 @@
+{
+ "title": "Medieval History Lec 2",
+ "summary": [
+  "Vijayanagara was founded by Harihara and Bukka in 1336; capital Hampi (named after Goddess Pampa) on the banks of the Tungabhadra; the Hampi stone chariot appears on the ₹50 note.",
+  "Dynasties of Vijayanagara: Sangama (1336-1485), Saluva (1485-1505), Tuluva (1505-1570), Aravidu (1570-1650); Battle of Talikota in 1565.",
+  "Titles: Vijayanagara rulers - Narapati, Deccan Sultans - Ashvapati, Odisha rulers - Gajapati; Vijayanagara rulers called themselves 'Hindu Suratrana'.",
+  "Krishnadeva Raya: 'Andhra Bhoja'; wrote Amuktamalyada (Telugu) and Jambavati Kalyanam (Sanskrit); Ashtadiggajas at his court (Tenali Rama, Peddana, Mallana etc.); Amara-nayaka system.",
+  "The Bahmani kingdom was founded in 1347 by Alauddin Bahman Shah; its southern boundary was the Krishna; the Raichur Doab lies between the Krishna and the Tungabhadra.",
+  "Five successor states of the Bahmani kingdom: Berar - Imad Shahi, Bijapur - Adil Shahi (Gol Gumbaz), Ahmadnagar - Nizam Shahi, Bidar - Barid Shahi, Golconda - Qutb Shahi (Charminar).",
+  "Babur: descendant of Timur and Genghis Khan; Panipat 1526, Khanwa 1527, Chanderi 1528, Ghaghra 1529, died 1530; Tuzuk-i-Baburi written in Turki, translated into Persian by Abdur Rahim Khan-i-Khanan.",
+  "Humayun: defeated by Sher Shah at Chausa (1539) and Bilgram/Kannauj (1540); took refuge with the Safavids of Iran; returned in 1555 and died in 1556 after falling from the stairs; Humayun-nama by Gulbadan Begum.",
+  "Sher Shah: sarkar = shiq, pargana, suba; muqaddam, fotedar; died at Kalinjar in 1545; tomb at Sasaram; Akbar adopted his administrative system.",
+  "Akbar: ascended the throne at 13; Second Battle of Panipat 1556 (Bairam Khan vs Hemu); Sulh-i-Kul; Mansabdari 1571; Din-i-Ilahi 1582; Dahsala/Zabti 1580 (Todar Mal: Polaj, Parauti, Chachar, Banjar).",
+  "Mughal posts: Mir Bakhshi (military), Mir Saman (karkhanas), Sadr-us-Sudur (religious affairs), Diwan (revenue), Subedar (province); Akbarnama has 3 volumes, the third is the Ain-i-Akbari.",
+  "Aurangzeb (1658-1707): took the title Alamgir; annexed Bijapur (1686) and Golconda (1687); Lachit Borphukan won the Battle of Saraighat in 1671 (NDA gold medal named after him).",
+  "Independent states: Awadh - Burhan-ul-Mulk, Hyderabad - Asaf Jah, Bengal - Murshid Quli Khan; Nadir Shah's invasion of 1739 (Karnal, Peacock Throne, Muhammad Shah 'Rangila').",
+  "Mughal architecture: arches and domes; Fatehpur Sikri (1571), Buland Darwaza (c. 1575, conquest of Gujarat); Taj Mahal (1631-53, Ustad Ahmad Lahori); pietra dura first seen at Itmad-ud-Daulah's tomb; Humayun's Tomb in charbagh style; Bibi ka Maqbara is the 'Taj of the Deccan'.",
+  "Third Battle of Panipat 1761 (Abdali vs Sadashivrao Bhau; aided by Najib-ud-Daulah and Shuja-ud-Daulah); Anglo-Maratha wars: Salbai 1782, Bassein 1802, Pindari War 1817-18, Peshwa Baji Rao II sent to Bithur."
+ ],
+ "mcqs": [
+  {
+   "q": "After the fall of Kampili (c. 1327), Harihara and Bukka are believed to have been taken captive to Delhi during the reign of which Sultan?",
+   "o": [
+    "Balban",
+    "Alauddin Khalji",
+    "Firoz Shah Tughlaq",
+    "Muhammad bin Tughlaq"
+   ],
+   "a": 3,
+   "e": "Muhammad bin Tughlaq ruled 1325-1351; the brothers later founded Vijayanagara on the Tungabhadra."
+  },
+  {
+   "q": "Which two brothers founded the Vijayanagara Empire?",
+   "o": [
+    "Vira Narasimha and Saluva Narasimha",
+    "Deva Raya I and Deva Raya II",
+    "Harihara and Bukka",
+    "Krishnadeva Raya and Achyuta Raya"
+   ],
+   "a": 2,
+   "e": "The Sangama brothers Harihara and Bukka founded Vijayanagara in 1336."
+  },
+  {
+   "q": "The Tarikh-i-Firoz Shahi mentions which Sultan appointing low-born persons to high administrative posts?",
+   "o": [
+    "Balban",
+    "Jalaluddin Khalji",
+    "Iltutmish",
+    "Muhammad bin Tughlaq"
+   ],
+   "a": 3,
+   "e": "Barani criticised this policy of Muhammad bin Tughlaq in the Tarikh-i-Firoz Shahi."
+  },
+  {
+   "q": "Muhammad bin Tughlaq shifted his capital from Delhi to which place?",
+   "o": [
+    "Devagiri (Daulatabad)",
+    "Agra",
+    "Warangal",
+    "Lahore"
+   ],
+   "a": 0,
+   "e": "The transfer failed and the capital was later moved back to Delhi."
+  },
+  {
+   "q": "Which of the following schemes of Muhammad bin Tughlaq failed?",
+   "o": [
+    "Token currency (copper and brass)",
+    "Market control",
+    "Dagh system",
+    "Introduction of sijda"
+   ],
+   "a": 0,
+   "e": "He issued token coins of copper and brass, which failed due to large-scale forgery."
+  },
+  {
+   "q": "What was the name of the agriculture department set up by Muhammad bin Tughlaq?",
+   "o": [
+    "Diwan-i-Mustakhraj",
+    "Diwan-i-Kohi",
+    "Diwan-i-Bandagan",
+    "Diwan-i-Khairat"
+   ],
+   "a": 1,
+   "e": "Diwan-i-Amir-i-Kohi (Diwan-i-Kohi) was his department of agriculture."
+  },
+  {
+   "q": "What were the agricultural loans given to peasants by Muhammad bin Tughlaq called?",
+   "o": [
+    "Sondhar (Taccavi) loans",
+    "Kharaj",
+    "Zakat",
+    "Jizya"
+   ],
+   "a": 0,
+   "e": "Sondhar/taccavi loans were a key part of his agrarian reforms."
+  },
+  {
+   "q": "Which was the first dynasty of the Vijayanagara Empire?",
+   "o": [
+    "Saluva dynasty",
+    "Tuluva dynasty",
+    "Aravidu dynasty",
+    "Sangama dynasty"
+   ],
+   "a": 3,
+   "e": "Order: Sangama, Saluva, Tuluva, Aravidu."
+  },
+  {
+   "q": "The Sangama dynasty ruled approximately during which period?",
+   "o": [
+    "1336-1485 AD",
+    "1505-1570 AD",
+    "1570-1650 AD",
+    "1485-1505 AD"
+   ],
+   "a": 0,
+   "e": "The Sangama dynasty ruled from 1336 to 1485."
+  },
+  {
+   "q": "Who founded the Saluva dynasty?",
+   "o": [
+    "Saluva Narasimha",
+    "Harihara I",
+    "Tirumala",
+    "Vira Narasimha"
+   ],
+   "a": 0,
+   "e": "The Saluva dynasty ruled roughly from 1485 to 1505."
+  },
+  {
+   "q": "Who founded the Tuluva dynasty?",
+   "o": [
+    "Vira Narasimha",
+    "Tirumala",
+    "Bukka I",
+    "Saluva Narasimha"
+   ],
+   "a": 0,
+   "e": "The Tuluva dynasty ruled c. 1505-1570; Krishnadeva Raya belonged to it."
+  },
+  {
+   "q": "Who founded the Aravidu dynasty, the fourth and last dynasty of Vijayanagara?",
+   "o": [
+    "Tirumala",
+    "Vira Narasimha",
+    "Rama Raya",
+    "Saluva Narasimha"
+   ],
+   "a": 0,
+   "e": "The Aravidu dynasty lasted roughly from 1570 to 1650."
+  },
+  {
+   "q": "During which period did the Tuluva dynasty of Vijayanagara rule?",
+   "o": [
+    "1505 to 1570 AD",
+    "1485 to 1505 AD",
+    "1336 to 1485 AD",
+    "1570 to 1650 AD"
+   ],
+   "a": 0,
+   "e": "The Tuluva dynasty ruled from 1505 to 1570."
+  },
+  {
+   "q": "The Aravidu dynasty ruled approximately during which period?",
+   "o": [
+    "1505-1570 AD",
+    "1570-1650 AD",
+    "1336-1485 AD",
+    "1485-1505 AD"
+   ],
+   "a": 1,
+   "e": "Sriranga III of this dynasty is regarded as the last ruler."
+  },
+  {
+   "q": "In which century was the Vijayanagara Empire founded?",
+   "o": [
+    "11th century",
+    "18th century",
+    "13th century",
+    "14th century"
+   ],
+   "a": 3,
+   "e": "Vijayanagara was founded in 1336, i.e. the 14th century."
+  },
+  {
+   "q": "Hampi, the capital of the Vijayanagara Empire, is located on the banks of which river?",
+   "o": [
+    "Tungabhadra",
+    "Kaveri",
+    "Krishna",
+    "Godavari"
+   ],
+   "a": 0,
+   "e": "Hampi lies on the banks of the Tungabhadra."
+  },
+  {
+   "q": "Hampi is believed to be named after which goddess?",
+   "o": [
+    "Goddess Meenakshi",
+    "Goddess Lakshmi",
+    "Goddess Pampa",
+    "Goddess Durga"
+   ],
+   "a": 2,
+   "e": "Goddess Pampa is regarded as a form of Parvati."
+  },
+  {
+   "q": "Which current Indian currency note depicts the Hampi stone chariot?",
+   "o": [
+    "₹50",
+    "₹100",
+    "₹20",
+    "₹10"
+   ],
+   "a": 0,
+   "e": "The new ₹50 note carries the image of the stone chariot of Hampi."
+  },
+  {
+   "q": "Who brought the ruins of the Vijayanagara Empire to light in 1800?",
+   "o": [
+    "Alexander Cunningham",
+    "Colin Mackenzie",
+    "James Prinsep",
+    "John Marshall"
+   ],
+   "a": 1,
+   "e": "Colin Mackenzie, an engineer and antiquarian, later became the first Surveyor General of India."
+  },
+  {
+   "q": "What did the rulers of Vijayanagara call themselves?",
+   "o": [
+    "Gajapati",
+    "Ashvapati",
+    "Hindu Suratrana",
+    "Andhra Bhoja"
+   ],
+   "a": 2,
+   "e": "'Hindu Suratrana' (Hindu Sultan) was their title."
+  },
+  {
+   "q": "By what name did contemporaries know Vijayanagara?",
+   "o": [
+    "Chola Empire",
+    "Karnata Empire",
+    "Pandya Kingdom",
+    "Vengi Kingdom"
+   ],
+   "a": 1,
+   "e": "Contemporaries referred to it as the 'Karnata Samrajya'."
+  },
+  {
+   "q": "What was the title of the rulers of Vijayanagara?",
+   "o": [
+    "Gajapati",
+    "Bhupati",
+    "Ashvapati",
+    "Narapati"
+   ],
+   "a": 3,
+   "e": "Narapati - Vijayanagara, Ashvapati - Bahmani/Deccan Sultans, Gajapati - rulers of Odisha."
+  },
+  {
+   "q": "What was the title of the rulers of Odisha?",
+   "o": [
+    "Senapati",
+    "Narapati",
+    "Gajapati",
+    "Ashvapati"
+   ],
+   "a": 2,
+   "e": "Gajapati was the title of the rulers of Odisha."
+  },
+  {
+   "q": "The Hazara Rama Temple was built during which empire?",
+   "o": [
+    "Rashtrakuta",
+    "Vijayanagara",
+    "Chola",
+    "Chalukya"
+   ],
+   "a": 1,
+   "e": "The Hazara Rama Temple, Vitthala Temple and Vijaya Mahal at Hampi belong to the Vijayanagara period."
+  },
+  {
+   "q": "The Vitthala Swami Temple at Hampi is dedicated to which deity?",
+   "o": [
+    "Lord Shiva",
+    "Lord Kartikeya",
+    "Goddess Durga",
+    "Lord Vishnu (Vitthala)"
+   ],
+   "a": 3,
+   "e": "Vitthala is a form of Vishnu worshipped mainly in Karnataka and Maharashtra."
+  },
+  {
+   "q": "The Virupaksha Temple at Hampi is dedicated to which deity?",
+   "o": [
+    "Lord Vishnu",
+    "Lord Shiva",
+    "Lord Ganesha",
+    "Lord Brahma"
+   ],
+   "a": 1,
+   "e": "Vijayanagara rulers claimed to rule on behalf of Virupaksha, a form of Shiva."
+  },
+  {
+   "q": "Who built the Virupaksha Temple at Pattadakal?",
+   "o": [
+    "Chalukya queen Lokamahadevi",
+    "Rashtrakuta Krishna I",
+    "Pallava Narasimhavarman",
+    "Chola Rajaraja"
+   ],
+   "a": 0,
+   "e": "It was built by Lokamahadevi, queen of Chalukya king Vikramaditya II; the Hampi temple is of the Vijayanagara period."
+  },
+  {
+   "q": "The Vijayanagara rulers' claim to rule 'on behalf of Virupaksha' resembles which concept?",
+   "o": [
+    "Mauryan Saptanga theory",
+    "Ashvamedha of the Guptas",
+    "Devaputra concept of the Kushanas",
+    "Ashoka's Dhamma"
+   ],
+   "a": 2,
+   "e": "Both sought divine legitimacy for kingship; the Kushanas took the title Devaputra."
+  },
+  {
+   "q": "When was the Battle of Talikota fought?",
+   "o": [
+    "1565 AD",
+    "1761 AD",
+    "1556 AD",
+    "1526 AD"
+   ],
+   "a": 0,
+   "e": "It is also called the Battle of Rakkasa-Tangadi or Bannihatti."
+  },
+  {
+   "q": "By what other name is the Battle of Talikota known?",
+   "o": [
+    "Saraighat",
+    "Khanwa",
+    "Rakkasa-Tangadi (Bannihatti)",
+    "Chausa"
+   ],
+   "a": 2,
+   "e": "In it Bijapur, Ahmadnagar and Golconda defeated Vijayanagara."
+  },
+  {
+   "q": "Who led Vijayanagara in the Battle of Talikota?",
+   "o": [
+    "Aliya Rama Raya",
+    "Sriranga III",
+    "Harihara II",
+    "Krishnadeva Raya"
+   ],
+   "a": 0,
+   "e": "Rama Raya's defeat led to the decline of Vijayanagara."
+  },
+  {
+   "q": "Which states fought against Vijayanagara in the Battle of Talikota?",
+   "o": [
+    "Malwa, Gujarat and Jaunpur",
+    "Bijapur, Ahmadnagar and Golconda",
+    "Bengal, Odisha and Kashmir",
+    "Berar, Bidar and Khandesh"
+   ],
+   "a": 1,
+   "e": "States formed after the break-up of the Bahmani kingdom attacked jointly."
+  },
+  {
+   "q": "Who is considered the last ruler of Vijayanagara?",
+   "o": [
+    "Sadashiva Raya",
+    "Sriranga III",
+    "Aliya Rama Raya",
+    "Krishnadeva Raya"
+   ],
+   "a": 1,
+   "e": "The Aravidu dynasty survived for some time after Talikota; its last ruler was Sriranga III."
+  },
+  {
+   "q": "The 'Ashtadiggajas' were poets at whose court?",
+   "o": [
+    "Chandragupta II",
+    "Krishnadeva Raya",
+    "Akbar",
+    "Shivaji"
+   ],
+   "a": 1,
+   "e": "Compare the Navaratnas (Chandragupta II/Akbar) and the Ashtapradhan (Shivaji)."
+  },
+  {
+   "q": "Which of the following was NOT one of Krishnadeva Raya's Ashtadiggajas?",
+   "o": [
+    "Tenali Rama",
+    "Abul Fazl",
+    "Allasani Peddana",
+    "Nandi Timmana"
+   ],
+   "a": 1,
+   "e": "Abul Fazl was a courtier of Akbar."
+  },
+  {
+   "q": "Who wrote 'Rajasekhara Charitra'?",
+   "o": [
+    "Tenali Rama",
+    "Allasani Peddana",
+    "Madayyagari Mallana",
+    "Dhurjati"
+   ],
+   "a": 2,
+   "e": "Madayyagari Mallana was one of the Ashtadiggajas."
+  },
+  {
+   "q": "Which is the Telugu work of Krishnadeva Raya?",
+   "o": [
+    "Rajasekhara Charitra",
+    "Manucharitra",
+    "Amuktamalyada",
+    "Jambavati Kalyanam"
+   ],
+   "a": 2,
+   "e": "He wrote Amuktamalyada in Telugu."
+  },
+  {
+   "q": "Which Sanskrit drama was written by Krishnadeva Raya?",
+   "o": [
+    "Parijatapaharanam",
+    "Kadambari",
+    "Amuktamalyada",
+    "Jambavati Kalyanam"
+   ],
+   "a": 3,
+   "e": "Jambavati Kalyanam is a Sanskrit drama."
+  },
+  {
+   "q": "What was the title of Krishnadeva Raya?",
+   "o": [
+    "Karnata Rakshamani",
+    "Abhinava Bhoja",
+    "Kaviraja",
+    "Andhra Bhoja"
+   ],
+   "a": 3,
+   "e": "He is known as Andhra Bhoja."
+  },
+  {
+   "q": "Who were the 'Amara-nayakas' in Vijayanagara?",
+   "o": [
+    "Clerks collecting taxes",
+    "Temple priests",
+    "Military commanders granted territories",
+    "Heads of merchant guilds"
+   ],
+   "a": 2,
+   "e": "They governed assigned territories and maintained troops; the system resembled the iqta."
+  },
+  {
+   "q": "Into which two parts was the city of Vijayanagara divided?",
+   "o": [
+    "Eastern and Western centres",
+    "Temple and Market centres",
+    "Commercial and Military centres",
+    "Royal Centre and Sacred Centre"
+   ],
+   "a": 3,
+   "e": "The Sacred Centre lay to the north and consisted mainly of temples."
+  },
+  {
+   "q": "Where is the 'Mahanavami Dibba' located?",
+   "o": [
+    "Fatehpur Sikri",
+    "Hampi (Vijayanagara)",
+    "Bijapur",
+    "Agra"
+   ],
+   "a": 1,
+   "e": "During Mahanavami the Amara-nayakas brought gifts to the king here."
+  },
+  {
+   "q": "Who founded the Bahmani kingdom?",
+   "o": [
+    "Firoz Shah Bahmani",
+    "Alauddin Bahman Shah",
+    "Muhammad Shah I",
+    "Mahmud Gawan"
+   ],
+   "a": 1,
+   "e": "It was founded in 1347 AD."
+  },
+  {
+   "q": "When was the Bahmani kingdom founded?",
+   "o": [
+    "1347 AD",
+    "1526 AD",
+    "1206 AD",
+    "1336 AD"
+   ],
+   "a": 0,
+   "e": "Eleven years after Vijayanagara."
+  },
+  {
+   "q": "Which river formed the southern boundary of the Bahmani kingdom?",
+   "o": [
+    "Tapti",
+    "Krishna",
+    "Kaveri",
+    "Narmada"
+   ],
+   "a": 1,
+   "e": "The Bahmani kingdom extended only up to the Krishna, not to Madurai."
+  },
+  {
+   "q": "What is the region between the Krishna and the Tungabhadra called?",
+   "o": [
+    "Ganga-Yamuna Doab",
+    "Bari Doab",
+    "Sind Sagar Doab",
+    "Raichur Doab"
+   ],
+   "a": 3,
+   "e": "The Raichur Doab was the main cause of the Bahmani-Vijayanagara conflict."
+  },
+  {
+   "q": "Into how many states did the Bahmani kingdom break up?",
+   "o": [
+    "Four",
+    "Three",
+    "Five",
+    "Seven"
+   ],
+   "a": 2,
+   "e": "Berar, Bijapur, Ahmadnagar, Bidar and Golconda."
+  },
+  {
+   "q": "Which dynasty ruled Berar?",
+   "o": [
+    "Barid Shahi",
+    "Adil Shahi",
+    "Imad Shahi",
+    "Nizam Shahi"
+   ],
+   "a": 2,
+   "e": "Fathullah Imad-ul-Mulk was its first ruler."
+  },
+  {
+   "q": "Which dynasty ruled Bijapur?",
+   "o": [
+    "Qutb Shahi",
+    "Nizam Shahi",
+    "Adil Shahi",
+    "Imad Shahi"
+   ],
+   "a": 2,
+   "e": "The Adil Shahis built the Gol Gumbaz."
+  },
+  {
+   "q": "Which dynasty ruled Ahmadnagar?",
+   "o": [
+    "Adil Shahi",
+    "Nizam Shahi",
+    "Qutb Shahi",
+    "Barid Shahi"
+   ],
+   "a": 1,
+   "e": "Ahmadnagar was ruled by the Nizam Shahis."
+  },
+  {
+   "q": "Which dynasty ruled Bidar?",
+   "o": [
+    "Imad Shahi",
+    "Qutb Shahi",
+    "Nizam Shahi",
+    "Barid Shahi"
+   ],
+   "a": 3,
+   "e": "The Barid Shahis ruled Bidar."
+  },
+  {
+   "q": "Which dynasty ruled Golconda?",
+   "o": [
+    "Barid Shahi",
+    "Qutb Shahi",
+    "Imad Shahi",
+    "Adil Shahi"
+   ],
+   "a": 1,
+   "e": "The Qutb Shahis built the Charminar in Hyderabad."
+  },
+  {
+   "q": "Which dynasty built the Gol Gumbaz of Bijapur?",
+   "o": [
+    "Qutb Shahi",
+    "Adil Shahi",
+    "Nizam Shahi",
+    "Lodi"
+   ],
+   "a": 1,
+   "e": "It is among the largest domes in the world."
+  },
+  {
+   "q": "Where is the Gol Gumbaz located?",
+   "o": [
+    "Bidar",
+    "Aurangabad",
+    "Hyderabad",
+    "Bijapur"
+   ],
+   "a": 3,
+   "e": "The Gol Gumbaz is the tomb of Muhammad Adil Shah."
+  },
+  {
+   "q": "Which dynasty built the Charminar of Hyderabad?",
+   "o": [
+    "Qutb Shahi",
+    "Adil Shahi",
+    "Mughal",
+    "Nizam-ul-Mulk"
+   ],
+   "a": 0,
+   "e": "Built in 1591 by Muhammad Quli Qutb Shah."
+  },
+  {
+   "q": "On his father's side, Babur was a descendant of whom?",
+   "o": [
+    "Akbar",
+    "Genghis Khan",
+    "Timur",
+    "Mahmud of Ghazni"
+   ],
+   "a": 2,
+   "e": "Babur descended from Timur on his father's side and from Genghis Khan on his mother's side."
+  },
+  {
+   "q": "On his mother's side, Babur was a descendant of which great conqueror?",
+   "o": [
+    "Ahmad Shah Abdali",
+    "Timur",
+    "Genghis Khan",
+    "Nadir Shah"
+   ],
+   "a": 2,
+   "e": "Through his mother, who was of Mongol descent."
+  },
+  {
+   "q": "At the age of 12, Babur ascended the throne of which kingdom?",
+   "o": [
+    "Fergana",
+    "Samarkand",
+    "Kandahar",
+    "Kabul"
+   ],
+   "a": 0,
+   "e": "Fergana lies in present-day Uzbekistan."
+  },
+  {
+   "q": "When did Babur capture Kabul?",
+   "o": [
+    "1494 AD",
+    "1530 AD",
+    "1526 AD",
+    "1504 AD"
+   ],
+   "a": 3,
+   "e": "Kabul is in Afghanistan."
+  },
+  {
+   "q": "In which year did Babur assume the title of 'Padshah'?",
+   "o": [
+    "1507 AD",
+    "1556 AD",
+    "1494 AD",
+    "1526 AD"
+   ],
+   "a": 0,
+   "e": "He took this title after establishing himself at Kabul."
+  },
+  {
+   "q": "Who wrote 'Tarikh-i-Rashidi'?",
+   "o": [
+    "Abul Fazl",
+    "Ziauddin Barani",
+    "Minhaj-us-Siraj",
+    "Mirza Haidar Dughlat"
+   ],
+   "a": 3,
+   "e": "He was Babur's cousin; the work covers Central Asia and early Mughal history."
+  },
+  {
+   "q": "Who wrote 'Tabaqat-i-Nasiri'?",
+   "o": [
+    "Amir Khusrau",
+    "Ziauddin Barani",
+    "Minhaj-us-Siraj",
+    "Abul Fazl"
+   ],
+   "a": 2,
+   "e": "Minhaj-us-Siraj was a historian of the Iltutmish-Nasiruddin Mahmud era."
+  },
+  {
+   "q": "Who wrote 'Fatawa-i-Jahandari'?",
+   "o": [
+    "Badauni",
+    "Minhaj-us-Siraj",
+    "Ziauddin Barani",
+    "Abul Fazl"
+   ],
+   "a": 2,
+   "e": "Barani also wrote the Tarikh-i-Firoz Shahi."
+  },
+  {
+   "q": "Who was the first to use gunpowder (artillery) on a large scale in India?",
+   "o": [
+    "Akbar",
+    "Sher Shah",
+    "Humayun",
+    "Babur"
+   ],
+   "a": 3,
+   "e": "Babur used artillery in the First Battle of Panipat."
+  },
+  {
+   "q": "What did Babur's 'Tulughma' method of warfare involve?",
+   "o": [
+    "An attack by elephants alone",
+    "Night-time guerrilla raids",
+    "Encircling the enemy from both flanks",
+    "Siege of forts"
+   ],
+   "a": 2,
+   "e": "In tulughma, army units encircled and attacked the enemy from the left and right flanks."
+  },
+  {
+   "q": "Who was the last ruler of the Delhi Sultanate?",
+   "o": [
+    "Bahlul Lodi",
+    "Sikandar Lodi",
+    "Muhammad Shah",
+    "Ibrahim Lodi"
+   ],
+   "a": 3,
+   "e": "He was killed at Panipat in 1526, ending the Sultanate."
+  },
+  {
+   "q": "Who is considered prominent among those who invited Babur to India?",
+   "o": [
+    "Medini Rai",
+    "Sher Shah",
+    "Daulat Khan Lodi",
+    "Akbar"
+   ],
+   "a": 2,
+   "e": "Daulat Khan Lodi was the governor of Punjab; Alam Khan Lodi also invited Babur."
+  },
+  {
+   "q": "In which language was Babur's autobiography 'Tuzuk-i-Baburi' written?",
+   "o": [
+    "Turki",
+    "Urdu",
+    "Arabic",
+    "Persian"
+   ],
+   "a": 0,
+   "e": "Its Persian translation is known as the 'Baburnama'."
+  },
+  {
+   "q": "Who translated the Tuzuk-i-Baburi into Persian (Baburnama)?",
+   "o": [
+    "Faizi",
+    "Abdur Rahim Khan-i-Khanan",
+    "Abul Fazl",
+    "Todar Mal"
+   ],
+   "a": 1,
+   "e": "Khan-i-Khanan was one of Akbar's Navaratnas."
+  },
+  {
+   "q": "When was the First Battle of Panipat fought?",
+   "o": [
+    "1526 AD",
+    "1528 AD",
+    "1529 AD",
+    "1527 AD"
+   ],
+   "a": 0,
+   "e": "Sequence: Panipat 1526, Khanwa 1527, Chanderi 1528, Ghaghra 1529, Babur's death 1530."
+  },
+  {
+   "q": "The Battle of Khanwa was fought between Babur and whom?",
+   "o": [
+    "Ibrahim Lodi",
+    "Rana Sanga",
+    "Medini Rai",
+    "Sher Shah"
+   ],
+   "a": 1,
+   "e": "Rana Sanga was a Sisodia Rajput ruler of Mewar."
+  },
+  {
+   "q": "When was the Battle of Khanwa fought?",
+   "o": [
+    "1528 AD",
+    "1529 AD",
+    "1526 AD",
+    "1527 AD"
+   ],
+   "a": 3,
+   "e": "Babur was victorious."
+  },
+  {
+   "q": "Whom did Babur defeat in the Battle of Chanderi (1528)?",
+   "o": [
+    "Mahmud Lodi",
+    "Sher Khan",
+    "Rana Sanga",
+    "Medini Rai"
+   ],
+   "a": 3,
+   "e": "Medini Rai, a Rajput chief of Malwa, was defeated."
+  },
+  {
+   "q": "Whom did Babur defeat in the Battle of Ghaghra (1529)?",
+   "o": [
+    "The Afghans",
+    "The Rajputs",
+    "The Sikhs",
+    "The Marathas"
+   ],
+   "a": 0,
+   "e": "Babur died in 1530, a year after Ghaghra."
+  },
+  {
+   "q": "In which battle did Rana Sanga defeat Ibrahim Lodi?",
+   "o": [
+    "Battle of Tarain",
+    "Battle of Khanwa",
+    "Battle of Khatoli",
+    "Battle of Chanderi"
+   ],
+   "a": 2,
+   "e": "Rana Sanga defeated Ibrahim Lodi at Khatoli."
+  },
+  {
+   "q": "When did Babur die?",
+   "o": [
+    "1556 AD",
+    "1526 AD",
+    "1540 AD",
+    "1530 AD"
+   ],
+   "a": 3,
+   "e": "He was first buried at the Aram Bagh in Agra."
+  },
+  {
+   "q": "Where was Babur first buried, a place regarded as the first Mughal garden?",
+   "o": [
+    "Nishat Bagh",
+    "Aram Bagh, Agra",
+    "Shalimar Bagh",
+    "Roshanara Bagh"
+   ],
+   "a": 1,
+   "e": "His remains were later taken to Kabul and reburied."
+  },
+  {
+   "q": "Where was Babur finally buried, in accordance with his wishes?",
+   "o": [
+    "Agra",
+    "Samarkand",
+    "Fergana",
+    "Kabul"
+   ],
+   "a": 3,
+   "e": "His remains were moved from Agra to Bagh-e-Babur in Kabul."
+  },
+  {
+   "q": "How did Qutbuddin Aibak die?",
+   "o": [
+    "Of illness",
+    "By poisoning",
+    "In battle",
+    "By falling from his horse while playing chaugan (polo)"
+   ],
+   "a": 3,
+   "e": "He ruled from 1206 to 1210."
+  },
+  {
+   "q": "The construction of the Qutub Minar was begun in the name of which saint?",
+   "o": [
+    "Khwaja Qutbuddin Bakhtiyar Kaki",
+    "Nizamuddin Auliya",
+    "Sheikh Salim Chishti",
+    "Moinuddin Chishti"
+   ],
+   "a": 0,
+   "e": "Aibak began it and Iltutmish completed it."
+  },
+  {
+   "q": "Where is the 'Adhai Din Ka Jhonpra' located?",
+   "o": [
+    "Ajmer",
+    "Delhi",
+    "Agra",
+    "Jaunpur"
+   ],
+   "a": 0,
+   "e": "It was built by Qutbuddin Aibak."
+  },
+  {
+   "q": "Which of the following was NOT a son of Babur?",
+   "o": [
+    "Hindal",
+    "Shuja",
+    "Askari",
+    "Kamran"
+   ],
+   "a": 1,
+   "e": "Babur's sons: Humayun, Kamran, Askari and Hindal; Shuja was Shah Jahan's son."
+  },
+  {
+   "q": "Humayun divided the empire among his brothers because...",
+   "o": [
+    "Sher Shah forced him",
+    "he was weak",
+    "Akbar advised him",
+    "in Timurid-Mongol tradition the kingdom was shared among sons"
+   ],
+   "a": 3,
+   "e": "Kamran received Kabul, Kandahar and Punjab."
+  },
+  {
+   "q": "When was the Battle of Chausa fought?",
+   "o": [
+    "26 June 1526",
+    "26 June 1539",
+    "26 June 1556",
+    "26 June 1540"
+   ],
+   "a": 1,
+   "e": "Sher Shah defeated Humayun at Chausa."
+  },
+  {
+   "q": "When was the Battle of Bilgram (Kannauj) fought?",
+   "o": [
+    "1540 AD",
+    "1556 AD",
+    "1555 AD",
+    "1539 AD"
+   ],
+   "a": 0,
+   "e": "Humayun was again defeated by Sher Shah."
+  },
+  {
+   "q": "The battles of Chausa and Kannauj were fought between Humayun and whom?",
+   "o": [
+    "Hemu",
+    "Ibrahim Lodi",
+    "Rana Sanga",
+    "Sher Shah Suri"
+   ],
+   "a": 3,
+   "e": "Sher Shah was an Afghan whose father was a jagirdar in Bihar."
+  },
+  {
+   "q": "After his defeat, Humayun took refuge with the ruler of which Iranian dynasty?",
+   "o": [
+    "Pahlavi",
+    "Qajar",
+    "Safavid",
+    "Afsharid"
+   ],
+   "a": 2,
+   "e": "Akbar was born (1542) while Humayun was in flight."
+  },
+  {
+   "q": "In Sher Shah Suri's administration, which unit was equivalent to the Mughal 'sarkar'?",
+   "o": [
+    "Suba",
+    "Shiq",
+    "Mahal",
+    "Pargana"
+   ],
+   "a": 1,
+   "e": "The Mughal sarkar was called shiq under Sher Shah."
+  },
+  {
+   "q": "What was the largest administrative unit (province) under Sher Shah?",
+   "o": [
+    "Suba",
+    "Pargana",
+    "Village",
+    "Shiq"
+   ],
+   "a": 0,
+   "e": "The pargana was a sub-district unit."
+  },
+  {
+   "q": "In Sher Shah's administration, who was the treasurer at the pargana level?",
+   "o": [
+    "Fotedar",
+    "Muqaddam",
+    "Shiqdar",
+    "Qazi"
+   ],
+   "a": 0,
+   "e": "The shiqdar was the officer in charge of a shiq."
+  },
+  {
+   "q": "Who was the village headman during Sher Shah's time?",
+   "o": [
+    "Shiqdar",
+    "Muqaddam",
+    "Qazi",
+    "Fotedar"
+   ],
+   "a": 1,
+   "e": "The qazi was a judicial officer."
+  },
+  {
+   "q": "Akbar was inspired by and adopted whose administrative system?",
+   "o": [
+    "Alauddin Khalji",
+    "Humayun",
+    "Babur",
+    "Sher Shah Suri"
+   ],
+   "a": 3,
+   "e": "Akbar adopted and further developed Sher Shah's system."
+  },
+  {
+   "q": "Where did Sher Shah Suri die?",
+   "o": [
+    "Delhi",
+    "Agra",
+    "In Kalinjar Fort",
+    "Chausa"
+   ],
+   "a": 2,
+   "e": "He died in 1545 in a gunpowder explosion during the siege of Kalinjar."
+  },
+  {
+   "q": "Where is the tomb of Sher Shah Suri located?",
+   "o": [
+    "Agra",
+    "Delhi",
+    "Sasaram (Bihar)",
+    "Patna"
+   ],
+   "a": 2,
+   "e": "Akbar's tomb is at Sikandra, Agra."
+  },
+  {
+   "q": "When did Sher Shah die?",
+   "o": [
+    "1556 AD",
+    "1540 AD",
+    "1555 AD",
+    "1545 AD"
+   ],
+   "a": 3,
+   "e": "Humayun returned in 1555."
+  },
+  {
+   "q": "When did Humayun defeat the Surs and recapture Delhi?",
+   "o": [
+    "1561 AD",
+    "1545 AD",
+    "1555 AD",
+    "1540 AD"
+   ],
+   "a": 2,
+   "e": "He died the next year, in 1556."
+  },
+  {
+   "q": "How did Humayun die?",
+   "o": [
+    "By poisoning",
+    "Of illness",
+    "By falling from the stairs of his library",
+    "In battle"
+   ],
+   "a": 2,
+   "e": "He fell from the stairs of the Sher Mandal in Purana Qila, Delhi."
+  },
+  {
+   "q": "At what age did Akbar ascend the throne?",
+   "o": [
+    "12 years",
+    "20 years",
+    "16 years",
+    "13 years"
+   ],
+   "a": 3,
+   "e": "Bairam Khan acted as his regent."
+  },
+  {
+   "q": "Who led Akbar's army in the Second Battle of Panipat (1556)?",
+   "o": [
+    "Birbal",
+    "Man Singh",
+    "Bairam Khan",
+    "Todar Mal"
+   ],
+   "a": 2,
+   "e": "The opposing Afghan army was led by Hemu (Hemchandra Vikramaditya)."
+  },
+  {
+   "q": "Who led the Afghan army in the Second Battle of Panipat?",
+   "o": [
+    "Sher Shah",
+    "Ibrahim Lodi",
+    "Adil Shah",
+    "Hemu (Hemchandra Vikramaditya)"
+   ],
+   "a": 3,
+   "e": "Hemu's army fled after an arrow struck him in the eye."
+  },
+  {
+   "q": "What was the period of Akbar's reign?",
+   "o": [
+    "1628-1658",
+    "1658-1707",
+    "1556-1605",
+    "1526-1530"
+   ],
+   "a": 2,
+   "e": "His long reign rested on an efficient administrative system."
+  },
+  {
+   "q": "Who adopted the policy of 'Sulh-i-Kul'?",
+   "o": [
+    "Shah Jahan",
+    "Aurangzeb",
+    "Babur",
+    "Akbar"
+   ],
+   "a": 3,
+   "e": "Sulh-i-Kul means 'peace with all'."
+  },
+  {
+   "q": "What was Akbar's full name?",
+   "o": [
+    "Shihabuddin Muhammad Akbar",
+    "Zahiruddin Muhammad Akbar",
+    "Jalaluddin Muhammad Akbar",
+    "Nasiruddin Muhammad Akbar"
+   ],
+   "a": 2,
+   "e": "Babur's name was Zahiruddin Muhammad Babur."
+  },
+  {
+   "q": "What was Babur's original name?",
+   "o": [
+    "Jalaluddin Muhammad",
+    "Zahiruddin Muhammad",
+    "Nasiruddin Muhammad",
+    "Alauddin Muhammad"
+   ],
+   "a": 1,
+   "e": "Zahir for Babur, Jalal for Akbar."
+  },
+  {
+   "q": "Who wrote the 'Humayun-nama'?",
+   "o": [
+    "Nur Jahan",
+    "Haji Begum",
+    "Gulbadan Begum",
+    "Jahanara"
+   ],
+   "a": 2,
+   "e": "She was Humayun's half-sister."
+  },
+  {
+   "q": "In which year did Akbar introduce the Mansabdari system?",
+   "o": [
+    "1605 AD",
+    "1556 AD",
+    "1582 AD",
+    "1571 AD"
+   ],
+   "a": 3,
+   "e": "Mansab means rank or position."
+  },
+  {
+   "q": "On what basis was a mansab determined?",
+   "o": [
+    "Age and experience",
+    "Zat and Sawar",
+    "Caste and religion",
+    "Land and revenue"
+   ],
+   "a": 1,
+   "e": "Zat denoted personal rank; sawar denoted the number of cavalrymen."
+  },
+  {
+   "q": "What were mansabdars who received jagirs called during the Mughal period?",
+   "o": [
+    "Faujdar",
+    "Diwan",
+    "Jagirdar",
+    "Subedar"
+   ],
+   "a": 2,
+   "e": "Lower-ranking mansabdars were often paid in cash."
+  },
+  {
+   "q": "Which new faith did Akbar found, which Birbal was the only prominent Hindu to adopt?",
+   "o": [
+    "Sikhism",
+    "Din-i-Ilahi",
+    "Tauhid-i-Ilahi",
+    "Sulh-i-Kul"
+   ],
+   "a": 1,
+   "e": "It was founded in 1582."
+  },
+  {
+   "q": "When was Din-i-Ilahi founded?",
+   "o": [
+    "1571 AD",
+    "1605 AD",
+    "1575 AD",
+    "1582 AD"
+   ],
+   "a": 3,
+   "e": "Birbal was the only prominent Hindu to adopt it."
+  },
+  {
+   "q": "What was Akbar's translation department called?",
+   "o": [
+    "Karkhana",
+    "Diwan-i-Khas",
+    "Maktab Khana",
+    "Ibadat Khana"
+   ],
+   "a": 2,
+   "e": "Maktab Khana = house of translation."
+  },
+  {
+   "q": "What was Akbar's 'Ibadat Khana'?",
+   "o": [
+    "House of worship/religious discussion",
+    "Court of justice",
+    "House of translation",
+    "Royal workshop"
+   ],
+   "a": 0,
+   "e": "It was built at Fatehpur Sikri in 1575."
+  },
+  {
+   "q": "The 'Dahsala' system was introduced by whom?",
+   "o": [
+    "Babur",
+    "Akbar (with Todar Mal playing the key role)",
+    "Jahangir",
+    "Sher Shah"
+   ],
+   "a": 1,
+   "e": "Raja Todar Mal was the finance minister."
+  },
+  {
+   "q": "What is another name for the Dahsala system?",
+   "o": [
+    "Batai",
+    "Ijara",
+    "Zabti system",
+    "Jagirdari"
+   ],
+   "a": 2,
+   "e": "It was based on the average of the previous 10 years."
+  },
+  {
+   "q": "In approximately which year was the Dahsala system introduced?",
+   "o": [
+    "1571 AD",
+    "1605 AD",
+    "1556 AD",
+    "1580 AD"
+   ],
+   "a": 3,
+   "e": "It was a land revenue system."
+  },
+  {
+   "q": "Under Dahsala, the most fertile land cultivated every year was called?",
+   "o": [
+    "Banjar",
+    "Polaj",
+    "Chachar",
+    "Parauti"
+   ],
+   "a": 1,
+   "e": "The other categories were Parauti, Chachar and Banjar."
+  },
+  {
+   "q": "What was Parauti land?",
+   "o": [
+    "Barren land",
+    "Always fertile land",
+    "Land left fallow for 3-4 years",
+    "Land left fallow for 1-2 years"
+   ],
+   "a": 3,
+   "e": "It was left fallow to regain fertility."
+  },
+  {
+   "q": "For how many years was Chachar land left fallow?",
+   "o": [
+    "3-4 years",
+    "Never",
+    "10 years",
+    "1-2 years"
+   ],
+   "a": 0,
+   "e": "Banjar land was uncultivated for 5 years or more."
+  },
+  {
+   "q": "In the Mughal administration, who headed the military department (recruitment, inspection, dagh-chehra)?",
+   "o": [
+    "Mir Bakhshi",
+    "Diwan-i-Insha",
+    "Mir Saman",
+    "Sadr-us-Sudur"
+   ],
+   "a": 0,
+   "e": "The Mir Bakhshi was the head of the military department and the paymaster."
+  },
+  {
+   "q": "Who headed the religious department at the Mughal court?",
+   "o": [
+    "Qazi",
+    "Mir Bakhshi",
+    "Sadr-us-Sudur",
+    "Mir Saman"
+   ],
+   "a": 2,
+   "e": "The Sadr-us-Sudur looked after religious affairs and charitable grants."
+  },
+  {
+   "q": "Who supervised the royal karkhanas (workshops)?",
+   "o": [
+    "Diwan",
+    "Sadr",
+    "Mir Saman",
+    "Mir Bakhshi"
+   ],
+   "a": 2,
+   "e": "He was also responsible for managing the royal household."
+  },
+  {
+   "q": "The Diwan-i-Insha department dealt with what?",
+   "o": [
+    "Revenue",
+    "Royal correspondence",
+    "Justice",
+    "Army"
+   ],
+   "a": 1,
+   "e": "It drafted royal orders and state correspondence."
+  },
+  {
+   "q": "Who was the head of a Mughal suba (province)?",
+   "o": [
+    "Diwan",
+    "Faujdar",
+    "Qazi",
+    "Subedar"
+   ],
+   "a": 3,
+   "e": "The subedar was responsible for law and order."
+  },
+  {
+   "q": "Who headed the revenue department in a Mughal suba?",
+   "o": [
+    "Diwan",
+    "Subedar",
+    "Sadr",
+    "Mir Bakhshi"
+   ],
+   "a": 0,
+   "e": "He was the head of provincial revenue and finance."
+  },
+  {
+   "q": "What was the function of the 'Dak Chowki' in the Mughal period?",
+   "o": [
+    "Justice",
+    "Communication (postal service)",
+    "Tax collection",
+    "Army recruitment"
+   ],
+   "a": 1,
+   "e": "It was the postal relay system."
+  },
+  {
+   "q": "Abul Fazl was the court historian of which ruler?",
+   "o": [
+    "Akbar",
+    "Aurangzeb",
+    "Babur",
+    "Alauddin Khalji"
+   ],
+   "a": 0,
+   "e": "He wrote the Akbarnama."
+  },
+  {
+   "q": "How many volumes does the Akbarnama have in all?",
+   "o": [
+    "Two",
+    "Five",
+    "Three",
+    "Four"
+   ],
+   "a": 2,
+   "e": "Volume 1: ancestors; Volume 2: reign; Volume 3: Ain-i-Akbari."
+  },
+  {
+   "q": "Which volume of the Akbarnama describes Akbar's administration, army, revenue and the geography of the empire?",
+   "o": [
+    "Baburnama",
+    "Ain-i-Akbari (third volume)",
+    "First volume",
+    "Second volume"
+   ],
+   "a": 1,
+   "e": "The Ain-i-Akbari is the third volume of the Akbarnama."
+  },
+  {
+   "q": "What is described in the first volume of the Akbarnama?",
+   "o": [
+    "Administration",
+    "Akbar's ancestors",
+    "Geography",
+    "Akbar's reign"
+   ],
+   "a": 1,
+   "e": "The second volume covers his reign."
+  },
+  {
+   "q": "Who is regarded as the last powerful ruler in Mughal history?",
+   "o": [
+    "Dara Shikoh",
+    "Bahadur Shah Zafar",
+    "Shah Jahan",
+    "Aurangzeb"
+   ],
+   "a": 3,
+   "e": "Bahadur Shah Zafar was the last Mughal emperor but not a powerful one."
+  },
+  {
+   "q": "What was the period of Shah Jahan's reign?",
+   "o": [
+    "1556-1605",
+    "1605-1627",
+    "1658-1707",
+    "1628-1658"
+   ],
+   "a": 3,
+   "e": "He wanted his eldest son Dara Shikoh to succeed him."
+  },
+  {
+   "q": "What was the period of Aurangzeb's reign?",
+   "o": [
+    "1707-1712",
+    "1628-1658",
+    "1605-1627",
+    "1658-1707"
+   ],
+   "a": 3,
+   "e": "He took the title 'Alamgir'."
+  },
+  {
+   "q": "In which battles of 1658 did Aurangzeb defeat the imperial forces of Dara Shikoh's side?",
+   "o": [
+    "Khanwa and Chanderi",
+    "Dharmat and Samugarh",
+    "Chausa and Kannauj",
+    "Panipat and Talikota"
+   ],
+   "a": 1,
+   "e": "Both battles were fought in 1658 during the war of succession."
+  },
+  {
+   "q": "Which title did Aurangzeb assume?",
+   "o": [
+    "Padshah Ghazi",
+    "Shah Jahan",
+    "Alamgir",
+    "Jahangir"
+   ],
+   "a": 2,
+   "e": "Alamgir means 'conqueror of the world'."
+  },
+  {
+   "q": "The ninth Sikh Guru, Tegh Bahadur, was executed on whose orders?",
+   "o": [
+    "Akbar",
+    "Jahangir",
+    "Shah Jahan",
+    "Aurangzeb"
+   ],
+   "a": 3,
+   "e": "He was executed in Delhi in 1675."
+  },
+  {
+   "q": "When did Aurangzeb annex Bijapur to the Mughal Empire?",
+   "o": [
+    "1658 AD",
+    "1707 AD",
+    "1686 AD",
+    "1687 AD"
+   ],
+   "a": 2,
+   "e": "Bijapur and Golconda were the last surviving Deccan sultanates."
+  },
+  {
+   "q": "When did Aurangzeb annex Golconda?",
+   "o": [
+    "1658 AD",
+    "1686 AD",
+    "1687 AD",
+    "1707 AD"
+   ],
+   "a": 2,
+   "e": "Ahmadnagar, Bidar and Berar had already come under the Mughals earlier."
+  },
+  {
+   "q": "Lachit Borphukan was the commander of which kingdom?",
+   "o": [
+    "Assam (Ahom kingdom)",
+    "Maratha",
+    "Mewar",
+    "Bengal"
+   ],
+   "a": 0,
+   "e": "He defeated the Mughals in the Battle of Saraighat."
+  },
+  {
+   "q": "When and on which river was the Battle of Saraighat fought?",
+   "o": [
+    "1565, Tungabhadra",
+    "1761, Yamuna",
+    "1671, Brahmaputra",
+    "1527, Ganga"
+   ],
+   "a": 2,
+   "e": "The Mughal army was led by Raja Ram Singh I."
+  },
+  {
+   "q": "Who led the Mughal army in the Battle of Saraighat?",
+   "o": [
+    "Jai Singh",
+    "Man Singh",
+    "Raja Ram Singh I",
+    "Mir Jumla"
+   ],
+   "a": 2,
+   "e": "Aurangzeb had sent him against the Ahoms."
+  },
+  {
+   "q": "The NDA gold medal for the best passing-out cadet is named after whom?",
+   "o": [
+    "Maharana Pratap",
+    "Shivaji",
+    "Baji Rao",
+    "Lachit Borphukan"
+   ],
+   "a": 3,
+   "e": "It is called the Lachit Borphukan Gold Medal."
+  },
+  {
+   "q": "Who was the first Nawab (subedar) of Awadh?",
+   "o": [
+    "Asaf-ud-Daulah",
+    "Mir Jafar",
+    "Burhan-ul-Mulk (Saadat Khan)",
+    "Shuja-ud-Daulah"
+   ],
+   "a": 2,
+   "e": "Awadh became virtually independent around 1722."
+  },
+  {
+   "q": "Who was the first Nizam of Hyderabad?",
+   "o": [
+    "Saadat Khan",
+    "Alivardi Khan",
+    "Mir Qasim",
+    "Nizam-ul-Mulk Asaf Jah"
+   ],
+   "a": 3,
+   "e": "He founded the Asaf Jahi dynasty."
+  },
+  {
+   "q": "Who was the first Nawab of Bengal?",
+   "o": [
+    "Alivardi Khan",
+    "Murshid Quli Khan",
+    "Mir Jafar",
+    "Siraj-ud-Daulah"
+   ],
+   "a": 1,
+   "e": "He rose from Diwan to Nawab."
+  },
+  {
+   "q": "Who invaded India in 1739?",
+   "o": [
+    "Timur",
+    "Ahmad Shah Abdali",
+    "Babur",
+    "Nadir Shah"
+   ],
+   "a": 3,
+   "e": "Nadir Shah was the ruler of Persia."
+  },
+  {
+   "q": "Who was the Mughal emperor at the time of Nadir Shah's invasion?",
+   "o": [
+    "Bahadur Shah I",
+    "Aurangzeb",
+    "Muhammad Shah 'Rangila'",
+    "Farrukhsiyar"
+   ],
+   "a": 2,
+   "e": "He was defeated in the Battle of Karnal."
+  },
+  {
+   "q": "Which famous Mughal throne did Nadir Shah carry away?",
+   "o": [
+    "Takht-i-Hind",
+    "Takht-i-Taus (Peacock Throne)",
+    "Simhasan Battisi",
+    "Takht-i-Shahi"
+   ],
+   "a": 1,
+   "e": "The Peacock Throne was built by Shah Jahan; Nadir Shah also took the Kohinoor."
+  },
+  {
+   "q": "In which battle did Nadir Shah defeat the Mughal army?",
+   "o": [
+    "Battle of Karnal (1739)",
+    "Buxar",
+    "Panipat",
+    "Plassey"
+   ],
+   "a": 0,
+   "e": "This was followed by a massacre and plunder in Delhi."
+  },
+  {
+   "q": "Which feature distinguished Mughal architecture from the earlier temple style?",
+   "o": [
+    "Kalasha",
+    "Extensive use of arches and domes",
+    "Garbhagriha",
+    "Shikhara"
+   ],
+   "a": 1,
+   "e": "Arches, domes and minarets were prominent in Mughal architecture."
+  },
+  {
+   "q": "What was a 'sarai'?",
+   "o": [
+    "Royal court",
+    "Temple",
+    "Rest house for travellers",
+    "Fort"
+   ],
+   "a": 2,
+   "e": "Sher Shah built sarais along the road later called the Grand Trunk Road."
+  },
+  {
+   "q": "Which building in the royal palace was used for private audiences?",
+   "o": [
+    "Panch Mahal",
+    "Diwan-i-Aam",
+    "Diwan-i-Khas",
+    "Jodha Bai Mahal"
+   ],
+   "a": 2,
+   "e": "The Diwan-i-Aam was the hall of public audience."
+  },
+  {
+   "q": "Which city did Akbar develop as a planned capital?",
+   "o": [
+    "Lahore",
+    "Fatehpur Sikri",
+    "Delhi",
+    "Agra"
+   ],
+   "a": 1,
+   "e": "Work on it began in 1571."
+  },
+  {
+   "q": "Fatehpur Sikri was built in honour of the blessings of which saint?",
+   "o": [
+    "Moinuddin Chishti",
+    "Sheikh Salim Chishti",
+    "Nizamuddin Auliya",
+    "Bakhtiyar Kaki"
+   ],
+   "a": 1,
+   "e": "Jahangir (Salim) was born with his blessings."
+  },
+  {
+   "q": "The Buland Darwaza was built to commemorate what?",
+   "o": [
+    "Conquest of the Deccan",
+    "Victory at Khanwa",
+    "Conquest of Chittor",
+    "Conquest of Gujarat"
+   ],
+   "a": 3,
+   "e": "Built c. 1575 at Fatehpur Sikri."
+  },
+  {
+   "q": "Where is the tomb of Salim Chishti located?",
+   "o": [
+    "Fatehpur Sikri",
+    "Agra",
+    "Delhi",
+    "Ajmer"
+   ],
+   "a": 0,
+   "e": "Akbar's tomb is at Sikandra (Agra)."
+  },
+  {
+   "q": "Where is Akbar's tomb located?",
+   "o": [
+    "Sikandra, Agra",
+    "Lahore",
+    "Delhi",
+    "Sasaram"
+   ],
+   "a": 0,
+   "e": "Sher Shah's tomb is at Sasaram (Bihar)."
+  },
+  {
+   "q": "The Jahangiri Mahal is built of which stone?",
+   "o": [
+    "Granite",
+    "Red sandstone",
+    "White marble",
+    "Black stone"
+   ],
+   "a": 1,
+   "e": "It stands in Agra Fort; the Panch Mahal is also of red sandstone."
+  },
+  {
+   "q": "Who built the Panch Mahal and which style influenced it?",
+   "o": [
+    "Shah Jahan, charbagh style",
+    "Akbar, Buddhist vihara style",
+    "Aurangzeb, dome style",
+    "Jahangir, Persian style"
+   ],
+   "a": 1,
+   "e": "It is located at Fatehpur Sikri."
+  },
+  {
+   "q": "When was the construction of the Taj Mahal completed?",
+   "o": [
+    "1653 AD",
+    "1648 AD",
+    "1631 AD",
+    "1600 AD"
+   ],
+   "a": 0,
+   "e": "Work began after Mumtaz Mahal's death in 1631; it is a UNESCO World Heritage Site."
+  },
+  {
+   "q": "Who built the Taj Mahal?",
+   "o": [
+    "Akbar",
+    "Aurangzeb",
+    "Jahangir",
+    "Shah Jahan"
+   ],
+   "a": 3,
+   "e": "In memory of Mumtaz Mahal."
+  },
+  {
+   "q": "What is the technique of inlaying precious stones in marble called?",
+   "o": [
+    "Meenakari",
+    "Pietra dura",
+    "Charbagh",
+    "Jali work"
+   ],
+   "a": 1,
+   "e": "It is prominent in the Taj Mahal."
+  },
+  {
+   "q": "Which building has an early example of pietra dura (inlaid marble work)?",
+   "o": [
+    "Red Fort",
+    "Taj Mahal",
+    "Humayun's Tomb",
+    "Tomb of Itmad-ud-Daulah"
+   ],
+   "a": 3,
+   "e": "It is also called the 'Baby Taj'."
+  },
+  {
+   "q": "Who built the tomb of Itmad-ud-Daulah?",
+   "o": [
+    "Haji Begum",
+    "Mumtaz Mahal",
+    "Nur Jahan (Mehr-un-Nissa)",
+    "Jahanara"
+   ],
+   "a": 2,
+   "e": "She built it in Agra in memory of her father."
+  },
+  {
+   "q": "Ustad Ahmad Lahori is regarded as the chief architect of which building?",
+   "o": [
+    "Taj Mahal",
+    "Bibi ka Maqbara",
+    "Humayun's Tomb",
+    "Buland Darwaza"
+   ],
+   "a": 0,
+   "e": "He was the chief architect of the Taj Mahal, a UNESCO World Heritage Site."
+  },
+  {
+   "q": "Which of the following buildings is built in the charbagh style?",
+   "o": [
+    "Charminar",
+    "Buland Darwaza",
+    "Gol Gumbaz",
+    "Taj Mahal"
+   ],
+   "a": 3,
+   "e": "The Mughals popularised the charbagh garden layout."
+  },
+  {
+   "q": "Who commissioned Humayun's Tomb?",
+   "o": [
+    "Haji Begum (Bega Begum)",
+    "Gulbadan Begum",
+    "Nur Jahan",
+    "Mumtaz Mahal"
+   ],
+   "a": 0,
+   "e": "Its architect was Mirak Mirza Ghiyas."
+  },
+  {
+   "q": "Who was the architect of Humayun's Tomb?",
+   "o": [
+    "Ustad Isa",
+    "Mirak Mirza Ghiyas",
+    "Ustad Ahmad Lahori",
+    "Ali Mardan Khan"
+   ],
+   "a": 1,
+   "e": "It is the first mature charbagh garden-tomb in India."
+  },
+  {
+   "q": "Who built the Red Fort?",
+   "o": [
+    "Shah Jahan",
+    "Jahangir",
+    "Akbar",
+    "Aurangzeb"
+   ],
+   "a": 0,
+   "e": "Begun in 1638 and completed around 1648."
+  },
+  {
+   "q": "Who built the Moti Masjid in Delhi?",
+   "o": [
+    "Shah Jahan",
+    "Akbar",
+    "Aurangzeb",
+    "Bahadur Shah"
+   ],
+   "a": 2,
+   "e": "It is inside the Red Fort complex."
+  },
+  {
+   "q": "By whom was the Bibi ka Maqbara built?",
+   "o": [
+    "Jahangir",
+    "Aurangzeb/Azam Shah",
+    "Shah Jahan",
+    "Akbar"
+   ],
+   "a": 1,
+   "e": "Built for Aurangzeb's wife Dilras Banu Begum (Rabia-ud-Daurani)."
+  },
+  {
+   "q": "Which monument is called the 'Taj of the Deccan'?",
+   "o": [
+    "Itmad-ud-Daulah",
+    "Gol Gumbaz",
+    "Charminar",
+    "Bibi ka Maqbara"
+   ],
+   "a": 3,
+   "e": "It is located in Aurangabad (Chhatrapati Sambhajinagar)."
+  },
+  {
+   "q": "In whose memory was the Bibi ka Maqbara built?",
+   "o": [
+    "Haji Begum",
+    "Nur Jahan",
+    "Dilras Banu Begum (Rabia-ud-Daurani)",
+    "Mumtaz Mahal"
+   ],
+   "a": 2,
+   "e": "She was Aurangzeb's wife."
+  },
+  {
+   "q": "Aurangzeb's tomb is located near which city?",
+   "o": [
+    "Aurangabad (Sambhajinagar)",
+    "Lahore",
+    "Delhi",
+    "Agra"
+   ],
+   "a": 0,
+   "e": "He died in the Deccan while fighting the Marathas; his tomb is at Khuldabad."
+  },
+  {
+   "q": "When was the Third Battle of Panipat fought?",
+   "o": [
+    "1556 AD",
+    "1757 AD",
+    "1526 AD",
+    "1761 AD"
+   ],
+   "a": 3,
+   "e": "The Afghans won; the Marathas suffered heavy losses."
+  },
+  {
+   "q": "Who led the Maratha army in the Third Battle of Panipat?",
+   "o": [
+    "Baji Rao I",
+    "Madhavrao",
+    "Mahadji Scindia",
+    "Sadashivrao Bhau"
+   ],
+   "a": 3,
+   "e": "Vishwasrao was also killed in the battle."
+  },
+  {
+   "q": "Who led the Afghan army in the Third Battle of Panipat?",
+   "o": [
+    "Nadir Shah",
+    "Timur",
+    "Ahmad Shah Abdali (Durrani)",
+    "Muhammad Ghori"
+   ],
+   "a": 2,
+   "e": "He is also known as Ahmad Shah Durrani."
+  },
+  {
+   "q": "Who assisted Abdali in the Third Battle of Panipat?",
+   "o": [
+    "Saadat Khan and Asaf Jah",
+    "Najib-ud-Daulah and Shuja-ud-Daulah",
+    "Mir Jafar and Mir Qasim",
+    "Hyder Ali and Tipu"
+   ],
+   "a": 1,
+   "e": "Najib-ud-Daulah was a Rohilla chief and Shuja-ud-Daulah the Nawab of Awadh."
+  },
+  {
+   "q": "Which Rohilla chief assisted Abdali in the Third Battle of Panipat?",
+   "o": [
+    "Asaf Jah",
+    "Najib-ud-Daulah",
+    "Hyder Ali",
+    "Shuja-ud-Daulah"
+   ],
+   "a": 1,
+   "e": "Shuja-ud-Daulah was the Nawab of Awadh."
+  },
+  {
+   "q": "The Pindari War is also known as which war?",
+   "o": [
+    "Second Anglo-Maratha War",
+    "First Anglo-Maratha War",
+    "Fourth Anglo-Mysore War",
+    "Third Anglo-Maratha War"
+   ],
+   "a": 3,
+   "e": "It was fought in 1817-18."
+  },
+  {
+   "q": "The First Anglo-Maratha War ended with which treaty?",
+   "o": [
+    "Treaty of Sugauli",
+    "Treaty of Salbai (1782)",
+    "Treaty of Bassein",
+    "Treaty of Purandar"
+   ],
+   "a": 1,
+   "e": "The war lasted from 1775 to 1782."
+  },
+  {
+   "q": "The Second Anglo-Maratha War is associated with which treaty?",
+   "o": [
+    "Treaty of Purandar",
+    "Treaty of Salbai",
+    "Treaty of Amritsar",
+    "Treaty of Bassein"
+   ],
+   "a": 3,
+   "e": "The treaty was signed in 1802; the war was fought in 1803-05."
+  },
+  {
+   "q": "After the Third Anglo-Maratha War, where was Peshwa Baji Rao II sent?",
+   "o": [
+    "Pune",
+    "Nagpur",
+    "Bithur (Kanpur)",
+    "Ahmadnagar"
+   ],
+   "a": 2,
+   "e": "This marked the end of Maratha power."
+  },
+  {
+   "q": "When was the Third Anglo-Maratha War fought?",
+   "o": [
+    "1775-82",
+    "1817-18",
+    "1857",
+    "1803-05"
+   ],
+   "a": 1,
+   "e": "The Pindaris were associates of the Marathas."
+  },
+  {
+   "q": "Who were the Pindaris?",
+   "o": [
+    "Mughal nobles",
+    "Bands of irregular horsemen/plunderers who flourished under the Marathas",
+    "Rajput rulers",
+    "Afghan soldiers"
+   ],
+   "a": 1,
+   "e": "The British suppressed them."
+  },
+  {
+   "q": "After which Battle of Panipat is it said that the way was cleared for British power?",
+   "o": [
+    "Second",
+    "First",
+    "Third",
+    "Fourth"
+   ],
+   "a": 2,
+   "e": "Both the Marathas and the Afghans were weakened."
+  },
+  {
+   "q": "Which practice of Alauddin Khalji was related to horses and soldiers?",
+   "o": [
+    "Jizya",
+    "Dagh and chehra",
+    "Kharaj",
+    "Zakat"
+   ],
+   "a": 1,
+   "e": "Dagh-chehra continued under the Mughal Mir Bakhshi."
+  }
+ ]
+}

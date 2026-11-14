@@ -1,0 +1,2013 @@
+{
+ "title": "Polity Lec 3",
+ "summary": [
+  "Part I (Art. 1-4): Art. 1 - India as a Union of States; Art. 2 - admission/establishment of new states; Art. 3 - formation of new states and alteration of areas, boundaries or names; Art. 4 - such laws pass by simple majority and are not amendments under Art. 368.",
+  "A bill under Art. 3 needs the President's recommendation; the views of the state legislature are sought but are not binding; the time-limit provision came with the 5th Amendment (1955).",
+  "First Schedule - names and territories of states and UTs; Fourth Schedule - allocation of Rajya Sabha seats (in proportion to population; Uttar Pradesh 31, Sikkim 1).",
+  "Union Territories: Dadra and Nagar Haveli - 10th, Goa, Daman and Diu - 12th, Puducherry - 14th Amendment; Goa became a state in 1987; Operation Vijay 1961; Vasco da Gama arrived in 1498.",
+  "Sikkim: 35th Amendment 1974 (associate state, Art. 2A), 36th Amendment 1975 (full-fledged state).",
+  "First state formed on a linguistic basis: Andhra (1953, Potti Sriramulu); Fazl Ali Commission (Fazl Ali, H.N. Kunzru, K.M. Panikkar); States Reorganisation Act 1956 - 14 states, 6 UTs; Dhar Commission and JVP Committee 1948.",
+  "Berubari case 1960: acquiring territory by simple majority, ceding territory needs a constitutional amendment (9th Amendment); Bangladesh Land Boundary Agreement - 100th Amendment.",
+  "Key amendments: 97th - cooperative societies, 101st - GST, 102nd - NCBC, 103rd - 10% EWS quota, 104th - end of Anglo-Indian nomination, 106th - Nari Shakti Vandan (33%).",
+  "Art. 371 sequence: 371 Maharashtra-Gujarat; 371A-J respectively Nagaland, Assam, Manipur, Andhra Pradesh, Andhra university, Sikkim, Mizoram, Arunachal Pradesh, Goa, Karnataka.",
+  "Part II (Art. 5-11) Citizenship: Art. 6 cut-off 19 July 1948, Art. 7 cut-off 1 March 1947, Art. 8 persons of Indian origin abroad, Art. 9 voluntary foreign citizenship, Art. 10 continuance, Art. 11 Parliament's power to legislate.",
+  "Citizenship Act 1955: 5 modes of acquisition (birth, descent, registration, naturalisation, incorporation of territory); 3 modes of loss (renunciation, termination, deprivation); birth rules tightened in 1987 and 2003; single citizenship (from Britain).",
+  "Gupta period: Chandragupta I - Maharajadhiraja; Samudragupta - Prayag Prashasti (Harishena), 'Napoleon of India', veena coins; Chandragupta II - Vikramaditya; officials: Sandhivigrahika, Kumaramatya, Mahadandanayaka, Uparika, Ayukta.",
+  "Administration: Bhukti (province) > Vishaya (Vishayapati) > Vithi > Grama (Gramika); taxes: Bhaga, Uparikara, Vishti, Halivakara, Hiranya.",
+  "Nalanda - Kumaragupta I; Vikramashila - Dharmapala; Odantapuri - Gopala. Chalukyas: Badami caves, Aihole (Durga temple), Pattadakal (Virupaksha); Rashtrakuta founder Dantidurga, Kailasa temple at Ellora - Krishna I.",
+  "Pallavas: Mahendravarman I - rock-cut temples, Narasimhavarman I - Pancha Rathas, Narasimhavarman II - Kailasanatha and Shore Temple; Harshavardhana - Pushyabhuti dynasty, Thanesar; Aihole inscription (Ravikirti)."
+ ],
+ "mcqs": [
+  {
+   "q": "In Lecture 3, Part I of the Constitution deals with which subject?",
+   "o": [
+    "Emergency",
+    "Citizenship",
+    "The Union and its territory",
+    "Fundamental Rights"
+   ],
+   "a": 2,
+   "e": "Part I (Art. 1-4) - Union and its territory; Part II (Art. 5-11) - Citizenship."
+  },
+  {
+   "q": "Which Articles fall under Part I of the Constitution?",
+   "o": [
+    "Articles 12 to 35",
+    "Articles 5 to 11",
+    "Articles 1 to 4",
+    "Articles 36 to 51"
+   ],
+   "a": 2,
+   "e": "Part I contains four Articles in all."
+  },
+  {
+   "q": "Which Article empowers Parliament to admit or establish new states?",
+   "o": [
+    "Article 5",
+    "Article 3",
+    "Article 4",
+    "Article 2"
+   ],
+   "a": 3,
+   "e": "Art. 2 - admission/establishment of new states (bringing outside territory into India)."
+  },
+  {
+   "q": "Formation of a new state from an existing one, altering its area, boundaries or name is done under which Article?",
+   "o": [
+    "Article 3",
+    "Article 1",
+    "Article 368",
+    "Article 2"
+   ],
+   "a": 0,
+   "e": "Art. 3 deals with reorganisation of existing states (formation, area, boundary, name)."
+  },
+  {
+   "q": "Which Article is used to admit into India a territory that is not yet part of India?",
+   "o": [
+    "Article 3",
+    "Article 1",
+    "Article 2",
+    "Article 4"
+   ],
+   "a": 2,
+   "e": "Acquiring territory from outside falls under Art. 2."
+  },
+  {
+   "q": "Bifurcation of a state or merger of two states is done under which Article?",
+   "o": [
+    "Article 5",
+    "Article 11",
+    "Article 2",
+    "Article 3"
+   ],
+   "a": 3,
+   "e": "Bifurcation and merger of states are done under Art. 3."
+  },
+  {
+   "q": "When were Uttarakhand, Chhattisgarh and Jharkhand formed?",
+   "o": [
+    "2001",
+    "1999",
+    "2000",
+    "2002"
+   ],
+   "a": 2,
+   "e": "All three were carved out in 2000 from Uttar Pradesh, Madhya Pradesh and Bihar respectively."
+  },
+  {
+   "q": "Chhattisgarh was carved out of which state?",
+   "o": [
+    "Madhya Pradesh",
+    "Bihar",
+    "Maharashtra",
+    "Uttar Pradesh"
+   ],
+   "a": 0,
+   "e": "Chhattisgarh - from MP; Uttarakhand - from UP; Jharkhand - from Bihar."
+  },
+  {
+   "q": "Jharkhand was carved out of which state?",
+   "o": [
+    "Uttar Pradesh",
+    "Bihar",
+    "Odisha",
+    "Madhya Pradesh"
+   ],
+   "a": 1,
+   "e": "Jharkhand was formed from Bihar on 15 November 2000."
+  },
+  {
+   "q": "When was the state of Telangana formed?",
+   "o": [
+    "26 January 2014",
+    "1 November 2014",
+    "2 October 2013",
+    "2 June 2014"
+   ],
+   "a": 3,
+   "e": "Telangana was carved out of Andhra Pradesh as India's 29th state."
+  },
+  {
+   "q": "What majority is required for laws made under Articles 2 and 3?",
+   "o": [
+    "Special majority plus ratification by half the states",
+    "Two-thirds majority and President's assent",
+    "Special majority",
+    "Simple majority"
+   ],
+   "a": 3,
+   "e": "Under Art. 4 such laws are not Art. 368 amendments; a simple majority suffices."
+  },
+  {
+   "q": "What does a simple majority mean?",
+   "o": [
+    "Half of total members",
+    "More than half of the members present and voting",
+    "Two-thirds of total members",
+    "Three-fourths of total members"
+   ],
+   "a": 1,
+   "e": "Simple majority = more than 50% of members present and voting."
+  },
+  {
+   "q": "According to Article 4, laws made under Art. 2 or 3 are exempt from which procedure?",
+   "o": [
+    "Article 356",
+    "Constitutional amendment under Article 368",
+    "Article 13",
+    "Article 32"
+   ],
+   "a": 1,
+   "e": "Such laws are exempt from the Art. 368 procedure."
+  },
+  {
+   "q": "Which two procedures (involving special majority) are followed under Article 368?",
+   "o": [
+    "Special majority; and special majority plus ratification by at least half the states",
+    "Simple majority; and special majority",
+    "Simple majority only",
+    "President's assent only"
+   ],
+   "a": 0,
+   "e": "That is why Art. 2/3 laws do not need the Art. 368 procedure."
+  },
+  {
+   "q": "Whose prior recommendation is required before introducing a bill under Article 3?",
+   "o": [
+    "Prime Minister",
+    "President",
+    "Supreme Court",
+    "Governor"
+   ],
+   "a": 1,
+   "e": "Such a bill can be introduced in Parliament only on the President's recommendation."
+  },
+  {
+   "q": "Why does the President refer an Article 3 bill to the concerned state legislature?",
+   "o": [
+    "To ascertain the state's views",
+    "To obtain the state's veto",
+    "To obtain the state's consent",
+    "To examine the state's budget"
+   ],
+   "a": 0,
+   "e": "The state's views are not binding on Parliament."
+  },
+  {
+   "q": "In Article 3 matters, how binding are the views of the state legislature on Parliament?",
+   "o": [
+    "Fully binding",
+    "Binding only for boundary changes",
+    "Binding if passed by two-thirds",
+    "Not binding"
+   ],
+   "a": 3,
+   "e": "Parliament is not bound to accept the state's views."
+  },
+  {
+   "q": "Which amendment empowered the President to fix a time limit for the state legislature to express its views?",
+   "o": [
+    "42nd Amendment",
+    "5th Constitutional Amendment",
+    "9th Amendment",
+    "1st Amendment"
+   ],
+   "a": 1,
+   "e": "Since the 5th Amendment (1955) the President can prescribe the time limit."
+  },
+  {
+   "q": "The names and territories of the states are listed in which Schedule of the Constitution?",
+   "o": [
+    "Fourth Schedule",
+    "Tenth Schedule",
+    "Seventh Schedule",
+    "First Schedule"
+   ],
+   "a": 3,
+   "e": "First Schedule - names and territories of states and Union Territories."
+  },
+  {
+   "q": "Allocation of seats in the Rajya Sabha is given in which Schedule?",
+   "o": [
+    "First Schedule",
+    "Eighth Schedule",
+    "Second Schedule",
+    "Fourth Schedule"
+   ],
+   "a": 3,
+   "e": "Fourth Schedule - allocation of Rajya Sabha seats to states/UTs."
+  },
+  {
+   "q": "On what basis are Rajya Sabha seats allocated?",
+   "o": [
+    "In proportion to area",
+    "Equally to all states",
+    "In proportion to revenue",
+    "In proportion to population"
+   ],
+   "a": 3,
+   "e": "More populous states get more seats."
+  },
+  {
+   "q": "By what system are Rajya Sabha members elected?",
+   "o": [
+    "Indirect election, list system",
+    "Direct election, majority system",
+    "Indirect election, proportional representation by single transferable vote",
+    "Direct election, proportional system"
+   ],
+   "a": 2,
+   "e": "Rajya Sabha members are elected by MLAs through STV."
+  },
+  {
+   "q": "How many Rajya Sabha seats does Uttar Pradesh have?",
+   "o": [
+    "31",
+    "34",
+    "18",
+    "28"
+   ],
+   "a": 0,
+   "e": "UP has 31 seats (the most); Sikkim has only 1."
+  },
+  {
+   "q": "According to Article 4, the First and Fourth Schedules can be changed by what majority?",
+   "o": [
+    "Approval of three-fourths of states",
+    "Special majority",
+    "Simple majority",
+    "Absolute majority"
+   ],
+   "a": 2,
+   "e": "Because of Art. 4, these Schedules can be changed by simple majority."
+  },
+  {
+   "q": "Emergency provisions are contained in which Part of the Constitution?",
+   "o": [
+    "Part IV",
+    "Part XVIII",
+    "Part III",
+    "Part XX"
+   ],
+   "a": 1,
+   "e": "Part XVIII (Art. 352-360) - Emergency."
+  },
+  {
+   "q": "Fundamental Rights are contained in which Part of the Constitution?",
+   "o": [
+    "Part IVA",
+    "Part III",
+    "Part II",
+    "Part IV"
+   ],
+   "a": 1,
+   "e": "Part III - Articles 12 to 35."
+  },
+  {
+   "q": "Goa, Daman and Diu were made a Union Territory by which amendment?",
+   "o": [
+    "14th Amendment",
+    "56th Amendment",
+    "12th Amendment",
+    "10th Amendment"
+   ],
+   "a": 2,
+   "e": "The 12th Amendment (1962) made Goa, Daman and Diu a UT after their liberation in 1961."
+  },
+  {
+   "q": "Dadra and Nagar Haveli was made a UT by which amendment?",
+   "o": [
+    "7th Amendment",
+    "10th Amendment",
+    "14th Amendment",
+    "12th Amendment"
+   ],
+   "a": 1,
+   "e": "10th Amendment (1961)."
+  },
+  {
+   "q": "By which amendment was Puducherry incorporated into India as a Union Territory?",
+   "o": [
+    "14th Amendment (1962)",
+    "12th Amendment",
+    "35th Amendment",
+    "10th Amendment"
+   ],
+   "a": 0,
+   "e": "Puducherry was earlier under French control."
+  },
+  {
+   "q": "In which year did Goa get full statehood?",
+   "o": [
+    "1987",
+    "1992",
+    "1961",
+    "1975"
+   ],
+   "a": 0,
+   "e": "Goa became the 25th state in 1987 (Goa, Daman and Diu Reorganisation Act; 56th Amendment)."
+  },
+  {
+   "q": "Goa, Daman and Diu became a UT by the 12th Amendment. Which amendment, two numbers earlier, made Dadra and Nagar Haveli a UT?",
+   "o": [
+    "10th",
+    "12th",
+    "16th",
+    "14th"
+   ],
+   "a": 0,
+   "e": "12 - 2 = 10 (Dadra and Nagar Haveli); 12 + 2 = 14 (Puducherry)."
+  },
+  {
+   "q": "Puducherry was under the control of which European power?",
+   "o": [
+    "French",
+    "Portuguese",
+    "Dutch",
+    "British"
+   ],
+   "a": 0,
+   "e": "Puducherry was French; Goa, Daman, Diu and Dadra were Portuguese."
+  },
+  {
+   "q": "Goa, Daman and Diu and Dadra and Nagar Haveli were under which European power?",
+   "o": [
+    "Dutch",
+    "Danish",
+    "French",
+    "Portuguese"
+   ],
+   "a": 3,
+   "e": "The Portuguese were the first to arrive and the last to leave."
+  },
+  {
+   "q": "When did Vasco da Gama reach India (Calicut)?",
+   "o": [
+    "1600",
+    "1510",
+    "1453",
+    "1498"
+   ],
+   "a": 3,
+   "e": "The Portuguese arrived in 1498."
+  },
+  {
+   "q": "Which military operation in 1961 ended Portuguese rule in Goa?",
+   "o": [
+    "Operation Polo",
+    "Operation Vijay",
+    "Operation Meghdoot",
+    "Operation Blue Star"
+   ],
+   "a": 1,
+   "e": "Operation Vijay (December 1961) brought Goa, Daman and Diu into India."
+  },
+  {
+   "q": "Which uniform civil code is in force in Goa?",
+   "o": [
+    "Indian Code of 1950",
+    "Mughal Code",
+    "French Code",
+    "Portuguese Civil Code (pre-independence)"
+   ],
+   "a": 3,
+   "e": "Goa follows the Portuguese-era civil code, not one framed by independent India."
+  },
+  {
+   "q": "The Uniform Civil Code is mentioned in which Article?",
+   "o": [
+    "Article 51",
+    "Article 14",
+    "Article 21",
+    "Article 44"
+   ],
+   "a": 3,
+   "e": "Art. 44 (DPSP) - Uniform Civil Code."
+  },
+  {
+   "q": "Which was the first state to implement a UCC after independence (as of November 2025)?",
+   "o": [
+    "Gujarat",
+    "Uttarakhand",
+    "Assam",
+    "Goa"
+   ],
+   "a": 1,
+   "e": "Uttarakhand implemented its UCC in January 2025 (memory aid: U for UCC, U for Uttarakhand)."
+  },
+  {
+   "q": "What does Article 1 call India?",
+   "o": [
+    "A federal republic",
+    "A unitary state",
+    "A confederation of states",
+    "A Union of States"
+   ],
+   "a": 3,
+   "e": "'India, that is Bharat, shall be a Union of States.'"
+  },
+  {
+   "q": "According to Dr. Ambedkar, why was the term 'Union of States' used?",
+   "o": [
+    "The Indian Union is indestructible and states have no right to secede",
+    "States are independent units",
+    "The states formed the Union",
+    "India is unitary"
+   ],
+   "a": 0,
+   "e": "India is an 'indestructible Union of destructible states'."
+  },
+  {
+   "q": "Which statement about India is correct?",
+   "o": [
+    "Indestructible Union, destructible states",
+    "Both destructible",
+    "Destructible Union, indestructible states",
+    "Both indestructible"
+   ],
+   "a": 0,
+   "e": "States can be reorganised but cannot secede from the Union."
+  },
+  {
+   "q": "Where is the word 'Federation' used in the Constitution?",
+   "o": [
+    "In the Preamble",
+    "In Article 368",
+    "Nowhere",
+    "In Article 1"
+   ],
+   "a": 2,
+   "e": "The word 'federation' is not used anywhere in the Constitution."
+  },
+  {
+   "q": "According to Article 1, what does the territory of India comprise?",
+   "o": [
+    "States and foreign embassies",
+    "States, Union Territories and territories that may be acquired",
+    "Only states",
+    "Only states and UTs"
+   ],
+   "a": 1,
+   "e": "Three categories: states, UTs and acquired territories."
+  },
+  {
+   "q": "Article 1 indicates which aspect of India?",
+   "o": [
+    "Citizenship",
+    "Fundamental Rights",
+    "Nature of the polity (Union) and its territory",
+    "Judiciary"
+   ],
+   "a": 2,
+   "e": "It states the type of polity and its territory."
+  },
+  {
+   "q": "The agreement on Berubari Union (West Bengal) was signed between whom?",
+   "o": [
+    "Indira-Mujib Agreement",
+    "Nehru-Noon Agreement",
+    "Nehru-Liaquat Pact",
+    "Shastri-Ayub Agreement"
+   ],
+   "a": 1,
+   "e": "Signed in 1958 between Nehru and Pakistan PM Feroz Khan Noon."
+  },
+  {
+   "q": "What did the Supreme Court hold in the Berubari Union case (1960)?",
+   "o": [
+    "The President alone can cede territory",
+    "Territory can be ceded by simple majority",
+    "Parliament can never cede territory",
+    "Territory can be acquired by simple majority, but ceding it requires a constitutional amendment"
+   ],
+   "a": 3,
+   "e": "Hence the 9th Amendment was enacted."
+  },
+  {
+   "q": "Which amendment was required to transfer Berubari to Pakistan?",
+   "o": [
+    "7th Amendment",
+    "9th Amendment",
+    "10th Amendment",
+    "100th Amendment"
+   ],
+   "a": 1,
+   "e": "9th Constitutional Amendment, 1960."
+  },
+  {
+   "q": "The Land Boundary Agreement (enclaves) with Bangladesh was given effect by which amendment?",
+   "o": [
+    "97th Amendment",
+    "100th Amendment",
+    "103rd Amendment",
+    "101st Amendment"
+   ],
+   "a": 1,
+   "e": "100th Amendment (2015) - India transferred 111 enclaves and received 51."
+  },
+  {
+   "q": "The 97th Amendment relates to which subject?",
+   "o": [
+    "Backward Classes Commission",
+    "EWS reservation",
+    "GST",
+    "Cooperative societies (Part IXB, Art. 43B)"
+   ],
+   "a": 3,
+   "e": "The 97th Amendment (2011) added Part IXB."
+  },
+  {
+   "q": "The 101st Constitutional Amendment relates to what?",
+   "o": [
+    "Cooperative societies",
+    "EWS reservation",
+    "Goods and Services Tax (GST)",
+    "Women's reservation"
+   ],
+   "a": 2,
+   "e": "101st Amendment, 2016 - GST."
+  },
+  {
+   "q": "Which body got constitutional status through the 102nd Amendment?",
+   "o": [
+    "Human Rights Commission",
+    "Finance Commission",
+    "National Commission for Women",
+    "National Commission for Backward Classes"
+   ],
+   "a": 3,
+   "e": "Art. 338B was inserted, giving NCBC constitutional status."
+  },
+  {
+   "q": "What did the 103rd Constitutional Amendment provide?",
+   "o": [
+    "33% reservation for women",
+    "Ending Anglo-Indian nomination",
+    "10% reservation for Economically Weaker Sections (EWS)",
+    "Introduction of GST"
+   ],
+   "a": 2,
+   "e": "103rd Amendment, 2019."
+  },
+  {
+   "q": "What was done by the 104th Amendment?",
+   "o": [
+    "Ended Anglo-Indian nomination and extended SC/ST reservation by 10 years",
+    "EWS reservation",
+    "Status to panchayats",
+    "Cooperative societies"
+   ],
+   "a": 0,
+   "e": "104th Amendment (2019)."
+  },
+  {
+   "q": "How many members of the Anglo-Indian community could the President nominate to the Lok Sabha?",
+   "o": [
+    "2",
+    "5",
+    "1",
+    "3"
+   ],
+   "a": 0,
+   "e": "The President nominated 2 to the Lok Sabha and a Governor 1 to the Assembly."
+  },
+  {
+   "q": "By what name is the 106th Constitutional Amendment known?",
+   "o": [
+    "Mahila Suraksha Adhiniyam",
+    "Nari Shakti Vandan Adhiniyam",
+    "Beti Bachao Adhiniyam",
+    "Nari Samman Adhiniyam"
+   ],
+   "a": 1,
+   "e": "33% reservation for women in the Lok Sabha and state Assemblies."
+  },
+  {
+   "q": "Under the Nari Shakti Vandan Adhiniyam, what share of seats in the Lok Sabha and Assemblies is reserved for women?",
+   "o": [
+    "33%",
+    "50%",
+    "25%",
+    "10%"
+   ],
+   "a": 0,
+   "e": "One-third (33%) reservation (106th Amendment, 2023)."
+  },
+  {
+   "q": "Article 371 (the first in the series) makes special provisions for which states?",
+   "o": [
+    "Goa and Karnataka",
+    "Maharashtra and Gujarat",
+    "Andhra Pradesh and Sikkim",
+    "Nagaland and Assam"
+   ],
+   "a": 1,
+   "e": "Art. 371 - Maharashtra and Gujarat."
+  },
+  {
+   "q": "Article 371A relates to which state?",
+   "o": [
+    "Mizoram",
+    "Nagaland",
+    "Manipur",
+    "Assam"
+   ],
+   "a": 1,
+   "e": "371A Nagaland, B Assam, C Manipur, D-E Andhra, F Sikkim, G Mizoram, H Arunachal, I Goa, J Karnataka."
+  },
+  {
+   "q": "Article 371B is for which state?",
+   "o": [
+    "Sikkim",
+    "Arunachal Pradesh",
+    "Assam",
+    "Manipur"
+   ],
+   "a": 2,
+   "e": "371B - Assam."
+  },
+  {
+   "q": "Article 371C is for which state?",
+   "o": [
+    "Andhra Pradesh",
+    "Manipur",
+    "Nagaland",
+    "Goa"
+   ],
+   "a": 1,
+   "e": "371C - Manipur."
+  },
+  {
+   "q": "Articles 371D and 371E respectively relate to what?",
+   "o": [
+    "Goa and Karnataka",
+    "Sikkim and Mizoram",
+    "Andhra Pradesh/Telangana and a central university in Andhra Pradesh",
+    "Assam and Manipur"
+   ],
+   "a": 2,
+   "e": "371D - Andhra Pradesh/Telangana; 371E - central university in Andhra Pradesh."
+  },
+  {
+   "q": "Article 371F is for which state?",
+   "o": [
+    "Arunachal Pradesh",
+    "Goa",
+    "Mizoram",
+    "Sikkim"
+   ],
+   "a": 3,
+   "e": "371F - Sikkim."
+  },
+  {
+   "q": "Article 371G is for which state?",
+   "o": [
+    "Nagaland",
+    "Mizoram",
+    "Assam",
+    "Sikkim"
+   ],
+   "a": 1,
+   "e": "371G - Mizoram."
+  },
+  {
+   "q": "Article 371H is for which state?",
+   "o": [
+    "Karnataka",
+    "Goa",
+    "Arunachal Pradesh",
+    "Manipur"
+   ],
+   "a": 2,
+   "e": "371H - Arunachal Pradesh; 371I - Goa."
+  },
+  {
+   "q": "Article 371J is for which state (region)?",
+   "o": [
+    "Goa",
+    "Maharashtra",
+    "Karnataka (Hyderabad-Karnataka region)",
+    "Arunachal Pradesh"
+   ],
+   "a": 2,
+   "e": "371J - Karnataka; 371I - Goa."
+  },
+  {
+   "q": "By which amendment did Sikkim get the status of an 'Associate State'?",
+   "o": [
+    "14th Amendment",
+    "36th Amendment",
+    "35th Amendment (1974)",
+    "56th Amendment"
+   ],
+   "a": 2,
+   "e": "The 35th Amendment inserted Art. 2A."
+  },
+  {
+   "q": "Which Article was inserted into the Constitution by the 35th Amendment?",
+   "o": [
+    "Article 4A",
+    "Article 2A",
+    "Article 371F",
+    "Article 3A"
+   ],
+   "a": 1,
+   "e": "Art. 2A - Sikkim as an associate state."
+  },
+  {
+   "q": "By which amendment did Sikkim become a full-fledged state?",
+   "o": [
+    "37th Amendment",
+    "36th Amendment (1975)",
+    "35th Amendment",
+    "14th Amendment"
+   ],
+   "a": 1,
+   "e": "The 36th Amendment made Sikkim the 22nd state, ending Chogyal rule."
+  },
+  {
+   "q": "The rule of which dynasty ended in Sikkim?",
+   "o": [
+    "Holkar",
+    "Wodeyar",
+    "Chogyal",
+    "Ahom"
+   ],
+   "a": 2,
+   "e": "The Chogyal dynasty."
+  },
+  {
+   "q": "Which was the first state of India formed on a linguistic basis?",
+   "o": [
+    "Maharashtra",
+    "Karnataka",
+    "Andhra Pradesh (1953)",
+    "Kerala"
+   ],
+   "a": 2,
+   "e": "Andhra State was carved out of Madras in 1953."
+  },
+  {
+   "q": "Who died during a fast unto death demanding a separate Andhra state?",
+   "o": [
+    "T. Prakasam",
+    "Potti Sriramulu",
+    "C. Rajagopalachari",
+    "K. Kamaraj"
+   ],
+   "a": 1,
+   "e": "Potti Sriramulu died during his fast in 1952."
+  },
+  {
+   "q": "Who was the chairman of the States Reorganisation Commission (Fazl Ali Commission)?",
+   "o": [
+    "K.M. Panikkar",
+    "Jawaharlal Nehru",
+    "Hriday Nath Kunzru",
+    "Fazl Ali"
+   ],
+   "a": 3,
+   "e": "The commission was set up in 1953."
+  },
+  {
+   "q": "Who were the other two members of the Fazl Ali Commission?",
+   "o": [
+    "Patel and Nehru",
+    "Kunzru and Rajagopalachari",
+    "Hriday Nath Kunzru and K.M. Panikkar",
+    "Panikkar and Sitaramayya"
+   ],
+   "a": 2,
+   "e": "The commission had 3 members in all."
+  },
+  {
+   "q": "When was the States Reorganisation Act passed?",
+   "o": [
+    "1956",
+    "1953",
+    "1962",
+    "1950"
+   ],
+   "a": 0,
+   "e": "It abolished the Part A/B/C/D classification and created 14 states and 6 UTs."
+  },
+  {
+   "q": "How many states and UTs were created by the States Reorganisation Act, 1956?",
+   "o": [
+    "10 states and 8 UTs",
+    "14 states and 9 UTs",
+    "16 states and 3 UTs",
+    "14 states and 6 UTs"
+   ],
+   "a": 3,
+   "e": "The Part A, B, C, D classification was abolished."
+  },
+  {
+   "q": "Which bodies (1948) recommended against forming states on a linguistic basis?",
+   "o": [
+    "JVP and Simon",
+    "Dhar Commission and JVP Committee",
+    "Fazl Ali and Dhar",
+    "Kunzru and Dhar"
+   ],
+   "a": 1,
+   "e": "Both favoured administrative convenience as the basis for states."
+  },
+  {
+   "q": "Who were the members of the JVP Committee?",
+   "o": [
+    "Jagjivan Ram, V.V. Giri, Patel",
+    "Jawaharlal Nehru, Vallabhbhai Patel, Pattabhi Sitaramayya",
+    "Jayaprakash, Vallabhbhai, Panikkar",
+    "Jinnah, V.P. Menon, Patel"
+   ],
+   "a": 1,
+   "e": "J-V-P is named after these three."
+  },
+  {
+   "q": "When were the Dhar Commission and the JVP Committee constituted?",
+   "o": [
+    "1956",
+    "1950",
+    "1948",
+    "1953"
+   ],
+   "a": 2,
+   "e": "Both were set up in 1948."
+  },
+  {
+   "q": "Part II of the Constitution deals with which subject?",
+   "o": [
+    "The Union and its territory",
+    "Fundamental Rights",
+    "Citizenship",
+    "Directive Principles of State Policy"
+   ],
+   "a": 2,
+   "e": "Part II - Articles 5 to 11."
+  },
+  {
+   "q": "Which Articles deal with citizenship?",
+   "o": [
+    "Articles 5 to 11",
+    "Articles 19 to 22",
+    "Articles 12 to 18",
+    "Articles 1 to 4"
+   ],
+   "a": 0,
+   "e": "Part II."
+  },
+  {
+   "q": "Articles 5 to 11 deal with citizenship as on which date?",
+   "o": [
+    "15 August 1947",
+    "26 January 1950 (commencement of the Constitution)",
+    "26 November 1949",
+    "1 July 1955"
+   ],
+   "a": 1,
+   "e": "Citizenship after this date is governed by the Citizenship Act, 1955."
+  },
+  {
+   "q": "After 26 January 1950, acquisition and loss of citizenship are governed by what?",
+   "o": [
+    "Citizenship Act, 1955",
+    "Article 6",
+    "Article 5",
+    "Article 7"
+   ],
+   "a": 0,
+   "e": "Art. 5-10 are now largely spent; the 1955 Act governs."
+  },
+  {
+   "q": "Which Article provides for citizenship at the commencement of the Constitution?",
+   "o": [
+    "Article 11",
+    "Article 8",
+    "Article 6",
+    "Article 5"
+   ],
+   "a": 3,
+   "e": "Art. 5 - citizenship at commencement (domicile plus birth, parent's birth or residence)."
+  },
+  {
+   "q": "Which of the following is NOT a requirement for citizenship under Article 5?",
+   "o": [
+    "Holding an Indian passport",
+    "Either parent born in India",
+    "Birth in India",
+    "Domicile in India"
+   ],
+   "a": 0,
+   "e": "A passport is not a requirement for citizenship."
+  },
+  {
+   "q": "Article 6 relates to whom?",
+   "o": [
+    "Persons of Indian origin living abroad",
+    "Persons who migrated to Pakistan and returned",
+    "Certain persons who migrated to India from Pakistan",
+    "Those acquiring foreign citizenship"
+   ],
+   "a": 2,
+   "e": "Art. 6 - migrants from Pakistan."
+  },
+  {
+   "q": "What is the cut-off date in Article 6 for persons migrating from Pakistan?",
+   "o": [
+    "1 March 1947",
+    "26 January 1950",
+    "15 August 1947",
+    "19 July 1948"
+   ],
+   "a": 3,
+   "e": "Those arriving after this date needed registration."
+  },
+  {
+   "q": "When could a person who came from Pakistan after 19 July 1948 become a citizen?",
+   "o": [
+    "Automatically",
+    "If born before 1947",
+    "When registered by an officer appointed by the Government of India",
+    "On taking an oath"
+   ],
+   "a": 2,
+   "e": "Registration was required."
+  },
+  {
+   "q": "Article 7 relates to whom?",
+   "o": [
+    "Refugees from Pakistan",
+    "Dual citizens",
+    "Persons who migrated to Pakistan and later returned to India",
+    "Indians settled abroad"
+   ],
+   "a": 2,
+   "e": "Art. 7 - migrants to Pakistan."
+  },
+  {
+   "q": "What is the cut-off date in Article 7?",
+   "o": [
+    "15 August 1947",
+    "26 January 1950",
+    "1 March 1947",
+    "19 July 1948"
+   ],
+   "a": 2,
+   "e": "Memory aid: 'seven-seven' (Art. 7 and 1947)."
+  },
+  {
+   "q": "Article 8 relates to whom?",
+   "o": [
+    "Migrants from Pakistan",
+    "Persons of Indian origin residing outside India",
+    "Those acquiring foreign citizenship",
+    "Rights of citizens"
+   ],
+   "a": 1,
+   "e": "Art. 8 - citizenship of persons of Indian origin residing abroad."
+  },
+  {
+   "q": "Under Article 8, where do persons of Indian origin living abroad apply for citizenship?",
+   "o": [
+    "Only the Ministry of Home Affairs",
+    "Indian embassy/consulate in the country of residence",
+    "Supreme Court",
+    "Only in Delhi"
+   ],
+   "a": 1,
+   "e": "Registration by the Indian diplomatic or consular representative."
+  },
+  {
+   "q": "Which Article states that a person voluntarily acquiring foreign citizenship ceases to be an Indian citizen?",
+   "o": [
+    "Article 8",
+    "Article 11",
+    "Article 9",
+    "Article 10"
+   ],
+   "a": 2,
+   "e": "Art. 9 - those voluntarily acquiring foreign citizenship are not citizens."
+  },
+  {
+   "q": "Which Article provides for the continuance of the rights of citizenship?",
+   "o": [
+    "Article 8",
+    "Article 9",
+    "Article 10",
+    "Article 11"
+   ],
+   "a": 2,
+   "e": "Art. 10 - continuance of rights of citizenship."
+  },
+  {
+   "q": "Which Article empowers Parliament to make laws on citizenship?",
+   "o": [
+    "Article 11",
+    "Article 10",
+    "Article 12",
+    "Article 36"
+   ],
+   "a": 0,
+   "e": "Art. 11 - Parliament can legislate on acquisition and termination of citizenship."
+  },
+  {
+   "q": "Who can make laws on citizenship?",
+   "o": [
+    "Governor",
+    "State legislature",
+    "Parliament only",
+    "Both Parliament and states"
+   ],
+   "a": 2,
+   "e": "Citizenship is a Union List subject."
+  },
+  {
+   "q": "What does Article 12 define?",
+   "o": [
+    "Limits of Fundamental Rights",
+    "The 'State'",
+    "Citizen",
+    "Law"
+   ],
+   "a": 1,
+   "e": "Art. 12 (Part III) defines 'State'; Art. 36 adopts the same meaning."
+  },
+  {
+   "q": "Which of the following is NOT included in the definition of 'State' under Art. 12?",
+   "o": [
+    "A private company",
+    "Local bodies",
+    "State legislature",
+    "Parliament"
+   ],
+   "a": 0,
+   "e": "Parliament, legislatures, governments, local and other authorities are included."
+  },
+  {
+   "q": "What happens when an Indian citizen renounces Indian citizenship?",
+   "o": [
+    "They become a foreign diplomat",
+    "Nothing happens",
+    "Dual citizenship is granted",
+    "Indian citizenship ends"
+   ],
+   "a": 3,
+   "e": "Renunciation ends Indian citizenship; India does not allow dual citizenship."
+  },
+  {
+   "q": "What type of citizenship does India have?",
+   "o": [
+    "Dual citizenship",
+    "Multiple citizenship",
+    "Single citizenship",
+    "State-wise citizenship"
+   ],
+   "a": 2,
+   "e": "Single citizenship was borrowed from the British Constitution."
+  },
+  {
+   "q": "The provision of single citizenship was borrowed from which country's constitution?",
+   "o": [
+    "Britain",
+    "Ireland",
+    "Canada",
+    "USA"
+   ],
+   "a": 0,
+   "e": "From Britain: parliamentary system, bicameralism, FPTP, prerogative writs, etc."
+  },
+  {
+   "q": "How many modes of acquiring citizenship are there under the Citizenship Act, 1955?",
+   "o": [
+    "5",
+    "6",
+    "3",
+    "4"
+   ],
+   "a": 0,
+   "e": "Birth, descent, registration, naturalisation, incorporation of territory."
+  },
+  {
+   "q": "How many modes of losing citizenship are there under the Citizenship Act, 1955?",
+   "o": [
+    "4",
+    "5",
+    "3",
+    "2"
+   ],
+   "a": 2,
+   "e": "Renunciation, termination, deprivation."
+  },
+  {
+   "q": "What are the three modes of losing citizenship?",
+   "o": [
+    "Renunciation, termination, deprivation",
+    "Deprivation, birth, incorporation",
+    "Naturalisation, descent, renunciation",
+    "Birth, descent, registration"
+   ],
+   "a": 0,
+   "e": "Renunciation, Termination, Deprivation."
+  },
+  {
+   "q": "What is the principle of 'jus soli' in citizenship by birth?",
+   "o": [
+    "Based on period of residence",
+    "Based on registration",
+    "Based on blood relation",
+    "Citizenship based on place of birth (soil)"
+   ],
+   "a": 3,
+   "e": "Jus soli = right of the soil."
+  },
+  {
+   "q": "What does 'jus sanguinis' mean?",
+   "o": [
+    "Based on soil",
+    "By marriage",
+    "Citizenship based on blood (parentage)",
+    "By oath"
+   ],
+   "a": 2,
+   "e": "Jus sanguinis = right of blood."
+  },
+  {
+   "q": "When did India shift from jus soli towards jus sanguinis for citizenship by birth (tightened further in 2003)?",
+   "o": [
+    "2019",
+    "1955",
+    "Around 1987; tightened further in 2003",
+    "1971"
+   ],
+   "a": 2,
+   "e": "From 1987 at least one parent must be a citizen; from 2003 the other must not be an illegal migrant."
+  },
+  {
+   "q": "After the 2003 amendment, what is required for citizenship by birth?",
+   "o": [
+    "Both parents illegal migrants",
+    "Only birth in India",
+    "One parent Indian and the other not an illegal migrant",
+    "Both parents foreigners"
+   ],
+   "a": 2,
+   "e": "The rule was made stricter."
+  },
+  {
+   "q": "How can a foreigner who has lived in India for 12 years acquire Indian citizenship?",
+   "o": [
+    "By registration",
+    "By birth",
+    "By descent",
+    "By naturalisation"
+   ],
+   "a": 3,
+   "e": "The residence requirement applies to naturalisation."
+  },
+  {
+   "q": "A child born outside India to an Indian parent acquires citizenship by which mode?",
+   "o": [
+    "Naturalisation",
+    "By birth",
+    "Incorporation of territory",
+    "By descent"
+   ],
+   "a": 3,
+   "e": "Descent."
+  },
+  {
+   "q": "For citizenship by descent, within what period must the child's birth be registered (as per the lecture)?",
+   "o": [
+    "Within one year",
+    "After 18 years",
+    "5 years",
+    "6 months"
+   ],
+   "a": 0,
+   "e": "Registration within one year of birth."
+  },
+  {
+   "q": "Who composed the Prayag Prashasti (Allahabad Pillar Inscription)?",
+   "o": [
+    "Harishena",
+    "Banabhatta",
+    "Ravikirti",
+    "Kalidasa"
+   ],
+   "a": 0,
+   "e": "Harishena was Samudragupta's court poet."
+  },
+  {
+   "q": "Harishena was the court poet of which ruler?",
+   "o": [
+    "Chandragupta II",
+    "Samudragupta",
+    "Harshavardhana",
+    "Pulakeshin II"
+   ],
+   "a": 1,
+   "e": "The Prayag Prashasti eulogises Samudragupta."
+  },
+  {
+   "q": "Which title did the Gupta ruler Chandragupta I assume?",
+   "o": [
+    "Vikramaditya",
+    "Rajadhiraja",
+    "Maharajadhiraja",
+    "Dharmamaharaja"
+   ],
+   "a": 2,
+   "e": "He ruled c. 319-335 CE."
+  },
+  {
+   "q": "Which Maukhari ruler also assumed the title Maharajadhiraja?",
+   "o": [
+    "Yajnavarman",
+    "Shardulavarman",
+    "Anantavarman",
+    "Ishanavarman"
+   ],
+   "a": 3,
+   "e": "The title means 'great king of kings'."
+  },
+  {
+   "q": "Samudragupta's reign was approximately when?",
+   "o": [
+    "415-455 CE",
+    "380-415 CE",
+    "319-335 CE",
+    "335-375 CE"
+   ],
+   "a": 3,
+   "e": "Samudragupta was the son of Chandragupta I."
+  },
+  {
+   "q": "Chandragupta II's reign was approximately when?",
+   "o": [
+    "380-415 CE",
+    "335-375 CE",
+    "415-455 CE",
+    "319-335 CE"
+   ],
+   "a": 0,
+   "e": "His elder brother Ramagupta is said to have ruled before him."
+  },
+  {
+   "q": "Which title did Chandragupta II assume after defeating the Shakas?",
+   "o": [
+    "Vikramaditya",
+    "Dharmamaharaja",
+    "Maharajadhiraja",
+    "Rajadhiraja"
+   ],
+   "a": 0,
+   "e": "He defeated Rudrasimha III, the last Western Kshatrapa (Shaka) ruler."
+  },
+  {
+   "q": "What was the name of Ramagupta's widow whom Chandragupta II married?",
+   "o": [
+    "Kuberanaga",
+    "Kumaradevi",
+    "Dhruvadevi",
+    "Prabhavati Gupta"
+   ],
+   "a": 2,
+   "e": "Dhruvadevi; Kuberanaga was another queen of Chandragupta II."
+  },
+  {
+   "q": "Chandragupta II's daughter Prabhavati Gupta was married into which dynasty?",
+   "o": [
+    "Pallava",
+    "Chalukya",
+    "Maitraka",
+    "Vakataka (Rudrasena II)"
+   ],
+   "a": 3,
+   "e": "This marriage allied the Guptas with the Vakatakas."
+  },
+  {
+   "q": "Who was the 'Kumaramatya' in the Gupta empire?",
+   "o": [
+    "Judicial officer",
+    "Chief banker",
+    "A key high-ranking official (comparable to today's IAS)",
+    "Village headman"
+   ],
+   "a": 2,
+   "e": "Kumaramatya - an important cadre of officials."
+  },
+  {
+   "q": "Who was the 'Sandhivigrahika'?",
+   "o": [
+    "Chief banker",
+    "Revenue officer",
+    "Chief artisan",
+    "Minister of war and peace"
+   ],
+   "a": 3,
+   "e": "Sandhi-vigraha = peace and war."
+  },
+  {
+   "q": "The post of 'Mahadandanayaka' was related to what?",
+   "o": [
+    "Elephant corps",
+    "Justice/punishment (chief judicial-military officer)",
+    "City administration",
+    "Revenue"
+   ],
+   "a": 1,
+   "e": "Harishena held the posts of Sandhivigrahika, Kumaramatya and Mahadandanayaka."
+  },
+  {
+   "q": "Who was the 'Nagara Shreshthi'?",
+   "o": [
+    "Chief scribe",
+    "Village headman",
+    "Chief banker/merchant of the city",
+    "Commander-in-chief"
+   ],
+   "a": 2,
+   "e": "Harishena did not hold this post."
+  },
+  {
+   "q": "In the Gupta period, the 'Ranabhandagarika' was an officer in charge of what?",
+   "o": [
+    "Elephant corps",
+    "Military stores (war supplies)",
+    "Revenue",
+    "Justice"
+   ],
+   "a": 1,
+   "e": "In charge of military stores."
+  },
+  {
+   "q": "Who was the 'Pilupati'?",
+   "o": [
+    "Revenue officer",
+    "Chief of cavalry",
+    "Chief of spies",
+    "Head of the elephant corps"
+   ],
+   "a": 3,
+   "e": "Pilu = elephant."
+  },
+  {
+   "q": "What was the function of the 'Mahapratihara'?",
+   "o": [
+    "Judge",
+    "Treasurer",
+    "Chief of palace guards/gatekeepers",
+    "Scribe"
+   ],
+   "a": 2,
+   "e": "Acted as head of the palace guard."
+  },
+  {
+   "q": "In Gupta administration, what did 'Bhukti' mean?",
+   "o": [
+    "Village",
+    "Province",
+    "District",
+    "Town"
+   ],
+   "a": 1,
+   "e": "Bhukti = province, headed by the Uparika."
+  },
+  {
+   "q": "In the Gupta period, what was a 'Vishaya' and who headed it?",
+   "o": [
+    "Village; Gramika",
+    "Town; Nagarapati",
+    "District; Vishayapati",
+    "Province; Uparika"
+   ],
+   "a": 2,
+   "e": "Bhukti > Vishaya > Vithi > Grama (Gramika)."
+  },
+  {
+   "q": "What was the village headman called in the Gupta period?",
+   "o": [
+    "Gramika",
+    "Amatya",
+    "Uparika",
+    "Ayukta"
+   ],
+   "a": 0,
+   "e": "Gramika - village headman; Mahattara - village elder."
+  },
+  {
+   "q": "In the Gupta period, who was the provincial governor, also handling judicial matters?",
+   "o": [
+    "Gramika",
+    "Uparika",
+    "Ayukta",
+    "Mahattara"
+   ],
+   "a": 1,
+   "e": "The Uparika was the provincial governor."
+  },
+  {
+   "q": "In the Gupta period, which senior officials were responsible for revenue collection?",
+   "o": [
+    "Gramika",
+    "Mahattara",
+    "Uparika",
+    "Ayukta"
+   ],
+   "a": 3,
+   "e": "The main duty of the Ayuktas was revenue collection."
+  },
+  {
+   "q": "Who was the 'Prathama Kulika'?",
+   "o": [
+    "Chief merchant",
+    "Chief soldier",
+    "Chief artisan",
+    "Chief scribe"
+   ],
+   "a": 2,
+   "e": "Kulika = artisan."
+  },
+  {
+   "q": "Who was the 'Prathama Kayastha'?",
+   "o": [
+    "Chief banker",
+    "Commander",
+    "Chief artisan",
+    "Chief scribe"
+   ],
+   "a": 3,
+   "e": "The official who kept written records."
+  },
+  {
+   "q": "In the Gupta period, the terms 'Chata and Bhata' referred to whom?",
+   "o": [
+    "Priest-warriors",
+    "Elephant riders",
+    "Spies",
+    "Regular and irregular soldiers"
+   ],
+   "a": 3,
+   "e": "Chata - regular troops; Bhata - irregular/temporary troops."
+  },
+  {
+   "q": "In the Gupta period, land grants were generally given to whom?",
+   "o": [
+    "Vaishyas",
+    "Brahmins",
+    "Kshatriyas",
+    "Shudras"
+   ],
+   "a": 1,
+   "e": "Agrahara lands were also administered by Brahmins."
+  },
+  {
+   "q": "What was the capital of the Maitraka dynasty?",
+   "o": [
+    "Vatapi",
+    "Vallabhi",
+    "Thanesar",
+    "Kanchipuram"
+   ],
+   "a": 1,
+   "e": "The Maitrakas were Gupta feudatories who later became powerful."
+  },
+  {
+   "q": "Who issued the earliest Maitraka land grant (502 CE)?",
+   "o": [
+    "Dronasimha",
+    "Dharapatta",
+    "Dhruvasena",
+    "Bhatarka"
+   ],
+   "a": 0,
+   "e": "Dronasimha; later Dhruvasena and Dharapatta."
+  },
+  {
+   "q": "Who founded Nalanda University?",
+   "o": [
+    "Samudragupta",
+    "Kumaragupta I",
+    "Harshavardhana",
+    "Chandragupta II"
+   ],
+   "a": 1,
+   "e": "It was destroyed by Bakhtiyar Khalji."
+  },
+  {
+   "q": "Who destroyed Nalanda University?",
+   "o": [
+    "Mahmud of Ghazni",
+    "Muhammad Ghori",
+    "Bakhtiyar Khalji",
+    "Iltutmish"
+   ],
+   "a": 2,
+   "e": "At the end of the 12th century."
+  },
+  {
+   "q": "Who founded Vikramashila University?",
+   "o": [
+    "Gopala",
+    "Dharmapala",
+    "Kumaragupta",
+    "Devapala"
+   ],
+   "a": 1,
+   "e": "The Pala ruler Dharmapala."
+  },
+  {
+   "q": "Who built Odantapuri University?",
+   "o": [
+    "Harsha",
+    "Dharmapala",
+    "Kumaragupta",
+    "Gopala (founder of the Pala dynasty)"
+   ],
+   "a": 3,
+   "e": "Gopala."
+  },
+  {
+   "q": "What was the capital of the Pallava dynasty?",
+   "o": [
+    "Madurai",
+    "Thanjavur",
+    "Kanchipuram",
+    "Vatapi"
+   ],
+   "a": 2,
+   "e": "Pallavas - Kanchi."
+  },
+  {
+   "q": "Who is considered the founder of the Pallava dynasty (as per the lecture)?",
+   "o": [
+    "Narasimhavarman I",
+    "Nandivarman",
+    "Simhavishnu",
+    "Mahendravarman I"
+   ],
+   "a": 2,
+   "e": "Traditionally Simhavishnu."
+  },
+  {
+   "q": "Who founded the Eastern Chalukya dynasty and what was its capital?",
+   "o": [
+    "Pulakeshin I; Vatapi",
+    "Vikramaditya; Aihole",
+    "Dantidurga; Manyakheta",
+    "Kubja Vishnuvardhana; Vengi"
+   ],
+   "a": 3,
+   "e": "Eastern Chalukyas - Vengi."
+  },
+  {
+   "q": "Who founded the Chalukya dynasty of Badami (Vatapi)?",
+   "o": [
+    "Vikramaditya",
+    "Kirtivarman",
+    "Pulakeshin I",
+    "Pulakeshin II"
+   ],
+   "a": 2,
+   "e": "The Badami caves were built by the Chalukyas."
+  },
+  {
+   "q": "Who composed the Aihole inscription?",
+   "o": [
+    "Banabhatta",
+    "Kalidasa",
+    "Harishena",
+    "Ravikirti"
+   ],
+   "a": 3,
+   "e": "For Pulakeshin II; it describes his victory over Harsha on the Narmada."
+  },
+  {
+   "q": "Who defeated Harshavardhana on the banks of the Narmada?",
+   "o": [
+    "Narasimhavarman",
+    "Mahendravarman",
+    "Dantidurga",
+    "Pulakeshin II"
+   ],
+   "a": 3,
+   "e": "Known from the Aihole inscription."
+  },
+  {
+   "q": "Which Pallava ruler defeated Pulakeshin II?",
+   "o": [
+    "Mahendravarman I",
+    "Narasimhavarman II",
+    "Parameshvaravarman",
+    "Narasimhavarman I"
+   ],
+   "a": 3,
+   "e": "Pulakeshin defeated Mahendravarman I; his son Narasimhavarman I then defeated Pulakeshin."
+  },
+  {
+   "q": "Who founded the Rashtrakuta dynasty by defeating the Chalukyas of Badami?",
+   "o": [
+    "Dhruva",
+    "Dantidurga",
+    "Krishna I",
+    "Amoghavarsha"
+   ],
+   "a": 1,
+   "e": "Dantidurga defeated Kirtivarman II."
+  },
+  {
+   "q": "Who built the Kailasa temple (Cave 16) at Ellora?",
+   "o": [
+    "Pulakeshin I",
+    "Narasimhavarman II",
+    "Rashtrakuta ruler Krishna I",
+    "Dantidurga"
+   ],
+   "a": 2,
+   "e": "The Kailasanatha temple at Kanchi was built by Narasimhavarman II."
+  },
+  {
+   "q": "Who built the Kailasanatha temple at Kanchi and the Shore Temple?",
+   "o": [
+    "Mahendravarman I",
+    "Narasimhavarman I",
+    "Krishna I",
+    "Narasimhavarman II (Rajasimha)"
+   ],
+   "a": 3,
+   "e": "Pallava art."
+  },
+  {
+   "q": "Which Pallava ruler built the Pancha Rathas (Mahabalipuram)?",
+   "o": [
+    "Nandivarman",
+    "Narasimhavarman I (Mamalla)",
+    "Mahendravarman I",
+    "Narasimhavarman II"
+   ],
+   "a": 1,
+   "e": "Narasimhavarman I was called 'Mamalla'."
+  },
+  {
+   "q": "Which Pallava ruler started the construction of rock-cut temples?",
+   "o": [
+    "Narasimhavarman I",
+    "Narasimhavarman II",
+    "Parameshvaravarman",
+    "Mahendravarman I"
+   ],
+   "a": 3,
+   "e": "Mainly carved out of granite."
+  },
+  {
+   "q": "Which statement about the Durga temple at Aihole is correct?",
+   "o": [
+    "It is a temple of goddess Durga",
+    "'Durg' here means fort; it is not linked to goddess Durga",
+    "It was built by the Pallavas",
+    "It is a Buddhist temple"
+   ],
+   "a": 1,
+   "e": "Aihole is called the 'cradle of Indian temple architecture'."
+  },
+  {
+   "q": "Who built the Virupaksha temple at Pattadakal?",
+   "o": [
+    "Queen Lokamahadevi (wife of Vikramaditya II)",
+    "Queen Kuberanaga",
+    "Queen Dhruvadevi",
+    "Queen Prabhavati"
+   ],
+   "a": 0,
+   "e": "A Chalukya construction."
+  },
+  {
+   "q": "Which of the following temples is NOT part of the Pattadakal group?",
+   "o": [
+    "Galaganatha temple",
+    "Sangameshwara temple",
+    "Papanatha temple",
+    "Durga temple"
+   ],
+   "a": 3,
+   "e": "The Durga temple is at Aihole."
+  },
+  {
+   "q": "Where is the other Virupaksha temple, located in the former capital of Vijayanagara?",
+   "o": [
+    "Madurai",
+    "Badami",
+    "Hampi",
+    "Aihole"
+   ],
+   "a": 2,
+   "e": "Hampi was the capital of the Vijayanagara Empire."
+  },
+  {
+   "q": "What was the main source of revenue of the Pallavas?",
+   "o": [
+    "Land revenue (1/6 of produce)",
+    "Salt tax",
+    "Trade tax",
+    "Jizya"
+   ],
+   "a": 0,
+   "e": "Land tax was 1/6 of the total produce."
+  },
+  {
+   "q": "What was the tax called 'Bhaga'?",
+   "o": [
+    "1/6 of the produce paid by cultivators",
+    "Emergency tax",
+    "Forced labour",
+    "Additional tax"
+   ],
+   "a": 0,
+   "e": "Bhaga = the king's share."
+  },
+  {
+   "q": "What kind of tax was 'Uparikara'?",
+   "o": [
+    "Special cash tax",
+    "Additional tax (like a surcharge)",
+    "Forced labour",
+    "Tax on ploughs"
+   ],
+   "a": 1,
+   "e": "A tax over and above the regular tax."
+  },
+  {
+   "q": "What was 'Vishti'?",
+   "o": [
+    "Forced unpaid labour",
+    "Surcharge",
+    "Emergency tax",
+    "Plough tax"
+   ],
+   "a": 0,
+   "e": "Vishti = forced labour (like vetti in Chola times)."
+  },
+  {
+   "q": "On what was 'Halivakara' levied?",
+   "o": [
+    "Land grants",
+    "Salt",
+    "Trade",
+    "Ploughs (cultivation)"
+   ],
+   "a": 3,
+   "e": "Paid by those who owned a plough."
+  },
+  {
+   "q": "What was the 'Hiranya' tax?",
+   "o": [
+    "Tax paid in cash (gold)",
+    "Forced labour",
+    "Surcharge",
+    "Land revenue"
+   ],
+   "a": 0,
+   "e": "Hiranya (gold) - tax collected in cash."
+  },
+  {
+   "q": "What affected Indo-Byzantine trade?",
+   "o": [
+    "Ban on spices",
+    "Byzantium learning the technique of silk production",
+    "Decline of the Guptas",
+    "Naval wars"
+   ],
+   "a": 1,
+   "e": "Byzantium earlier imported silk from India/China."
+  },
+  {
+   "q": "Yajnavarman, Shardulavarman and Anantavarman were rulers of which dynasty?",
+   "o": [
+    "Maitraka",
+    "Maukhari",
+    "Vakataka",
+    "Pushyabhuti"
+   ],
+   "a": 1,
+   "e": "The Maukharis later ruled from Kannauj."
+  },
+  {
+   "q": "What is another name of the Vardhana dynasty?",
+   "o": [
+    "Gupta dynasty",
+    "Maitraka dynasty",
+    "Maukhari dynasty",
+    "Pushyabhuti dynasty"
+   ],
+   "a": 3,
+   "e": "Capital Thanesar (Haryana), later Kannauj."
+  },
+  {
+   "q": "Who was the first notable king of the Pushyabhuti dynasty (580-605 CE)?",
+   "o": [
+    "Rajyavardhana",
+    "Ishanavarman",
+    "Harshavardhana",
+    "Prabhakaravardhana"
+   ],
+   "a": 3,
+   "e": "His sons: Rajyavardhana (elder) and Harshavardhana (younger)."
+  },
+  {
+   "q": "Harshavardhana belonged to which dynasty/region?",
+   "o": [
+    "Thanesar (Pushyabhuti dynasty)",
+    "Magadha",
+    "Agra",
+    "Malwa"
+   ],
+   "a": 0,
+   "e": "Capital Thanesar, later Kannauj."
+  },
+  {
+   "q": "Which of the following is NOT among the epigraphic sources of Harsha?",
+   "o": [
+    "Banskhera inscription",
+    "Muzaffarnagar seals",
+    "Nalanda seals",
+    "Madhuban inscription"
+   ],
+   "a": 1,
+   "e": "Banskhera, Madhuban and the Nalanda seals relate to Harsha."
+  },
+  {
+   "q": "What did the 'Chaturangini' army consist of, and which arm later gained importance?",
+   "o": [
+    "Navy; infantry",
+    "Only infantry; elephants",
+    "Chariots, elephants, cavalry, infantry; cavalry",
+    "Artillery; elephants"
+   ],
+   "a": 2,
+   "e": "Chariots declined in importance while cavalry rose."
+  },
+  {
+   "q": "Who called Samudragupta the 'Napoleon of India'?",
+   "o": [
+    "V.A. Smith",
+    "Cunningham",
+    "Fleet",
+    "James Mill"
+   ],
+   "a": 0,
+   "e": "Smith described him as an undefeated warrior."
+  },
+  {
+   "q": "On his coins, Samudragupta is shown playing which instrument?",
+   "o": [
+    "Flute",
+    "Veena",
+    "Sitar",
+    "Drum"
+   ],
+   "a": 1,
+   "e": "Lyrist (veena-player) type coins."
+  },
+  {
+   "q": "In the Chola/Pallava period, what was the 'Ur'?",
+   "o": [
+    "Assembly of common villagers",
+    "Assembly of learned Brahmins",
+    "Military council",
+    "Guild of merchants"
+   ],
+   "a": 0,
+   "e": "The 'Sabha' was the assembly of learned Brahmins."
+  },
+  {
+   "q": "The local assembly of a Brahmadeya village was managed mainly by which class?",
+   "o": [
+    "Kshatriyas",
+    "Brahmins",
+    "Shudras",
+    "Vaishyas"
+   ],
+   "a": 1,
+   "e": "Brahmadeya = land granted to Brahmins."
+  },
+  {
+   "q": "The term 'Tadaga' was used for what?",
+   "o": [
+    "Water shed",
+    "Tanks and ponds",
+    "Cultivable land",
+    "River"
+   ],
+   "a": 1,
+   "e": "Kshetra = agricultural land; Prapa = drinking-water shed."
+  },
+  {
+   "q": "Tirabhukti corresponds to which present-day region?",
+   "o": [
+    "Malwa",
+    "Bundelkhand",
+    "Bihar (Tirhut)",
+    "Bengal"
+   ],
+   "a": 2,
+   "e": "Jejakabhukti = Bundelkhand."
+  },
+  {
+   "q": "The Jejakabhukti region corresponds to which present-day area?",
+   "o": [
+    "Vidarbha",
+    "Bundelkhand",
+    "Tirhut",
+    "Kalinga"
+   ],
+   "a": 1,
+   "e": "Bundelkhand in Madhya Pradesh/Uttar Pradesh."
+  },
+  {
+   "q": "In the Milindapanho, whose questions are put to Nagasena?",
+   "o": [
+    "Kanishka",
+    "Ashoka",
+    "Menander (Milinda, Indo-Greek)",
+    "Harsha"
+   ],
+   "a": 2,
+   "e": "Milinda was one of the greatest Indo-Greek rulers."
+  },
+  {
+   "q": "Who wrote the Arthashastra?",
+   "o": [
+    "Vishakhadatta",
+    "Banabhatta",
+    "Harishena",
+    "Kautilya (in the time of Chandragupta Maurya)"
+   ],
+   "a": 3,
+   "e": "A work of the Mauryan period."
+  },
+  {
+   "q": "Which temple style did the Chalukyas develop?",
+   "o": [
+    "Vesara style",
+    "Gopuram style",
+    "Nagara style",
+    "Pagoda style"
+   ],
+   "a": 0,
+   "e": "Chalukya temples are in the Vesara (Karnata Dravida) style."
+  },
+  {
+   "q": "What type are the famous caves of Badami?",
+   "o": [
+    "Rock-cut cave temples",
+    "Wooden temples",
+    "Brick temples",
+    "Stupas"
+   ],
+   "a": 0,
+   "e": "Built by the Chalukyas of Badami (Karnataka)."
+  }
+ ]
+}

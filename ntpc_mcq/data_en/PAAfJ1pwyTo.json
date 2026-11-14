@@ -1,0 +1,2311 @@
+{
+ "title": "History Lec 3",
+ "summary": [
+  "Post-Mauryan period: Pushyamitra Shunga (capital Vidisha) killed Brihadratha and founded the Shunga dynasty; Kalidasa's 'Malavikagnimitram' is about his son Agnimitra; Vasudeva killed the last Shunga, Devabhuti, and founded the Kanva dynasty.",
+  "Kharavela belonged to the Chedi dynasty (Odisha); the Udayagiri-Khandagiri caves are in Odisha, while the Udayagiri caves of Vidisha (M.P.) are different.",
+  "Satavahanas: founder Simuka, greatest ruler Gautamiputra Satakarni (mother Gautami Balashri, Nasik Prashasti), capital Pratishthana, port Ghantasala, first land grants, lead and potin coins, metronymic names; called 'Andhra-bhrityas' in the Puranas.",
+  "Art schools: Amaravati - white limestone/marble, Mathura - red sandstone (indigenous), Gandhara/Indo-Greek - grey schist; early aniconic depiction of the Buddha (empty throne, Bodhi tree, wheel).",
+  "Indo-Greeks: Menander (capital Sakala/Sialkot, Milindapanho - Nagasena), first gold coins; Heliodorus, envoy of Antialcidas, erected the Garuda pillar at Besnagar. Order of arrival: Indo-Greeks, Shakas, Parthians, Kushans.",
+  "Shakas: according to the Junagadh inscription, Rudradaman repaired the Sudarshana lake (built by Pushyagupta in Chandragupta Maurya's reign); Kshatrapa system = military governorship; Vikram Samvat 57 BC, Shaka Samvat AD 78.",
+  "Kushans: Great Yuezhi, title 'Devaputra', capitals Purushapura and Mathura, Kujula and Vima Kadphises, Kanishka a patron of Buddhism (fourth ruler as per the Rabatak inscription); Gondophernes in the Takht-i-Bahi (Gandhara) inscription.",
+  "Sangam: Tamil language, three Sangams (first and third at Madurai, second at Kapatapuram), patrons Pandyas; Tolkappiyam the oldest; Ettuthokai (8) and Pattupattu (10); Akam = love, Puram = war; Silappadikaram (Ilango Adigal) and Manimekalai (Sittalai Sattanar).",
+  "Three Tamil kingdoms: Chera (Vanji, bow and arrow, Muziris), Pandya (Madurai, fish, Korkai), Chola (Uraiyur/Puhar, tiger); the Rashtrakutas (Dantidurga, Manyakheta) were not a Tamil kingdom.",
+  "Tripartite Struggle (8th-9th century): Palas (east), Pratiharas (west), Rashtrakutas (south) - for Kannauj; Harshavardhana (606-647, Pushyabhuti) wrote Ratnavali, Priyadarshika and Nagananda; Banabhatta wrote Harshacharita and Kadambari; Pulakeshin II defeated Harsha on the Narmada.",
+  "Universities: Nalanda - Kumaragupta I (destroyed by Bakhtiyar Khalji), Vikramashila - Dharmapala, Odantapuri - Gopala (founder of the Pala dynasty); Gurjara-Pratiharas: Mihira Bhoja the greatest.",
+  "Chola administration was decentralised: Ur (common villagers) and Sabha (Brahmins), election system known from the Uttaramerur inscription; grants: Shalabhoga, Devadana, Brahmadeya, Pallichchandam; taxes: Vetti (forced labour), Kadamai; Vijayalaya built the Nishumbhasudini temple; Rajendra I conquered Srivijaya (Shailendras).",
+  "Travellers: Fa-Hien (Chandragupta II), Hiuen Tsang (Harsha; Si-Yu-Ki), Ibn Battuta (Morocco; Tughlaq), Paes and Barbosa (Portugal; Krishnadeva Raya), Megasthenes (Chandragupta); Kalhana - Rajatarangini; Periplus 1st century AD.",
+  "Temple styles: Nagara (north; shikhara-amalaka-kalasha, jagati), Dravida (Pallavas; vimana, gopuram, gajaprishtha), Vesara (Chalukyas), Kalinga (rekha/pidha/khakhara deul, jagamohana); Sandhara = inner circumambulatory path, Nirandhara = outer.",
+  "Pallavas: founder Simhavishnu, capital Kanchi; Mahendra style, Mamalla style (Pancha Rathas), Rajasimha style (Shore Temple, Kailasanatha); Chola temples: Brihadeeswara - Rajaraja I, Gangaikonda Cholapuram - Rajendra I, Airavatesvara - Rajaraja II.",
+  "Caves: Ajanta - 30 (Buddhist), Ellora - 34 (all three religions, Kailasa temple in Cave 16, Krishna I), Elephanta - Trimurti, Undavalli - reclining Vishnu, Bhimbetka (M.P.); literature: Natyashastra - Bharata Muni, Ashtadhyayi - Panini, Gita Govinda - Jayadeva; instruments: Ghana, Sushira, Tata, Avanaddha."
+ ],
+ "mcqs": [
+  {
+   "q": "After the decline of the Mauryan Empire, the commander Pushyamitra killed the last Mauryan ruler and founded which dynasty?",
+   "o": [
+    "Gupta dynasty",
+    "Satavahana dynasty",
+    "Kanva dynasty",
+    "Shunga dynasty"
+   ],
+   "a": 3,
+   "e": "Pushyamitra Shunga killed the last Mauryan ruler Brihadratha and founded the Shunga dynasty."
+  },
+  {
+   "q": "Who was the last ruler of the Mauryan dynasty?",
+   "o": [
+    "Devabhuti",
+    "Ashoka",
+    "Dasharatha",
+    "Brihadratha"
+   ],
+   "a": 3,
+   "e": "Brihadratha was killed by his commander Pushyamitra Shunga."
+  },
+  {
+   "q": "What was the name of Pushyamitra Shunga's son?",
+   "o": [
+    "Bhagabhadra",
+    "Devabhuti",
+    "Vasumitra",
+    "Agnimitra"
+   ],
+   "a": 3,
+   "e": "Kalidasa wrote the play 'Malavikagnimitram' with Agnimitra as its hero."
+  },
+  {
+   "q": "Who wrote 'Malavikagnimitram'?",
+   "o": [
+    "Kalidasa",
+    "Bhasa",
+    "Vishakhadatta",
+    "Shudraka"
+   ],
+   "a": 0,
+   "e": "It is a romantic play whose hero is the Shunga ruler Agnimitra."
+  },
+  {
+   "q": "Who was the last ruler of the Shunga dynasty?",
+   "o": [
+    "Devabhuti",
+    "Agnimitra",
+    "Bhagabhadra",
+    "Vasumitra"
+   ],
+   "a": 0,
+   "e": "Devabhuti was killed by his minister Vasudeva."
+  },
+  {
+   "q": "Who founded the Kanva dynasty by killing Devabhuti, the last Shunga ruler?",
+   "o": [
+    "Vasudeva",
+    "Bhagabhadra",
+    "Simuka",
+    "Pushyamitra"
+   ],
+   "a": 0,
+   "e": "Vasudeva was the founder of the Kanva dynasty."
+  },
+  {
+   "q": "Which dynasty ruled Magadha after the Shungas?",
+   "o": [
+    "Satavahana dynasty",
+    "Kanva dynasty",
+    "Gupta dynasty",
+    "Kushan dynasty"
+   ],
+   "a": 1,
+   "e": "The Kanvas followed the Shungas, and the Satavahanas came to power after the Kanvas."
+  },
+  {
+   "q": "Who were the Kushans?",
+   "o": [
+    "Foreigners from Central Asia (Yuezhi)",
+    "Arab traders",
+    "Natives of India",
+    "A tribe of South India"
+   ],
+   "a": 0,
+   "e": "The Kushans were a branch of the 'Great Yuezhi' tribe."
+  },
+  {
+   "q": "Which city was the capital of Pushyamitra Shunga?",
+   "o": [
+    "Pratishthana",
+    "Ujjain",
+    "Mathura",
+    "Vidisha"
+   ],
+   "a": 3,
+   "e": "Pushyamitra was a follower of Brahmanism and made Vidisha an important seat of power."
+  },
+  {
+   "q": "Patanjali, the author of the Mahabhashya, was a contemporary of whom?",
+   "o": [
+    "Kanishka",
+    "Harshavardhana",
+    "Ashoka",
+    "Pushyamitra Shunga"
+   ],
+   "a": 3,
+   "e": "Patanjali wrote the Mahabhashya during the Shunga period."
+  },
+  {
+   "q": "King Kharavela belonged to which dynasty?",
+   "o": [
+    "Chedi dynasty",
+    "Satavahana dynasty",
+    "Shunga dynasty",
+    "Kushan dynasty"
+   ],
+   "a": 0,
+   "e": "Kharavela ruled Kalinga (Odisha); the Hathigumpha inscription is associated with him."
+  },
+  {
+   "q": "In which state are the Udayagiri-Khandagiri caves (associated with Kharavela) located?",
+   "o": [
+    "Maharashtra",
+    "Andhra Pradesh",
+    "Madhya Pradesh",
+    "Odisha"
+   ],
+   "a": 3,
+   "e": "The Udayagiri caves near Vidisha in Madhya Pradesh are different (Gupta period)."
+  },
+  {
+   "q": "Which dynasty first started the practice of granting land to Brahmins?",
+   "o": [
+    "Satavahanas",
+    "Shakas",
+    "Kushans",
+    "Guptas"
+   ],
+   "a": 0,
+   "e": "The Satavahanas granted land to Brahmins and Buddhist monks and patronised Brahmanism."
+  },
+  {
+   "q": "Who was the founder of the Satavahana dynasty?",
+   "o": [
+    "Gautamiputra Satakarni",
+    "Simuka",
+    "Yajna Sri Satakarni",
+    "Vashishthiputra Pulumavi"
+   ],
+   "a": 1,
+   "e": "Simuka established Satavahana power by overthrowing the last Kanva ruler."
+  },
+  {
+   "q": "Who is considered the greatest ruler of the Satavahana dynasty?",
+   "o": [
+    "Simuka",
+    "Vashishthiputra Pulumavi",
+    "Gautamiputra Satakarni",
+    "Rudradaman"
+   ],
+   "a": 2,
+   "e": "The Nasik Prashasti, issued by his mother Gautami Balashri, records his achievements."
+  },
+  {
+   "q": "By what name are the Satavahanas referred to in the Puranas?",
+   "o": [
+    "Karnata",
+    "Andhra-bhritya",
+    "Pallava",
+    "Andhra-putra"
+   ],
+   "a": 1,
+   "e": "The Puranas mention the Satavahanas as 'Andhra-bhrityas'."
+  },
+  {
+   "q": "What was the capital of the Satavahanas?",
+   "o": [
+    "Vallabhi",
+    "Pratishthana (Paithan)",
+    "Amaravati",
+    "Vidisha"
+   ],
+   "a": 1,
+   "e": "Pratishthana is modern Paithan in Maharashtra."
+  },
+  {
+   "q": "What does the use of the mother's name in the names of Satavahana kings indicate?",
+   "o": [
+    "A patriarchal system",
+    "Matrilineal influence in society",
+    "Absence of the caste system",
+    "Slavery"
+   ],
+   "a": 1,
+   "e": "Examples include Gautamiputra and Vashishthiputra."
+  },
+  {
+   "q": "What was the name of Gautamiputra Satakarni's mother?",
+   "o": [
+    "Madhavi",
+    "Naganika",
+    "Kannagi",
+    "Gautami Balashri"
+   ],
+   "a": 3,
+   "e": "She recorded his achievements in the Nasik inscription."
+  },
+  {
+   "q": "Which ancient port of Andhra Pradesh was famous during the Satavahana period?",
+   "o": [
+    "Puhar",
+    "Ghantasala",
+    "Muziris",
+    "Korkai"
+   ],
+   "a": 1,
+   "e": "Ghantasala was a port under Satavahana control."
+  },
+  {
+   "q": "What was an 'Ahara' or 'Rashtra' in the Satavahana period?",
+   "o": [
+    "A village",
+    "A military unit",
+    "A tax",
+    "A district (administrative unit)"
+   ],
+   "a": 3,
+   "e": "Ahara/Rashtra denoted a district in Satavahana administration."
+  },
+  {
+   "q": "The Satavahanas issued coins mainly of which metals?",
+   "o": [
+    "Iron",
+    "Silver only",
+    "Gold only",
+    "Lead and potin"
+   ],
+   "a": 3,
+   "e": "Coins of lead and potin (an alloy of copper, tin and lead) are their hallmark."
+  },
+  {
+   "q": "Which Satavahana ruler was defeated by the Shaka ruler Rudradaman I?",
+   "o": [
+    "Yajna Sri Satakarni",
+    "Simuka",
+    "Vashishthiputra Pulumavi",
+    "Gautamiputra Satakarni"
+   ],
+   "a": 2,
+   "e": "Rudradaman was a Shaka (Western Kshatrapa) ruler."
+  },
+  {
+   "q": "The Amaravati Stupa was mainly built under which dynasty?",
+   "o": [
+    "Satavahanas",
+    "Guptas",
+    "Mauryas",
+    "Kushans"
+   ],
+   "a": 0,
+   "e": "The Ikshvakus later carried the work forward."
+  },
+  {
+   "q": "Which stone was mainly used in the Amaravati school of art?",
+   "o": [
+    "White marble/limestone",
+    "Granite",
+    "Red sandstone",
+    "Grey sandstone"
+   ],
+   "a": 0,
+   "e": "White limestone is characteristic of the Amaravati school."
+  },
+  {
+   "q": "Which stone was mainly used in the Mathura school of art?",
+   "o": [
+    "Marble",
+    "Red sandstone",
+    "White limestone",
+    "Grey stone"
+   ],
+   "a": 1,
+   "e": "The Mathura school was wholly indigenous and flourished under the Kushans."
+  },
+  {
+   "q": "Which stone was mainly used in the Indo-Greek (Gandhara) school of art?",
+   "o": [
+    "Red sandstone",
+    "Grey stone (schist)",
+    "White limestone",
+    "Black basalt"
+   ],
+   "a": 1,
+   "e": "It is also called Graeco-Buddhist or Hellenistic art."
+  },
+  {
+   "q": "How was the Buddha depicted in 'aniconic' representation?",
+   "o": [
+    "Only through paintings",
+    "Through human images",
+    "Through symbols like an empty throne, Bodhi tree and wheel",
+    "Only through inscriptions"
+   ],
+   "a": 2,
+   "e": "Aniconic means non-human (symbolic) representation."
+  },
+  {
+   "q": "The Ikshvakus ruled the Krishna-Godavari delta of the eastern Deccan after the decline of which dynasty?",
+   "o": [
+    "Kanvas",
+    "Mauryas",
+    "Satavahanas",
+    "Shungas"
+   ],
+   "a": 2,
+   "e": "Nagarjunakonda is associated with the Ikshvakus."
+  },
+  {
+   "q": "Who founded the Kadamba dynasty (Banavasi)?",
+   "o": [
+    "Mahendravarman",
+    "Pulakeshin",
+    "Mayurasharman",
+    "Vinayaditya"
+   ],
+   "a": 2,
+   "e": "Mayurasharman founded the kingdom after avenging an insult by the Pallavas; the capital was Banavasi."
+  },
+  {
+   "q": "Pulakeshin II defeated which famous North Indian ruler on the banks of the Narmada?",
+   "o": [
+    "Dhana Nanda",
+    "Harshavardhana",
+    "Kanishka",
+    "Skandagupta"
+   ],
+   "a": 1,
+   "e": "After this victory Pulakeshin took the title 'Dakshinapatheshvara'."
+  },
+  {
+   "q": "Who was ruling Magadha when Alexander invaded India (326 BC)?",
+   "o": [
+    "Dhana Nanda",
+    "Chandragupta",
+    "Bindusara",
+    "Mahapadma Nanda"
+   ],
+   "a": 0,
+   "e": "Alexander never reached Magadha; he fought Porus."
+  },
+  {
+   "q": "Which Indian king did Alexander defeat and then return his kingdom to him?",
+   "o": [
+    "Porus",
+    "Ambhi",
+    "Menander",
+    "Dhana Nanda"
+   ],
+   "a": 0,
+   "e": "Porus was defeated in the Battle of the Hydaspes (Jhelum)."
+  },
+  {
+   "q": "Which general of Alexander founded the Seleucid dynasty?",
+   "o": [
+    "Seleucus Nicator",
+    "Antialcidas",
+    "Menander",
+    "Demetrius"
+   ],
+   "a": 0,
+   "e": "Seleucus later fought Chandragupta Maurya."
+  },
+  {
+   "q": "Who was the most famous Indo-Greek ruler of ancient India?",
+   "o": [
+    "Pushyamitra",
+    "Rudradaman",
+    "Menander (Milinda)",
+    "Kanishka"
+   ],
+   "a": 2,
+   "e": "Pushyamitra Shunga and Rudradaman were not Indo-Greeks."
+  },
+  {
+   "q": "In 'Milindapanho', whom did Milinda (Menander) put his questions to?",
+   "o": [
+    "The Buddhist monk Nagasena",
+    "Nagarjuna",
+    "Ashvaghosha",
+    "Vasumitra"
+   ],
+   "a": 0,
+   "e": "Milindapanho means 'The Questions of Milinda'."
+  },
+  {
+   "q": "Where was Menander's capital?",
+   "o": [
+    "Mathura",
+    "Taxila",
+    "Purushapura",
+    "Sialkot (Sakala)"
+   ],
+   "a": 3,
+   "e": "Sakala is modern Sialkot."
+  },
+  {
+   "q": "Which rulers were the first to issue gold coins in India?",
+   "o": [
+    "Mauryas",
+    "Shakas",
+    "Indo-Greeks",
+    "Satavahanas"
+   ],
+   "a": 2,
+   "e": "The Indo-Greeks also issued coins bearing portraits of kings."
+  },
+  {
+   "q": "Who erected the Garuda pillar (Garudadhvaja) at Besnagar (Vidisha)?",
+   "o": [
+    "Menander",
+    "Antialcidas",
+    "Heliodorus",
+    "Gondophernes"
+   ],
+   "a": 2,
+   "e": "Heliodorus was the envoy of the Indo-Greek king Antialcidas and a devotee of Vasudeva (Krishna)."
+  },
+  {
+   "q": "Heliodorus was the envoy of which Indo-Greek ruler?",
+   "o": [
+    "Antialcidas",
+    "Menander",
+    "Demetrius",
+    "Apollodotus"
+   ],
+   "a": 0,
+   "e": "He adopted the Bhagavata faith and became a devotee of Vasudeva."
+  },
+  {
+   "q": "What is the correct order in which groups from Central Asia came to India?",
+   "o": [
+    "Indo-Greeks, Shakas, Parthians, Kushans",
+    "Parthians, Indo-Greeks, Kushans, Shakas",
+    "Shakas, Indo-Greeks, Kushans, Parthians",
+    "Kushans, Shakas, Parthians, Indo-Greeks"
+   ],
+   "a": 0,
+   "e": "All of them were later assimilated into Indian society."
+  },
+  {
+   "q": "What was the effect of foreign rulers from Central Asia (Shakas, Kushans, etc.) on Indian society?",
+   "o": [
+    "They carried out forced conversions",
+    "They maintained a separate society",
+    "They returned home",
+    "They were assimilated into Indian society"
+   ],
+   "a": 3,
+   "e": "They adopted Hinduism or Buddhism."
+  },
+  {
+   "q": "Which Shaka ruler repaired the Sudarshana lake without imposing any tax?",
+   "o": [
+    "Kanishka",
+    "Chashtana",
+    "Nahapana",
+    "Rudradaman"
+   ],
+   "a": 3,
+   "e": "This is known from the Junagadh (Girnar) rock inscription in Gujarat."
+  },
+  {
+   "q": "Who built the Sudarshana lake?",
+   "o": [
+    "Skandagupta",
+    "Rudradaman",
+    "Pushyagupta Vaishya (in Chandragupta Maurya's reign)",
+    "Ashoka"
+   ],
+   "a": 2,
+   "e": "It was later repaired under Ashoka, Rudradaman and Skandagupta."
+  },
+  {
+   "q": "The Takht-i-Bahi inscription is related to which region?",
+   "o": [
+    "Gandhara",
+    "Kannauj",
+    "Agra",
+    "Gujarat"
+   ],
+   "a": 0,
+   "e": "It is in Khyber Pakhtunkhwa (Pakistan) and is a UNESCO World Heritage Site."
+  },
+  {
+   "q": "Which Parthian ruler is mentioned in the Takht-i-Bahi inscription?",
+   "o": [
+    "Kanishka",
+    "Gondophernes",
+    "Menander",
+    "Rudradaman"
+   ],
+   "a": 1,
+   "e": "Gondophernes was a Parthian (Indo-Parthian) ruler."
+  },
+  {
+   "q": "Which rulers adopted the title 'Devaputra'?",
+   "o": [
+    "Shakas",
+    "Pallavas",
+    "Kushans",
+    "Satavahanas"
+   ],
+   "a": 2,
+   "e": "The title signified a claim to divine origin."
+  },
+  {
+   "q": "By what other name are the Kushans known?",
+   "o": [
+    "Hunas",
+    "Great Yuezhi",
+    "Pahlavas",
+    "Scythians"
+   ],
+   "a": 1,
+   "e": "They were the last of the major Central Asian groups to come to India."
+  },
+  {
+   "q": "What was the first capital of the Kushans?",
+   "o": [
+    "Purushapura (Peshawar)",
+    "Taxila",
+    "Mathura",
+    "Ujjain"
+   ],
+   "a": 0,
+   "e": "Mathura later became their second capital."
+  },
+  {
+   "q": "Who was the first ruler of the Kushan dynasty?",
+   "o": [
+    "Kujula Kadphises",
+    "Vima Kadphises",
+    "Huvishka",
+    "Kanishka"
+   ],
+   "a": 0,
+   "e": "He was succeeded by Vima Takto and then Vima Kadphises."
+  },
+  {
+   "q": "What does the Rabatak inscription (Afghanistan) reveal about Kanishka?",
+   "o": [
+    "He renounced Buddhism",
+    "He was the fourth Kushan ruler",
+    "He started the Vikram Samvat",
+    "He was the first ruler"
+   ],
+   "a": 1,
+   "e": "It lists Kujula Kadphises, Vima Takto and Vima Kadphises as Kanishka's predecessors."
+  },
+  {
+   "q": "Kanishka was a patron of which religion?",
+   "o": [
+    "Buddhism",
+    "Jainism",
+    "Ajivika",
+    "Shaivism"
+   ],
+   "a": 0,
+   "e": "The Fourth Buddhist Council (Kashmir) was held under his patronage."
+  },
+  {
+   "q": "When did the Vikram Samvat begin?",
+   "o": [
+    "AD 78",
+    "AD 57",
+    "AD 320",
+    "57 BC"
+   ],
+   "a": 3,
+   "e": "Traditionally linked to King Vikramaditya of Ujjain defeating the Shakas."
+  },
+  {
+   "q": "When did the Shaka Samvat begin?",
+   "o": [
+    "AD 78",
+    "57 BC",
+    "AD 320",
+    "AD 300"
+   ],
+   "a": 0,
+   "e": "It is linked to Kanishka's accession and is the basis of India's national calendar."
+  },
+  {
+   "q": "Why was the Shaka era not called the 'Kushan era'?",
+   "o": [
+    "The Shakas were the first kings",
+    "All foreigners from Central Asia were called 'Shakas'",
+    "The Kushans refused",
+    "Kanishka was a Shaka"
+   ],
+   "a": 1,
+   "e": "The Shaka era began in AD 78."
+  },
+  {
+   "q": "What was the 'Kshatrapa system' of the Shaka satraps?",
+   "o": [
+    "Theocracy",
+    "Republic",
+    "Hereditary monarchy",
+    "Military governorship - the military chief ruled the province"
+   ],
+   "a": 3,
+   "e": "Provinces were governed by military governors (Kshatrapas and Mahakshatrapas)."
+  },
+  {
+   "q": "Uttarapatha was a trade route connecting which regions?",
+   "o": [
+    "The north-west with northern India and onward to the south",
+    "Central Asia directly with China",
+    "Only the eastern coast",
+    "Only the Malabar coast"
+   ],
+   "a": 0,
+   "e": "Uttarapatha linked the north-west with northern and southern India."
+  },
+  {
+   "q": "Sangam literature was mainly written in which language?",
+   "o": [
+    "Telugu",
+    "Kannada",
+    "Tamil",
+    "Malayalam"
+   ],
+   "a": 2,
+   "e": "The Sangam age is placed roughly between the 3rd century BC and the 3rd century AD."
+  },
+  {
+   "q": "What does 'Sangam' mean?",
+   "o": [
+    "An academy/assembly of Tamil poets and scholars",
+    "Confluence of rivers",
+    "Religious pilgrimage",
+    "War council"
+   ],
+   "a": 0,
+   "e": "Three Sangams are traditionally recognised."
+  },
+  {
+   "q": "How many Sangams are traditionally believed to have been held?",
+   "o": [
+    "Four",
+    "Three",
+    "Five",
+    "Two"
+   ],
+   "a": 1,
+   "e": "The first and third were held at Madurai and the second at Kapatapuram."
+  },
+  {
+   "q": "Where was the second Sangam held?",
+   "o": [
+    "Uraiyur",
+    "Kapatapuram",
+    "Madurai",
+    "Kanchi"
+   ],
+   "a": 1,
+   "e": "Tolkappiyam is believed to have been composed during this Sangam."
+  },
+  {
+   "q": "Who patronised all three Sangams?",
+   "o": [
+    "Cholas",
+    "Cheras",
+    "Pallavas",
+    "Pandyas"
+   ],
+   "a": 3,
+   "e": "The Pandya capital was Madurai."
+  },
+  {
+   "q": "Which is considered the oldest Tamil text?",
+   "o": [
+    "Manimekalai",
+    "Tolkappiyam",
+    "Silappadikaram",
+    "Pattupattu"
+   ],
+   "a": 1,
+   "e": "It is a work on Tamil grammar attributed to Tolkappiyar."
+  },
+  {
+   "q": "Which culture prevailed in South India around 1000 BC?",
+   "o": [
+    "Chalcolithic",
+    "Neolithic",
+    "Megalithic",
+    "Harappan"
+   ],
+   "a": 2,
+   "e": "Large stones were placed around burial sites."
+  },
+  {
+   "q": "By what name were the Chera rulers of Kerala referred to in Ashoka's inscriptions?",
+   "o": [
+    "Satiyaputa",
+    "Andhraputra",
+    "Cheraputra",
+    "Keralaputra"
+   ],
+   "a": 3,
+   "e": "The Chera emblem was the bow and arrow."
+  },
+  {
+   "q": "Which of the following was NOT a Tamil kingdom?",
+   "o": [
+    "Chera",
+    "Pandya",
+    "Chola",
+    "Rashtrakuta"
+   ],
+   "a": 3,
+   "e": "The Rashtrakutas belonged to the Karnataka/Maharashtra region."
+  },
+  {
+   "q": "What was the capital of the Chera kingdom?",
+   "o": [
+    "Madurai",
+    "Kanchi",
+    "Uraiyur",
+    "Vanji (Karur)"
+   ],
+   "a": 3,
+   "e": "Vanji is often identified with Karur."
+  },
+  {
+   "q": "What was the royal emblem of the Cheras?",
+   "o": [
+    "Fish",
+    "Tiger",
+    "Lion",
+    "Bow and arrow"
+   ],
+   "a": 3,
+   "e": "The Pandya emblem was the fish."
+  },
+  {
+   "q": "What was the royal emblem of the Pandyas?",
+   "o": [
+    "Elephant",
+    "Bow and arrow",
+    "Fish",
+    "Tiger"
+   ],
+   "a": 2,
+   "e": "The Pandya capital was Madurai."
+  },
+  {
+   "q": "What was the royal emblem of the Cholas?",
+   "o": [
+    "Garuda",
+    "Tiger",
+    "Bow and arrow",
+    "Fish"
+   ],
+   "a": 1,
+   "e": "The early capital of the Sangam-age Cholas was Uraiyur."
+  },
+  {
+   "q": "By what other name is the Chola port of 'Puhar' known?",
+   "o": [
+    "Korkai",
+    "Tondi",
+    "Muziris",
+    "Kaveripattinam"
+   ],
+   "a": 3,
+   "e": "Puhar was situated at the mouth of the Kaveri."
+  },
+  {
+   "q": "Which was the chief port of the Pandyas?",
+   "o": [
+    "Ghantasala",
+    "Muziris",
+    "Korkai",
+    "Puhar"
+   ],
+   "a": 2,
+   "e": "Korkai was famous for pearls."
+  },
+  {
+   "q": "Which was the chief port of the Cheras?",
+   "o": [
+    "Puhar",
+    "Arikamedu",
+    "Muziris",
+    "Korkai"
+   ],
+   "a": 2,
+   "e": "Muziris was a centre of Roman trade; Tondi was another Chera port."
+  },
+  {
+   "q": "Who founded the Rashtrakuta dynasty?",
+   "o": [
+    "Amoghavarsha",
+    "Dantidurga",
+    "Dhruva",
+    "Krishna I"
+   ],
+   "a": 1,
+   "e": "The Rashtrakuta capital was Manyakheta (Malkhed)."
+  },
+  {
+   "q": "Where was the capital of the Rashtrakutas?",
+   "o": [
+    "Vatapi",
+    "Warangal",
+    "Manyakheta (Malkhed)",
+    "Kanchi"
+   ],
+   "a": 2,
+   "e": "The Rashtrakutas built the Kailasa temple at Ellora."
+  },
+  {
+   "q": "By what name are the eight anthologies of ancient Tamil literature known?",
+   "o": [
+    "Pattupattu",
+    "Manimekalai",
+    "Ettuthokai",
+    "Tolkappiyam"
+   ],
+   "a": 2,
+   "e": "Ettu = eight, thokai = anthology."
+  },
+  {
+   "q": "What is Pattupattu?",
+   "o": [
+    "Five great epics",
+    "A collection of eight poems",
+    "A collection of ten idylls",
+    "A grammar text"
+   ],
+   "a": 2,
+   "e": "Ettuthokai and Pattupattu are the main anthologies of Sangam literature."
+  },
+  {
+   "q": "Who wrote 'Silappadikaram'?",
+   "o": [
+    "Kambar",
+    "Sittalai Sattanar",
+    "Ilango Adigal",
+    "Tolkappiyar"
+   ],
+   "a": 2,
+   "e": "It is one of the Five Great Epics of Tamil literature."
+  },
+  {
+   "q": "The story of 'Silappadikaram' is based on which characters?",
+   "o": [
+    "Rama and Sita",
+    "Nala and Damayanti",
+    "Shakuntala and Dushyanta",
+    "Kovalan and Kannagi"
+   ],
+   "a": 3,
+   "e": "Kovalan fell for the dancer Madhavi; Kannagi is worshipped as a goddess of chastity."
+  },
+  {
+   "q": "Why was Kovalan sentenced to death?",
+   "o": [
+    "For not paying taxes",
+    "On a charge of treason",
+    "For deserting the battlefield",
+    "On a false charge of stealing the queen's anklet"
+   ],
+   "a": 3,
+   "e": "He was wrongly suspected while selling Kannagi's anklet; Kannagi's curse destroyed Madurai."
+  },
+  {
+   "q": "What was the name of the daughter of Kovalan and Madhavi?",
+   "o": [
+    "Manimekalai",
+    "Kannagi",
+    "Chitrangada",
+    "Urvashi"
+   ],
+   "a": 0,
+   "e": "The epic Manimekalai is based on her."
+  },
+  {
+   "q": "Who wrote the epic 'Manimekalai'?",
+   "o": [
+    "Kambar",
+    "Thiruvalluvar",
+    "Ilango Adigal",
+    "Sittalai Sattanar"
+   ],
+   "a": 3,
+   "e": "It is also counted among the Five Great Epics of Tamil."
+  },
+  {
+   "q": "In Sangam literature, the theme 'Akam' relates to what?",
+   "o": [
+    "Politics",
+    "War",
+    "Religion",
+    "Love"
+   ],
+   "a": 3,
+   "e": "'Puram' relates to heroism and war."
+  },
+  {
+   "q": "In Sangam literature, the theme 'Puram' relates to what?",
+   "o": [
+    "War, valour and praise of kings",
+    "Agriculture",
+    "Devotion",
+    "Love"
+   ],
+   "a": 0,
+   "e": "Akam deals with the inner (love) life; Puram with the outer (public) life."
+  },
+  {
+   "q": "What is the main theme of Purananuru and Patirruppattu?",
+   "o": [
+    "Philosophical reflection",
+    "Valour and praise of kings (Puram)",
+    "Grammar",
+    "Love stories"
+   ],
+   "a": 1,
+   "e": "These are Puram-based works of the Ettuthokai."
+  },
+  {
+   "q": "In Sangam literature, what were ordinary ploughmen called?",
+   "o": [
+    "Adimai",
+    "Kadaisiyar",
+    "Vellalar",
+    "Uzhavar"
+   ],
+   "a": 3,
+   "e": "Large landowners were called Vellalar."
+  },
+  {
+   "q": "In Sangam literature, what were large landowners called?",
+   "o": [
+    "Uzhavar",
+    "Paraiyar",
+    "Vellalar",
+    "Adimai"
+   ],
+   "a": 2,
+   "e": "The term Adimai was used for slaves/landless labourers."
+  },
+  {
+   "q": "Adichanallur in Tamil Nadu is famous for remains of which period?",
+   "o": [
+    "Megalithic/Sangam age",
+    "Harappan",
+    "Gupta",
+    "Mughal"
+   ],
+   "a": 0,
+   "e": "The site helps in understanding early Tamil (Sangam) culture."
+  },
+  {
+   "q": "The 'Tripartite Struggle' of the 8th-9th centuries was fought among which powers?",
+   "o": [
+    "Chalukyas, Pallavas and Kadambas",
+    "Guptas, Vakatakas and Hunas",
+    "Palas, Gurjara-Pratiharas and Rashtrakutas",
+    "Cholas, Pandyas and Cheras"
+   ],
+   "a": 2,
+   "e": "It was fought for control of Kannauj, with no decisive winner."
+  },
+  {
+   "q": "The Tripartite Struggle was fought for control of which city?",
+   "o": [
+    "Pataliputra",
+    "Ujjain",
+    "Kannauj",
+    "Manyakheta"
+   ],
+   "a": 2,
+   "e": "Kannauj was a symbol of imperial prestige in North India."
+  },
+  {
+   "q": "Which was the eastern power in the Tripartite Struggle?",
+   "o": [
+    "Chalukyas",
+    "Rashtrakutas",
+    "Palas",
+    "Pratiharas"
+   ],
+   "a": 2,
+   "e": "The Pratiharas were in the west and the Rashtrakutas in the south."
+  },
+  {
+   "q": "Kannauj became famous as the capital of which ruler?",
+   "o": [
+    "Samudragupta",
+    "Harshavardhana",
+    "Kanishka",
+    "Ashoka"
+   ],
+   "a": 1,
+   "e": "Harsha is counted among the greatest rulers of North India."
+  },
+  {
+   "q": "What was the reign period of Harshavardhana?",
+   "o": [
+    "AD 712 to 750",
+    "AD 550 to 600",
+    "AD 606 to 647",
+    "AD 320 to 380"
+   ],
+   "a": 2,
+   "e": "Harsha belonged to the Pushyabhuti (Vardhana) dynasty."
+  },
+  {
+   "q": "Harshavardhana belonged to which dynasty?",
+   "o": [
+    "Pushyabhuti (Vardhana) dynasty",
+    "Chalukya dynasty",
+    "Gupta dynasty",
+    "Mauryan dynasty"
+   ],
+   "a": 0,
+   "e": "His capital was later shifted from Thanesar to Kannauj."
+  },
+  {
+   "q": "Which three plays were written by Harshavardhana?",
+   "o": [
+    "Kadambari, Harshacharita, Ratnavali",
+    "Ratnavali, Priyadarshika, Nagananda",
+    "Mrichchhakatika, Ratnavali, Nagananda",
+    "Mudrarakshasa, Nagananda, Priyadarshika"
+   ],
+   "a": 1,
+   "e": "Harsha was himself a poet and dramatist."
+  },
+  {
+   "q": "Who wrote 'Harshacharita', the biography of Harshavardhana?",
+   "o": [
+    "Kalidasa",
+    "Jayadeva",
+    "Banabhatta",
+    "Vishakhadatta"
+   ],
+   "a": 2,
+   "e": "Banabhatta was Harsha's court poet and also wrote 'Kadambari'."
+  },
+  {
+   "q": "Who wrote 'Kadambari'?",
+   "o": [
+    "Kalidasa",
+    "Banabhatta",
+    "Bhasa",
+    "Shudraka"
+   ],
+   "a": 1,
+   "e": "Banabhatta was the court poet of Harshavardhana."
+  },
+  {
+   "q": "Who is regarded as the greatest ruler of the Gurjara-Pratihara dynasty?",
+   "o": [
+    "Mihira Bhoja",
+    "Vatsaraja",
+    "Gopala",
+    "Nagabhata I"
+   ],
+   "a": 0,
+   "e": "Nagabhata I was the early powerful ruler of this dynasty."
+  },
+  {
+   "q": "Gopala was the founder of which dynasty?",
+   "o": [
+    "Rashtrakuta dynasty",
+    "Sena dynasty",
+    "Pala dynasty",
+    "Gurjara-Pratihara dynasty"
+   ],
+   "a": 2,
+   "e": "According to tradition, he built the Odantapuri university."
+  },
+  {
+   "q": "According to tradition, who built the Odantapuri university?",
+   "o": [
+    "Gopala",
+    "Devapala",
+    "Kumaragupta",
+    "Dharmapala"
+   ],
+   "a": 0,
+   "e": "It was located in Bihar."
+  },
+  {
+   "q": "Which city was the capital of the Gurjara-Pratihara ruler Vatsaraja?",
+   "o": [
+    "Kannauj",
+    "Vidisha",
+    "Manyakheta",
+    "Ujjain"
+   ],
+   "a": 3,
+   "e": "The early Pratiharas ruled from Avanti (Ujjain); Nagabhata II later shifted to Kannauj."
+  },
+  {
+   "q": "Who founded the Vikramashila university near Bhagalpur (Bihar)?",
+   "o": [
+    "Devapala",
+    "Dharmapala",
+    "Mahipala",
+    "Gopala"
+   ],
+   "a": 1,
+   "e": "Dharmapala was a ruler of the Pala dynasty."
+  },
+  {
+   "q": "Who founded Nalanda University?",
+   "o": [
+    "Dharmapala",
+    "Chandragupta II",
+    "Kumaragupta I",
+    "Samudragupta"
+   ],
+   "a": 2,
+   "e": "It was destroyed by Bakhtiyar Khalji."
+  },
+  {
+   "q": "Who destroyed Nalanda University?",
+   "o": [
+    "Muhammad Ghori",
+    "Qutbuddin Aibak",
+    "Bakhtiyar Khalji",
+    "Mahmud of Ghazni"
+   ],
+   "a": 2,
+   "e": "The event is dated to around AD 1193."
+  },
+  {
+   "q": "In Pallava administration, what was the smallest self-governing unit at the village level?",
+   "o": [
+    "Kottam",
+    "Nadu",
+    "Ur",
+    "Mandalam"
+   ],
+   "a": 2,
+   "e": "Hierarchy: Ur (village) - Nadu (taluk) - Kottam/Vishaya - Mandalam."
+  },
+  {
+   "q": "In South Indian administrative units, what level was a 'Nadu'?",
+   "o": [
+    "Town level",
+    "Province level",
+    "Village level",
+    "Taluk level"
+   ],
+   "a": 3,
+   "e": "Above the Nadu were the Kottam (Vishaya) and then the Mandalam."
+  },
+  {
+   "q": "Who administered a Vishaya (Kottam)?",
+   "o": [
+    "Nadupati",
+    "Gramika",
+    "Vishayapati",
+    "Mahamatra"
+   ],
+   "a": 2,
+   "e": "The Mandalam was the highest unit."
+  },
+  {
+   "q": "In South Indian village committees, what was the function of the 'Eri Variyam'?",
+   "o": [
+    "Irrigation/tank (water) management",
+    "Administering justice",
+    "Collecting taxes",
+    "Temple management"
+   ],
+   "a": 0,
+   "e": "The committee for justice was called the 'Nyaya (Dharma) Variyam'."
+  },
+  {
+   "q": "Rajendra Chola I is famous for which expedition?",
+   "o": [
+    "Invasion of Delhi",
+    "Invasion of Mecca",
+    "Naval expedition against the Srivijaya empire",
+    "Land campaign against Sri Lanka"
+   ],
+   "a": 2,
+   "e": "Srivijaya, in the Indonesia-Malaya region, was ruled by the Shailendra dynasty."
+  },
+  {
+   "q": "Which dynasty ruled the Srivijaya empire?",
+   "o": [
+    "Shailendra dynasty",
+    "Vardhana dynasty",
+    "Chalukya dynasty",
+    "Sena dynasty"
+   ],
+   "a": 0,
+   "e": "It was located in present-day Indonesia."
+  },
+  {
+   "q": "Rajendra Chola I was a contemporary of which ruler of Ghazni?",
+   "o": [
+    "Mahmud of Ghazni",
+    "Iltutmish",
+    "Muhammad Ghori",
+    "Babur"
+   ],
+   "a": 0,
+   "e": "Rajendra I ruled from AD 1014 to 1044."
+  },
+  {
+   "q": "Who was the father of Rajendra Chola I?",
+   "o": [
+    "Kulottunga",
+    "Vijayalaya",
+    "Rajaraja I",
+    "Parantaka I"
+   ],
+   "a": 2,
+   "e": "Rajaraja I ruled from AD 985 to 1014."
+  },
+  {
+   "q": "What kind of administration did the Cholas have?",
+   "o": [
+    "Tribal rule",
+    "Military rule",
+    "Highly centralised",
+    "Decentralised"
+   ],
+   "a": 3,
+   "e": "Villages had assemblies such as the Ur and the Sabha."
+  },
+  {
+   "q": "What was the difference between the 'Ur' and the 'Sabha' in a Chola village?",
+   "o": [
+    "Ur was of Brahmins and Sabha of common people",
+    "Ur was an assembly of common villagers and Sabha of learned Brahmins",
+    "Both were of soldiers",
+    "Both were of merchants"
+   ],
+   "a": 1,
+   "e": "Details of elections and functioning come from the Uttaramerur inscription."
+  },
+  {
+   "q": "Which inscription provides information about the Chola electoral system?",
+   "o": [
+    "Uttaramerur inscription",
+    "Junagadh inscription",
+    "Aihole inscription",
+    "Hathigumpha inscription"
+   ],
+   "a": 0,
+   "e": "It is in Tamil Nadu; members were chosen by lot (kudavolai system)."
+  },
+  {
+   "q": "In the Chola period, what was a land grant made to schools called?",
+   "o": [
+    "Brahmadeya",
+    "Shalabhoga",
+    "Pallichchandam",
+    "Devadana"
+   ],
+   "a": 1,
+   "e": "Shalabhoga was land granted for the maintenance of schools."
+  },
+  {
+   "q": "In the Chola period, what was a land grant made to temples called?",
+   "o": [
+    "Pallichchandam",
+    "Devadana",
+    "Shalabhoga",
+    "Brahmadeya"
+   ],
+   "a": 1,
+   "e": "Devadana was land granted to temples."
+  },
+  {
+   "q": "In the Chola period, what was a land grant made to Brahmins called?",
+   "o": [
+    "Pallichchandam",
+    "Shalabhoga",
+    "Brahmadeya",
+    "Devadana"
+   ],
+   "a": 2,
+   "e": "Brahmadeya villages were granted to Brahmins."
+  },
+  {
+   "q": "In the Chola period, what was a land grant made to Jain institutions called?",
+   "o": [
+    "Brahmadeya",
+    "Shalabhoga",
+    "Devadana",
+    "Pallichchandam"
+   ],
+   "a": 3,
+   "e": "Remember: Shalabhoga - schools, Devadana - temples, Brahmadeya - Brahmins, Pallichchandam - Jains."
+  },
+  {
+   "q": "In what form was the Chola-period levy 'Vetti' collected?",
+   "o": [
+    "Trade tax",
+    "Additional land revenue",
+    "Forced (unpaid) labour",
+    "Salt tax"
+   ],
+   "a": 2,
+   "e": "Vetti was taken in the form of forced labour."
+  },
+  {
+   "q": "What was 'Kadamai' in the Chola period?",
+   "o": [
+    "Market tax",
+    "Forced labour",
+    "Land tax",
+    "Water tax"
+   ],
+   "a": 2,
+   "e": "Kadamai was related to land revenue."
+  },
+  {
+   "q": "Who is regarded as the most celebrated ruler of the early (Sangam-age) Cholas?",
+   "o": [
+    "Vijayalaya",
+    "Karikala",
+    "Rajaraja I",
+    "Parantaka I"
+   ],
+   "a": 1,
+   "e": "Karikala is known for the Battle of Venni and building embankments on the Kaveri."
+  },
+  {
+   "q": "Who founded the Imperial Chola dynasty?",
+   "o": [
+    "Vijayalaya Chola",
+    "Rajendra I",
+    "Karikala",
+    "Rajaraja I"
+   ],
+   "a": 0,
+   "e": "Vijayalaya revived Chola power in the 9th century."
+  },
+  {
+   "q": "Vijayalaya Chola captured the Kaveri delta by defeating whom?",
+   "o": [
+    "Pandyas",
+    "Muttaraiyars (feudatories of the Pallavas)",
+    "Rashtrakutas",
+    "Cheras"
+   ],
+   "a": 1,
+   "e": "The Muttaraiyars were feudatories of the Pallavas."
+  },
+  {
+   "q": "Vijayalaya Chola built a temple for which goddess?",
+   "o": [
+    "Kannagi",
+    "Nishumbhasudini",
+    "Meenakshi",
+    "Kali"
+   ],
+   "a": 1,
+   "e": "The temple was built at Thanjavur."
+  },
+  {
+   "q": "Which of the following was a title of Rajaraja I?",
+   "o": [
+    "Simhavishnu",
+    "Rajasimha",
+    "Mummudi Chola",
+    "Mamalla"
+   ],
+   "a": 2,
+   "e": "He built the Brihadeeswara (Rajarajeshwaram) temple at Thanjavur."
+  },
+  {
+   "q": "What was the reign period of Rajendra Chola I?",
+   "o": [
+    "AD 1100 to 1150",
+    "AD 985 to 1014",
+    "AD 1014 to 1044",
+    "AD 900 to 950"
+   ],
+   "a": 2,
+   "e": "He was preceded by Rajaraja I (AD 985-1014)."
+  },
+  {
+   "q": "Which Rashtrakuta ruler defeated the Chola ruler Parantaka I?",
+   "o": [
+    "Krishna I",
+    "Amoghavarsha",
+    "Dhruva",
+    "Krishna III"
+   ],
+   "a": 3,
+   "e": "Krishna III won the Battle of Takkolam and built the Krishneshvara temple at Rameswaram."
+  },
+  {
+   "q": "In which century was 'The Periplus of the Erythraean Sea' written?",
+   "o": [
+    "3rd century AD",
+    "5th century AD",
+    "1st century AD",
+    "2nd century AD"
+   ],
+   "a": 2,
+   "e": "Its author is unknown, probably a Greek sailor from Egypt."
+  },
+  {
+   "q": "Which Chinese traveller visited the court of Harshavardhana?",
+   "o": [
+    "Fa-Hien",
+    "I-Tsing",
+    "Hiuen Tsang",
+    "Megasthenes"
+   ],
+   "a": 2,
+   "e": "Hiuen Tsang is also spelt Xuanzang."
+  },
+  {
+   "q": "During whose reign did Fa-Hien visit India?",
+   "o": [
+    "Chandragupta II",
+    "Kanishka",
+    "Ashoka",
+    "Harshavardhana"
+   ],
+   "a": 0,
+   "e": "Fa-Hien was the first well-known Chinese pilgrim to visit during the Gupta period."
+  },
+  {
+   "q": "What is the name of Hiuen Tsang's book?",
+   "o": [
+    "Indica",
+    "Rajatarangini",
+    "Si-Yu-Ki",
+    "Fo-Kuo-Ki"
+   ],
+   "a": 2,
+   "e": "It is also known as 'Great Tang Records on the Western Regions'."
+  },
+  {
+   "q": "Who defeated Pulakeshin II?",
+   "o": [
+    "Narasimhavarman I",
+    "Mahendravarman I",
+    "Rajasimha",
+    "Krishna III"
+   ],
+   "a": 0,
+   "e": "Narasimhavarman took the title 'Vatapikonda'."
+  },
+  {
+   "q": "Which Pallava ruler was defeated by Pulakeshin II?",
+   "o": [
+    "Narasimhavarman I",
+    "Mahendravarman I",
+    "Narasimhavarman II",
+    "Simhavishnu"
+   ],
+   "a": 1,
+   "e": "His son Narasimhavarman I avenged the defeat."
+  },
+  {
+   "q": "Which title did Narasimhavarman I adopt after defeating Pulakeshin II?",
+   "o": [
+    "Vatapikonda",
+    "Mamalleshvara",
+    "Rajasimha",
+    "Dakshinapatheshvara"
+   ],
+   "a": 0,
+   "e": "Vatapi was the capital of the Chalukyas."
+  },
+  {
+   "q": "Which title did Pulakeshin II adopt after defeating Harshavardhana?",
+   "o": [
+    "Vatapikonda",
+    "Paramabhattaraka",
+    "Dakshinapatheshvara",
+    "Chakravarti"
+   ],
+   "a": 2,
+   "e": "The title means 'Lord of the South (Dakshinapatha)'."
+  },
+  {
+   "q": "During whose reign did Hiuen Tsang visit Kashmir?",
+   "o": [
+    "Yashodharman",
+    "Pulakeshin II",
+    "Durlabhavardhana",
+    "Harshavardhana"
+   ],
+   "a": 2,
+   "e": "Durlabhavardhana was the founder of the Karkota dynasty of Kashmir."
+  },
+  {
+   "q": "Durlabhavardhana belonged to which dynasty?",
+   "o": [
+    "Gurjara-Pratihara dynasty",
+    "Karkota dynasty",
+    "Vardhana dynasty",
+    "Chalukya dynasty"
+   ],
+   "a": 1,
+   "e": "The Karkota dynasty ruled Kashmir."
+  },
+  {
+   "q": "Where was the capital of the Maitraka dynasty?",
+   "o": [
+    "Vallabhi",
+    "Ujjain",
+    "Vatapi",
+    "Kannauj"
+   ],
+   "a": 0,
+   "e": "Hiuen Tsang mentions the Maitraka ruler Shiladitya."
+  },
+  {
+   "q": "Harshavardhana's daughter was married to which Maitraka ruler?",
+   "o": [
+    "Dharasena",
+    "Dhruvasena II",
+    "Guhasena",
+    "Shiladitya"
+   ],
+   "a": 1,
+   "e": "The Maitrakas ruled the Gujarat-Saurashtra region."
+  },
+  {
+   "q": "The Ajanta caves are described in the account of which traveller?",
+   "o": [
+    "Domingo Paes",
+    "Ibn Battuta",
+    "Megasthenes",
+    "Hiuen Tsang"
+   ],
+   "a": 3,
+   "e": "Hiuen Tsang described the Buddhist monastery at Ajanta."
+  },
+  {
+   "q": "Ibn Battuta came from which country and visited India during which Sultan's reign?",
+   "o": [
+    "Iran; Akbar",
+    "Egypt; Alauddin Khalji",
+    "Uzbekistan; Babur",
+    "Morocco; Muhammad bin Tughlaq"
+   ],
+   "a": 3,
+   "e": "His travelogue is called the 'Rihla'."
+  },
+  {
+   "q": "Megasthenes came to the court of which ruler?",
+   "o": [
+    "Ashoka",
+    "Harshavardhana",
+    "Samudragupta",
+    "Chandragupta Maurya"
+   ],
+   "a": 3,
+   "e": "He was the ambassador of Seleucus Nicator."
+  },
+  {
+   "q": "Domingo Paes and Duarte Barbosa came from which country and visited during whose reign?",
+   "o": [
+    "France; Shah Jahan",
+    "Portugal; Krishnadeva Raya",
+    "Russia; Ashoka",
+    "Italy; Akbar"
+   ],
+   "a": 1,
+   "e": "They left accounts of the Vijayanagara Empire."
+  },
+  {
+   "q": "Who wrote 'Rajatarangini'?",
+   "o": [
+    "Bilhana",
+    "Kalhana",
+    "Somadeva",
+    "Kshemendra"
+   ],
+   "a": 1,
+   "e": "It is a history of the kings of Kashmir."
+  },
+  {
+   "q": "Which temple architecture style is mainly found in North India?",
+   "o": [
+    "Vesara",
+    "Nagara",
+    "Kalinga",
+    "Dravida"
+   ],
+   "a": 1,
+   "e": "The Nagara style developed from the Gupta period."
+  },
+  {
+   "q": "Who developed the Dravida temple style?",
+   "o": [
+    "Pallavas",
+    "Chalukyas",
+    "Guptas",
+    "Rashtrakutas"
+   ],
+   "a": 0,
+   "e": "The temples of Mahabalipuram and Kanchipuram are examples of Pallava art."
+  },
+  {
+   "q": "The Vesara style is a blend of which two styles, and who developed it?",
+   "o": [
+    "Dravida and Kalinga; Pallavas",
+    "Nagara and Dravida; Pandyas",
+    "Nagara and Dravida; Chalukyas",
+    "Nagara and Kalinga; Cholas"
+   ],
+   "a": 2,
+   "e": "Aihole, Badami and Pattadakal are its examples."
+  },
+  {
+   "q": "The temples of Pattadakal, Aihole and Badami belong to which style?",
+   "o": [
+    "Vesara (Chalukya)",
+    "Nagara",
+    "Kalinga",
+    "Dravida"
+   ],
+   "a": 0,
+   "e": "They are located in Karnataka."
+  },
+  {
+   "q": "Who composed the Aihole inscription (prashasti)?",
+   "o": [
+    "Banabhatta",
+    "Harishena",
+    "Ravikirti",
+    "Kalhana"
+   ],
+   "a": 2,
+   "e": "Ravikirti was the court poet of Pulakeshin II."
+  },
+  {
+   "q": "Which of the following temples is an example of the Dravida style?",
+   "o": [
+    "Meenakshi Temple, Madurai",
+    "Sun Temple, Konark",
+    "Lingaraja Temple, Bhubaneswar",
+    "Kandariya Mahadeva Temple"
+   ],
+   "a": 0,
+   "e": "Konark and Lingaraja are Kalinga style; Kandariya Mahadeva is Nagara style."
+  },
+  {
+   "q": "What is the innermost chamber housing the main deity in a Hindu temple called?",
+   "o": [
+    "Garbhagriha",
+    "Jagati",
+    "Amalaka",
+    "Mandapa"
+   ],
+   "a": 0,
+   "e": "It is also called the sanctum sanctorum."
+  },
+  {
+   "q": "In the Nagara style, what is the tower-like structure above the garbhagriha called?",
+   "o": [
+    "Vimana",
+    "Gopuram",
+    "Jagamohana",
+    "Shikhara"
+   ],
+   "a": 3,
+   "e": "Above the shikhara come the amalaka, kalasha and flag, in that order."
+  },
+  {
+   "q": "What is the amla-shaped (gooseberry-shaped) stone disc at the top of a Nagara shikhara called?",
+   "o": [
+    "Jagati",
+    "Kalasha",
+    "Amalaka",
+    "Vimana"
+   ],
+   "a": 2,
+   "e": "The kalasha sits above the amalaka, with a flag above it."
+  },
+  {
+   "q": "What is the raised platform on which a temple stands called?",
+   "o": [
+    "Gopuram",
+    "Pidha",
+    "Jagamohana",
+    "Jagati"
+   ],
+   "a": 3,
+   "e": "Nagara temples are usually built on a raised platform."
+  },
+  {
+   "q": "In the Dravida style, what is the stepped pyramidal tower above the garbhagriha called?",
+   "o": [
+    "Jagamohana",
+    "Vimana",
+    "Amalaka",
+    "Shikhara"
+   ],
+   "a": 1,
+   "e": "In Dravida temples the tower over the sanctum is the vimana."
+  },
+  {
+   "q": "What is the tall gateway at the entrance of Dravida temples called?",
+   "o": [
+    "Gopuram",
+    "Amalaka",
+    "Jagamohana",
+    "Torana"
+   ],
+   "a": 0,
+   "e": "Gopurams are found in South Indian temples, not in North India."
+  },
+  {
+   "q": "In Kalinga architecture, what is the assembly hall (mandapa) of the temple called?",
+   "o": [
+    "Gopuram",
+    "Amalaka",
+    "Jagamohana",
+    "Vimana"
+   ],
+   "a": 2,
+   "e": "The Kalinga style is the temple style of Odisha."
+  },
+  {
+   "q": "In the Kalinga style, what is the tall curvilinear tower called?",
+   "o": [
+    "Rekha deul (Rekha prasada)",
+    "Pidha deul",
+    "Khakhara deul",
+    "Phamsana"
+   ],
+   "a": 0,
+   "e": "The pyramidal-roofed hall is called the pidha deul."
+  },
+  {
+   "q": "In the Kalinga style, what is the pyramidal-roofed hall called?",
+   "o": [
+    "Rekha deul",
+    "Khakhara deul",
+    "Pidha deul",
+    "Gopuram"
+   ],
+   "a": 2,
+   "e": "A structure with a rectangular base and wagon-vaulted roof is called a khakhara deul."
+  },
+  {
+   "q": "In the Kalinga style, what is the structure with a rectangular base and wagon-vaulted roof called?",
+   "o": [
+    "Pidha deul",
+    "Rekha deul",
+    "Khakhara deul",
+    "Vimana"
+   ],
+   "a": 2,
+   "e": "Keyword for khakhara deul: wagon-shaped roof."
+  },
+  {
+   "q": "In Dravida temple architecture, what is the plan shaped like an elephant's back called?",
+   "o": [
+    "Gajaprishtha",
+    "Jagati",
+    "Vimana",
+    "Gopuram"
+   ],
+   "a": 0,
+   "e": "Gajaprishtha means 'back of an elephant'."
+  },
+  {
+   "q": "In which architectural style is the Sun Temple of Konark built?",
+   "o": [
+    "Kalinga style",
+    "Dravida",
+    "Vesara",
+    "Mixed Nagara-Vesara"
+   ],
+   "a": 0,
+   "e": "The temple is designed as a chariot drawn by seven horses."
+  },
+  {
+   "q": "How many wheels does the chariot of the Konark Sun Temple have?",
+   "o": [
+    "24",
+    "7",
+    "16",
+    "12"
+   ],
+   "a": 0,
+   "e": "The 24 wheels are often linked to the hours of the day and the 7 horses to the days of the week."
+  },
+  {
+   "q": "Where is the Kandariya Mahadeva Temple located?",
+   "o": [
+    "Madurai",
+    "Kanchipuram",
+    "Bhubaneswar",
+    "Khajuraho (Madhya Pradesh)"
+   ],
+   "a": 3,
+   "e": "It is a Nagara-style temple built by the Chandelas."
+  },
+  {
+   "q": "Where is the Lingaraja Temple located?",
+   "o": [
+    "Madurai",
+    "Khajuraho",
+    "Konark",
+    "Bhubaneswar"
+   ],
+   "a": 3,
+   "e": "It is a Kalinga-style temple."
+  },
+  {
+   "q": "The Pallava-era Pancha Rathas of Mahabalipuram are carved out of which stone?",
+   "o": [
+    "Granite",
+    "Red sandstone",
+    "Marble",
+    "Sandstone"
+   ],
+   "a": 0,
+   "e": "They are monolithic rock-cut temples."
+  },
+  {
+   "q": "Who founded the Pallava dynasty (as a major power)?",
+   "o": [
+    "Simhavishnu",
+    "Narasimhavarman I",
+    "Rajasimha",
+    "Mahendravarman I"
+   ],
+   "a": 0,
+   "e": "The capital was Kanchipuram."
+  },
+  {
+   "q": "What was the capital of the Pallavas?",
+   "o": [
+    "Kanchipuram",
+    "Vatapi",
+    "Madurai",
+    "Thanjavur"
+   ],
+   "a": 0,
+   "e": "Kanchi has been a centre of learning since ancient times."
+  },
+  {
+   "q": "The Mahendra style is named after which Pallava ruler?",
+   "o": [
+    "Narasimhavarman I",
+    "Rajasimha",
+    "Mahendravarman I",
+    "Nandivarman"
+   ],
+   "a": 2,
+   "e": "Early rock-cut cave temples were built in this style."
+  },
+  {
+   "q": "The Pancha Rathas of Mahabalipuram were built during the reign of which Pallava ruler?",
+   "o": [
+    "Narasimhavarman I (Mamalla)",
+    "Rajasimha",
+    "Mahendravarman I",
+    "Simhavishnu"
+   ],
+   "a": 0,
+   "e": "The Pancha Rathas and the 'Arjuna's Penance' relief belong to the Mamalla style."
+  },
+  {
+   "q": "By what other name is Narasimhavarman I known?",
+   "o": [
+    "Vatapikonda",
+    "Mahendra",
+    "Rajasimha",
+    "Mamalla"
+   ],
+   "a": 3,
+   "e": "Hence Mahabalipuram is also called 'Mamallapuram'."
+  },
+  {
+   "q": "Who built the Shore Temple at Mahabalipuram?",
+   "o": [
+    "Narasimhavarman II (Rajasimha)",
+    "Simhavishnu",
+    "Narasimhavarman I",
+    "Mahendravarman I"
+   ],
+   "a": 0,
+   "e": "Rajasimha also built the Kailasanatha temple at Kanchipuram."
+  },
+  {
+   "q": "The Kailasanatha temple at Kanchipuram is built of which stone?",
+   "o": [
+    "Granite",
+    "Sandstone",
+    "Marble",
+    "Basalt"
+   ],
+   "a": 1,
+   "e": "It is an example of the Rajasimha style."
+  },
+  {
+   "q": "Who built the Brihadeeswara Temple at Thanjavur?",
+   "o": [
+    "Vijayalaya",
+    "Rajaraja I",
+    "Rajaraja II",
+    "Rajendra I"
+   ],
+   "a": 1,
+   "e": "It is also called the Rajarajeshwaram temple."
+  },
+  {
+   "q": "Who built the Brihadeeswara Temple at Gangaikonda Cholapuram?",
+   "o": [
+    "Rajendra Chola I",
+    "Rajaraja I",
+    "Rajaraja II",
+    "Parantaka I"
+   ],
+   "a": 0,
+   "e": "Rajendra Chola is sometimes called the 'Napoleon of South India'."
+  },
+  {
+   "q": "Who built the Airavatesvara Temple?",
+   "o": [
+    "Rajendra I",
+    "Rajaraja I",
+    "Kulottunga",
+    "Rajaraja II"
+   ],
+   "a": 3,
+   "e": "All three Chola temples are UNESCO sites as the 'Great Living Chola Temples'."
+  },
+  {
+   "q": "Which temples are included in the 'Great Living Chola Temples'?",
+   "o": [
+    "Meenakshi, Konark, Khajuraho",
+    "Thanjavur, Gangaikonda Cholapuram and Airavatesvara (Darasuram)",
+    "Mahabalipuram, Kanchi, Madurai",
+    "Badami, Aihole, Pattadakal"
+   ],
+   "a": 1,
+   "e": "All are outstanding examples of Chola architecture."
+  },
+  {
+   "q": "Which dynasty built the Dashavatara Temple at Deogarh?",
+   "o": [
+    "Chandela dynasty",
+    "Gupta dynasty",
+    "Rashtrakuta dynasty",
+    "Chola dynasty"
+   ],
+   "a": 1,
+   "e": "This Gupta-period temple is in Uttar Pradesh."
+  },
+  {
+   "q": "A temple with a circumambulatory path inside, around the garbhagriha, is called what?",
+   "o": [
+    "Sandhara",
+    "Mandapa",
+    "Nirandhara",
+    "Sarvatobhadra"
+   ],
+   "a": 0,
+   "e": "If the path is outside the garbhagriha, it is called Nirandhara."
+  },
+  {
+   "q": "A temple with a circumambulatory path outside the garbhagriha is called what?",
+   "o": [
+    "Sandhara",
+    "Nirandhara",
+    "Sarvatobhadra",
+    "Dravida"
+   ],
+   "a": 1,
+   "e": "Remember: inside - Sandhara, outside - Nirandhara."
+  },
+  {
+   "q": "In which state are the Kanheri, Karla and Bhaja caves located?",
+   "o": [
+    "Odisha",
+    "Madhya Pradesh",
+    "Karnataka",
+    "Maharashtra"
+   ],
+   "a": 3,
+   "e": "These caves were excavated for Buddhist monks."
+  },
+  {
+   "q": "What is the difference between Chaitya and Vihara caves?",
+   "o": [
+    "Chaitya is a residence and Vihara a place of worship",
+    "Both are places of worship",
+    "Chaitya is a place of worship and Vihara a residence",
+    "Both are residences"
+   ],
+   "a": 2,
+   "e": "Vihara caves served as monasteries for monks."
+  },
+  {
+   "q": "In which state are the Bhimbetka rock shelters (prehistoric cave paintings) located?",
+   "o": [
+    "Rajasthan",
+    "Odisha",
+    "Madhya Pradesh",
+    "Maharashtra"
+   ],
+   "a": 2,
+   "e": "They are near Bhopal."
+  },
+  {
+   "q": "How many caves are there in total at Ajanta (including the unfinished one)?",
+   "o": [
+    "29",
+    "32",
+    "30",
+    "34"
+   ],
+   "a": 2,
+   "e": "Remember: 29 + 1 unfinished = 30."
+  },
+  {
+   "q": "How many caves are there in total at Ellora?",
+   "o": [
+    "30",
+    "29",
+    "24",
+    "34"
+   ],
+   "a": 3,
+   "e": "The Ellora caves belong to Hinduism, Buddhism and Jainism."
+  },
+  {
+   "q": "The construction of the Ellora caves is mainly credited to whom?",
+   "o": [
+    "Guptas",
+    "Satavahanas and Vakatakas",
+    "Cholas",
+    "Rashtrakutas"
+   ],
+   "a": 3,
+   "e": "Ajanta is mainly credited to the Satavahanas and Vakatakas."
+  },
+  {
+   "q": "The Ajanta caves are associated with which religion?",
+   "o": [
+    "Jainism",
+    "Hinduism",
+    "All three religions",
+    "Buddhism"
+   ],
+   "a": 3,
+   "e": "The famous 'Flying Apsara' painting is at Ajanta."
+  },
+  {
+   "q": "The 'Flying Apsara' painting is a masterpiece of which cave group?",
+   "o": [
+    "Elephanta",
+    "Ajanta",
+    "Ellora",
+    "Kanheri"
+   ],
+   "a": 1,
+   "e": "Ajanta is famous for its murals."
+  },
+  {
+   "q": "In which cave is the Kailasa temple of Ellora, and who built it?",
+   "o": [
+    "Cave 10; Satavahanas",
+    "Cave 1; Chalukyas",
+    "Cave 29; Vakatakas",
+    "Cave 16; Rashtrakuta ruler Krishna I"
+   ],
+   "a": 3,
+   "e": "It is a monolithic temple carved top-down out of a single rock."
+  },
+  {
+   "q": "In which caves is the famous Trimurti sculpture found?",
+   "o": [
+    "Elephanta",
+    "Ellora",
+    "Udayagiri",
+    "Ajanta"
+   ],
+   "a": 0,
+   "e": "Elephanta is on an island near Mumbai and is dedicated to Shiva."
+  },
+  {
+   "q": "Where are the Undavalli caves, known for the reclining Vishnu on Sheshanaga, located?",
+   "o": [
+    "Guntur, Andhra Pradesh",
+    "Madurai, Tamil Nadu",
+    "Nashik, Maharashtra",
+    "Bhopal, Madhya Pradesh"
+   ],
+   "a": 0,
+   "e": "The cave is famous for its monolithic reclining Vishnu."
+  },
+  {
+   "q": "Which stories are carved on the toranas (gateways) of the Sanchi Stupa?",
+   "o": [
+    "Panchatantra",
+    "Mahabharata",
+    "Ramayana",
+    "Jataka tales"
+   ],
+   "a": 3,
+   "e": "Jataka tales are stories of the Buddha's previous births."
+  },
+  {
+   "q": "Who built the Sanchi Stupa and who enlarged it?",
+   "o": [
+    "Ashoka; enlarged by the Shungas",
+    "Kanishka; the Guptas",
+    "Ajatashatru; the Mauryas",
+    "Harsha; the Palas"
+   ],
+   "a": 0,
+   "e": "Sanchi has four toranas (gateways)."
+  },
+  {
+   "q": "How many recognised styles (pathas) of Vedic chanting are there in total?",
+   "o": [
+    "13",
+    "10",
+    "11",
+    "8"
+   ],
+   "a": 2,
+   "e": "They are divided into Prakriti pathas and Vikriti pathas."
+  },
+  {
+   "q": "Which music style was considered formal and divine in ancient India?",
+   "o": [
+    "Gandharva",
+    "Dhrupad",
+    "Prabandha",
+    "Gana"
+   ],
+   "a": 0,
+   "e": "Gandharva music was regarded as sacred and divine."
+  },
+  {
+   "q": "What is called the 'Fifth Veda'?",
+   "o": [
+    "Natyashastra",
+    "Arthashastra",
+    "Puranas",
+    "Ashtadhyayi"
+   ],
+   "a": 0,
+   "e": "It was composed by Bharata Muni."
+  },
+  {
+   "q": "Who wrote the Natyashastra?",
+   "o": [
+    "Kautilya",
+    "Kalidasa",
+    "Panini",
+    "Bharata Muni"
+   ],
+   "a": 3,
+   "e": "It is an ancient treatise on drama and performing arts."
+  },
+  {
+   "q": "Who wrote the Ashtadhyayi?",
+   "o": [
+    "Patanjali",
+    "Bharata Muni",
+    "Yaska",
+    "Panini"
+   ],
+   "a": 3,
+   "e": "The Ashtadhyayi is the foundational text of Sanskrit grammar."
+  },
+  {
+   "q": "Who wrote 'Gita Govinda'?",
+   "o": [
+    "Kalidasa",
+    "Jayadeva",
+    "Bhasa",
+    "Banabhatta"
+   ],
+   "a": 1,
+   "e": "Jayadeva was the court poet of Lakshmana Sena of the Sena dynasty of Bengal."
+  },
+  {
+   "q": "What are solid instruments (like cymbals, ghatam and bells) called?",
+   "o": [
+    "Sushira vadya",
+    "Tata vadya",
+    "Avanaddha vadya",
+    "Ghana vadya"
+   ],
+   "a": 3,
+   "e": "Solid instruments made from everyday objects are called Ghana vadya."
+  },
+  {
+   "q": "What are wind instruments such as the flute and shehnai called?",
+   "o": [
+    "Tata vadya",
+    "Sushira vadya",
+    "Ghana vadya",
+    "Avanaddha vadya"
+   ],
+   "a": 1,
+   "e": "Sushira = played by blowing air."
+  },
+  {
+   "q": "What are stringed instruments such as the sitar and veena called?",
+   "o": [
+    "Tata vadya",
+    "Avanaddha vadya",
+    "Ghana vadya",
+    "Sushira vadya"
+   ],
+   "a": 0,
+   "e": "Tata = stringed instruments."
+  },
+  {
+   "q": "What are percussion instruments with a stretched leather membrane (dholak, tabla) called?",
+   "o": [
+    "Tata vadya",
+    "Avanaddha vadya",
+    "Sushira vadya",
+    "Ghana vadya"
+   ],
+   "a": 1,
+   "e": "They are membranophone (percussion) instruments."
+  },
+  {
+   "q": "Who wrote the play 'Mudrarakshasa'?",
+   "o": [
+    "Bhasa",
+    "Shudraka",
+    "Kalidasa",
+    "Vishakhadatta"
+   ],
+   "a": 3,
+   "e": "Though set in the Mauryan period, it was written much later (Gupta age)."
+  },
+  {
+   "q": "Who wrote 'Mrichchhakatikam' (The Little Clay Cart)?",
+   "o": [
+    "Vishakhadatta",
+    "Kalidasa",
+    "Shudraka",
+    "Bhasa"
+   ],
+   "a": 2,
+   "e": "It is a famous Sanskrit play."
+  },
+  {
+   "q": "Who wrote 'Abhijnanashakuntalam'?",
+   "o": [
+    "Kalidasa",
+    "Bhasa",
+    "Shudraka",
+    "Banabhatta"
+   ],
+   "a": 0,
+   "e": "It is Kalidasa's most famous play."
+  },
+  {
+   "q": "Who wrote 'Svapnavasavadattam'?",
+   "o": [
+    "Vishakhadatta",
+    "Kalidasa",
+    "Shudraka",
+    "Bhasa"
+   ],
+   "a": 3,
+   "e": "Bhasa is one of the earliest known Sanskrit dramatists."
+  }
+ ]
+}

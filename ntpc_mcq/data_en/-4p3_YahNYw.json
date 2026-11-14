@@ -1,0 +1,2178 @@
+{
+ "title": "Polity Lec 6",
+ "summary": [
+  "Regulating Act 1773: Governor of Bengal became Governor-General of Bengal (first: Warren Hastings); Supreme Court set up at Calcutta (first CJ: Elijah Impey).",
+  "Pitt's India Act 1784 created dual control; the Act of Settlement 1781 rectified the defects of the 1773 Act.",
+  "Charter Act 1813: Company monopoly ended except tea and trade with China, Rs 1 lakh for education; 1833: Company became purely administrative, Governor-General of India (Bentinck), Law Commission under Macaulay.",
+  "1858: Company abolished, Viceroy (Canning), Secretary of State with a 15-member council; 1861: nomination of Indians, portfolio system, decentralisation.",
+  "1892: discussion of budget and right to ask questions; 1909 (Morley-Minto): separate electorate for Muslims, council enlarged from 16 to 60, Minto 'Father of Communal Electorate', S.P. Sinha first Indian in the Executive Council.",
+  "1919 (Montagu-Chelmsford): dyarchy in provinces (reserved/transferred), bicameral legislature at the Centre; 1935: provincial autonomy, bicameral legislatures in 6 of 11 provinces, federation never came into being.",
+  "States reorganisation: Dhar Commission 1948, JVP Committee, Andhra 1953 (Potti Sriramulu), Fazl Ali Commission, SRA 1956 created 14 states and 6 UTs; Goa liberated 1961 (Operation Vijay), statehood 1987 (56th Amendment).",
+  "69th Amendment: Delhi as NCT (Articles 239AA, 239AB); 91st Amendment 2003: Council of Ministers capped at 15% (Delhi 10%); Articles 371 to 371J (371J: Karnataka).",
+  "CAG: Articles 148-151, first CAG V. Narahari Rao, reports to the President; Election Commission: Part XV, Articles 324-329, 61st Amendment (voting age 18), multi-member since 1993.",
+  "Finance Commission Article 280 (16th: Arvind Panagariya); GST Council Article 279A (Centre 1/3, States 2/3 vote weight, decisions by 3/4); NCSC 338, NCST 338A (89th), NCBC 338B (102nd), Articles 340, 342, 335.",
+  "Collegium and Judges Cases (1981, 1993, 1998, 2015); NJAC struck down; categories of NITI Aayog, CIC, NHRC, NCW, CVC, Lokpal (Chairperson + 8 members); CBI is non-statutory.",
+  "All India Services Article 312; UPSC/SPSC Part XIV, Articles 315-323; Tribunals Part XIV-A (323A, 323B, 42nd Amendment), L. Chandra Kumar case; 106th Amendment: 33% reservation for women.",
+  "Lok Adalat: Legal Services Authorities Act 1987, Article 39A, award final and binding, non-compoundable offences excluded; MGNREGA Article 41; juveniles aged 16-18 tried as adults for heinous offences.",
+  "Supreme Court Articles 124-147: 126 acting CJI, 127 ad hoc judges, 129 court of record, 130 seat, 131 original, 132-134 appellate, 136 SLP, 137 review, 141, 142, 143 advisory.",
+  "High Courts: Article 226 writs, 222 transfer, retirement age 62 (SC 65); District Judge Article 233 (7 years), 235 control; Nyaya Panchayat, PIL (Bhagwati), judicial activism, ADM Jabalpur."
+ ],
+ "mcqs": [
+  {
+   "q": "Which was the first Act to regulate the affairs of the East India Company, marking the first step of constitutional development in India?",
+   "o": [
+    "Regulating Act 1773",
+    "Pitt's India Act 1784",
+    "Charter Act 1813",
+    "Act of Settlement 1781"
+   ],
+   "a": 0,
+   "e": "The Regulating Act 1773 established British government control over the Company."
+  },
+  {
+   "q": "Under the Regulating Act 1773, the Governor of Bengal was designated as:",
+   "o": [
+    "Governor-General of Bengal",
+    "Chief Justice of Bengal",
+    "Viceroy",
+    "Governor-General of India"
+   ],
+   "a": 0,
+   "e": "Bengal gained more power and the Bombay and Madras Presidencies were made subordinate to it."
+  },
+  {
+   "q": "Who was the first Governor-General of Bengal?",
+   "o": [
+    "Warren Hastings",
+    "Lord Canning",
+    "William Bentinck",
+    "Lord Cornwallis"
+   ],
+   "a": 0,
+   "e": "Warren Hastings became the first Governor-General of Bengal after the 1773 Act."
+  },
+  {
+   "q": "Who became the first Governor-General of India?",
+   "o": [
+    "William Bentinck",
+    "Warren Hastings",
+    "Lord Canning",
+    "Lord Dalhousie"
+   ],
+   "a": 0,
+   "e": "Under the Charter Act 1833 the Governor-General of Bengal became Governor-General of India; Bentinck was the first."
+  },
+  {
+   "q": "Which Act made the Governor-General of Bengal the Governor-General of India?",
+   "o": [
+    "Regulating Act 1773",
+    "Charter Act 1833",
+    "Government of India Act 1858",
+    "Charter Act 1853"
+   ],
+   "a": 1,
+   "e": "The 1833 Act made Bombay and Madras fully subordinate, marking the peak of centralisation."
+  },
+  {
+   "q": "The Supreme Court established at Calcutta under the Regulating Act 1773 consisted of:",
+   "o": [
+    "One Chief Justice and three other judges",
+    "One Chief Justice and two judges",
+    "One Chief Justice and five judges",
+    "Only three judges"
+   ],
+   "a": 0,
+   "e": "Set up in 1774, its first Chief Justice was Elijah Impey."
+  },
+  {
+   "q": "Who was the first Chief Justice of the Supreme Court at Calcutta?",
+   "o": [
+    "Elijah Impey",
+    "Sir William Jones",
+    "Thomas Macaulay",
+    "Warren Hastings"
+   ],
+   "a": 0,
+   "e": "Elijah Impey became the first Chief Justice in 1774."
+  },
+  {
+   "q": "What system was introduced by Pitt's India Act 1784?",
+   "o": [
+    "Nomination of Indians to the legislative council",
+    "Dual control (Court of Directors for commercial affairs, Board of Control for political affairs)",
+    "Dyarchy in the provinces",
+    "Complete abolition of the Company"
+   ],
+   "a": 1,
+   "e": "Commercial affairs stayed with the Court of Directors and political affairs went to the Board of Control; dual control ended in 1858."
+  },
+  {
+   "q": "The Act of Settlement 1781 was passed to remove the defects of which Act?",
+   "o": [
+    "Charter Act 1813",
+    "Charter Act 1793",
+    "Pitt's India Act 1784",
+    "Regulating Act 1773"
+   ],
+   "a": 3,
+   "e": "The Act of Settlement 1781 came between the Acts of 1773 and 1784."
+  },
+  {
+   "q": "The Charter Act 1813 ended the trade monopoly of the East India Company except for:",
+   "o": [
+    "Cotton and silk",
+    "Salt and opium",
+    "Spices and indigo",
+    "Tea and trade with China"
+   ],
+   "a": 3,
+   "e": "The 1813 Act retained only the tea and China trade monopoly; these too ended in 1833."
+  },
+  {
+   "q": "How much money was set aside for education under the Charter Act 1813?",
+   "o": [
+    "Rs 1 crore",
+    "Rs 10 lakh",
+    "Rs 1 lakh",
+    "Rs 10 thousand"
+   ],
+   "a": 2,
+   "e": "The Act also allowed Christian missionaries to come to India."
+  },
+  {
+   "q": "What change did the Charter Act 1833 bring in the status of the East India Company?",
+   "o": [
+    "Allowed it only the tea trade",
+    "Ended all its commercial functions, making it a purely administrative body",
+    "Granted the Company a new monopoly",
+    "Abolished the Company completely"
+   ],
+   "a": 1,
+   "e": "The Company was abolished completely only by the Act of 1858."
+  },
+  {
+   "q": "Who was the chairman of the first Law Commission set up under the Charter Act 1833?",
+   "o": [
+    "Thomas Babington Macaulay",
+    "M.C. Setalvad",
+    "William Bentinck",
+    "Lord Canning"
+   ],
+   "a": 0,
+   "e": "India's first (colonial) Law Commission was headed by Lord Macaulay."
+  },
+  {
+   "q": "Who was the first Attorney General of India and chairman of the first Law Commission of independent India?",
+   "o": [
+    "K.M. Munshi",
+    "G.N. Rao",
+    "B.R. Ambedkar",
+    "M.C. Setalvad"
+   ],
+   "a": 3,
+   "e": "M.C. Setalvad was the first Attorney General and chaired the first post-independence Law Commission (1955)."
+  },
+  {
+   "q": "Which Act first associated Indians with the law-making process in India?",
+   "o": [
+    "Indian Councils Act 1861",
+    "Indian Councils Act 1892",
+    "Government of India Act 1858",
+    "Government of India Act 1919"
+   ],
+   "a": 0,
+   "e": "Under the 1861 Act the Viceroy nominated three Indians as non-official members."
+  },
+  {
+   "q": "The Government of India Act 1858 is also known as:",
+   "o": [
+    "Morley-Minto Reforms",
+    "Act for the Good Government of India",
+    "Montagu-Chelmsford Reforms",
+    "Nari Shakti Act"
+   ],
+   "a": 1,
+   "e": "Passed after the Revolt of 1857, it abolished the East India Company."
+  },
+  {
+   "q": "What happened to the East India Company under the Act of 1858?",
+   "o": [
+    "It became only an administrative body",
+    "It was abolished completely",
+    "It continued only the tea trade",
+    "It was renamed the Council of India"
+   ],
+   "a": 1,
+   "e": "The Governor-General was henceforth also called the Viceroy."
+  },
+  {
+   "q": "Which post was created in Britain by the Act of 1858 for Indian affairs, assisted by a 15-member council?",
+   "o": [
+    "Secretary of State for India",
+    "Viceroy",
+    "Governor-General",
+    "Law Commissioner"
+   ],
+   "a": 0,
+   "e": "The Secretary of State was a member of the British Cabinet, answerable to Parliament for Indian affairs."
+  },
+  {
+   "q": "Who was the first Viceroy of India?",
+   "o": [
+    "Lord Minto",
+    "Lord Dalhousie",
+    "Lord Chelmsford",
+    "Lord Canning"
+   ],
+   "a": 3,
+   "e": "The Revolt of 1857 took place under Canning; he was the last Governor-General and first Viceroy."
+  },
+  {
+   "q": "Which commission was set up after the Revolt of 1857 to review the reorganisation of the British Indian Army?",
+   "o": [
+    "Hunter Commission",
+    "Simon Commission",
+    "Sadler Commission",
+    "Peel Commission"
+   ],
+   "a": 3,
+   "e": "Queen Victoria was the British monarch at that time."
+  },
+  {
+   "q": "Whom did the Viceroy nominate to the legislative council under the Indian Councils Act 1861?",
+   "o": [
+    "Dadabhai Naoroji, Gokhale, Tilak",
+    "Maharajas of Jaipur, Baroda and Mysore",
+    "Syed Ahmed Khan, Badruddin Tyabji, M.A. Jinnah",
+    "Raja of Benaras, Maharaja of Patiala, Sir Dinkar Rao"
+   ],
+   "a": 3,
+   "e": "Indians entered the legislative process through the nomination of these three."
+  },
+  {
+   "q": "Which system, involving allocation of departments such as Home and Defence, was introduced through the 1861 Act?",
+   "o": [
+    "Portfolio system",
+    "Federal system",
+    "Collective responsibility",
+    "Dyarchy"
+   ],
+   "a": 0,
+   "e": "Lord Canning introduced the portfolio system, recognised by the 1861 Act."
+  },
+  {
+   "q": "The Indian Councils Act 1861 empowered the Viceroy to issue which of the following during an emergency without the legislative council's concurrence?",
+   "o": [
+    "Ordinances",
+    "Proclamation of Emergency",
+    "Writs",
+    "Money Bills"
+   ],
+   "a": 0,
+   "e": "Such ordinances were valid for six months; the Act also began decentralisation."
+  },
+  {
+   "q": "Which Act reversed the centralising trend of 1773-1833 and began decentralisation?",
+   "o": [
+    "Indian Councils Act 1861",
+    "Charter Act 1833",
+    "Charter Act 1853",
+    "Government of India Act 1935"
+   ],
+   "a": 0,
+   "e": "The 1861 Act restored legislative powers to Bombay and Madras."
+  },
+  {
+   "q": "Which Act introduced open competition for recruitment to the civil services?",
+   "o": [
+    "Charter Act 1853",
+    "Charter Act 1833",
+    "Indian Councils Act 1861",
+    "Indian Councils Act 1909"
+   ],
+   "a": 0,
+   "e": "Lord Cornwallis is called the Father of Civil Services in India."
+  },
+  {
+   "q": "Who is known as the 'Father of Civil Services' in India?",
+   "o": [
+    "Lord Wellesley",
+    "Lord Macaulay",
+    "Warren Hastings",
+    "Lord Cornwallis"
+   ],
+   "a": 3,
+   "e": "Open competition began in 1853, but Cornwallis is regarded as the father."
+  },
+  {
+   "q": "Which Act gave members of the Central Legislative Council the right to discuss the budget and ask questions?",
+   "o": [
+    "Government of India Act 1919",
+    "Indian Councils Act 1861",
+    "Indian Councils Act 1892",
+    "Indian Councils Act 1909"
+   ],
+   "a": 2,
+   "e": "The 1892 Act allowed budget discussion but not voting on it."
+  },
+  {
+   "q": "The Act of 1909 is popularly known as:",
+   "o": [
+    "Simon Reforms",
+    "Cripps Proposals",
+    "Morley-Minto Reforms",
+    "Montagu-Chelmsford Reforms"
+   ],
+   "a": 2,
+   "e": "Morley was Secretary of State and Minto the Viceroy; it was an Indian Councils Act, not a Government of India Act."
+  },
+  {
+   "q": "The Act of 1909 introduced a separate electorate for which community?",
+   "o": [
+    "Christians",
+    "Anglo-Indians",
+    "Sikhs",
+    "Muslims"
+   ],
+   "a": 3,
+   "e": "Under a separate electorate only Muslims could contest and vote for Muslim seats."
+  },
+  {
+   "q": "Who is called the 'Father of Communal Electorate' in India?",
+   "o": [
+    "Lord Minto",
+    "Lord Canning",
+    "Lord Curzon",
+    "Lord Morley"
+   ],
+   "a": 0,
+   "e": "Because separate electorates were introduced in 1909 during his tenure."
+  },
+  {
+   "q": "The Act of 1909 increased the strength of the Central Legislative Council from:",
+   "o": [
+    "60 to 100",
+    "16 to 40",
+    "10 to 30",
+    "16 to 60"
+   ],
+   "a": 3,
+   "e": "The legislative councils were considerably enlarged."
+  },
+  {
+   "q": "Who was the first Indian to join the Viceroy's Executive Council?",
+   "o": [
+    "Gopal Krishna Gokhale",
+    "Sir Dinkar Rao",
+    "Dadabhai Naoroji",
+    "Satyendra Prasanna Sinha"
+   ],
+   "a": 3,
+   "e": "S.P. Sinha joined as Law Member following the 1909 Act."
+  },
+  {
+   "q": "The Government of India Act 1919 is also known as:",
+   "o": [
+    "Morley-Minto Reforms",
+    "Cripps Mission",
+    "Montagu-Chelmsford Reforms",
+    "Sarkaria Reforms"
+   ],
+   "a": 2,
+   "e": "Montagu was Secretary of State and Chelmsford the Viceroy."
+  },
+  {
+   "q": "Which system of government was introduced in the provinces by the Act of 1919?",
+   "o": [
+    "Federal system",
+    "Provincial autonomy",
+    "Dyarchy",
+    "Unitary system"
+   ],
+   "a": 2,
+   "e": "Provincial subjects were divided into 'reserved' and 'transferred'."
+  },
+  {
+   "q": "Under dyarchy, who administered the 'transferred' subjects?",
+   "o": [
+    "The Secretary of State",
+    "Indian ministers responsible to the legislative council",
+    "The Viceroy",
+    "The Governor and his Executive Council"
+   ],
+   "a": 1,
+   "e": "Reserved subjects (law and order, finance) stayed with the Governor, who was not responsible to the council."
+  },
+  {
+   "q": "What kind of legislature did the Act of 1919 introduce at the Centre?",
+   "o": [
+    "No legislature",
+    "Tricameral",
+    "Unicameral",
+    "Bicameral"
+   ],
+   "a": 3,
+   "e": "It also extended separate electorates to Sikhs, Indian Christians, Anglo-Indians and Europeans."
+  },
+  {
+   "q": "Which Act abolished dyarchy in the provinces and granted provincial autonomy?",
+   "o": [
+    "Government of India Act 1919",
+    "Indian Councils Act 1909",
+    "Indian Independence Act 1947",
+    "Government of India Act 1935"
+   ],
+   "a": 3,
+   "e": "The 1935 Act shifted dyarchy to the Centre and gave autonomy to the provinces."
+  },
+  {
+   "q": "Under the Act of 1935, how many provinces got bicameral legislatures?",
+   "o": [
+    "8 out of 11",
+    "11 out of 11",
+    "6 out of 11",
+    "3 out of 11"
+   ],
+   "a": 2,
+   "e": "The remaining provinces had unicameral legislatures."
+  },
+  {
+   "q": "Why could the All-India Federation proposed by the Act of 1935 not be established?",
+   "o": [
+    "The princely states did not agree to join",
+    "World War II did not happen",
+    "Britain blocked it",
+    "The Congress accepted it"
+   ],
+   "a": 0,
+   "e": "The Act provided for a federation, but the princely states did not give their consent."
+  },
+  {
+   "q": "Under the dyarchy of 1919, subjects like education, health and agriculture were:",
+   "o": [
+    "Transferred subjects",
+    "Residuary subjects",
+    "Central subjects",
+    "Reserved subjects"
+   ],
+   "a": 0,
+   "e": "Important subjects like law and order and finance were reserved."
+  },
+  {
+   "q": "What was the official name of the Rowlatt Act?",
+   "o": [
+    "Defence of India Act",
+    "Anarchical and Revolutionary Crimes Act 1919",
+    "Ilbert Bill",
+    "Vernacular Press Act"
+   ],
+   "a": 1,
+   "e": "Known as 'no appeal, no vakil, no daleel'; Gandhiji launched the Rowlatt Satyagraha against it."
+  },
+  {
+   "q": "The arrest of which leaders during the Rowlatt Satyagraha led to the Jallianwala Bagh massacre?",
+   "o": [
+    "Motilal Nehru and C.R. Das",
+    "Tilak and Gokhale",
+    "Lala Lajpat Rai and Bhagat Singh",
+    "Saifuddin Kitchlew and Dr. Satyapal"
+   ],
+   "a": 3,
+   "e": "The Non-Cooperation Movement followed the Jallianwala Bagh massacre."
+  },
+  {
+   "q": "Which commission was appointed to examine the formation of states on a linguistic basis?",
+   "o": [
+    "Gadgil Committee",
+    "Dhar Commission",
+    "Swaran Singh Committee",
+    "Sarkaria Commission"
+   ],
+   "a": 1,
+   "e": "The Dhar Commission (1948) recommended administrative convenience rather than language as the basis."
+  },
+  {
+   "q": "The Sarkaria Commission was related to:",
+   "o": [
+    "Centre-State relations",
+    "Panchayati Raj",
+    "Fundamental Duties",
+    "Linguistic reorganisation of states"
+   ],
+   "a": 0,
+   "e": "Set up in 1983; on its recommendation the first Inter-State Council was formed in 1990."
+  },
+  {
+   "q": "Which committee was set up in 1976 for Fundamental Duties?",
+   "o": [
+    "Dhar Commission",
+    "Fazl Ali Commission",
+    "Sardar Swaran Singh Committee",
+    "Sarkaria Commission"
+   ],
+   "a": 2,
+   "e": "Fundamental Duties were added by the 42nd Amendment, 1976."
+  },
+  {
+   "q": "Who were the members of the JVP Committee (1948)?",
+   "o": [
+    "Jawaharlal Nehru, Vallabhbhai Patel, Pattabhi Sitaramayya",
+    "Nehru, Rajaji, Maulana Azad",
+    "Nehru, Gandhi, Patel",
+    "Patel, Ambedkar, Rajendra Prasad"
+   ],
+   "a": 0,
+   "e": "It too rejected language as the basis for reorganising states."
+  },
+  {
+   "q": "Which was the first linguistic state of India?",
+   "o": [
+    "Andhra State (1953)",
+    "Gujarat",
+    "Karnataka",
+    "Maharashtra"
+   ],
+   "a": 0,
+   "e": "Andhra State was formed in 1953 after Potti Sriramulu died during his fast unto death."
+  },
+  {
+   "q": "Who were the members of the Fazl Ali Commission (1953)?",
+   "o": [
+    "K.M. Munshi, Kunzru, Panikkar",
+    "Fazl Ali, Nehru, Patel",
+    "Fazl Ali, H.N. Kunzru, K.M. Panikkar",
+    "Fazl Ali, Sitaramayya, Rajaji"
+   ],
+   "a": 2,
+   "e": "It accepted language as a basis but rejected the 'one language, one state' theory."
+  },
+  {
+   "q": "How many states and Union Territories were created by the States Reorganisation Act 1956?",
+   "o": [
+    "14 states and 6 UTs",
+    "14 states and 9 UTs",
+    "16 states and 3 UTs",
+    "15 states and 6 UTs"
+   ],
+   "a": 0,
+   "e": "The old Part A, B, C and D categories of states were abolished."
+  },
+  {
+   "q": "Which of the following states was NOT created by the States Reorganisation Act 1956?",
+   "o": [
+    "Andhra Pradesh",
+    "Goa",
+    "Kerala",
+    "Karnataka (Mysore)"
+   ],
+   "a": 1,
+   "e": "Goa was liberated from Portuguese rule in 1961 through Operation Vijay."
+  },
+  {
+   "q": "What was the name of the military operation that liberated Goa from Portuguese control?",
+   "o": [
+    "Operation Meghdoot",
+    "Operation Blue Star",
+    "Operation Vijay (1961)",
+    "Operation Polo"
+   ],
+   "a": 2,
+   "e": "Goa, Daman and Diu became part of India in 1961."
+  },
+  {
+   "q": "Which amendment made Goa, Daman and Diu a Union Territory?",
+   "o": [
+    "14th Amendment",
+    "12th Amendment",
+    "10th Amendment",
+    "56th Amendment"
+   ],
+   "a": 1,
+   "e": "Under the 56th Amendment (1987) Goa became a state and Daman and Diu remained a UT."
+  },
+  {
+   "q": "Which amendment granted full statehood to Goa?",
+   "o": [
+    "14th Amendment",
+    "69th Amendment",
+    "12th Amendment",
+    "56th Amendment"
+   ],
+   "a": 3,
+   "e": "Goa became a state in 1987."
+  },
+  {
+   "q": "Which amendment made Dadra and Nagar Haveli a Union Territory?",
+   "o": [
+    "7th Amendment",
+    "14th Amendment",
+    "12th Amendment",
+    "10th Amendment"
+   ],
+   "a": 3,
+   "e": "Dadra and Nagar Haveli was integrated into India in 1961."
+  },
+  {
+   "q": "Which amendment made Puducherry a Union Territory?",
+   "o": [
+    "14th Amendment",
+    "12th Amendment",
+    "10th Amendment",
+    "7th Amendment"
+   ],
+   "a": 0,
+   "e": "Puducherry was made a Union Territory in 1962."
+  },
+  {
+   "q": "Which amendment designated Delhi as the 'National Capital Territory' (NCT)?",
+   "o": [
+    "61st Amendment",
+    "73rd Amendment",
+    "69th Amendment 1991",
+    "91st Amendment"
+   ],
+   "a": 2,
+   "e": "It inserted Articles 239AA and 239AB and gave Delhi a Legislative Assembly."
+  },
+  {
+   "q": "Article 239AB deals with:",
+   "o": [
+    "President's rule in Delhi on failure of constitutional machinery",
+    "Appointment of the Lt. Governor of Delhi",
+    "Constitution of the Delhi Legislative Assembly",
+    "Delhi High Court"
+   ],
+   "a": 0,
+   "e": "On the Lt. Governor's report, the President can take over the administration."
+  },
+  {
+   "q": "The limit on the size of the Council of Ministers (15% of the total strength of Lok Sabha) in Article 75(1A) was added by which amendment?",
+   "o": [
+    "91st Amendment 2003",
+    "61st Amendment",
+    "101st Amendment",
+    "69th Amendment"
+   ],
+   "a": 0,
+   "e": "The same 15% cap applies to state Assemblies, but for Delhi it is 10%."
+  },
+  {
+   "q": "The maximum size of Delhi's Council of Ministers is what percentage of the Assembly's strength?",
+   "o": [
+    "25%",
+    "20%",
+    "10%",
+    "15%"
+   ],
+   "a": 2,
+   "e": "In other states the limit is 15%."
+  },
+  {
+   "q": "Article 371J (Hyderabad-Karnataka region) relates to which state?",
+   "o": [
+    "Andhra Pradesh",
+    "Telangana",
+    "Maharashtra",
+    "Karnataka"
+   ],
+   "a": 3,
+   "e": "Added by the 98th Amendment 2012; 371A-371J: Nagaland, Assam, Manipur, Andhra (D, E), Sikkim, Mizoram, Arunachal, Goa, Karnataka."
+  },
+  {
+   "q": "Article 371A contains special provisions for which state?",
+   "o": [
+    "Manipur",
+    "Mizoram",
+    "Assam",
+    "Nagaland"
+   ],
+   "a": 3,
+   "e": "371A is Nagaland, 371B Assam and 371C Manipur."
+  },
+  {
+   "q": "Article 371 relates to which states?",
+   "o": [
+    "Goa and Karnataka",
+    "Maharashtra and Gujarat",
+    "Assam and Meghalaya",
+    "Andhra Pradesh and Telangana"
+   ],
+   "a": 1,
+   "e": "371 Maharashtra and Gujarat, 371A Nagaland, 371B Assam, 371C Manipur, and so on."
+  },
+  {
+   "q": "Article 371F relates to which state?",
+   "o": [
+    "Goa",
+    "Mizoram",
+    "Sikkim",
+    "Arunachal Pradesh"
+   ],
+   "a": 2,
+   "e": "371G Mizoram, 371H Arunachal Pradesh, 371I Goa."
+  },
+  {
+   "q": "Articles 371G and 371H respectively relate to which states?",
+   "o": [
+    "Goa and Karnataka",
+    "Mizoram and Arunachal Pradesh",
+    "Manipur and Nagaland",
+    "Assam and Sikkim"
+   ],
+   "a": 1,
+   "e": "371F Sikkim, 371G Mizoram, 371H Arunachal Pradesh, 371I Goa, 371J Karnataka."
+  },
+  {
+   "q": "The Comptroller and Auditor General (CAG) is appointed under which Article?",
+   "o": [
+    "Article 76",
+    "Article 324",
+    "Article 280",
+    "Article 148"
+   ],
+   "a": 3,
+   "e": "The President appoints the CAG; provisions are in Part V, Chapter V (Articles 148-151)."
+  },
+  {
+   "q": "The CAG is known as the:",
+   "o": [
+    "Guardian of the Public Purse",
+    "Chairman of the Public Accounts Committee",
+    "Adviser to the Finance Minister",
+    "Secretary of Parliament"
+   ],
+   "a": 0,
+   "e": "He is also called the friend, philosopher and guide of the PAC; it is a single-member office."
+  },
+  {
+   "q": "To whom does the CAG submit his reports?",
+   "o": [
+    "Finance Minister",
+    "Prime Minister",
+    "President",
+    "Speaker of Lok Sabha"
+   ],
+   "a": 2,
+   "e": "The President causes them to be laid before Parliament; they are not binding."
+  },
+  {
+   "q": "Article 150 deals with:",
+   "o": [
+    "Reports of CAG",
+    "Appointment of CAG",
+    "Form of accounts of the Union and the States",
+    "Salary of CAG"
+   ],
+   "a": 2,
+   "e": "Article 151 deals with the CAG's audit reports."
+  },
+  {
+   "q": "Who was the first CAG of India?",
+   "o": [
+    "N.K. Singh",
+    "B.R. Ambedkar",
+    "K.C. Neogy",
+    "V. Narahari Rao"
+   ],
+   "a": 3,
+   "e": "The current CAG is K. Sanjay Murthy (since November 2024)."
+  },
+  {
+   "q": "Articles 324 to 329 relating to the Election Commission are in which Part of the Constitution?",
+   "o": [
+    "Part XIV",
+    "Part XV",
+    "Part V",
+    "Part XVI"
+   ],
+   "a": 1,
+   "e": "Article 324 vests superintendence, direction and control of elections in the Election Commission."
+  },
+  {
+   "q": "The Election Commission of India does NOT conduct elections to:",
+   "o": [
+    "Panchayats and Municipalities",
+    "Legislative Councils",
+    "Lok Sabha",
+    "President and Vice-President"
+   ],
+   "a": 0,
+   "e": "Panchayat and municipal elections are conducted by State Election Commissions."
+  },
+  {
+   "q": "Under Article 325, no person can be excluded from the electoral roll on grounds of:",
+   "o": [
+    "Residence and place of birth",
+    "Language and age",
+    "Education and income",
+    "Religion, race, caste and sex"
+   ],
+   "a": 3,
+   "e": "There is to be one general electoral roll for every constituency."
+  },
+  {
+   "q": "Article 326 provides for elections on the basis of:",
+   "o": [
+    "Adult suffrage",
+    "Indirect voting",
+    "Property-based franchise",
+    "Separate electorates"
+   ],
+   "a": 0,
+   "e": "Elections to Lok Sabha and state Assemblies are held on the basis of adult suffrage."
+  },
+  {
+   "q": "Which Article bars interference by courts in electoral matters?",
+   "o": [
+    "Article 326",
+    "Article 329",
+    "Article 327",
+    "Article 324"
+   ],
+   "a": 1,
+   "e": "Article 327 empowers Parliament and Article 328 the state legislature to make election laws."
+  },
+  {
+   "q": "Which amendment reduced the voting age from 21 to 18 years?",
+   "o": [
+    "61st Amendment 1988",
+    "42nd Amendment",
+    "73rd Amendment",
+    "44th Amendment"
+   ],
+   "a": 0,
+   "e": "Passed in 1988, it came into force in 1989."
+  },
+  {
+   "q": "When did the Election Commission first become multi-member, and when permanently?",
+   "o": [
+    "Temporarily in 1993, permanently from 2000",
+    "Temporarily in 1950, permanently from 1989",
+    "Permanently from 1989",
+    "Temporarily in 1989, permanently from 1993"
+   ],
+   "a": 3,
+   "e": "It now has one Chief Election Commissioner and two Election Commissioners."
+  },
+  {
+   "q": "How is the Chief Election Commissioner removed from office?",
+   "o": [
+    "On the Prime Minister's recommendation",
+    "Like a Supreme Court judge (special majority in Parliament)",
+    "By a resolution of the Council of Ministers",
+    "The President can remove him on his own"
+   ],
+   "a": 1,
+   "e": "Other Election Commissioners can be removed by the President on the CEC's recommendation."
+  },
+  {
+   "q": "How many Lok Sabha members must sign a motion for removal of a Supreme Court or High Court judge?",
+   "o": [
+    "50",
+    "25",
+    "150",
+    "100"
+   ],
+   "a": 3,
+   "e": "In Rajya Sabha 50 members are needed; inquiry follows the Judges (Inquiry) Act 1968."
+  },
+  {
+   "q": "On what grounds can a judge be removed?",
+   "o": [
+    "Political reasons",
+    "Corruption only",
+    "Proved misbehaviour or incapacity",
+    "Age and illness"
+   ],
+   "a": 2,
+   "e": "The motion must pass both Houses by special majority, after which the President removes the judge."
+  },
+  {
+   "q": "How are decisions taken in the Election Commission?",
+   "o": [
+    "With the President's approval",
+    "Only unanimously",
+    "By majority, the CEC having no casting power",
+    "By the CEC alone"
+   ],
+   "a": 2,
+   "e": "All three members have equal powers in decision-making."
+  },
+  {
+   "q": "Who is the highest law officer of a state?",
+   "o": [
+    "Attorney General",
+    "Chief Secretary",
+    "Advocate General",
+    "Solicitor General"
+   ],
+   "a": 2,
+   "e": "The Advocate General is under Article 165; the Attorney General (Article 76) is the country's highest law officer."
+  },
+  {
+   "q": "Which Article deals with the Attorney General of India?",
+   "o": [
+    "Article 165",
+    "Article 280",
+    "Article 148",
+    "Article 76"
+   ],
+   "a": 3,
+   "e": "He has the right of audience in all courts of India and holds office during the pleasure of the President."
+  },
+  {
+   "q": "The Finance Commission is constituted under which Article?",
+   "o": [
+    "Article 315",
+    "Article 324",
+    "Article 148",
+    "Article 280"
+   ],
+   "a": 3,
+   "e": "It is a constitutional body; under Article 281 its recommendations are laid before Parliament by the President."
+  },
+  {
+   "q": "What is the nature of the Finance Commission's recommendations?",
+   "o": [
+    "Fully binding",
+    "Advisory, not binding",
+    "Enforced by courts",
+    "Binding only on states"
+   ],
+   "a": 1,
+   "e": "It is a quasi-judicial body with certain civil court powers, constituted every 5 years."
+  },
+  {
+   "q": "Who is the chairman of the 16th Finance Commission?",
+   "o": [
+    "Arvind Panagariya",
+    "Y.V. Reddy",
+    "N.K. Singh",
+    "Vijay Kelkar"
+   ],
+   "a": 0,
+   "e": "Its recommendations cover 2026-27 to 2030-31."
+  },
+  {
+   "q": "Who was the chairman of the first Finance Commission?",
+   "o": [
+    "K.C. Neogy",
+    "A.M. Khusro",
+    "Y.B. Chavan",
+    "N.K. Singh"
+   ],
+   "a": 0,
+   "e": "The first Finance Commission was set up in 1951."
+  },
+  {
+   "q": "The GST Council is related to which Article?",
+   "o": [
+    "Article 269A",
+    "Article 279A",
+    "Article 280",
+    "Article 268"
+   ],
+   "a": 1,
+   "e": "It is chaired by the Union Finance Minister."
+  },
+  {
+   "q": "What is the weightage of votes of the Centre and the States in the GST Council?",
+   "o": [
+    "Centre 2/3, States 1/3",
+    "1/2 each",
+    "Centre 1/4, States 3/4",
+    "Centre 1/3, States 2/3"
+   ],
+   "a": 3,
+   "e": "Decisions are taken by a three-fourths majority of weighted votes."
+  },
+  {
+   "q": "The National Commission for Scheduled Castes (NCSC) is linked to which Article?",
+   "o": [
+    "Article 338",
+    "Article 335",
+    "Article 340",
+    "Article 342"
+   ],
+   "a": 0,
+   "e": "Earlier there was a Special Officer; the 65th Amendment created the Commission."
+  },
+  {
+   "q": "The National Commission for Scheduled Tribes (NCST) is constituted under which Article?",
+   "o": [
+    "Article 338B",
+    "Article 342A",
+    "Article 340",
+    "Article 338A"
+   ],
+   "a": 3,
+   "e": "The 89th Amendment 2003 bifurcated the combined SC and ST Commission."
+  },
+  {
+   "q": "Which amendment bifurcated the commission into separate commissions for SCs and STs?",
+   "o": [
+    "65th Amendment",
+    "102nd Amendment",
+    "89th Amendment 2003",
+    "97th Amendment"
+   ],
+   "a": 2,
+   "e": "The 65th Amendment (1990) had replaced the Special Officer with a Commission."
+  },
+  {
+   "q": "Which amendment gave constitutional status to the National Commission for Backward Classes (NCBC)?",
+   "o": [
+    "97th Amendment",
+    "104th Amendment",
+    "102nd Amendment",
+    "89th Amendment"
+   ],
+   "a": 2,
+   "e": "It is a constitutional body under Article 338B."
+  },
+  {
+   "q": "Which Article empowers the President to appoint a commission to investigate the conditions of socially and educationally backward classes?",
+   "o": [
+    "Article 335",
+    "Article 340",
+    "Article 338",
+    "Article 342"
+   ],
+   "a": 1,
+   "e": "Article 342 relates to the list of Scheduled Tribes."
+  },
+  {
+   "q": "Article 335 relates to:",
+   "o": [
+    "Claims of SCs/STs to services and posts",
+    "Backward Classes Commission",
+    "Public Service Commission",
+    "SC/ST Commission"
+   ],
+   "a": 0,
+   "e": "Article 16(4) covers reservation, 16(4A) reservation in promotion, 16(4B) carry-forward of vacancies."
+  },
+  {
+   "q": "Articles 330 to 342A, containing special provisions for certain classes, fall in which Part?",
+   "o": [
+    "Part XVI",
+    "Part XV",
+    "Part XIV",
+    "Part XVII"
+   ],
+   "a": 0,
+   "e": "These Articles protect the interests of SCs, STs and other classes."
+  },
+  {
+   "q": "Who was the chairman of the first Backward Classes Commission (1953)?",
+   "o": [
+    "G.B. Pant",
+    "Kaka Kalelkar",
+    "B.P. Mandal",
+    "Jagjivan Ram"
+   ],
+   "a": 1,
+   "e": "The second, the Mandal Commission (1979), was headed by B.P. Mandal."
+  },
+  {
+   "q": "Under which Prime Minister were the Mandal Commission recommendations (27% OBC reservation) implemented?",
+   "o": [
+    "Chaudhary Charan Singh",
+    "Rajiv Gandhi",
+    "Morarji Desai",
+    "V.P. Singh (1990)"
+   ],
+   "a": 3,
+   "e": "The Commission was set up in 1979 by the Janata government."
+  },
+  {
+   "q": "The Indra Sawhney case (1992) is also known as the:",
+   "o": [
+    "Golaknath case",
+    "Kesavananda Bharati case",
+    "Minerva Mills case",
+    "Mandal case"
+   ],
+   "a": 3,
+   "e": "The Court upheld 27% OBC reservation, excluded the creamy layer, barred reservation in promotion and capped total reservation at 50%."
+  },
+  {
+   "q": "What ceiling on total reservation was fixed in the Indra Sawhney case?",
+   "o": [
+    "40%",
+    "33%",
+    "50%",
+    "60%"
+   ],
+   "a": 2,
+   "e": "The creamy layer was excluded from reservation."
+  },
+  {
+   "q": "The 97th Constitutional Amendment is related to:",
+   "o": [
+    "Panchayati Raj",
+    "Cooperative societies",
+    "Scheduled Castes Commission",
+    "Municipalities"
+   ],
+   "a": 1,
+   "e": "It added Part IX-B (Articles 243ZH-243ZT) and Article 43B (DPSP)."
+  },
+  {
+   "q": "Which Directive Principle, added by the 97th Amendment, deals with promotion of cooperative societies?",
+   "o": [
+    "Article 47",
+    "Article 43A",
+    "Article 39A",
+    "Article 43B"
+   ],
+   "a": 3,
+   "e": "It was added to the Directive Principles of State Policy."
+  },
+  {
+   "q": "The system that recommends appointments and transfers of judges is called the:",
+   "o": [
+    "Judicial Council",
+    "Collegium system",
+    "Personnel Commission",
+    "NJAC"
+   ],
+   "a": 1,
+   "e": "The collegium is not mentioned in the Constitution; it evolved through Supreme Court judgments."
+  },
+  {
+   "q": "Which Judges case held that the CJI's advice is not binding on the President?",
+   "o": [
+    "Second Judges case",
+    "First Judges case (S.P. Gupta case)",
+    "Fourth Judges case",
+    "Third Judges case"
+   ],
+   "a": 1,
+   "e": "Decided in 1981; in 1993 the advice was held to be binding."
+  },
+  {
+   "q": "In the Second Judges case (1993), how many senior-most judges were to form the collegium along with the CJI?",
+   "o": [
+    "Two",
+    "Four",
+    "Six",
+    "Three"
+   ],
+   "a": 0,
+   "e": "In the Third Judges case (1998) the number became four."
+  },
+  {
+   "q": "According to the Third Judges case (1998), how many senior judges form the collegium along with the CJI?",
+   "o": [
+    "Three",
+    "Five",
+    "Four",
+    "Two"
+   ],
+   "a": 2,
+   "e": "CJI plus four senior-most judges; their advice binds the President."
+  },
+  {
+   "q": "In which case did the Supreme Court strike down the 99th Amendment that created the NJAC?",
+   "o": [
+    "Kesavananda Bharati case",
+    "Fourth Judges case (SCAORA case, 2015)",
+    "Minerva Mills case",
+    "Golaknath case"
+   ],
+   "a": 1,
+   "e": "This restored the collegium system."
+  },
+  {
+   "q": "NITI Aayog was created by:",
+   "o": [
+    "A Presidential ordinance",
+    "An executive resolution",
+    "An Act of Parliament",
+    "A constitutional amendment"
+   ],
+   "a": 1,
+   "e": "It is neither constitutional nor statutory; it replaced the Planning Commission on 1 January 2015, chaired by the PM."
+  },
+  {
+   "q": "What is the full form of NITI Aayog?",
+   "o": [
+    "National Institute for Technical India",
+    "National Institution for Transforming India",
+    "New Economic Transformation India",
+    "National Investment and Trade India"
+   ],
+   "a": 1,
+   "e": "It replaced the Planning Commission."
+  },
+  {
+   "q": "Who was the first chairman of the Planning Commission?",
+   "o": [
+    "Gulzarilal Nanda",
+    "Sardar Patel",
+    "Jawaharlal Nehru",
+    "Dr. Ambedkar"
+   ],
+   "a": 2,
+   "e": "The Prime Minister was the ex-officio chairman of the Planning Commission."
+  },
+  {
+   "q": "The Central Information Commission (CIC) was created by which law, and what kind of body is it?",
+   "o": [
+    "Ordinance - judicial",
+    "Right to Information Act 2005 - statutory",
+    "Executive resolution - non-constitutional",
+    "Constitution - constitutional"
+   ],
+   "a": 1,
+   "e": "The CIC is not in the Constitution; it was created by an Act."
+  },
+  {
+   "q": "The National Human Rights Commission (NHRC) was established under which Act?",
+   "o": [
+    "Central Vigilance Commission Act 2003",
+    "Protection of Human Rights Act 1993",
+    "Lokpal Act 2013",
+    "Right to Information Act 2005"
+   ],
+   "a": 1,
+   "e": "It is a statutory, not a constitutional, body."
+  },
+  {
+   "q": "Which statement about the NHRC Chairperson is correct?",
+   "o": [
+    "Term of 3 years or till 70 years of age",
+    "Term of 5 years",
+    "The Prime Minister is the Chairperson",
+    "Has direct power of prosecution"
+   ],
+   "a": 0,
+   "e": "The 2019 amendment reduced the term from 5 to 3 years; the NHRC cannot prosecute."
+  },
+  {
+   "q": "What type of body is the National Commission for Women?",
+   "o": [
+    "Judicial",
+    "Constitutional",
+    "Statutory (under a 1990 Act)",
+    "Executive"
+   ],
+   "a": 2,
+   "e": "It is not mentioned in the Constitution; it was created by an Act."
+  },
+  {
+   "q": "Which Act gave statutory status to the Central Vigilance Commission (CVC)?",
+   "o": [
+    "Lokpal Act 2013",
+    "Delhi Special Police Establishment Act 1946",
+    "Central Vigilance Commission Act 2003",
+    "Right to Information Act 2005"
+   ],
+   "a": 2,
+   "e": "The CVC was earlier an executive body (1964, Santhanam Committee)."
+  },
+  {
+   "q": "The CBI derives its powers from which law?",
+   "o": [
+    "CBI Act 2003",
+    "Delhi Special Police Establishment Act 1946",
+    "Lokpal Act",
+    "Article 76 of the Constitution"
+   ],
+   "a": 1,
+   "e": "The CBI is still a non-statutory body."
+  },
+  {
+   "q": "Which body inquires into complaints of corruption against public servants?",
+   "o": [
+    "CAG",
+    "Finance Commission",
+    "Lokpal",
+    "Election Commission"
+   ],
+   "a": 2,
+   "e": "Created under the Lokpal and Lokayuktas Act 2013, it can inquire even into the Prime Minister."
+  },
+  {
+   "q": "The concept of Lokpal is inspired by the Ombudsman system of which country?",
+   "o": [
+    "Canada",
+    "Sweden",
+    "Britain",
+    "USA"
+   ],
+   "a": 1,
+   "e": "The term 'Lokpal' was coined by L.M. Singhvi; the Administrative Reforms Commission (1966) recommended it."
+  },
+  {
+   "q": "Apart from the Chairperson, what is the maximum number of members in the Lokpal?",
+   "o": [
+    "8",
+    "10",
+    "4",
+    "6"
+   ],
+   "a": 0,
+   "e": "Half the members must be from SC, ST, OBC, minorities and women; term 5 years or till age 70."
+  },
+  {
+   "q": "Who was the first Chairperson of the Lokpal?",
+   "o": [
+    "A.M. Khanwilkar",
+    "Pinaki Chandra Ghose",
+    "Anna Hazare",
+    "Santosh Hegde"
+   ],
+   "a": 1,
+   "e": "The current Chairperson is Justice A.M. Khanwilkar."
+  },
+  {
+   "q": "Which was the first state to establish the institution of Lokayukta?",
+   "o": [
+    "Karnataka",
+    "Gujarat",
+    "Maharashtra",
+    "Uttar Pradesh"
+   ],
+   "a": 2,
+   "e": "Maharashtra set up its Lokayukta in 1971."
+  },
+  {
+   "q": "The RTI Act 2005 originally extended to the whole of India except:",
+   "o": [
+    "Sikkim",
+    "Goa",
+    "Jammu and Kashmir (due to Article 370)",
+    "Nagaland"
+   ],
+   "a": 2,
+   "e": "It was extended there after Article 370 was abrogated in 2019."
+  },
+  {
+   "q": "Who is referred to as the 'permanent executive'?",
+   "o": [
+    "Prime Minister",
+    "President",
+    "Civil servants (IAS etc.)",
+    "Attorney General"
+   ],
+   "a": 2,
+   "e": "Governments change, but civil servants remain."
+  },
+  {
+   "q": "All India Services are related to which Article?",
+   "o": [
+    "Article 315",
+    "Article 249",
+    "Article 312",
+    "Article 323A"
+   ],
+   "a": 2,
+   "e": "All India Services Act 1951; IAS, IPS and IFoS are the three All India Services."
+  },
+  {
+   "q": "To create a new All India Service, what must the Rajya Sabha do?",
+   "o": [
+    "Pass a resolution by simple majority",
+    "Pass a resolution by special majority",
+    "Obtain Lok Sabha's approval",
+    "Seek the President's permission"
+   ],
+   "a": 1,
+   "e": "Parliament then creates the service by law (Article 312)."
+  },
+  {
+   "q": "Which Article enables the Rajya Sabha to empower Parliament to legislate on a State List subject?",
+   "o": [
+    "Article 249",
+    "Article 312",
+    "Article 262",
+    "Article 356"
+   ],
+   "a": 0,
+   "e": "The Rajya Sabha passes a resolution by a two-thirds majority of members present and voting."
+  },
+  {
+   "q": "All India Services reflect which feature of the Indian federal system?",
+   "o": [
+    "Quasi-federal feature",
+    "Autonomy",
+    "Unitary feature",
+    "Federal feature"
+   ],
+   "a": 2,
+   "e": "Their ultimate control rests with the Centre."
+  },
+  {
+   "q": "IAS and IPS officers are recruited by which body?",
+   "o": [
+    "Election Commission",
+    "Union Public Service Commission",
+    "Staff Selection Commission",
+    "State Public Service Commission"
+   ],
+   "a": 1,
+   "e": "UPSC is covered under Articles 315-323 in Part XIV of the Constitution."
+  },
+  {
+   "q": "Articles 315-323 relating to UPSC and State PSCs are in which Part of the Constitution?",
+   "o": [
+    "Part XIV",
+    "Part XV",
+    "Part XVI",
+    "Part XIV-A"
+   ],
+   "a": 0,
+   "e": "Part XIV-A contains tribunals (Articles 323A, 323B)."
+  },
+  {
+   "q": "Who appoints and who removes the members of a State Public Service Commission?",
+   "o": [
+    "Appointed by the Governor, removed by the President",
+    "Both by the Governor",
+    "Both by the President",
+    "Appointed by the President, removed by the Governor"
+   ],
+   "a": 0,
+   "e": "For removal on grounds of misbehaviour, the matter is referred to the Supreme Court, whose advice is binding."
+  },
+  {
+   "q": "On which grounds can the President directly remove a member of a Public Service Commission?",
+   "o": [
+    "Political opposition",
+    "Insolvency or mental/physical infirmity",
+    "Retirement",
+    "Proved misbehaviour"
+   ],
+   "a": 1,
+   "e": "Removal for misbehaviour requires an inquiry by the Supreme Court."
+  },
+  {
+   "q": "Which of the following is a Central Service and not an All India Service?",
+   "o": [
+    "Indian Foreign Service (IFS)",
+    "IPS",
+    "IAS",
+    "Indian Forest Service (IFoS)"
+   ],
+   "a": 0,
+   "e": "IFS is a Central Service; IFoS (Forest Service) is an All India Service."
+  },
+  {
+   "q": "Part XIV-A on tribunals was added by which amendment?",
+   "o": [
+    "61st Amendment",
+    "42nd Amendment",
+    "44th Amendment",
+    "73rd Amendment"
+   ],
+   "a": 1,
+   "e": "It contains Articles 323A and 323B."
+  },
+  {
+   "q": "Article 323A deals with which type of tribunals?",
+   "o": [
+    "Tribunals for other matters",
+    "Administrative tribunals (only Parliament can create)",
+    "Tax tribunals for states only",
+    "Election tribunals"
+   ],
+   "a": 1,
+   "e": "Tribunals for other matters under Article 323B can be set up by both Parliament and state legislatures."
+  },
+  {
+   "q": "According to the L. Chandra Kumar case (1997), an appeal against a tribunal's decision lies before:",
+   "o": [
+    "Directly the Supreme Court",
+    "Parliament",
+    "The President",
+    "The High Court"
+   ],
+   "a": 3,
+   "e": "Tribunal decisions are subject to judicial review by a division bench of the High Court."
+  },
+  {
+   "q": "The jurisdiction of the Central Administrative Tribunal (CAT) does NOT extend to:",
+   "o": [
+    "IPS officers",
+    "Defence forces, Supreme Court officers and Parliament secretariat staff",
+    "IAS officers",
+    "Central civil servants"
+   ],
+   "a": 1,
+   "e": "Defence forces have their own tribunal."
+  },
+  {
+   "q": "Which Article gives Parliament the power to amend the Constitution?",
+   "o": [
+    "Article 368",
+    "Article 352",
+    "Article 370",
+    "Article 356"
+   ],
+   "a": 0,
+   "e": "Amendments need a special majority, and some also need ratification by at least half the states."
+  },
+  {
+   "q": "Which amendment provides 33% reservation for women in Lok Sabha and state Assemblies?",
+   "o": [
+    "103rd Amendment",
+    "104th Amendment",
+    "108th Amendment",
+    "106th Amendment"
+   ],
+   "a": 3,
+   "e": "Known as the Nari Shakti Vandan Adhiniyam 2023; it is for 15 years."
+  },
+  {
+   "q": "Which Act gave statutory status to Lok Adalats?",
+   "o": [
+    "Indian Penal Code 1860",
+    "Code of Civil Procedure",
+    "Legal Services Authorities Act 1987",
+    "Right to Information Act"
+   ],
+   "a": 2,
+   "e": "Lok Adalats are organised through NALSA under Article 39A (free legal aid)."
+  },
+  {
+   "q": "What is the nature of a Lok Adalat award?",
+   "o": [
+    "Final and binding, deemed a civil court decree; no appeal",
+    "Only advisory",
+    "Appealable in the High Court",
+    "Equivalent to a magistrate's order"
+   ],
+   "a": 0,
+   "e": "The award binds both parties and no court fee is charged."
+  },
+  {
+   "q": "Which type of cases are NOT taken up by Lok Adalats?",
+   "o": [
+    "Motor accident claims",
+    "Matrimonial disputes",
+    "Non-compoundable offences like murder and rape",
+    "Petty disputes and challans"
+   ],
+   "a": 2,
+   "e": "Serious offences require strict punishment through regular courts."
+  },
+  {
+   "q": "What is the nature of Lok Adalat proceedings?",
+   "o": [
+    "Adversarial",
+    "Compulsory hearing",
+    "Conciliatory",
+    "Punitive"
+   ],
+   "a": 2,
+   "e": "The aim is amicable settlement of disputes and reducing the burden of pending cases."
+  },
+  {
+   "q": "What was the main purpose of the 2002 amendment to the Legal Services Authorities Act?",
+   "o": [
+    "Giving criminal cases to Lok Adalats",
+    "Giving Lok Adalats the status of a High Court",
+    "Closing all regular courts",
+    "Setting up Permanent Lok Adalats for disputes relating to public utility services"
+   ],
+   "a": 3,
+   "e": "It did not aim to replace regular courts or hand over criminal cases."
+  },
+  {
+   "q": "MGNREGA implements which Directive Principle?",
+   "o": [
+    "Protection of environment (48A)",
+    "Free legal aid (39A)",
+    "Uniform Civil Code (44)",
+    "Right to work (Article 41)"
+   ],
+   "a": 3,
+   "e": "MGNREGA guaranteed 100 days of work; the new VB-G RAM G law guarantees 125 days."
+  },
+  {
+   "q": "Under the Juvenile Justice (Care and Protection of Children) Act 2015, juveniles of which age group can be tried as adults for heinous offences?",
+   "o": [
+    "12 to 14 years",
+    "14 to 16 years",
+    "18 to 21 years",
+    "16 to 18 years"
+   ],
+   "a": 3,
+   "e": "This applies only to heinous offences."
+  },
+  {
+   "q": "Who is called the guardian of the Constitution in India?",
+   "o": [
+    "President",
+    "Parliament",
+    "Election Commission of India",
+    "Supreme Court"
+   ],
+   "a": 3,
+   "e": "It interprets the Constitution and exercises judicial review."
+  },
+  {
+   "q": "Which Article provides for the appointment of an acting Chief Justice of India?",
+   "o": [
+    "Article 124",
+    "Article 130",
+    "Article 127",
+    "Article 126"
+   ],
+   "a": 3,
+   "e": "124 establishment, 125 salaries, 126 acting CJI, 127 ad hoc judges, 128 retired judges, 129 court of record, 130 seat, 131 original jurisdiction."
+  },
+  {
+   "q": "Which Article provides for the appointment of ad hoc judges?",
+   "o": [
+    "Article 129",
+    "Article 126",
+    "Article 127",
+    "Article 128"
+   ],
+   "a": 2,
+   "e": "When quorum is lacking, a High Court judge may sit temporarily; Article 128 concerns retired judges."
+  },
+  {
+   "q": "Which Article makes the Supreme Court a 'court of record'?",
+   "o": [
+    "Article 130",
+    "Article 129",
+    "Article 131",
+    "Article 128"
+   ],
+   "a": 1,
+   "e": "It also has the power to punish for its own contempt."
+  },
+  {
+   "q": "Which Article fixes the seat of the Supreme Court (Delhi), and who can decide other places of sitting?",
+   "o": [
+    "Article 124; the Prime Minister",
+    "Article 129; Parliament",
+    "Article 131; the President alone",
+    "Article 130; the CJI with the President's approval"
+   ],
+   "a": 3,
+   "e": "Delhi is the seat; the CJI may appoint other places with the President's approval."
+  },
+  {
+   "q": "What does Article 121 provide?",
+   "o": [
+    "Courts cannot inquire into proceedings of Parliament",
+    "Language of Parliament",
+    "Salaries of judges",
+    "No discussion in Parliament on the conduct of judges"
+   ],
+   "a": 3,
+   "e": "Article 120 is on the language of Parliament; Article 122 bars courts from inquiring into its proceedings."
+  },
+  {
+   "q": "What does Article 122 provide?",
+   "o": [
+    "No discussion in Parliament on the conduct of judges",
+    "Courts cannot inquire into proceedings of Parliament",
+    "President's address",
+    "Language of Parliament"
+   ],
+   "a": 1,
+   "e": "Article 120 deals with the language used in Parliament."
+  },
+  {
+   "q": "What is the nature of Article 136 (Special Leave Petition)?",
+   "o": [
+    "A discretionary power of the Supreme Court, not a right",
+    "Requires the President's consent",
+    "A fundamental right of citizens",
+    "Only for criminal cases"
+   ],
+   "a": 0,
+   "e": "The Supreme Court hears the matter only if it chooses to grant special leave."
+  },
+  {
+   "q": "Under which Article is the advisory jurisdiction of the Supreme Court, and from where was it borrowed?",
+   "o": [
+    "Article 32; Britain",
+    "Article 143; Canada",
+    "Article 131; USA",
+    "Article 136; Ireland"
+   ],
+   "a": 1,
+   "e": "Its advice to the President is not binding; it covers questions of public importance and pre-constitution matters."
+  },
+  {
+   "q": "While appointing Supreme Court judges, whose binding advice must the President take?",
+   "o": [
+    "Law Minister",
+    "Attorney General",
+    "Chief Justice of India (collegium)",
+    "Prime Minister"
+   ],
+   "a": 2,
+   "e": "For High Court judges, the Governor of the state is also consulted."
+  },
+  {
+   "q": "What kind of body is the Law Commission of India?",
+   "o": [
+    "Statutory body",
+    "Constitutional body",
+    "Non-constitutional and non-statutory (executive body)",
+    "Judicial body"
+   ],
+   "a": 2,
+   "e": "Justice Dinesh Maheshwari chairs the 23rd Law Commission."
+  },
+  {
+   "q": "Which dispute is excluded from the original jurisdiction of the Supreme Court under Article 131?",
+   "o": [
+    "Dispute between the Centre and a state",
+    "Inter-state water disputes (Article 262)",
+    "Dispute between the Centre and states on one side and other states on the other",
+    "Dispute between two states"
+   ],
+   "a": 1,
+   "e": "Disputes arising from pre-constitution treaties and commercial contracts are also excluded."
+  },
+  {
+   "q": "What is the Supreme Court's jurisdiction in federal disputes?",
+   "o": [
+    "Exclusive original jurisdiction",
+    "Concurrent jurisdiction",
+    "Appellate jurisdiction",
+    "Advisory jurisdiction"
+   ],
+   "a": 0,
+   "e": "Its writ jurisdiction (Article 32) is not exclusive, as High Courts also issue writs (Article 226)."
+  },
+  {
+   "q": "What did the Supreme Court hold in the Golaknath case (1967)?",
+   "o": [
+    "Parliament can amend Fundamental Rights",
+    "Parliament cannot amend Fundamental Rights",
+    "DPSPs are above Fundamental Rights",
+    "The Constitution has a basic structure"
+   ],
+   "a": 1,
+   "e": "It was later overruled in the Kesavananda Bharati case (1973)."
+  },
+  {
+   "q": "The basic structure doctrine emerged from which case?",
+   "o": [
+    "Golaknath case",
+    "ADM Jabalpur case",
+    "Minerva Mills case",
+    "Kesavananda Bharati case 1973"
+   ],
+   "a": 3,
+   "e": "Parliament can amend Fundamental Rights but cannot alter the basic structure of the Constitution."
+  },
+  {
+   "q": "Which case held that the Constitution rests on the balance between Fundamental Rights and Directive Principles?",
+   "o": [
+    "Kesavananda Bharati case",
+    "Golaknath case",
+    "Minerva Mills case 1980",
+    "Indra Sawhney case"
+   ],
+   "a": 2,
+   "e": "Harmony between the two is essential."
+  },
+  {
+   "q": "Which Article gives the right to move the Supreme Court through writ petitions?",
+   "o": [
+    "Article 131",
+    "Article 32",
+    "Article 136",
+    "Article 226"
+   ],
+   "a": 1,
+   "e": "Article 226 is for High Courts; Article 131 is original jurisdiction."
+  },
+  {
+   "q": "What do Articles 132, 133 and 134 deal with?",
+   "o": [
+    "Appellate jurisdiction of the Supreme Court",
+    "Original jurisdiction",
+    "Advisory jurisdiction",
+    "Writ jurisdiction"
+   ],
+   "a": 0,
+   "e": "132 constitutional cases, 133 civil cases, 134 criminal cases."
+  },
+  {
+   "q": "Which Article provides for appeals from High Courts to the Supreme Court in civil matters?",
+   "o": [
+    "Article 133",
+    "Article 134",
+    "Article 132",
+    "Article 131"
+   ],
+   "a": 0,
+   "e": "Article 134 covers criminal matters."
+  },
+  {
+   "q": "Which Article empowers the Supreme Court to review its own judgments?",
+   "o": [
+    "Article 136",
+    "Article 137",
+    "Article 141",
+    "Article 142"
+   ],
+   "a": 1,
+   "e": "For example, the Golaknath judgment was later reconsidered."
+  },
+  {
+   "q": "Under Article 141, the law declared by the Supreme Court is binding on:",
+   "o": [
+    "Parliament",
+    "High Courts only",
+    "All courts within India",
+    "Lower courts only"
+   ],
+   "a": 2,
+   "e": "Article 144 says all authorities shall act in aid of the Supreme Court."
+  },
+  {
+   "q": "Which Article empowers the Supreme Court to pass any order for doing 'complete justice'?",
+   "o": [
+    "Article 143",
+    "Article 144",
+    "Article 141",
+    "Article 142"
+   ],
+   "a": 3,
+   "e": "Under Article 144 all civil and judicial authorities shall act in aid of the Supreme Court."
+  },
+  {
+   "q": "Which Article deals with the writ jurisdiction of High Courts?",
+   "o": [
+    "Article 222",
+    "Article 32",
+    "Article 226",
+    "Article 227"
+   ],
+   "a": 2,
+   "e": "High Courts can issue writs for legal rights as well as Fundamental Rights, so their scope is wider."
+  },
+  {
+   "q": "Which Article provides for the transfer of a judge from one High Court to another?",
+   "o": [
+    "Article 217",
+    "Article 226",
+    "Article 233",
+    "Article 222"
+   ],
+   "a": 3,
+   "e": "The President transfers judges after consulting the CJI (collegium)."
+  },
+  {
+   "q": "What are the retirement ages of Supreme Court and High Court judges respectively?",
+   "o": [
+    "65 and 60 years",
+    "65 and 62 years",
+    "60 and 58 years",
+    "62 and 65 years"
+   ],
+   "a": 1,
+   "e": "No minimum age is prescribed for either."
+  },
+  {
+   "q": "What is the qualification to become a High Court judge?",
+   "o": [
+    "Citizen of India with 10 years in a judicial office or 10 years as a High Court advocate",
+    "7 years of legal practice",
+    "5 years of legal practice",
+    "25 years of age"
+   ],
+   "a": 0,
+   "e": "For the Supreme Court: 5 years as HC judge, 10 years as HC advocate, or a distinguished jurist."
+  },
+  {
+   "q": "In the appointment of a Supreme Court judge, who determines whether a person is a 'distinguished jurist'?",
+   "o": [
+    "Parliament",
+    "The Law Minister",
+    "The President (in his opinion)",
+    "The CJI alone"
+   ],
+   "a": 2,
+   "e": "No judge has so far been appointed on this ground."
+  },
+  {
+   "q": "Who appoints a District Judge, and under which Article?",
+   "o": [
+    "President; Article 233",
+    "Chief Justice of the High Court; Article 229",
+    "Governor; Article 233",
+    "Chief Minister; Article 235"
+   ],
+   "a": 2,
+   "e": "A District Judge must have been an advocate for at least 7 years."
+  },
+  {
+   "q": "What is the minimum experience as an advocate required to become a District Judge?",
+   "o": [
+    "5 years",
+    "10 years",
+    "7 years",
+    "3 years"
+   ],
+   "a": 2,
+   "e": "As provided under Article 233."
+  },
+  {
+   "q": "Which Article provides for control over subordinate courts?",
+   "o": [
+    "Article 226",
+    "Article 245",
+    "Article 235",
+    "Article 233"
+   ],
+   "a": 2,
+   "e": "This control is vested in the respective High Court."
+  },
+  {
+   "q": "Who is included in the term 'judicial service' (Articles 233-237)?",
+   "o": [
+    "High Court judges",
+    "Supreme Court judges",
+    "All magistrates including executive magistrates",
+    "District judges and civil judicial posts below them"
+   ],
+   "a": 3,
+   "e": "Executive magistrates are not part of the judicial service."
+  },
+  {
+   "q": "Who is the highest judicial authority in civil matters in a district?",
+   "o": [
+    "District Judge",
+    "Collector",
+    "Sessions Judge",
+    "Chief Judicial Magistrate"
+   ],
+   "a": 0,
+   "e": "The same officer is District Judge in civil matters and Sessions Judge in criminal matters."
+  },
+  {
+   "q": "Which statement about the Sessions Court is correct?",
+   "o": [
+    "It hears only civil cases",
+    "It can only impose fines",
+    "It is subordinate to the Lok Adalat",
+    "Among subordinate courts it can award the highest punishment, including death"
+   ],
+   "a": 3,
+   "e": "The same judge is called District Judge on the civil side and Sessions Judge on the criminal side."
+  },
+  {
+   "q": "Disputes over ownership of property and contractual obligations are heard in which court?",
+   "o": [
+    "Criminal court",
+    "Civil court",
+    "Sessions court",
+    "Lok Adalat only"
+   ],
+   "a": 1,
+   "e": "Theft, murder and rape go to criminal courts."
+  },
+  {
+   "q": "Which Article empowers Parliament to constitute a High Court for a Union Territory?",
+   "o": [
+    "Article 238",
+    "Article 239",
+    "Article 241",
+    "Article 240"
+   ],
+   "a": 2,
+   "e": "Article 239 deals with the administration of Union Territories."
+  },
+  {
+   "q": "Article 245 deals with what, and from which Part do Centre-State relations begin?",
+   "o": [
+    "Administrative relations; Part XIII",
+    "Constitution of courts; Part VI",
+    "Extent of laws made by Parliament and state legislatures; Part XI",
+    "Financial relations; Part XII"
+   ],
+   "a": 2,
+   "e": "Legislative relations 245-255 and administrative 256-263 (Part XI); financial 268-293 (Part XII)."
+  },
+  {
+   "q": "Article 131A was inserted by which amendment and omitted by which?",
+   "o": [
+    "Inserted by 61st, omitted by 69th",
+    "Inserted by 73rd, omitted by 74th",
+    "Inserted by 42nd, omitted by 43rd (1977)",
+    "Inserted by 44th, omitted by 42nd"
+   ],
+   "a": 2,
+   "e": "Article 131A gave the Supreme Court exclusive power to decide the validity of central laws."
+  },
+  {
+   "q": "In which Part and Articles of the Constitution are the High Courts described?",
+   "o": [
+    "Part V; Articles 124 to 147",
+    "Part XI; Articles 245 to 255",
+    "Part XIV; Articles 315 to 323",
+    "Part VI; Articles 214 to 231"
+   ],
+   "a": 3,
+   "e": "The Supreme Court is in Part V, Chapter IV (Articles 124-147)."
+  },
+  {
+   "q": "What penalty can a Nyaya Panchayat impose, and can it imprison?",
+   "o": [
+    "Rs 1 lakh; can imprison",
+    "Only a small fine (a few hundred rupees); cannot imprison",
+    "Rs 10 thousand; 1 year imprisonment",
+    "No fine; only imprisonment"
+   ],
+   "a": 1,
+   "e": "Nyaya Panchayats settle petty village civil and criminal disputes but cannot award imprisonment."
+  },
+  {
+   "q": "Who first used the term 'judicial activism'?",
+   "o": [
+    "Arthur Schlesinger Jr.",
+    "Justice P.N. Bhagwati",
+    "Justice H.R. Khanna",
+    "John Marshall"
+   ],
+   "a": 0,
+   "e": "Coined in 1947; when the judiciary oversteps its limits it is called 'judicial overreach'."
+  },
+  {
+   "q": "Who is regarded as the father of Public Interest Litigation (PIL) in India?",
+   "o": [
+    "Justice A.M. Ahmadi",
+    "Justice Y.V. Chandrachud",
+    "Justice P.N. Bhagwati",
+    "Justice M. Hidayatullah"
+   ],
+   "a": 2,
+   "e": "PIL is traced to cases like Hussainara Khatoon v. State of Bihar."
+  },
+  {
+   "q": "Which principle is relaxed in Public Interest Litigation?",
+   "o": [
+    "Locus standi",
+    "Stare decisis",
+    "Basic structure",
+    "Res judicata"
+   ],
+   "a": 0,
+   "e": "Any public-spirited person can approach the court on behalf of the aggrieved."
+  },
+  {
+   "q": "What does 'locus standi' mean?",
+   "o": [
+    "Anyone can approach the court",
+    "Only the aggrieved person can approach the court",
+    "Jurisdiction of the court",
+    "Judicial precedent"
+   ],
+   "a": 1,
+   "e": "It does not apply in the case of habeas corpus."
+  },
+  {
+   "q": "When is the writ of habeas corpus issued?",
+   "o": [
+    "To make a public official perform his duty",
+    "To restrain a lower court",
+    "In case of unlawful detention of a person",
+    "Against an illegal claim to a public office"
+   ],
+   "a": 2,
+   "e": "It literally means 'to have the body'."
+  },
+  {
+   "q": "Which case is popularly known as the Habeas Corpus case?",
+   "o": [
+    "Golaknath case",
+    "Kesavananda Bharati case",
+    "ADM Jabalpur case (1976)",
+    "Maneka Gandhi case"
+   ],
+   "a": 2,
+   "e": "It was decided during the Emergency (1975-77)."
+  },
+  {
+   "q": "Which event is cited as an example of judicial activism, where the court ordered compensation?",
+   "o": [
+    "1975 Emergency",
+    "1991 liberalisation",
+    "1984 Bhopal Gas Tragedy (Union Carbide, methyl isocyanate)",
+    "2008 Mumbai attacks"
+   ],
+   "a": 2,
+   "e": "Methyl isocyanate gas leaked from the Union Carbide plant."
+  },
+  {
+   "q": "Which provision of the Tribunal Reforms Ordinance 2021 did the Supreme Court strike down?",
+   "o": [
+    "Location of office",
+    "Salary and allowances",
+    "Fixed 4-year tenure of tribunal members",
+    "Number of members"
+   ],
+   "a": 2,
+   "e": "It was struck down on the ground of judicial independence."
+  },
+  {
+   "q": "On which subject did the 42nd Amendment empower Parliament to set up tribunals under Article 323A?",
+   "o": [
+    "Service conditions of public servants",
+    "Fundamental Rights",
+    "Election disputes",
+    "State laws"
+   ],
+   "a": 0,
+   "e": "Article 323A is for administrative tribunals."
+  },
+  {
+   "q": "What happens when a law is declared unconstitutional through judicial review?",
+   "o": [
+    "It stays in force with amendments",
+    "It is sent back to Parliament",
+    "It becomes null and void",
+    "The President decides"
+   ],
+   "a": 2,
+   "e": "For example, the 99th Amendment was declared void."
+  },
+  {
+   "q": "Which of the following is NOT an advantage of a Lok Adalat?",
+   "o": [
+    "Speedy settlement",
+    "No court fee",
+    "Binding award",
+    "Facility of appeal"
+   ],
+   "a": 3,
+   "e": "No appeal lies against a Lok Adalat award."
+  },
+  {
+   "q": "Which of the following cases is generally NOT taken up by a Lok Adalat?",
+   "o": [
+    "Matrimonial dispute",
+    "Challan/fine",
+    "Murder or rape",
+    "Motor accident claim"
+   ],
+   "a": 2,
+   "e": "Non-compoundable offences are outside the purview of Lok Adalats."
+  },
+  {
+   "q": "Before becoming Chief Justice of India, B.R. Gavai was a judge of which High Court?",
+   "o": [
+    "Madras High Court",
+    "Bombay High Court",
+    "Calcutta High Court",
+    "Delhi High Court"
+   ],
+   "a": 1,
+   "e": "He was elevated to the Supreme Court and later became Chief Justice of India."
+  }
+ ]
+}

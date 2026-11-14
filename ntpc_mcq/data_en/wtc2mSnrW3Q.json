@@ -1,0 +1,2287 @@
+{
+ "title": "Geography Lec 6",
+ "summary": [
+  "Population rates 2011: CBR 21.8, CDR 7.1, IMR 44, U5MR 55 (per thousand).",
+  "Push factors (backwardness, insecurity) drive people out; pull factors (employment, peace) attract them.",
+  "Physiological density = total population / net cultivated area; India is in the third stage of the DTM.",
+  "Density 2011: Bihar 1106 (state), Delhi 11,320 (UT); lowest Arunachal Pradesh 17 and Andaman & Nicobar 46.",
+  "Sex ratio 943; Kerala 1084, Haryana 879, Puducherry 1037, Daman & Diu lowest.",
+  "Tribes: Bhil > Gond > Santhal; India has 8 major industrial regions; Class I city = 1 lakh or more.",
+  "Golden Quadrilateral 5,846 km (1999-2012), NH-44 longest; NS and EW corridors meet at Jhansi.",
+  "NW-1 Ganga-Bhagirathi-Hooghly is the longest; Suez Canal 1869, 193 km; Trans-Siberian ~9,300 km, 8 time zones.",
+  "Railway zone HQs: NW Jaipur, WC Jabalpur, EC Hajipur, NC Prayagraj, SECR Bilaspur, NE Gorakhpur.",
+  "DVC 1948, TVA model, four dams; Kudremukh magnetite iron ore; four iron ore belts.",
+  "Coal: anthracite highest grade, peat lowest; lignite = brown coal (Neyveli); bituminous most common; Gondwana coal dominant.",
+  "Lakes: Wular largest freshwater, Chilika largest lagoon, Sambhar inland saline, Vembanad longest, Govind Ballabh Pant Sagar largest artificial.",
+  "18 biosphere reserves; Jim Corbett first national park (1936), Project Tiger 1973; Similipal Odisha's second national park (2025).",
+  "Atmosphere: weather occurs in the troposphere (13 km avg); ozone in the stratosphere; mesosphere coldest; ionosphere reflects radio waves."
+ ],
+ "mcqs": [
+  {
+   "q": "What was India's crude birth rate (per thousand population) in 2011, approximately?",
+   "o": [
+    "25.4",
+    "28.6",
+    "21.8",
+    "18.2"
+   ],
+   "a": 2,
+   "e": "CBR = (live births / mid-year population) x 1000; 21.8 in 2011."
+  },
+  {
+   "q": "Which is the correct formula for crude birth rate (B = live births, P = mid-year population)?",
+   "o": [
+    "(B/P) x 1000",
+    "(P/B) x 1000",
+    "(B/P) x 100",
+    "(B x P)/1000"
+   ],
+   "a": 0,
+   "e": "CBR is the number of births per 1000 population."
+  },
+  {
+   "q": "What was India's crude death rate (per thousand) in 2011?",
+   "o": [
+    "9.4",
+    "11.2",
+    "5.3",
+    "7.1"
+   ],
+   "a": 3,
+   "e": "CDR in 2011 = 7.1 per thousand."
+  },
+  {
+   "q": "What was India's infant mortality rate (IMR) in 2011, approximately?",
+   "o": [
+    "58 per thousand live births",
+    "71 per thousand live births",
+    "32 per thousand live births",
+    "44 per thousand live births"
+   ],
+   "a": 3,
+   "e": "IMR = deaths of infants under one year per thousand live births."
+  },
+  {
+   "q": "What was India's under-five mortality rate (per thousand live births) in 2011, approximately?",
+   "o": [
+    "55",
+    "67",
+    "38",
+    "80"
+   ],
+   "a": 0,
+   "e": "U5MR in 2011 = 55."
+  },
+  {
+   "q": "Which of the following is NOT a 'pull factor' of migration?",
+   "o": [
+    "Better employment opportunities",
+    "Security of life",
+    "Peace and stability",
+    "Socio-economic backwardness"
+   ],
+   "a": 3,
+   "e": "Backwardness is a push factor; employment, peace and security are pull factors."
+  },
+  {
+   "q": "What does a 'push factor' mean in migration?",
+   "o": [
+    "A factor that attracts people to a new place",
+    "Migration caused only by government schemes",
+    "A factor that compels people to leave their place of origin",
+    "Migration linked only to seasonal pastoralism"
+   ],
+   "a": 2,
+   "e": "Push = unemployment, violence, backwardness; pull = employment, peace."
+  },
+  {
+   "q": "Which density measures the pressure of population on the net cultivated area in India?",
+   "o": [
+    "Economic density",
+    "Agricultural density",
+    "Nutritional density",
+    "Physiological density"
+   ],
+   "a": 3,
+   "e": "Physiological density = total population / net cultivated area."
+  },
+  {
+   "q": "What is the denominator in the calculation of physiological density?",
+   "o": [
+    "Total geographical area",
+    "Fallow land",
+    "Forest area",
+    "Net cultivated area"
+   ],
+   "a": 3,
+   "e": "Arithmetic density uses total area; this uses only the net sown area."
+  },
+  {
+   "q": "How do extremely dense 'mega regions' like Tokyo-Osaka and the Pearl River Delta develop?",
+   "o": [
+    "Through forced settlement by the government",
+    "Through high natural population growth",
+    "Through similar physical geography",
+    "Through integrated economic corridors and high connectivity"
+   ],
+   "a": 3,
+   "e": "Dubai too grew from desert into a mega region thanks to its ports and airports."
+  },
+  {
+   "q": "A country with a high birth rate and a high death rate is in which stage of the Demographic Transition Model (DTM)?",
+   "o": [
+    "Fourth stage",
+    "Third stage",
+    "Second stage",
+    "First (early) stage"
+   ],
+   "a": 3,
+   "e": "In the first stage both rates are high and population stays nearly stable."
+  },
+  {
+   "q": "In which stage of the DTM does a population explosion occur?",
+   "o": [
+    "First - both rates high",
+    "Second - birth rate high, death rate falls rapidly",
+    "Fourth - both rates low",
+    "Third - both rates stable"
+   ],
+   "a": 1,
+   "e": "Better healthcare lowers the death rate while the birth rate stays high."
+  },
+  {
+   "q": "What is the characteristic of the fourth stage of the DTM?",
+   "o": [
+    "Both rates high",
+    "High birth rate, low death rate",
+    "Both birth and death rates low",
+    "Low birth rate, high death rate"
+   ],
+   "a": 2,
+   "e": "Seen in developed economies; India is in the third stage."
+  },
+  {
+   "q": "What is the full form of 'DINK', which describes the trend of fewer children in urban families?",
+   "o": [
+    "Dual Income New Kids",
+    "Double Intake Normal Kids",
+    "Daily Income No Kids",
+    "Double Income No Kids"
+   ],
+   "a": 3,
+   "e": "Rising female literacy lowers the birth rate."
+  },
+  {
+   "q": "Which factor has the most direct influence on the location and growth of human settlements?",
+   "o": [
+    "Colour of the soil",
+    "Distance from the equator",
+    "Availability of fresh water",
+    "Local languages"
+   ],
+   "a": 2,
+   "e": "Water scarcity keeps the Rajasthan desert sparse; water and fertile soil make the Ganga plain dense."
+  },
+  {
+   "q": "Which combination contributes to low population density?",
+   "o": [
+    "Flat land, fertile soil, urban jobs",
+    "Harsh climate, poor soil, few roads",
+    "River valleys, floodplains, health clinics",
+    "Mild winters, abundant water, schools"
+   ],
+   "a": 1,
+   "e": "Flat, fertile, well-watered areas with jobs are densely settled."
+  },
+  {
+   "q": "What is the main feature of Brazil's demographic change since the 1980s?",
+   "o": [
+    "Rise in birth rate, fall in death rate",
+    "Fall in both birth and death rates",
+    "Rise in death rate",
+    "Sharp rise in birth rate"
+   ],
+   "a": 1,
+   "e": "Brazil is shifting from a young to an ageing population."
+  },
+  {
+   "q": "Which industrial region of India is the most prominent port-based one?",
+   "o": [
+    "Hyderabad-Bengaluru",
+    "Ahmedabad-Vadodara",
+    "Hugli industrial region",
+    "Chota Nagpur"
+   ],
+   "a": 2,
+   "e": "The Hugli region has the Kolkata and Haldia ports."
+  },
+  {
+   "q": "How many major industrial regions are recognised in India?",
+   "o": [
+    "10",
+    "12",
+    "8",
+    "6"
+   ],
+   "a": 2,
+   "e": "Mumbai-Pune, Bengaluru-TN, Gujarat, Chota Nagpur, Visakhapatnam-Guntur, Gurugram-Delhi-Meerut, Kollam-Thiruvananthapuram, Hugli."
+  },
+  {
+   "q": "The Chota Nagpur industrial region is famous for what?",
+   "o": [
+    "Diamond processing",
+    "Minerals like coal and iron ore",
+    "IT and electronics",
+    "Shipbuilding"
+   ],
+   "a": 1,
+   "e": "A region of mineral-based heavy industries."
+  },
+  {
+   "q": "The Visakhapatnam-Guntur industrial region is known for what?",
+   "o": [
+    "Diamond cutting",
+    "Shipbuilding and petroleum refining",
+    "Cotton and silk",
+    "IT services"
+   ],
+   "a": 1,
+   "e": "A region in Andhra Pradesh."
+  },
+  {
+   "q": "The Gujarat industrial region is famous for which industries?",
+   "o": [
+    "Cotton, diamond processing, fertilisers, petrochemicals",
+    "Shipbuilding",
+    "IT",
+    "Jute"
+   ],
+   "a": 0,
+   "e": "Surat is a major diamond-processing centre."
+  },
+  {
+   "q": "The Kollam-Thiruvananthapuram industrial region is mainly known for what?",
+   "o": [
+    "IT and agro-processing",
+    "Coal mining",
+    "Jute industry",
+    "Heavy engineering"
+   ],
+   "a": 0,
+   "e": "An industrial region of Kerala."
+  },
+  {
+   "q": "The Bengaluru-Tamil Nadu industrial region is known for what?",
+   "o": [
+    "Shipbuilding",
+    "IT, electronics, cotton and silk",
+    "Coal",
+    "Jute"
+   ],
+   "a": 1,
+   "e": "A major industrial region of South India."
+  },
+  {
+   "q": "As per Census 2011, which Indian state has the highest population density?",
+   "o": [
+    "Haryana",
+    "Punjab",
+    "Bihar",
+    "Uttar Pradesh"
+   ],
+   "a": 2,
+   "e": "Bihar 1,106 persons/sq km; West Bengal second (1,028)."
+  },
+  {
+   "q": "As per Census 2011, which Union Territory has the highest population density?",
+   "o": [
+    "Chandigarh",
+    "Daman and Diu",
+    "Delhi",
+    "Puducherry"
+   ],
+   "a": 2,
+   "e": "Delhi 11,320 persons/sq km."
+  },
+  {
+   "q": "As per Census 2011, which Union Territory has the lowest population density?",
+   "o": [
+    "Andaman and Nicobar Islands",
+    "Puducherry",
+    "Dadra and Nagar Haveli",
+    "Lakshadweep"
+   ],
+   "a": 0,
+   "e": "The density of A&N Islands is about 46."
+  },
+  {
+   "q": "Which Indian state has the lowest population density?",
+   "o": [
+    "Nagaland",
+    "Arunachal Pradesh",
+    "Mizoram",
+    "Sikkim"
+   ],
+   "a": 1,
+   "e": "Arunachal Pradesh has about 17 persons per sq km."
+  },
+  {
+   "q": "As per Census 2011, which Union Territory has the highest sex ratio?",
+   "o": [
+    "Puducherry (1037)",
+    "Delhi",
+    "Lakshadweep",
+    "Chandigarh"
+   ],
+   "a": 0,
+   "e": "Among states, Kerala is highest (1084)."
+  },
+  {
+   "q": "Which country had the lowest median age (youngest country) in 2024?",
+   "o": [
+    "Palestine",
+    "Niger",
+    "Afghanistan",
+    "Iraq"
+   ],
+   "a": 1,
+   "e": "Niger's median age is about 15 years."
+  },
+  {
+   "q": "According to UN projections, which region will contribute most to global population growth up to 2050?",
+   "o": [
+    "Sub-Saharan Africa",
+    "East Asia",
+    "Europe",
+    "North America"
+   ],
+   "a": 0,
+   "e": "Nigeria, Ethiopia, Kenya, DR Congo and others."
+  },
+  {
+   "q": "What does a very broad base of a population pyramid indicate?",
+   "o": [
+    "Population will remain stable",
+    "Elderly population is large",
+    "Population will decline",
+    "More children; population will grow rapidly in future"
+   ],
+   "a": 3,
+   "e": "Broad base = high birth rate, young population."
+  },
+  {
+   "q": "What does a rectangular population pyramid indicate?",
+   "o": [
+    "Rapid population growth",
+    "Stable population",
+    "Rapid population decline",
+    "Only a child population"
+   ],
+   "a": 1,
+   "e": "A pyramid narrowing at the base (bell-shaped) shows a declining population."
+  },
+  {
+   "q": "A population pyramid with a narrow base and a wide top indicates what?",
+   "o": [
+    "Low birth rate and low life expectancy",
+    "Low birth rate and high life expectancy",
+    "High birth rate and high death rate",
+    "High birth rate and low death rate"
+   ],
+   "a": 1,
+   "e": "Seen in developed countries like Japan."
+  },
+  {
+   "q": "The Gond tribe is mainly found in which state?",
+   "o": [
+    "Punjab",
+    "Kerala",
+    "Chhattisgarh",
+    "Rajasthan"
+   ],
+   "a": 2,
+   "e": "The Gonds are a tribe of central India (Chhattisgarh, Madhya Pradesh)."
+  },
+  {
+   "q": "Which is the largest tribe of India?",
+   "o": [
+    "Munda",
+    "Santhal",
+    "Bhil",
+    "Gond"
+   ],
+   "a": 2,
+   "e": "Order: Bhil, Gond, Santhal."
+  },
+  {
+   "q": "Which is the second largest tribe of India?",
+   "o": [
+    "Naga",
+    "Gond",
+    "Santhal",
+    "Bhil"
+   ],
+   "a": 1,
+   "e": "Order: Bhil, Gond, Santhal."
+  },
+  {
+   "q": "Which is the third largest tribe of India?",
+   "o": [
+    "Bhil",
+    "Khasi",
+    "Gond",
+    "Santhal"
+   ],
+   "a": 3,
+   "e": "Santhals live in Jharkhand, West Bengal and Odisha."
+  },
+  {
+   "q": "The Konyak tribe is mainly found in which state?",
+   "o": [
+    "Tripura",
+    "Manipur",
+    "Nagaland",
+    "Mizoram"
+   ],
+   "a": 2,
+   "e": "The Konyaks are a Naga tribe."
+  },
+  {
+   "q": "What is the most common type of rural settlement in the northern plains (UP, Bihar)?",
+   "o": [
+    "Semi-clustered",
+    "Dispersed",
+    "Hamleted",
+    "Clustered"
+   ],
+   "a": 3,
+   "e": "Dense population leads to compact villages."
+  },
+  {
+   "q": "When small groups of houses such as 'purwa/tola' together form a village, it is called a:",
+   "o": [
+    "Linear settlement",
+    "Hamleted settlement",
+    "Dispersed settlement",
+    "Clustered settlement"
+   ],
+   "a": 1,
+   "e": "The village is split into several small units."
+  },
+  {
+   "q": "Which factor most influences dispersed settlements in hilly and forested areas?",
+   "o": [
+    "Railway network",
+    "Industrial development",
+    "Altitude and terrain",
+    "Linguistic diversity"
+   ],
+   "a": 2,
+   "e": "In Himachal and Uttarakhand houses lie far apart."
+  },
+  {
+   "q": "Why can the Gross Enrolment Ratio (GER) sometimes exceed 100%?",
+   "o": [
+    "It is not a percentage",
+    "The data are wrong",
+    "The denominator has more students",
+    "The numerator also counts students outside the official age group"
+   ],
+   "a": 3,
+   "e": "GER = (total enrolment / population of official age group) x 100."
+  },
+  {
+   "q": "What was India's decadal population growth rate during 2001-2011, approximately?",
+   "o": [
+    "13.2%",
+    "17.6%",
+    "21.5%",
+    "24.8%"
+   ],
+   "a": 1,
+   "e": "Decadal growth was 17.64%."
+  },
+  {
+   "q": "What was India's annual population growth rate during 2001-2011, approximately?",
+   "o": [
+    "2.15%",
+    "1.64%",
+    "1.24%",
+    "0.95%"
+   ],
+   "a": 1,
+   "e": "Annual growth was 1.64%."
+  },
+  {
+   "q": "Which state recorded the highest population growth rate during 2001-11?",
+   "o": [
+    "Bihar",
+    "Uttar Pradesh",
+    "Nagaland",
+    "Meghalaya"
+   ],
+   "a": 3,
+   "e": "About 28%."
+  },
+  {
+   "q": "Which Union Territory recorded the highest population growth during 2001-11?",
+   "o": [
+    "Dadra and Nagar Haveli",
+    "Delhi",
+    "Chandigarh",
+    "Puducherry"
+   ],
+   "a": 0,
+   "e": "Due to industry-driven in-migration."
+  },
+  {
+   "q": "What is India's sex ratio (2011)?",
+   "o": [
+    "966",
+    "1000",
+    "912",
+    "943 females per 1000 males"
+   ],
+   "a": 3,
+   "e": "Highest Kerala (1084), lowest Haryana (879)."
+  },
+  {
+   "q": "Which state had the lowest sex ratio in 2011?",
+   "o": [
+    "Rajasthan",
+    "Uttar Pradesh",
+    "Punjab",
+    "Haryana (879)"
+   ],
+   "a": 3,
+   "e": "Among UTs, Daman and Diu is lowest."
+  },
+  {
+   "q": "Which Union Territory had the lowest sex ratio in 2011?",
+   "o": [
+    "Chandigarh",
+    "Lakshadweep",
+    "Delhi",
+    "Daman and Diu"
+   ],
+   "a": 3,
+   "e": "Highest among UTs: Puducherry."
+  },
+  {
+   "q": "As per Census 2011, which urban agglomeration has the largest population?",
+   "o": [
+    "Kolkata",
+    "Delhi",
+    "Bengaluru",
+    "Mumbai"
+   ],
+   "a": 3,
+   "e": "Delhi is densest, but Greater Mumbai leads in total population, followed by Delhi."
+  },
+  {
+   "q": "What type of city is Kanpur (UP)?",
+   "o": [
+    "Religious city",
+    "Administrative city",
+    "Industrial city",
+    "Tourist city"
+   ],
+   "a": 2,
+   "e": "Famous for textile and leather industries."
+  },
+  {
+   "q": "In the 2011 Census, which town is called a 'Class I' city?",
+   "o": [
+    "Above 50,000",
+    "Above 10,000",
+    "One with a population of 1 lakh or more",
+    "Above 5 lakh"
+   ],
+   "a": 2,
+   "e": "Class II: 50,000-99,999; III: 20,000-49,999; IV: 10,000-19,999; V: 5,000-9,999; VI: below 5,000."
+  },
+  {
+   "q": "In the Indian context, population growth of Class I cities is mainly driven by:",
+   "o": [
+    "Birth rate alone",
+    "Death rate alone",
+    "Migration from rural areas",
+    "Foreign tourism"
+   ],
+   "a": 2,
+   "e": "Population changes through births, deaths and migration."
+  },
+  {
+   "q": "In India, a town with a population of 5,000 to 10,000 falls in which class?",
+   "o": [
+    "Class VI",
+    "Class IV",
+    "Class II",
+    "Class V"
+   ],
+   "a": 3,
+   "e": "Class VI is below 5,000."
+  },
+  {
+   "q": "Which was the phase of steady population growth in India?",
+   "o": [
+    "1901-1921",
+    "1951-1981",
+    "After 1981",
+    "1921-1951"
+   ],
+   "a": 3,
+   "e": "1901-21 stagnant, 1921-51 steady, 1951-81 explosion, post-1981 slowdown."
+  },
+  {
+   "q": "Which year is called the 'Year of the Great Divide' in India's demographic history?",
+   "o": [
+    "1921",
+    "1901",
+    "1951",
+    "1981"
+   ],
+   "a": 0,
+   "e": "After 1921, population began to grow continuously."
+  },
+  {
+   "q": "Which was the period of population explosion in India?",
+   "o": [
+    "2001-2011",
+    "1951-1981",
+    "1921-1951",
+    "1901-1921"
+   ],
+   "a": 1,
+   "e": "Mortality fell rapidly while fertility stayed high."
+  },
+  {
+   "q": "What is the main cause of rapid population growth in the second stage of the DTM?",
+   "o": [
+    "Greater migration",
+    "Falling birth rate",
+    "High birth rate and falling death rate",
+    "Rising death rate"
+   ],
+   "a": 2,
+   "e": "Improved medical facilities reduce the death rate."
+  },
+  {
+   "q": "Which of the following is an inland riverine port?",
+   "o": [
+    "Kandla",
+    "Mumbai",
+    "Pandu (Assam)",
+    "Chennai"
+   ],
+   "a": 2,
+   "e": "Pandu is at Guwahati on the Brahmaputra."
+  },
+  {
+   "q": "What type of port is Kolkata port?",
+   "o": [
+    "Lagoon port",
+    "Open sea port",
+    "Riverine port on the Hooghly",
+    "Artificial island port"
+   ],
+   "a": 2,
+   "e": "Now called Syama Prasad Mookerjee Port."
+  },
+  {
+   "q": "What type of port is Kandla, and what is its new name?",
+   "o": [
+    "Tidal port - Deendayal Port",
+    "Lagoon - Kamarajar Port",
+    "Inland - Jawaharlal Nehru Port",
+    "Riverine - Syama Prasad Mookerjee Port"
+   ],
+   "a": 0,
+   "e": "Water level changes with the tides."
+  },
+  {
+   "q": "What is special about Visakhapatnam port?",
+   "o": [
+    "An island port",
+    "It is a river port",
+    "India's deepest landlocked port",
+    "The oldest port"
+   ],
+   "a": 2,
+   "e": "It is not a riverine port."
+  },
+  {
+   "q": "By what nickname is Kochi known?",
+   "o": [
+    "Queen of the Arabian Sea",
+    "Gateway of the Sea",
+    "Rome of the East",
+    "Venice of the East"
+   ],
+   "a": 0,
+   "e": "A major port of Kerala."
+  },
+  {
+   "q": "How many major ports does India have?",
+   "o": [
+    "11",
+    "12",
+    "14",
+    "13"
+   ],
+   "a": 1,
+   "e": "12 major ports, of which Kamarajar (Ennore), Tamil Nadu, is run as a company."
+  },
+  {
+   "q": "Which is India's first corporatised major port (registered as a company)?",
+   "o": [
+    "Kamarajar Port (Ennore)",
+    "Tuticorin",
+    "Kandla",
+    "Paradip"
+   ],
+   "a": 0,
+   "e": "Located in Tamil Nadu; it is government-owned, not private."
+  },
+  {
+   "q": "Which port at the Zuari estuary was remodelled in 1961 to export iron ore to Japan?",
+   "o": [
+    "Kochi",
+    "Mormugao",
+    "Paradip",
+    "Kandla"
+   ],
+   "a": 1,
+   "e": "A port in Goa."
+  },
+  {
+   "q": "Most of the route of the Orient Express lies in which continent?",
+   "o": [
+    "Europe",
+    "Asia",
+    "Africa",
+    "North America"
+   ],
+   "a": 0,
+   "e": "From Paris (France) to Istanbul (Turkey); started in 1883."
+  },
+  {
+   "q": "The Orient Express originally connected which cities?",
+   "o": [
+    "Paris and Istanbul",
+    "Berlin and Rome",
+    "London and Moscow",
+    "Madrid and Vienna"
+   ],
+   "a": 0,
+   "e": "A trans-continental route started in 1883."
+  },
+  {
+   "q": "The Golden Quadrilateral connects which cities?",
+   "o": [
+    "Delhi-Mumbai-Chennai-Kolkata",
+    "Delhi-Bhopal-Nagpur-Hyderabad",
+    "Jaipur-Ahmedabad-Pune-Bengaluru",
+    "Lucknow-Patna-Ranchi-Kolkata"
+   ],
+   "a": 0,
+   "e": "Total length 5,846 km."
+  },
+  {
+   "q": "The Golden Quadrilateral project was launched during whose tenure?",
+   "o": [
+    "Atal Bihari Vajpayee (1999)",
+    "Narendra Modi",
+    "Manmohan Singh",
+    "P. V. Narasimha Rao"
+   ],
+   "a": 0,
+   "e": "Started in 1999, completed in 2012."
+  },
+  {
+   "q": "Which is the longest segment of the Golden Quadrilateral?",
+   "o": [
+    "Kolkata-Chennai (about 1,684 km)",
+    "Delhi-Mumbai",
+    "Mumbai-Chennai",
+    "Delhi-Kolkata"
+   ],
+   "a": 0,
+   "e": "This segment runs along NH-16."
+  },
+  {
+   "q": "Which is the shortest segment of the Golden Quadrilateral?",
+   "o": [
+    "Chennai-Mumbai (about 1,290 km)",
+    "Mumbai-Delhi",
+    "Delhi-Kolkata",
+    "Kolkata-Chennai"
+   ],
+   "a": 0,
+   "e": "This segment runs along NH-48."
+  },
+  {
+   "q": "Which is the longest National Highway in India?",
+   "o": [
+    "NH-27",
+    "NH-48",
+    "NH-44 (Srinagar to Kanyakumari)",
+    "NH-19"
+   ],
+   "a": 2,
+   "e": "Runs from Jammu & Kashmir to Tamil Nadu."
+  },
+  {
+   "q": "At which place do the North-South and East-West corridors intersect?",
+   "o": [
+    "Jhansi",
+    "Nagpur",
+    "Agra",
+    "Bhopal"
+   ],
+   "a": 0,
+   "e": "NS: Srinagar-Kanyakumari (about 4,000 km)."
+  },
+  {
+   "q": "The East-West corridor connects which two places?",
+   "o": [
+    "Srinagar and Kanyakumari",
+    "Guwahati and Jaipur",
+    "Silchar and Porbandar",
+    "Kolkata and Mumbai"
+   ],
+   "a": 2,
+   "e": "About 3,300 km long."
+  },
+  {
+   "q": "What is the meeting point of two or more transport routes called?",
+   "o": [
+    "Node",
+    "Grid",
+    "Hub-spoke",
+    "Link"
+   ],
+   "a": 0,
+   "e": "A grid is a specific network structure."
+  },
+  {
+   "q": "On which National Waterway is the floating terminal at Farakka located?",
+   "o": [
+    "National Waterway-3",
+    "National Waterway-1",
+    "National Waterway-5",
+    "National Waterway-2"
+   ],
+   "a": 1,
+   "e": "NW-1: Ganga-Bhagirathi-Hooghly (Prayagraj-Haldia), the longest waterway."
+  },
+  {
+   "q": "National Waterway-2 is on which river?",
+   "o": [
+    "Brahmaputra",
+    "Mahanadi",
+    "Ganga",
+    "Godavari"
+   ],
+   "a": 0,
+   "e": "Dhubri-Sadiya in Assam."
+  },
+  {
+   "q": "National Waterway-3 lies between which places?",
+   "o": [
+    "Prayagraj-Haldia",
+    "Dhubri-Sadiya",
+    "Kollam-Kottapuram (Kerala)",
+    "Kakinada-Puducherry"
+   ],
+   "a": 2,
+   "e": "West Coast Canal; NW-4 Kakinada region (AP), NW-5 Odisha-West Bengal."
+  },
+  {
+   "q": "Which waterway connects the Mediterranean Sea with the Red Sea?",
+   "o": [
+    "Kiel Canal",
+    "Panama Canal",
+    "Suez Canal",
+    "Strait of Gibraltar"
+   ],
+   "a": 2,
+   "e": "A man-made canal controlled by Egypt."
+  },
+  {
+   "q": "In which year was the Suez Canal formally opened?",
+   "o": [
+    "1914",
+    "1956",
+    "1869",
+    "1859"
+   ],
+   "a": 2,
+   "e": "Built 1859-1869; length about 193 km."
+  },
+  {
+   "q": "The Strait of Hormuz connects:",
+   "o": [
+    "Black Sea and Mediterranean",
+    "Red Sea and Gulf of Aden",
+    "Mediterranean and Atlantic",
+    "Gulf of Oman and Persian Gulf"
+   ],
+   "a": 3,
+   "e": "Vital for oil exports from the Persian Gulf."
+  },
+  {
+   "q": "Which strait is called the 'Gate of Tears'?",
+   "o": [
+    "Hormuz",
+    "Malacca",
+    "Gibraltar",
+    "Bab-el-Mandeb"
+   ],
+   "a": 3,
+   "e": "Connects the Red Sea with the Gulf of Aden."
+  },
+  {
+   "q": "Which navigator reached India via the Cape of Good Hope?",
+   "o": [
+    "Vasco da Gama",
+    "Columbus",
+    "Magellan",
+    "James Cook"
+   ],
+   "a": 0,
+   "e": "The Suez Canal is a shorter alternative to this route."
+  },
+  {
+   "q": "The Trans-Siberian Railway connects which cities?",
+   "o": [
+    "Moscow/St Petersburg and Vladivostok",
+    "Tashkent and Baku",
+    "Kyiv and Murmansk",
+    "Beijing and Moscow"
+   ],
+   "a": 0,
+   "e": "The world's longest railway line."
+  },
+  {
+   "q": "What is the approximate length of the Trans-Siberian Railway?",
+   "o": [
+    "About 12,500 km",
+    "About 9,300 km",
+    "About 5,000 km",
+    "About 3,200 km"
+   ],
+   "a": 1,
+   "e": "It spans eight time zones in Russia."
+  },
+  {
+   "q": "Why is air transport less popular for freight in India?",
+   "o": [
+    "There are no airports",
+    "Government restrictions",
+    "It is very slow",
+    "It is costly; suitable only for light, high-value goods"
+   ],
+   "a": 3,
+   "e": "Fuel cost is high for heavy cargo."
+  },
+  {
+   "q": "In which century did railway development begin in India?",
+   "o": [
+    "18th century",
+    "17th century",
+    "20th century",
+    "19th century (second half)"
+   ],
+   "a": 3,
+   "e": "First train Bombay to Thane, 1853, under Lord Dalhousie."
+  },
+  {
+   "q": "The HBJ pipeline is used to transport what?",
+   "o": [
+    "Crude oil",
+    "Petrol",
+    "Natural gas",
+    "Water"
+   ],
+   "a": 2,
+   "e": "Operated by GAIL (Gas Authority of India Limited)."
+  },
+  {
+   "q": "The HBJ pipeline connects which states?",
+   "o": [
+    "Gujarat, Madhya Pradesh, Uttar Pradesh",
+    "Assam, Bihar, Jharkhand",
+    "Maharashtra, Karnataka, Goa",
+    "Rajasthan, Haryana, Punjab"
+   ],
+   "a": 0,
+   "e": "Hazira (Gujarat), Bijaipur (MP), Jagdishpur (UP)."
+  },
+  {
+   "q": "Where is the headquarters of the North Western Railway zone?",
+   "o": [
+    "New Delhi",
+    "Hajipur",
+    "Hubballi",
+    "Jaipur"
+   ],
+   "a": 3,
+   "e": "Hajipur - East Central; Hubballi - South Western; New Delhi - Northern."
+  },
+  {
+   "q": "Where is the headquarters of East Central Railway?",
+   "o": [
+    "Hajipur",
+    "Gorakhpur",
+    "Bilaspur",
+    "Jabalpur"
+   ],
+   "a": 0,
+   "e": "West Central - Jabalpur; East Central - Hajipur."
+  },
+  {
+   "q": "Where is the headquarters of West Central Railway?",
+   "o": [
+    "Jabalpur",
+    "Secunderabad",
+    "Bilaspur",
+    "Prayagraj"
+   ],
+   "a": 0,
+   "e": "North Central - Prayagraj; South Central - Secunderabad."
+  },
+  {
+   "q": "Where is the headquarters of North Eastern Railway?",
+   "o": [
+    "Guwahati",
+    "Hajipur",
+    "Gorakhpur",
+    "Kolkata"
+   ],
+   "a": 2,
+   "e": "Northeast Frontier Railway - Maligaon (Guwahati)."
+  },
+  {
+   "q": "Where is the headquarters of South East Central Railway?",
+   "o": [
+    "Visakhapatnam",
+    "Bilaspur (Chhattisgarh)",
+    "Bhubaneswar",
+    "Nagpur"
+   ],
+   "a": 1,
+   "e": "East Coast - Bhubaneswar; South Coast - Visakhapatnam; South Eastern - Kolkata."
+  },
+  {
+   "q": "The headquarters of the Northern, Southern, Eastern and Western Railway zones are respectively at:",
+   "o": [
+    "Mumbai, Kolkata, Chennai, Delhi",
+    "Kolkata, Mumbai, Delhi, Chennai",
+    "New Delhi, Chennai, Kolkata, Mumbai",
+    "Chennai, Delhi, Mumbai, Kolkata"
+   ],
+   "a": 2,
+   "e": "HQs of the original four zones."
+  },
+  {
+   "q": "The Pamban bridge/island is in which state?",
+   "o": [
+    "Odisha",
+    "Tamil Nadu",
+    "Kerala",
+    "Andhra Pradesh"
+   ],
+   "a": 1,
+   "e": "Connects Rameswaram island to the mainland."
+  },
+  {
+   "q": "What is a major challenge for developing inland waterways in India?",
+   "o": [
+    "High level of private investment",
+    "Minimal environmental clearances",
+    "Lack of adequate terminal facilities",
+    "Too many passengers"
+   ],
+   "a": 2,
+   "e": "High private investment is not a challenge."
+  },
+  {
+   "q": "What is the main reason for higher road density in Kerala compared to Rajasthan?",
+   "o": [
+    "More desert",
+    "Larger area",
+    "Topography and population density",
+    "Mineral distribution"
+   ],
+   "a": 2,
+   "e": "Rajasthan has low population density and less suitable terrain."
+  },
+  {
+   "q": "Which mineral has abundant reserves in the Damodar Valley?",
+   "o": [
+    "Gold",
+    "Coal",
+    "Copper",
+    "Bauxite"
+   ],
+   "a": 1,
+   "e": "DVC was established in 1948."
+  },
+  {
+   "q": "Which statement about the Damodar Valley Corporation (DVC) is correct?",
+   "o": [
+    "Established in 1948; India's first multipurpose project",
+    "Established in 1960",
+    "Established in 1935",
+    "Established in 1951"
+   ],
+   "a": 0,
+   "e": "Nehru called dams the 'temples of modern India'."
+  },
+  {
+   "q": "The Damodar Valley Project was modelled on which foreign project?",
+   "o": [
+    "Tennessee Valley Authority (USA)",
+    "Hoover Dam",
+    "Aswan Dam (Egypt)",
+    "Three Gorges (China)"
+   ],
+   "a": 0,
+   "e": "TVA was a project in the USA."
+  },
+  {
+   "q": "Which of the following dams was NOT built under the DVC?",
+   "o": [
+    "Tilaiya",
+    "Panchet",
+    "Maithon",
+    "Hirakud"
+   ],
+   "a": 3,
+   "e": "DVC: Tilaiya, Konar, Maithon, Panchet; Hirakud is on the Mahanadi."
+  },
+  {
+   "q": "Kudremukh (Karnataka) is famous for which mineral?",
+   "o": [
+    "Mica",
+    "Coal",
+    "Iron ore (magnetite)",
+    "Copper"
+   ],
+   "a": 2,
+   "e": "Kudre = horse, mukh = face; part of the Ballari-Chitradurga-Chikkamagaluru-Tumakuru belt."
+  },
+  {
+   "q": "Which region of Maharashtra is known for iron ore?",
+   "o": [
+    "Kolhapur",
+    "Nashik",
+    "Chandrapur-Bhandara (Gadchiroli)",
+    "Aurangabad"
+   ],
+   "a": 2,
+   "e": "India has four iron ore belts."
+  },
+  {
+   "q": "Which of the following is a non-metallic natural resource?",
+   "o": [
+    "Copper",
+    "Limestone",
+    "Iron ore",
+    "Bauxite"
+   ],
+   "a": 1,
+   "e": "Limestone/dolomite gives rise to karst topography."
+  },
+  {
+   "q": "Kolar Gold Fields (KGF) and Hutti gold mines are in which state?",
+   "o": [
+    "Andhra Pradesh",
+    "Jharkhand",
+    "Karnataka",
+    "Rajasthan"
+   ],
+   "a": 2,
+   "e": "KGF is now closed."
+  },
+  {
+   "q": "Which plateau region is rich in both iron ore and coal?",
+   "o": [
+    "Meghalaya Plateau",
+    "Chota Nagpur Plateau",
+    "Malwa Plateau",
+    "Bundelkhand Plateau"
+   ],
+   "a": 1,
+   "e": "North-eastern peninsular plateau."
+  },
+  {
+   "q": "Jhunjhunu and Alwar districts are known for the production of which mineral?",
+   "o": [
+    "Copper",
+    "Coal",
+    "Iron",
+    "Gold"
+   ],
+   "a": 0,
+   "e": "The Khetri mines (Jhunjhunu) are famous."
+  },
+  {
+   "q": "Which ore of copper begins with the letter 'M'?",
+   "o": [
+    "Manganese",
+    "Magnetite",
+    "Malachite",
+    "Mica"
+   ],
+   "a": 2,
+   "e": "Copper is considered the first metal used by humans."
+  },
+  {
+   "q": "Mica is used in the electrical industry because of which property?",
+   "o": [
+    "High dielectric strength; poor conductor of heat and electricity",
+    "High conductivity",
+    "Magnetic properties",
+    "Light weight"
+   ],
+   "a": 0,
+   "e": "A non-metallic mineral, also used in cosmetics."
+  },
+  {
+   "q": "Which state ranks first in mica production in India?",
+   "o": [
+    "Jharkhand",
+    "Rajasthan",
+    "Odisha",
+    "Andhra Pradesh"
+   ],
+   "a": 3,
+   "e": "Andhra Pradesh (Nellore) leads, followed by Rajasthan."
+  },
+  {
+   "q": "Which state has the largest bauxite reserves in India?",
+   "o": [
+    "Maharashtra",
+    "Gujarat",
+    "Odisha",
+    "Jharkhand"
+   ],
+   "a": 2,
+   "e": "The Panchpatmali mines (Odisha) are famous."
+  },
+  {
+   "q": "What is the main reason for the decline of high-grade ores in India in recent decades?",
+   "o": [
+    "Heavy rainfall",
+    "Selective mining",
+    "Imports",
+    "Earthquakes"
+   ],
+   "a": 1,
+   "e": "Only the rich ores were exploited."
+  },
+  {
+   "q": "Where are manganese nodules mainly found?",
+   "o": [
+    "In river valleys",
+    "On the ocean floor",
+    "In deserts",
+    "On mountain peaks"
+   ],
+   "a": 1,
+   "e": "They are also called polymetallic nodules."
+  },
+  {
+   "q": "What is the objective of the 'Samudrayaan Mission'?",
+   "o": [
+    "Mars mission",
+    "Lunar mission",
+    "Climate study",
+    "Deep-sea exploration for polymetallic nodules"
+   ],
+   "a": 3,
+   "e": "Matsya-6000: titanium submersible, 3 crew, 6,000 m depth."
+  },
+  {
+   "q": "Which institution is developing the Matsya-6000 submersible?",
+   "o": [
+    "NIOT, Chennai",
+    "NIO, Goa",
+    "ISRO, Bengaluru",
+    "DRDO, Delhi"
+   ],
+   "a": 0,
+   "e": "National Institute of Ocean Technology."
+  },
+  {
+   "q": "Which is the largest iron ore producing state in India?",
+   "o": [
+    "Jharkhand",
+    "Karnataka",
+    "Odisha",
+    "Chhattisgarh"
+   ],
+   "a": 2,
+   "e": "Keonjhar, Mayurbhanj, Sundargarh, Badampahar."
+  },
+  {
+   "q": "The Bailadila iron ore mines are in which state?",
+   "o": [
+    "Jharkhand",
+    "Odisha",
+    "Chhattisgarh",
+    "Karnataka"
+   ],
+   "a": 2,
+   "e": "Jharkhand has Singhbhum and Noamundi."
+  },
+  {
+   "q": "Which type of coal is known as 'brown coal'?",
+   "o": [
+    "Peat",
+    "Bituminous",
+    "Anthracite",
+    "Lignite"
+   ],
+   "a": 3,
+   "e": "The main source of lignite is Neyveli (Tamil Nadu)."
+  },
+  {
+   "q": "Which is the highest grade of coal?",
+   "o": [
+    "Bituminous",
+    "Lignite",
+    "Anthracite",
+    "Peat"
+   ],
+   "a": 2,
+   "e": "High carbon, low moisture; order: peat < lignite < bituminous < anthracite."
+  },
+  {
+   "q": "Which is the lowest grade of coal?",
+   "o": [
+    "Peat",
+    "Lignite",
+    "Bituminous",
+    "Anthracite"
+   ],
+   "a": 0,
+   "e": "Peat has the highest moisture content."
+  },
+  {
+   "q": "Which coal is found most abundantly in India?",
+   "o": [
+    "Peat",
+    "Lignite",
+    "Bituminous",
+    "Anthracite"
+   ],
+   "a": 2,
+   "e": "Used as metallurgical coal."
+  },
+  {
+   "q": "Where is Tertiary coal found in India?",
+   "o": [
+    "Chhattisgarh",
+    "Jharkhand",
+    "Tamil Nadu",
+    "North-east India (Meghalaya, Namchik-Namphuk in Arunachal)"
+   ],
+   "a": 3,
+   "e": "Most of India's coal is Gondwana coal."
+  },
+  {
+   "q": "Why is coal called 'buried sunshine'?",
+   "o": [
+    "It forms from the sun's heat",
+    "It is matter fallen from the sun",
+    "It is formed from fossils of ancient plants",
+    "It is dried in sunlight"
+   ],
+   "a": 2,
+   "e": "Fossils turn into coal under great pressure and heat; a non-renewable resource."
+  },
+  {
+   "q": "Which of the following energy sources is non-renewable?",
+   "o": [
+    "Wind",
+    "Tidal",
+    "Coal",
+    "Solar"
+   ],
+   "a": 2,
+   "e": "Coal is not formed at the rate at which it is consumed."
+  },
+  {
+   "q": "Which industry is set up near the source of raw material (heavy industry)?",
+   "o": [
+    "Electronics assembly",
+    "Diamond cutting",
+    "Jewellery making",
+    "Iron and steel industry"
+   ],
+   "a": 3,
+   "e": "Because the raw materials are heavy."
+  },
+  {
+   "q": "Which three steel plants were set up during the Second Five-Year Plan?",
+   "o": [
+    "Burnpur, Rourkela, Bokaro",
+    "Rourkela, Durgapur, Bhilai",
+    "Visakhapatnam, Bhadravati, Jamshedpur",
+    "Bokaro, Salem, Vijayanagar"
+   ],
+   "a": 1,
+   "e": "Rourkela (Odisha), Durgapur (WB), Bhilai (Chhattisgarh)."
+  },
+  {
+   "q": "What is meant by a footloose industry?",
+   "o": [
+    "Not tied to raw-material sources; can be set up anywhere",
+    "Located only near ports",
+    "Located only in coalfields",
+    "Only in the public sector"
+   ],
+   "a": 0,
+   "e": "Example: diamonds - mined at Panna, processed at Surat."
+  },
+  {
+   "q": "The Sardar Sarovar Project is on which river?",
+   "o": [
+    "Narmada",
+    "Tapti",
+    "Chambal",
+    "Mahi"
+   ],
+   "a": 0,
+   "e": "The Indira Sagar Dam is also on the Narmada."
+  },
+  {
+   "q": "Which Indian river crosses the Tropic of Cancer twice?",
+   "o": [
+    "Mahi",
+    "Chambal",
+    "Narmada",
+    "Tapti"
+   ],
+   "a": 0,
+   "e": "The Mahi drains into the Gulf of Khambhat."
+  },
+  {
+   "q": "Jawahar Sagar, Rana Pratap Sagar and Gandhi Sagar dams are on which river?",
+   "o": [
+    "Tapti",
+    "Mahi",
+    "Narmada",
+    "Chambal"
+   ],
+   "a": 3,
+   "e": "Gandhi Sagar is in MP; the other two are in Rajasthan."
+  },
+  {
+   "q": "The Ukai Dam is on which river?",
+   "o": [
+    "Sabarmati",
+    "Tapti",
+    "Mahi",
+    "Narmada"
+   ],
+   "a": 1,
+   "e": "Located in Gujarat."
+  },
+  {
+   "q": "Which is the highest gravity dam in India?",
+   "o": [
+    "Tehri",
+    "Bhakra (Sutlej)",
+    "Sardar Sarovar",
+    "Hirakud"
+   ],
+   "a": 1,
+   "e": "Bhakra is in Himachal Pradesh and Nangal in Punjab."
+  },
+  {
+   "q": "Which is the highest dam in India?",
+   "o": [
+    "Bhakra",
+    "Hirakud",
+    "Tehri (Bhagirathi)",
+    "Nagarjuna Sagar"
+   ],
+   "a": 2,
+   "e": "Tehri is an earth-and-rockfill dam in Uttarakhand."
+  },
+  {
+   "q": "Which is the longest dam in India?",
+   "o": [
+    "Bhakra (Sutlej)",
+    "Tehri (Bhagirathi)",
+    "Srisailam (Krishna)",
+    "Hirakud (Mahanadi)"
+   ],
+   "a": 3,
+   "e": "Located at Sambalpur, Odisha."
+  },
+  {
+   "q": "What was the ancient name of the Sutlej river?",
+   "o": [
+    "Parushni",
+    "Vipasha",
+    "Vitasta",
+    "Shatadru (Shutudri)"
+   ],
+   "a": 3,
+   "e": "Rises at Rakshastal, enters India at Shipki La; called Langchen Khambab in Tibet."
+  },
+  {
+   "q": "Which is the longest tributary of the Indus?",
+   "o": [
+    "Ravi",
+    "Jhelum",
+    "Chenab",
+    "Sutlej"
+   ],
+   "a": 3,
+   "e": "The largest tributary (by volume) is the Chenab."
+  },
+  {
+   "q": "Which is the largest freshwater lake in India?",
+   "o": [
+    "Dal Lake",
+    "Loktak Lake",
+    "Wular Lake",
+    "Vembanad Lake"
+   ],
+   "a": 2,
+   "e": "Wular is fed by the Jhelum; Loktak is the largest in the North-east."
+  },
+  {
+   "q": "By what name is Dal Lake known?",
+   "o": [
+    "Pearl of the Himalayas",
+    "Queen of Kashmir",
+    "Jewel of Srinagar",
+    "Switzerland of the East"
+   ],
+   "a": 2,
+   "e": "Called the 'Jewel of Srinagar'."
+  },
+  {
+   "q": "Loktak Lake is in which state?",
+   "o": [
+    "Meghalaya",
+    "Assam",
+    "Mizoram",
+    "Manipur"
+   ],
+   "a": 3,
+   "e": "Home to Keibul Lamjao National Park; listed in the Montreux Record."
+  },
+  {
+   "q": "Which is the world's only floating national park?",
+   "o": [
+    "Sundarbans",
+    "Kaziranga",
+    "Manas",
+    "Keibul Lamjao"
+   ],
+   "a": 3,
+   "e": "On Loktak Lake in Manipur."
+  },
+  {
+   "q": "Which is the largest brackish water lake in India?",
+   "o": [
+    "Vembanad Lake",
+    "Chilika Lake",
+    "Sambhar Lake",
+    "Pulicat Lake"
+   ],
+   "a": 1,
+   "e": "A coastal lagoon in Odisha."
+  },
+  {
+   "q": "Chilika Lake spreads across which three districts of Odisha?",
+   "o": [
+    "Koraput, Ganjam, Khordha",
+    "Puri, Khordha, Ganjam",
+    "Cuttack, Balasore, Puri",
+    "Sundargarh, Puri, Cuttack"
+   ],
+   "a": 1,
+   "e": "India's largest coastal lagoon."
+  },
+  {
+   "q": "Mizoram is also known by which name?",
+   "o": [
+    "Molassis basin",
+    "Crown of the Seven Sisters",
+    "Scotland of the East",
+    "Gateway to Heaven"
+   ],
+   "a": 0,
+   "e": "It has the Dampa Tiger Reserve."
+  },
+  {
+   "q": "Which is the largest inland saline lake in India?",
+   "o": [
+    "Sambhar Lake",
+    "Pulicat Lake",
+    "Wular Lake",
+    "Chilika Lake"
+   ],
+   "a": 0,
+   "e": "Located in Rajasthan; Chilika is a coastal lagoon."
+  },
+  {
+   "q": "Pushkar Lake is in which district?",
+   "o": [
+    "Ajmer",
+    "Jaipur",
+    "Udaipur",
+    "Jodhpur"
+   ],
+   "a": 0,
+   "e": "Ana Sagar is also in Ajmer."
+  },
+  {
+   "q": "Asia's largest oxbow lake (Kabar Tal) is in which state?",
+   "o": [
+    "Bihar",
+    "West Bengal",
+    "Uttar Pradesh",
+    "Assam"
+   ],
+   "a": 0,
+   "e": "In Begusarai district."
+  },
+  {
+   "q": "Where is Pulicat Lake located?",
+   "o": [
+    "Andhra Pradesh-Tamil Nadu border",
+    "Maharashtra-Goa border",
+    "Kerala-Karnataka border",
+    "Odisha-Bengal border"
+   ],
+   "a": 0,
+   "e": "Second largest brackish coastal lagoon after Chilika."
+  },
+  {
+   "q": "Which is the longest lake in India and where is it?",
+   "o": [
+    "Loktak - Manipur",
+    "Vembanad - Kerala",
+    "Chilika - Odisha",
+    "Sambhar - Rajasthan"
+   ],
+   "a": 1,
+   "e": "Kerala's backwaters are called 'kayals'."
+  },
+  {
+   "q": "The Nehru Trophy Boat Race is held on which kayal?",
+   "o": [
+    "Punnamada Kayal (Kerala)",
+    "Dal",
+    "Loktak",
+    "Chilika"
+   ],
+   "a": 0,
+   "e": "At Alappuzha."
+  },
+  {
+   "q": "Which statement about Kolleru Lake is correct?",
+   "o": [
+    "Not a lagoon but a freshwater lake between the Godavari and Krishna in Andhra Pradesh",
+    "Located in Rajasthan",
+    "A saltwater lake",
+    "A lagoon like Chilika"
+   ],
+   "a": 0,
+   "e": "Pulicat, Chilika and Vembanad are lagoons."
+  },
+  {
+   "q": "What type of lake is Lonar Lake?",
+   "o": [
+    "Glacial lake",
+    "Crater lake formed by a meteorite impact",
+    "Lagoon",
+    "Oxbow lake"
+   ],
+   "a": 1,
+   "e": "In Buldhana district, Maharashtra."
+  },
+  {
+   "q": "The Koyna project is built on a tributary of which river?",
+   "o": [
+    "Krishna",
+    "Narmada",
+    "Godavari",
+    "Kaveri"
+   ],
+   "a": 0,
+   "e": "Krishna tributaries: Bhima, Tungabhadra, Musi, Koyna, Ghataprabha, Malaprabha, Dudhganga."
+  },
+  {
+   "q": "Where are Pangong Tso and Tso Moriri lakes located?",
+   "o": [
+    "Ladakh",
+    "Uttarakhand",
+    "Sikkim",
+    "Himachal Pradesh"
+   ],
+   "a": 0,
+   "e": "Both are saltwater lakes."
+  },
+  {
+   "q": "Gurudongmar Lake is in which state?",
+   "o": [
+    "Himachal Pradesh",
+    "Arunachal Pradesh",
+    "Sikkim",
+    "Ladakh"
+   ],
+   "a": 2,
+   "e": "One of the highest-altitude lakes in India."
+  },
+  {
+   "q": "From where does the Indira Gandhi Canal originate?",
+   "o": [
+    "Bhakra",
+    "Ferozepur",
+    "Harike (Sutlej-Beas confluence)",
+    "Ropar"
+   ],
+   "a": 2,
+   "e": "Irrigates the Rajasthan desert."
+  },
+  {
+   "q": "Where does the Chambal river rise and of which river is it a tributary?",
+   "o": [
+    "Mhow plateau; Yamuna",
+    "Betul; Tapti",
+    "Amarkantak; Ganga",
+    "Nashik; Godavari"
+   ],
+   "a": 0,
+   "e": "Famous for its ravine (badland) topography."
+  },
+  {
+   "q": "The Tehri Dam is on which river?",
+   "o": [
+    "Alaknanda",
+    "Yamuna",
+    "Bhagirathi",
+    "Ganga"
+   ],
+   "a": 2,
+   "e": "India's highest dam."
+  },
+  {
+   "q": "At which prayag do the Bhagirathi and Alaknanda meet?",
+   "o": [
+    "Rudraprayag",
+    "Devprayag",
+    "Nandprayag",
+    "Karnaprayag"
+   ],
+   "a": 1,
+   "e": "From here onwards the river is called the Ganga."
+  },
+  {
+   "q": "Where does the Mandakini river join the Alaknanda?",
+   "o": [
+    "Karnaprayag",
+    "Nandprayag",
+    "Vishnuprayag",
+    "Rudraprayag"
+   ],
+   "a": 3,
+   "e": "Pindar-Karnaprayag; Nandakini-Nandprayag; Dhauliganga-Vishnuprayag."
+  },
+  {
+   "q": "Where does the Pindar river join the Alaknanda?",
+   "o": [
+    "Devprayag",
+    "Nandprayag",
+    "Karnaprayag",
+    "Vishnuprayag"
+   ],
+   "a": 2,
+   "e": "One of the Panch Prayag."
+  },
+  {
+   "q": "By what name is Barapani Lake near Shillong known?",
+   "o": [
+    "Bada Pani",
+    "Loktak Lake",
+    "Umiam Lake",
+    "Umroi Lake"
+   ],
+   "a": 2,
+   "e": "Located in Meghalaya."
+  },
+  {
+   "q": "Which is the largest artificial lake in India?",
+   "o": [
+    "Hirakud Reservoir",
+    "Govind Ballabh Pant Sagar",
+    "Jaisamand Lake",
+    "Ana Sagar"
+   ],
+   "a": 1,
+   "e": "On the Rihand (a Son tributary) in UP; named after UP's first Chief Minister."
+  },
+  {
+   "q": "Jaisamand (Dhebar) Lake, one of the largest artificial lakes in India, is in which district?",
+   "o": [
+    "Ajmer",
+    "Jaipur",
+    "Kota",
+    "Udaipur"
+   ],
+   "a": 3,
+   "e": "Located in Rajasthan."
+  },
+  {
+   "q": "Which is the largest brackish water wetland in India overall?",
+   "o": [
+    "Sambhar",
+    "Pulicat",
+    "Chilika",
+    "Loktak"
+   ],
+   "a": 2,
+   "e": "Largest inland saline wetland: Sambhar."
+  },
+  {
+   "q": "Which lake of Rajasthan is artificial?",
+   "o": [
+    "Didwana",
+    "Ana Sagar",
+    "Pushkar",
+    "Sambhar"
+   ],
+   "a": 1,
+   "e": "Built by Arnoraja (grandfather of Prithviraj Chauhan) in 1135-1150."
+  },
+  {
+   "q": "Pitti Island of Lakshadweep is known for what?",
+   "o": [
+    "Largest island",
+    "Tourist centre",
+    "Uninhabited island and bird sanctuary",
+    "Largest population"
+   ],
+   "a": 2,
+   "e": "No permanent residents live there."
+  },
+  {
+   "q": "The Desert National Park of Rajasthan lies in which districts?",
+   "o": [
+    "Churu and Sikar",
+    "Ajmer and Pali",
+    "Jodhpur and Bikaner",
+    "Jaisalmer and Barmer"
+   ],
+   "a": 3,
+   "e": "Famous for the Great Indian Bustard (Godawan)."
+  },
+  {
+   "q": "The Sundarbans Biosphere Reserve is in which state?",
+   "o": [
+    "Odisha",
+    "Assam",
+    "Andhra Pradesh",
+    "West Bengal"
+   ],
+   "a": 3,
+   "e": "World's largest mangrove forest; famous for the Royal Bengal Tiger."
+  },
+  {
+   "q": "Which was India's first biosphere reserve?",
+   "o": [
+    "Sundarbans",
+    "Nanda Devi",
+    "Gulf of Mannar",
+    "Nilgiri"
+   ],
+   "a": 3,
+   "e": "Got UNESCO recognition in 2000; spread over Tamil Nadu, Kerala and Karnataka."
+  },
+  {
+   "q": "How many biosphere reserves are there in India?",
+   "o": [
+    "11",
+    "25",
+    "18",
+    "14"
+   ],
+   "a": 2,
+   "e": "Many of them are in UNESCO's MAB network."
+  },
+  {
+   "q": "The Cold Desert Biosphere Reserve is in which state?",
+   "o": [
+    "Himachal Pradesh",
+    "Ladakh",
+    "Sikkim",
+    "Uttarakhand"
+   ],
+   "a": 0,
+   "e": "Added to UNESCO's MAB network in 2025."
+  },
+  {
+   "q": "In which state is Pachmarhi Biosphere Reserve and by what nickname is it known?",
+   "o": [
+    "Chhattisgarh; Queen of the Vindhyas",
+    "Maharashtra; Queen of the Western Ghats",
+    "Madhya Pradesh; Queen of Satpura",
+    "Rajasthan; Queen of the Aravallis"
+   ],
+   "a": 2,
+   "e": "Located in the Satpura Range."
+  },
+  {
+   "q": "In which state is Similipal, and what was it declared in April 2025?",
+   "o": [
+    "Jharkhand; first national park",
+    "Odisha; second national park",
+    "Assam; third national park",
+    "Chhattisgarh; second national park"
+   ],
+   "a": 1,
+   "e": "Odisha's first national park is Bhitarkanika."
+  },
+  {
+   "q": "The Achanakmar-Amarkantak Biosphere Reserve lies on the border of which states?",
+   "o": [
+    "Rajasthan and Gujarat",
+    "Jharkhand and Odisha",
+    "Madhya Pradesh and Chhattisgarh",
+    "Maharashtra and MP"
+   ],
+   "a": 2,
+   "e": "Amarkantak is the source of the Narmada."
+  },
+  {
+   "q": "Where is Khangchendzonga located and what is its distinction?",
+   "o": [
+    "Nepal; the largest",
+    "Uttarakhand; the highest",
+    "Sikkim; India's only mixed World Heritage Site",
+    "Assam; the oldest"
+   ],
+   "a": 2,
+   "e": "Inscribed on both natural and cultural criteria."
+  },
+  {
+   "q": "Nokrek Biosphere Reserve is in which state?",
+   "o": [
+    "Tripura",
+    "Nagaland",
+    "Meghalaya",
+    "Arunachal Pradesh"
+   ],
+   "a": 2,
+   "e": "Nanda Devi is in Uttarakhand."
+  },
+  {
+   "q": "The Great Nicobar Biosphere Reserve is in which Union Territory?",
+   "o": [
+    "Lakshadweep",
+    "Andaman and Nicobar Islands",
+    "Puducherry",
+    "Daman and Diu"
+   ],
+   "a": 1,
+   "e": "Gulf of Mannar is in Tamil Nadu."
+  },
+  {
+   "q": "Kaziranga National Park is famous for what?",
+   "o": [
+    "Tiger",
+    "Elephant",
+    "One-horned rhinoceros",
+    "Asiatic lion"
+   ],
+   "a": 2,
+   "e": "Located in Assam."
+  },
+  {
+   "q": "Ranthambore National Park is in which state?",
+   "o": [
+    "Rajasthan",
+    "Madhya Pradesh",
+    "Uttarakhand",
+    "Gujarat"
+   ],
+   "a": 0,
+   "e": "Famous for tigers."
+  },
+  {
+   "q": "Which statement about Jim Corbett National Park is correct?",
+   "o": [
+    "India's first national park (1936), in Uttarakhand; Project Tiger began here",
+    "India's second national park, in Rajasthan",
+    "Only for lions",
+    "Established in Assam in 1973"
+   ],
+   "a": 0,
+   "e": "Formerly called Hailey National Park."
+  },
+  {
+   "q": "In which year was Project Tiger launched?",
+   "o": [
+    "1973",
+    "2006",
+    "1986",
+    "1952"
+   ],
+   "a": 0,
+   "e": "It began at Jim Corbett."
+  },
+  {
+   "q": "The Valley of Flowers and Rajaji National Park are in which state?",
+   "o": [
+    "Sikkim",
+    "Jammu and Kashmir",
+    "Uttarakhand",
+    "Himachal Pradesh"
+   ],
+   "a": 2,
+   "e": "Rajaji was in the news recently for its wildlife corridor."
+  },
+  {
+   "q": "Silent Valley National Park is in which state?",
+   "o": [
+    "Tamil Nadu",
+    "Kerala",
+    "Karnataka",
+    "Andhra Pradesh"
+   ],
+   "a": 1,
+   "e": "In Palakkad district."
+  },
+  {
+   "q": "Orang, Manas and Dibru-Saikhowa National Parks are in which state?",
+   "o": [
+    "West Bengal",
+    "Assam",
+    "Arunachal Pradesh",
+    "Nagaland"
+   ],
+   "a": 1,
+   "e": "Buxa Tiger Reserve is in West Bengal."
+  },
+  {
+   "q": "Bhitarkanika National Park is in which state?",
+   "o": [
+    "Tamil Nadu",
+    "Andhra Pradesh",
+    "West Bengal",
+    "Odisha"
+   ],
+   "a": 3,
+   "e": "Known for mangroves and saltwater crocodiles."
+  },
+  {
+   "q": "Pench National Park lies on the border of which states?",
+   "o": [
+    "UP and Uttarakhand",
+    "Odisha and Chhattisgarh",
+    "Rajasthan and Gujarat",
+    "Madhya Pradesh and Maharashtra"
+   ],
+   "a": 3,
+   "e": "Night safari has been permitted here."
+  },
+  {
+   "q": "Kanha, Madhav and Bandhavgarh National Parks are in which state?",
+   "o": [
+    "Madhya Pradesh",
+    "Maharashtra",
+    "Uttar Pradesh",
+    "Chhattisgarh"
+   ],
+   "a": 0,
+   "e": "MP has the most national parks."
+  },
+  {
+   "q": "Dudhwa National Park is in which state?",
+   "o": [
+    "Punjab",
+    "Uttarakhand",
+    "Bihar",
+    "Uttar Pradesh"
+   ],
+   "a": 3,
+   "e": "In Lakhimpur Kheri district."
+  },
+  {
+   "q": "In which park have cheetahs been reintroduced in India?",
+   "o": [
+    "Panna",
+    "Madhav",
+    "Kuno",
+    "Van Vihar"
+   ],
+   "a": 2,
+   "e": "In Sheopur district, MP."
+  },
+  {
+   "q": "Gir National Park is famous for what?",
+   "o": [
+    "Elephant",
+    "Rhinoceros",
+    "Asiatic lion",
+    "Tiger"
+   ],
+   "a": 2,
+   "e": "In Gujarat; Vansda National Park is also in Gujarat."
+  },
+  {
+   "q": "Which is the lowest layer of the atmosphere?",
+   "o": [
+    "Stratosphere",
+    "Troposphere",
+    "Exosphere",
+    "Mesosphere"
+   ],
+   "a": 1,
+   "e": "All weather phenomena occur here."
+  },
+  {
+   "q": "What is the average height of the troposphere?",
+   "o": [
+    "8 km",
+    "About 13 km",
+    "85 km",
+    "50 km"
+   ],
+   "a": 1,
+   "e": "About 18 km at the equator and 8 km at the poles."
+  },
+  {
+   "q": "Why is the troposphere higher over the equator?",
+   "o": [
+    "Due to more rainfall",
+    "Due to Earth's rotation",
+    "Due to higher pressure",
+    "Intense heating carries convection currents higher"
+   ],
+   "a": 3,
+   "e": "Convection is weaker at the poles."
+  },
+  {
+   "q": "What is the rate at which temperature decreases with height (normal lapse rate)?",
+   "o": [
+    "0.65 degrees per km",
+    "10 degrees per km",
+    "6.5 degrees Celsius per km",
+    "1 degree per km"
+   ],
+   "a": 2,
+   "e": "About 1 degree per 165 metres."
+  },
+  {
+   "q": "In which layer of the atmosphere is the ozone layer found?",
+   "o": [
+    "Stratosphere",
+    "Mesosphere",
+    "Ionosphere",
+    "Troposphere"
+   ],
+   "a": 0,
+   "e": "It protects against harmful UV rays; the stratosphere extends up to about 50 km."
+  },
+  {
+   "q": "When and why is International Ozone Day observed?",
+   "o": [
+    "5 June - Stockholm Conference",
+    "22 April - Earth Day",
+    "21 March - Forest Day",
+    "16 September - signing of the Montreal Protocol in 1987"
+   ],
+   "a": 3,
+   "e": "For controlling CFCs; ozone thickness is measured in Dobson units."
+  },
+  {
+   "q": "Which is the coldest layer of the atmosphere?",
+   "o": [
+    "Mesosphere",
+    "Troposphere",
+    "Ionosphere",
+    "Stratosphere"
+   ],
+   "a": 0,
+   "e": "Extends up to about 85 km; meteors burn up here."
+  },
+  {
+   "q": "Which layer of the atmosphere reflects radio waves?",
+   "o": [
+    "Ionosphere (thermosphere)",
+    "Troposphere",
+    "Stratosphere",
+    "Mesosphere"
+   ],
+   "a": 0,
+   "e": "It contains ions and temperature rises with height here."
+  },
+  {
+   "q": "Which is the outermost layer of the atmosphere?",
+   "o": [
+    "Mesosphere",
+    "Stratosphere",
+    "Exosphere",
+    "Ionosphere"
+   ],
+   "a": 2,
+   "e": "Order: tropo-, strato-, meso-, thermo/iono-, exosphere."
+  },
+  {
+   "q": "What is the correct order (percentage) of nitrogen, oxygen, argon and CO2 in the atmosphere?",
+   "o": [
+    "21%, 78%, 0.9%, 0.036%",
+    "78%, 21%, 0.9%, 0.036%",
+    "70%, 28%, 1%, 0.5%",
+    "78%, 21%, 0.036%, 0.9%"
+   ],
+   "a": 1,
+   "e": "Standard textbook values."
+  },
+  {
+   "q": "In which layer of the atmosphere do jet aircraft generally fly?",
+   "o": [
+    "Stratosphere",
+    "Mesosphere",
+    "Troposphere",
+    "Exosphere"
+   ],
+   "a": 0,
+   "e": "It is free of clouds and weather disturbances."
+  },
+  {
+   "q": "When does a spring tide occur?",
+   "o": [
+    "When the Sun, Earth and Moon are in a straight line",
+    "When they are at 90 degrees",
+    "Only during a solar eclipse",
+    "Only in summer"
+   ],
+   "a": 0,
+   "e": "Neap tide occurs at 90 degrees, with a smaller tidal range."
+  },
+  {
+   "q": "What happens in a semi-diurnal tide?",
+   "o": [
+    "Four high tides",
+    "One high and one low tide",
+    "Only one high tide",
+    "Two high and two low tides in about 24 hours 50 minutes"
+   ],
+   "a": 3,
+   "e": "A diurnal tide has one high and one low tide."
+  }
+ ]
+}

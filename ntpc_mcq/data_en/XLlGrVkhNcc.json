@@ -1,0 +1,1881 @@
+{
+ "title": "History Lec 2",
+ "summary": [
+  "Buddha: born 563 BC at Lumbini in the Shakya clan; father Suddhodana, mother Mahamaya, wife Yashodhara; Great Renunciation (Mahabhinishkramana) at 29, enlightenment at Bodh Gaya at 35, Mahaparinirvana at Kushinagar.",
+  "Symbols: Great Renunciation - horse; Enlightenment - Bodhi tree; First Sermon (Dhammachakra Pravartana, Sarnath) - wheel; Mahaparinirvana - stupa.",
+  "Tripitaka (Pali): Sutta (sermons), Vinaya (rules), Abhidhamma (philosophy); the 5 Nikayas of the Sutta Pitaka: Digha, Majjhima, Samyutta, Anguttara, Khuddaka.",
+  "Texts: Dhammapada (Gita of Buddhism), Visuddhimagga - Buddhaghosa, Buddhacharita - Ashvaghosha, Milindapanho - Nagasena and Menander, Mahabhashya - Patanjali, Panchatantra - Vishnu Sharma.",
+  "Parts of a stupa: Anda, Harmika, Chhatra, Yashti, Medhi/Vedika, Torana, Pradakshina Path; the three chhatras = Triratna (Buddha, Dhamma, Sangha).",
+  "Four Buddhist Councils: Rajagriha (483 BC), Vaishali (383 BC), Pataliputra (250 BC), Kundalvana-Kashmir (Kanishka); patrons A-K-A-K, presidents M-S-M-V.",
+  "Hinayana (Pali; Sri Lanka, Thailand, Cambodia) and Mahayana (Sanskrit; China, Korea, Japan); Bodhisattvas: Padmapani, Vajrapani, Manjushri.",
+  "Jainism: Triratna (Right Knowledge, Right Faith, Right Conduct), five vows (Panchavrata); 45 Agamas, 12 Angas (first Acharanga, last Drishtivada); two councils at Pataliputra (~298 BC) and Vallabhi (512 AD).",
+  "Tirthankaras: Rishabhadeva (1st, bull), Arishtanemi (22nd, conch), Parshvanath (23rd, serpent), Mahavira (24th, lion); Mahavira's father Siddhartha, mother Trishala, born at Kundagrama, died at Pavapuri, first disciple Jamali.",
+  "Chandragupta Maurya defeated Dhana Nanda in 322 BC; performed Sallekhana at Shravanabelagola with Bhadrabahu; Digambara - Bhadrabahu, Shvetambara - Sthulabhadra; Bindusara followed the Ajivikas.",
+  "Mauryan administration: Saptanga theory; Sitadhyaksha, Samaharta, Sannidhata, Nagarika, Gopa, Shulkadhyaksha, Samsthadhyaksha, Rajuka, Yukta, Gramika; taxes: Hiranya, Pranaya, Parshvika, Senabhaktam.",
+  "Provinces and capitals: Uttarapatha - Taxila, Avanti - Ujjain, Prachi - Pataliputra, Kalinga - Tosali, Dakshinapatha - Suvarnagiri; silver punch-marked coins.",
+  "Ashoka: Kalinga War 261 BC; Dhammaghosha, Dhamma Mahamattas; 14 Major Rock Edicts (13th on Kalinga), 7 Pillar Edicts; language Prakrit, scripts Brahmi, Kharosthi, Greek, Aramaic; deciphered by James Prinsep in 1837.",
+  "Sarnath Lion Capital is the National Emblem; Rampurva bull capital in Rashtrapati Bhavan; Nigali Sagar and Rummindei inscriptions in Nepal; Barabar-Nagarjuni caves for the Ajivikas (Ashoka/Dasharatha).",
+  "Others: Ajanta - Satavahanas/Vakatakas, Elephanta - Shiva, Bhimbetka - Wakankar, Bagh - Buddhist, Udayagiri-Khandagiri (Odisha) - Kharavela; ports Bharuch, Sopara, Tamralipti."
+ ],
+ "mcqs": [
+  {
+   "q": "At what age did Gautama Buddha attain enlightenment at Bodh Gaya (Bihar)?",
+   "o": [
+    "45 years",
+    "35 years",
+    "29 years",
+    "80 years"
+   ],
+   "a": 1,
+   "e": "Buddha left home at 29 and attained enlightenment at Bodh Gaya at 35."
+  },
+  {
+   "q": "Where was Gautama Buddha born?",
+   "o": [
+    "Kushinagar",
+    "Sarnath",
+    "Lumbini (Nepal)",
+    "Bodh Gaya"
+   ],
+   "a": 2,
+   "e": "He was born at Lumbini around 563 BC."
+  },
+  {
+   "q": "In which year is Gautama Buddha traditionally believed to have been born?",
+   "o": [
+    "540 BC",
+    "483 BC",
+    "322 BC",
+    "563 BC"
+   ],
+   "a": 3,
+   "e": "Buddha's birth is traditionally dated to 563 BC."
+  },
+  {
+   "q": "To which clan did Gautama Buddha belong?",
+   "o": [
+    "Shakya",
+    "Koliya",
+    "Malla",
+    "Lichchhavi"
+   ],
+   "a": 0,
+   "e": "Hence he is called Shakyamuni."
+  },
+  {
+   "q": "Who were the father and mother of Gautama Buddha respectively?",
+   "o": [
+    "Siddhartha and Trishala",
+    "Suddhodana and Mahamaya",
+    "Ajatashatru and Padmavati",
+    "Bimbisara and Chellana"
+   ],
+   "a": 1,
+   "e": "Buddha's father was Suddhodana and his mother Mahamaya."
+  },
+  {
+   "q": "In Buddhism, what is Buddha's renunciation of home called?",
+   "o": [
+    "Mahabhinishkramana",
+    "Mahaparinirvana",
+    "Dhammachakra Pravartana",
+    "Sambodhi"
+   ],
+   "a": 0,
+   "e": "Buddha undertook the Mahabhinishkramana (Great Renunciation) at the age of 29."
+  },
+  {
+   "q": "Which symbol represents Buddha's Great Renunciation (Mahabhinishkramana)?",
+   "o": [
+    "Horse",
+    "Wheel",
+    "Bodhi tree",
+    "Stupa"
+   ],
+   "a": 0,
+   "e": "The horse (Kanthaka) depicts his departure from home."
+  },
+  {
+   "q": "Which symbol represents Buddha's Mahaparinirvana?",
+   "o": [
+    "Horse",
+    "Wheel",
+    "Stupa",
+    "Lotus"
+   ],
+   "a": 2,
+   "e": "Stupas enshrine the relics of the Buddha."
+  },
+  {
+   "q": "What was the name of Buddha's horse?",
+   "o": [
+    "Chetak",
+    "Airavata",
+    "Balahaka",
+    "Kanthaka"
+   ],
+   "a": 3,
+   "e": "His charioteer was Channa."
+  },
+  {
+   "q": "Who was Buddha's maternal aunt (foster mother) and the first Buddhist nun?",
+   "o": [
+    "Amrapali",
+    "Mahamaya",
+    "Yashodhara",
+    "Mahaprajapati Gautami"
+   ],
+   "a": 3,
+   "e": "Mahaprajapati Gautami became the first nun of the Sangha."
+  },
+  {
+   "q": "What was the name of Gautama Buddha's wife?",
+   "o": [
+    "Yashoda",
+    "Trishala",
+    "Priyadarshini",
+    "Yashodhara"
+   ],
+   "a": 3,
+   "e": "Yashoda was the wife of Mahavira."
+  },
+  {
+   "q": "Who were the two early teachers of Gautama Buddha?",
+   "o": [
+    "Ashvaghosha and Nagasena",
+    "Purana Kassapa and Makkhali Gosala",
+    "Alara Kalama and Udraka Ramaputra",
+    "Upagupta and Buddhaghosa"
+   ],
+   "a": 2,
+   "e": "Buddha learnt meditation from them."
+  },
+  {
+   "q": "Which Buddhist text affirms the doctrine of Anatta by declaring all dhammas to be 'without self'?",
+   "o": [
+    "Uttaradhyayana Sutra",
+    "Bhagavati Sutra",
+    "Kalpasutra",
+    "Dhammapada"
+   ],
+   "a": 3,
+   "e": "Kalpasutra, Bhagavati Sutra and Uttaradhyayana are Jain texts."
+  },
+  {
+   "q": "Which Pitaka contains the rules of conduct and monastic life for Buddhist monks?",
+   "o": [
+    "Sutta Pitaka",
+    "Vinaya Pitaka",
+    "Abhidhamma Pitaka",
+    "Jataka"
+   ],
+   "a": 1,
+   "e": "The Vinaya Pitaka contains the rules for monks and nuns."
+  },
+  {
+   "q": "In which language is the Tripitaka written?",
+   "o": [
+    "Pali",
+    "Apabhramsha",
+    "Prakrit",
+    "Sanskrit"
+   ],
+   "a": 0,
+   "e": "All three Pitakas are in Pali, hence called the Pali Canon."
+  },
+  {
+   "q": "In which Pitaka are Buddha's sermons compiled?",
+   "o": [
+    "Abhidhamma Pitaka",
+    "Vinaya Pitaka",
+    "Sutta Pitaka",
+    "Jataka Tales"
+   ],
+   "a": 2,
+   "e": "Buddha's dialogues and sermons are in the Sutta Pitaka; Ananda was his chief disciple."
+  },
+  {
+   "q": "What does the Abhidhamma Pitaka deal with in depth?",
+   "o": [
+    "Animal fables",
+    "Folk tales",
+    "Political history",
+    "Philosophical teachings, mental phenomena and psychological insights"
+   ],
+   "a": 3,
+   "e": "The Abhidhamma contains the philosophy of Buddha's teachings."
+  },
+  {
+   "q": "Which text contains stories of the previous births of the Buddha?",
+   "o": [
+    "Jataka Tales",
+    "Manusmriti",
+    "Panchatantra",
+    "Arthashastra"
+   ],
+   "a": 0,
+   "e": "The Jataka tales narrate the Buddha's previous births."
+  },
+  {
+   "q": "Who composed the Panchatantra?",
+   "o": [
+    "Vishnu Sharma",
+    "Buddhaghosa",
+    "Ashvaghosha",
+    "Kautilya"
+   ],
+   "a": 0,
+   "e": "The Panchatantra fables were written by Vishnu Sharma."
+  },
+  {
+   "q": "Which text is called the 'Gita of Buddhism'?",
+   "o": [
+    "Dhammapada",
+    "Saddharma Pundarika Sutra",
+    "Vinaya Pitaka",
+    "Mahayana Sutra"
+   ],
+   "a": 0,
+   "e": "The Dhammapada is called the Gita of Buddhism for its essence of teachings."
+  },
+  {
+   "q": "Who is the author of the Visuddhimagga?",
+   "o": [
+    "Buddhaghosa",
+    "Ashvaghosha",
+    "Nagasena",
+    "Vasumitra"
+   ],
+   "a": 0,
+   "e": "Buddhaghosa was a renowned Pali scholar."
+  },
+  {
+   "q": "Who wrote the 'Buddhacharita'?",
+   "o": [
+    "Vasubandhu",
+    "Buddhaghosa",
+    "Nagarjuna",
+    "Ashvaghosha"
+   ],
+   "a": 3,
+   "e": "Ashvaghosha was a poet in the court of Kanishka."
+  },
+  {
+   "q": "'Milindapanho' is a dialogue between whom?",
+   "o": [
+    "Bimbisara and Buddha",
+    "Indo-Greek ruler Menander and Buddhist monk Nagasena",
+    "Ashoka and Upagupta",
+    "Kanishka and Ashvaghosha"
+   ],
+   "a": 1,
+   "e": "Milindapanho means 'Questions of Milinda'; Milinda later became a Buddhist."
+  },
+  {
+   "q": "Who is the author of the 'Mahabhashya'?",
+   "o": [
+    "Panini",
+    "Patanjali",
+    "Kautilya",
+    "Katyayana"
+   ],
+   "a": 1,
+   "e": "Patanjali was a contemporary of Pushyamitra Shunga."
+  },
+  {
+   "q": "In which Buddhist structure are the relics of the Buddha enshrined?",
+   "o": [
+    "Ashokan pillar",
+    "Stupa",
+    "Chaitya hall",
+    "Vihara"
+   ],
+   "a": 1,
+   "e": "Stupas enshrine relics of the Buddha or Bodhisattvas."
+  },
+  {
+   "q": "In Buddhist architecture, what is a 'Chaitya'?",
+   "o": [
+    "Prayer hall",
+    "Inscription",
+    "Relic mound",
+    "Residence of monks"
+   ],
+   "a": 0,
+   "e": "A vihara is the residence of monks."
+  },
+  {
+   "q": "What is the residence of Buddhist monks called?",
+   "o": [
+    "Vihara",
+    "Vedika",
+    "Stupa",
+    "Chaitya"
+   ],
+   "a": 0,
+   "e": "A chaitya is a prayer hall."
+  },
+  {
+   "q": "What is the hemispherical dome of a stupa called?",
+   "o": [
+    "Yashti",
+    "Medhi",
+    "Harmika",
+    "Anda"
+   ],
+   "a": 3,
+   "e": "The Anda is the main hemispherical part of a stupa."
+  },
+  {
+   "q": "What is the gateway of a stupa called?",
+   "o": [
+    "Harmika",
+    "Torana",
+    "Vedika",
+    "Chhatra"
+   ],
+   "a": 1,
+   "e": "The torana is the gateway; the railing is called the vedika."
+  },
+  {
+   "q": "What is the circumambulatory path around a stupa called?",
+   "o": [
+    "Pradakshina Path",
+    "Anda",
+    "Yashti",
+    "Torana"
+   ],
+   "a": 0,
+   "e": "The pradakshina path is enclosed by a railing (vedika)."
+  },
+  {
+   "q": "What do the three umbrellas (chhatras) on top of a stupa symbolise?",
+   "o": [
+    "Eightfold Path",
+    "Panchashila",
+    "Four Noble Truths",
+    "Triratna (Buddha, Dhamma, Sangha)"
+   ],
+   "a": 3,
+   "e": "The Three Jewels of Buddhism are Buddha, Dhamma and Sangha."
+  },
+  {
+   "q": "Which stupa marks the place where Buddha delivered his first sermon?",
+   "o": [
+    "Amaravati Stupa",
+    "Bharhut Stupa",
+    "Dhamek Stupa, Sarnath",
+    "Sanchi Stupa"
+   ],
+   "a": 2,
+   "e": "The first sermon was delivered at the Deer Park (Mrigadava) in Sarnath near Varanasi."
+  },
+  {
+   "q": "What is Buddha's first sermon called?",
+   "o": [
+    "Sambodhi",
+    "Mahaparinirvana",
+    "Dhammachakra Pravartana",
+    "Mahabhinishkramana"
+   ],
+   "a": 2,
+   "e": "It means 'turning the wheel of Dhamma' and its symbol is the wheel."
+  },
+  {
+   "q": "In which state is the Amaravati Stupa located?",
+   "o": [
+    "Madhya Pradesh",
+    "Uttar Pradesh",
+    "Bihar",
+    "Andhra Pradesh"
+   ],
+   "a": 3,
+   "e": "The Amaravati stupa is known for its white limestone (marble-like) sculptures."
+  },
+  {
+   "q": "What symbolises Buddha's enlightenment?",
+   "o": [
+    "Bodhi tree",
+    "Stupa",
+    "Horse",
+    "Wheel"
+   ],
+   "a": 0,
+   "e": "He attained enlightenment under the Bodhi tree at Bodh Gaya."
+  },
+  {
+   "q": "Which caves, famous for paintings and sculptures, are a masterpiece of Buddhist art?",
+   "o": [
+    "Elephanta Caves",
+    "Ajanta Caves",
+    "Udayagiri (Odisha)",
+    "Bhimbetka Caves"
+   ],
+   "a": 1,
+   "e": "Elephanta is associated with Shiva, Bhimbetka with the Stone Age."
+  },
+  {
+   "q": "Which is the most famous sculpture of the Elephanta Caves?",
+   "o": [
+    "Nataraja",
+    "Trimurti",
+    "Buddha image",
+    "Ardhanarishvara"
+   ],
+   "a": 1,
+   "e": "The Elephanta caves are dedicated to Lord Shiva."
+  },
+  {
+   "q": "Where are the Bhimbetka rock shelters located?",
+   "o": [
+    "Near Bhopal (Madhya Pradesh)",
+    "Aurangabad (Maharashtra)",
+    "Raipur (Chhattisgarh)",
+    "Nashik (Maharashtra)"
+   ],
+   "a": 0,
+   "e": "Discovered by V.S. Wakankar; they belong to the Stone Age."
+  },
+  {
+   "q": "Who discovered the Bhimbetka rock shelters?",
+   "o": [
+    "V.S. Wakankar",
+    "Daya Ram Sahni",
+    "Alexander Cunningham",
+    "John Marshall"
+   ],
+   "a": 0,
+   "e": "Bhimbetka is associated with the Palaeolithic, Mesolithic and Neolithic periods."
+  },
+  {
+   "q": "Which dynasties are associated with the construction of the Ajanta Caves?",
+   "o": [
+    "Guptas and Kushanas",
+    "Mauryas and Shungas",
+    "Satavahanas and Vakatakas",
+    "Cholas and Pallavas"
+   ],
+   "a": 2,
+   "e": "The Satavahanas and Vakatakas contributed to the Ajanta caves."
+  },
+  {
+   "q": "The Bagh Caves of Madhya Pradesh are associated with which religion?",
+   "o": [
+    "Ajivika",
+    "Jainism",
+    "Buddhism",
+    "Hinduism"
+   ],
+   "a": 2,
+   "e": "The Bagh caves are examples of Buddhist art."
+  },
+  {
+   "q": "Which of the following is NOT part of the Triratna of Jainism?",
+   "o": [
+    "Right Conduct",
+    "Right Livelihood",
+    "Right Faith",
+    "Right Knowledge"
+   ],
+   "a": 1,
+   "e": "Jain Triratna: Right Knowledge, Faith and Conduct; Right Livelihood is part of the Eightfold Path."
+  },
+  {
+   "q": "Which of the following is NOT among the five vows (Panchavrata) of Jainism?",
+   "o": [
+    "Ahimsa",
+    "Aparigraha",
+    "Ashtanga Yoga",
+    "Asteya"
+   ],
+   "a": 2,
+   "e": "The five vows: Ahimsa, Satya, Asteya, Brahmacharya, Aparigraha."
+  },
+  {
+   "q": "What does 'Aparigraha' mean in Jainism?",
+   "o": [
+    "Speaking the truth",
+    "Non-attachment / non-possession",
+    "Non-stealing",
+    "Non-violence"
+   ],
+   "a": 1,
+   "e": "Aparigraha means not being attached to possessions or persons."
+  },
+  {
+   "q": "Which of the following is NOT a principle of Jainism?",
+   "o": [
+    "Practice of non-violence",
+    "Belief that even stones and water have life",
+    "Rejection of the doctrine of karma",
+    "Renunciation as the path to liberation"
+   ],
+   "a": 2,
+   "e": "Jainism accepts the doctrine of karma; it does not reject it."
+  },
+  {
+   "q": "What is the first of the 'Four Noble Truths' of Buddhism?",
+   "o": [
+    "Suffering can be ended",
+    "The world is full of suffering",
+    "Suffering ends through the Eightfold Path",
+    "Desire is the cause of suffering"
+   ],
+   "a": 1,
+   "e": "The second truth is that desire (tanha) is the root cause of suffering."
+  },
+  {
+   "q": "What is the path to end suffering in Buddhism?",
+   "o": [
+    "Panchavrata",
+    "Eightfold Path",
+    "Triratna",
+    "Saptanga theory"
+   ],
+   "a": 1,
+   "e": "The Eightfold Path includes right speech, action, effort, resolve, view, concentration, livelihood and mindfulness."
+  },
+  {
+   "q": "Which of the following is NOT part of the Eightfold Path?",
+   "o": [
+    "Right Aparigraha",
+    "Right Livelihood",
+    "Right Concentration",
+    "Right Speech"
+   ],
+   "a": 0,
+   "e": "Aparigraha is one of the Jain five vows."
+  },
+  {
+   "q": "Which revered Shvetambara Jain text describes the lives of the 24 Tirthankaras and is read during Paryushana?",
+   "o": [
+    "Bhagavati Sutra",
+    "Acharanga Sutra",
+    "Uttaradhyayana Sutra",
+    "Kalpasutra"
+   ],
+   "a": 3,
+   "e": "Paryushana is observed for 8-10 days around August-September."
+  },
+  {
+   "q": "Paryushana is a major festival of which religion?",
+   "o": [
+    "Zoroastrianism",
+    "Sikhism",
+    "Jainism",
+    "Buddhism"
+   ],
+   "a": 2,
+   "e": "It is celebrated around August-September."
+  },
+  {
+   "q": "What are the two sects of Jainism?",
+   "o": [
+    "Shaiva and Vaishnava",
+    "Shvetambara and Digambara",
+    "Hinayana and Mahayana",
+    "Theravada and Vajrayana"
+   ],
+   "a": 1,
+   "e": "Shvetambaras wear white clothes; Digambaras remain unclothed."
+  },
+  {
+   "q": "Which Jain text, well known in the West, deals with monastic conduct, sermons and poetic teachings?",
+   "o": [
+    "Bhagavati Sutra",
+    "Samavayanga",
+    "Kalpasutra",
+    "Acharanga Sutra"
+   ],
+   "a": 3,
+   "e": "The Acharanga Sutra, first of the 12 Angas, focuses on monastic conduct."
+  },
+  {
+   "q": "How many Agamas are recognised in the Shvetambara tradition?",
+   "o": [
+    "45",
+    "24",
+    "12",
+    "84"
+   ],
+   "a": 0,
+   "e": "There are 45 Agamas, including the 12 Angas."
+  },
+  {
+   "q": "Which is the last (12th) of the 12 Angas of Jainism?",
+   "o": [
+    "Bhagavati",
+    "Acharanga",
+    "Drishtivada",
+    "Sutrakritanga"
+   ],
+   "a": 2,
+   "e": "The first is Acharanga and the twelfth is Drishtivada."
+  },
+  {
+   "q": "Where was the first systematic compilation of Jain literature (First Jain Council) held?",
+   "o": [
+    "Rajagriha",
+    "Vallabhi",
+    "Vaishali",
+    "Pataliputra"
+   ],
+   "a": 3,
+   "e": "The first council was held at Pataliputra around 298 BC, compiling the 12 Angas."
+  },
+  {
+   "q": "Where and when was the Second Jain Council held?",
+   "o": [
+    "Ujjain, 100 AD",
+    "Vallabhi (Gujarat), around 512 AD",
+    "Pataliputra, 298 BC",
+    "Mathura, 300 AD"
+   ],
+   "a": 1,
+   "e": "It was presided over by Devardhi Kshamashramana."
+  },
+  {
+   "q": "Who presided over the First Jain Council (according to tradition)?",
+   "o": [
+    "Sthulabhadra",
+    "Jamali",
+    "Bhadrabahu",
+    "Devardhi Kshamashramana"
+   ],
+   "a": 0,
+   "e": "It was held during the reign of Chandragupta Maurya."
+  },
+  {
+   "q": "How many Buddhist Councils were held in all?",
+   "o": [
+    "Three",
+    "Five",
+    "Two",
+    "Four"
+   ],
+   "a": 3,
+   "e": "Rajagriha, Vaishali, Pataliputra and Kundalvana (Kashmir)."
+  },
+  {
+   "q": "What is the correct order of the four Buddhist Councils?",
+   "o": [
+    "Pataliputra, Rajagriha, Vaishali, Kundalvana",
+    "Rajagriha, Pataliputra, Vaishali, Kundalvana",
+    "Rajagriha, Vaishali, Pataliputra, Kundalvana",
+    "Vaishali, Rajagriha, Kundalvana, Pataliputra"
+   ],
+   "a": 2,
+   "e": "Order: Rajagriha - Vaishali - Pataliputra - Kundalvana."
+  },
+  {
+   "q": "Who were the patrons of the four Buddhist Councils respectively?",
+   "o": [
+    "Ajatashatru, Kalashoka, Ashoka, Kanishka",
+    "Ajatashatru, Udayin, Ashoka, Kanishka",
+    "Bindusara, Kalashoka, Chandragupta, Kanishka",
+    "Bimbisara, Kalashoka, Ashoka, Harsha"
+   ],
+   "a": 0,
+   "e": "Memory trick: A-K-A-K."
+  },
+  {
+   "q": "Who presided over the four Buddhist Councils respectively?",
+   "o": [
+    "Sabakami, Mahakassapa, Tissa, Ashvaghosha",
+    "Ananda, Upali, Tissa, Ashvaghosha",
+    "Mahakassapa, Upali, Nagasena, Vasumitra",
+    "Mahakassapa, Sabakami, Moggaliputta Tissa, Vasumitra"
+   ],
+   "a": 3,
+   "e": "Memory trick: M-S-M-V."
+  },
+  {
+   "q": "Where was the Third Buddhist Council held?",
+   "o": [
+    "Kundalvana",
+    "Vaishali",
+    "Pataliputra",
+    "Rajagriha"
+   ],
+   "a": 2,
+   "e": "It was held around 250 BC under Ashoka's patronage."
+  },
+  {
+   "q": "In which year was the First Buddhist Council held?",
+   "o": [
+    "383 BC",
+    "483 BC",
+    "72 AD",
+    "250 BC"
+   ],
+   "a": 1,
+   "e": "The Second Council was in 383 BC and the Third in 250 BC."
+  },
+  {
+   "q": "Where, and under whose patronage, was the Fourth Buddhist Council held?",
+   "o": [
+    "Pataliputra, Ashoka",
+    "Vaishali, Kalashoka",
+    "Kundalvana (Kashmir), Kanishka",
+    "Rajagriha, Ajatashatru"
+   ],
+   "a": 2,
+   "e": "Kanishka was a Kushana ruler; Buddhism split into two sects at this council."
+  },
+  {
+   "q": "Into which two sects did Buddhism split at the Fourth Buddhist Council?",
+   "o": [
+    "Hinayana and Mahayana",
+    "Shvetambara and Digambara",
+    "Shaiva and Shakta",
+    "Theravada and Advaita"
+   ],
+   "a": 0,
+   "e": "Hinayana means 'Lesser Vehicle' and Mahayana 'Greater Vehicle'."
+  },
+  {
+   "q": "In which countries are followers of Hinayana mainly found?",
+   "o": [
+    "Russia, Mongolia, Iran",
+    "Sri Lanka, Thailand, Cambodia",
+    "China, Korea, Japan",
+    "India, Nepal, Bhutan"
+   ],
+   "a": 1,
+   "e": "Their scriptures are in Pali and they do not believe in image worship."
+  },
+  {
+   "q": "In which countries did Mahayana mainly spread?",
+   "o": [
+    "China, Korea, Japan",
+    "Maldives, Nepal",
+    "Afghanistan, Iran",
+    "Sri Lanka, Thailand"
+   ],
+   "a": 0,
+   "e": "Their scriptures are in Sanskrit and they practise image worship."
+  },
+  {
+   "q": "The concept of the Bodhisattva is associated with which sect?",
+   "o": [
+    "Shvetambara",
+    "Hinayana",
+    "Mahayana",
+    "Digambara"
+   ],
+   "a": 2,
+   "e": "A Bodhisattva postpones his own nirvana to help others attain enlightenment."
+  },
+  {
+   "q": "Which of the following is NOT a Bodhisattva?",
+   "o": [
+    "Nagasena",
+    "Vajrapani",
+    "Padmapani (Avalokiteshvara)",
+    "Manjushri"
+   ],
+   "a": 0,
+   "e": "Padmapani, Vajrapani and Manjushri are famous Mahayana Bodhisattvas."
+  },
+  {
+   "q": "Vajrapani is known as the Bodhisattva of what?",
+   "o": [
+    "Wisdom",
+    "The first monk",
+    "Compassion",
+    "Protection"
+   ],
+   "a": 3,
+   "e": "Padmapani is also called Avalokiteshvara."
+  },
+  {
+   "q": "Which five Nikayas make up the Sutta Pitaka of the Tripitaka?",
+   "o": [
+    "Digha, Jataka, Vinaya, Khuddaka, Abhidhamma",
+    "Digha, Majjhima, Vinaya, Anguttara, Jataka",
+    "Digha, Majjhima, Samyutta, Anguttara, Khuddaka",
+    "Sutta, Vinaya, Samyutta, Anguttara, Khuddaka"
+   ],
+   "a": 2,
+   "e": "Nikaya means collection."
+  },
+  {
+   "q": "What does the Digha Nikaya mean?",
+   "o": [
+    "Middle-length discourses",
+    "Collection of long discourses",
+    "Numerical discourses",
+    "Minor discourses"
+   ],
+   "a": 1,
+   "e": "Majjhima = middle-length, Anguttara = numerical, Khuddaka = minor, Samyutta = connected."
+  },
+  {
+   "q": "What is the Anguttara Nikaya known for?",
+   "o": [
+    "Long discourses",
+    "Connected discourses",
+    "Discourses arranged numerically",
+    "Minor works"
+   ],
+   "a": 2,
+   "e": "Anguttara = numerical discourses."
+  },
+  {
+   "q": "During a famine in Magadha, with whom did Chandragupta Maurya go to Shravanabelagola?",
+   "o": [
+    "Sthulabhadra",
+    "Mahavira",
+    "Upagupta",
+    "Bhadrabahu"
+   ],
+   "a": 3,
+   "e": "There he gave up his life through Sallekhana (fasting unto death)."
+  },
+  {
+   "q": "What is the Jain practice of voluntarily fasting unto death called?",
+   "o": [
+    "Kaivalya",
+    "Sallekhana",
+    "Nirvana",
+    "Tapasya"
+   ],
+   "a": 1,
+   "e": "Sallekhana is also called Santhara."
+  },
+  {
+   "q": "In which state is Shravanabelagola located?",
+   "o": [
+    "Gujarat",
+    "Karnataka",
+    "Odisha",
+    "Bihar"
+   ],
+   "a": 1,
+   "e": "Bhadrabahu and Chandragupta Maurya went there."
+  },
+  {
+   "q": "Who is regarded as the leader of the Digambara sect?",
+   "o": [
+    "Bhadrabahu",
+    "Parshvanath",
+    "Sthulabhadra",
+    "Jamali"
+   ],
+   "a": 0,
+   "e": "Jains who stayed in Magadha under Sthulabhadra came to be called Shvetambaras."
+  },
+  {
+   "q": "Who is regarded as the leader of the Shvetambara sect?",
+   "o": [
+    "Mahavira",
+    "Sthulabhadra",
+    "Bhadrabahu",
+    "Rishabhadeva"
+   ],
+   "a": 1,
+   "e": "Shvetambaras wear white clothes."
+  },
+  {
+   "q": "Who got the Udayagiri-Khandagiri caves of Odisha excavated?",
+   "o": [
+    "Dasharatha",
+    "Ashoka",
+    "The Satavahanas",
+    "Kharavela of the Chedi dynasty"
+   ],
+   "a": 3,
+   "e": "They contain carvings of Jain Tirthankaras; another Udayagiri cave group is in Madhya Pradesh."
+  },
+  {
+   "q": "Who was the first Tirthankara of Jainism?",
+   "o": [
+    "Parshvanath",
+    "Mahavira",
+    "Rishabhadeva (Rishabhanatha)",
+    "Arishtanemi"
+   ],
+   "a": 2,
+   "e": "His symbol is the bull (Vrishabha)."
+  },
+  {
+   "q": "Who was the 23rd Tirthankara of Jainism?",
+   "o": [
+    "Rishabhanatha",
+    "Parshvanath",
+    "Neminath",
+    "Mahavira"
+   ],
+   "a": 1,
+   "e": "His symbol is the serpent."
+  },
+  {
+   "q": "Who was the 22nd Tirthankara?",
+   "o": [
+    "Arishtanemi (Neminath)",
+    "Parshvanath",
+    "Ajitanath",
+    "Mahavira"
+   ],
+   "a": 0,
+   "e": "His symbol is the conch."
+  },
+  {
+   "q": "Which two Tirthankaras are mentioned in the Vedas?",
+   "o": [
+    "Rishabhadeva and Parshvanath",
+    "Arishtanemi and Mahavira",
+    "Parshvanath and Mahavira",
+    "Rishabhadeva and Arishtanemi"
+   ],
+   "a": 3,
+   "e": "Only Rishabhadeva and Arishtanemi find mention in the Vedas."
+  },
+  {
+   "q": "What is the symbol of Mahavira?",
+   "o": [
+    "Serpent",
+    "Lion",
+    "Bull",
+    "Conch"
+   ],
+   "a": 1,
+   "e": "Mahavira was the 24th Tirthankara."
+  },
+  {
+   "q": "What were the names of Mahavira's father and mother?",
+   "o": [
+    "Siddhartha and Trishala",
+    "Siddhartha and Yashoda",
+    "Bimbisara and Trishala",
+    "Suddhodana and Mahamaya"
+   ],
+   "a": 0,
+   "e": "Trishala was a Lichchhavi princess."
+  },
+  {
+   "q": "What was the name of Mahavira's wife?",
+   "o": [
+    "Yashoda",
+    "Trishala",
+    "Yashodhara",
+    "Chellana"
+   ],
+   "a": 0,
+   "e": "Yashodhara was the wife of the Buddha."
+  },
+  {
+   "q": "What was the name of Mahavira's daughter?",
+   "o": [
+    "Chellana",
+    "Anojja Priyadarshana",
+    "Yashodhara",
+    "Trishala"
+   ],
+   "a": 1,
+   "e": "Her husband Jamali became Mahavira's first disciple."
+  },
+  {
+   "q": "Who was the first disciple of Mahavira?",
+   "o": [
+    "Bhadrabahu",
+    "Jamali",
+    "Sthulabhadra",
+    "Ananda"
+   ],
+   "a": 1,
+   "e": "Jamali was the husband of Mahavira's daughter."
+  },
+  {
+   "q": "Where was Mahavira born?",
+   "o": [
+    "Kundagrama (Vaishali)",
+    "Lumbini",
+    "Rajgir",
+    "Pava"
+   ],
+   "a": 0,
+   "e": "Mahavira belonged to the Jnatrika clan of the Vajji confederacy near Vaishali."
+  },
+  {
+   "q": "Where did Mahavira die?",
+   "o": [
+    "Pavapuri (Bihar)",
+    "Kushinagar",
+    "Vaishali",
+    "Rajgir"
+   ],
+   "a": 0,
+   "e": "Buddha died at Kushinagar."
+  },
+  {
+   "q": "Where did Gautama Buddha attain Mahaparinirvana?",
+   "o": [
+    "Pavapuri",
+    "Kushinagar",
+    "Bodh Gaya",
+    "Lumbini"
+   ],
+   "a": 1,
+   "e": "Buddha died at Kushinagar."
+  },
+  {
+   "q": "Where did Mahavira attain Kaivalya (supreme knowledge)?",
+   "o": [
+    "Bodh Gaya, under a peepal tree",
+    "Pavapuri",
+    "Sarnath",
+    "Jrimbhikagrama, on the bank of the Rijupalika river, under a sal tree"
+   ],
+   "a": 3,
+   "e": "He attained Kaivalya on the bank of the Rijupalika river."
+  },
+  {
+   "q": "What is Mahavira considered to be in Jainism?",
+   "o": [
+    "The first Tirthankara",
+    "Its founder",
+    "Its chief propagator, not the founder",
+    "A Buddhist teacher"
+   ],
+   "a": 2,
+   "e": "Rishabhadeva is considered the founder of Jainism."
+  },
+  {
+   "q": "Which of the following is one commonly cited date range for Mahavira's life?",
+   "o": [
+    "322 BC - 298 BC",
+    "563 BC - 483 BC",
+    "623 BC - 543 BC",
+    "540 BC - 468 BC"
+   ],
+   "a": 3,
+   "e": "Mahavira is dated 540-468 BC (traditional dating: 599-527 BC)."
+  },
+  {
+   "q": "In which year did Chandragupta Maurya found the Mauryan Empire?",
+   "o": [
+    "185 BC",
+    "483 BC",
+    "322 BC",
+    "261 BC"
+   ],
+   "a": 2,
+   "e": "He defeated Dhana Nanda of the Nanda dynasty."
+  },
+  {
+   "q": "Who founded the Nanda dynasty?",
+   "o": [
+    "Bimbisara",
+    "Kalashoka",
+    "Dhana Nanda",
+    "Mahapadma Nanda"
+   ],
+   "a": 3,
+   "e": "The last Nanda ruler was Dhana Nanda."
+  },
+  {
+   "q": "Which Nanda ruler was defeated by Chandragupta Maurya?",
+   "o": [
+    "Dhana Nanda",
+    "Mahapadma Nanda",
+    "Ajatashatru",
+    "Shishunaga"
+   ],
+   "a": 0,
+   "e": "This was achieved with the help of Kautilya (Chanakya)."
+  },
+  {
+   "q": "By what other names is Kautilya known?",
+   "o": [
+    "Patanjali and Panini",
+    "Ashvaghosha and Buddhaghosa",
+    "Vishnugupta and Chanakya",
+    "Kalidasa and Bhasa"
+   ],
+   "a": 2,
+   "e": "Kautilya wrote the Arthashastra."
+  },
+  {
+   "q": "The Arthashastra is primarily a treatise on which subject?",
+   "o": [
+    "Economics",
+    "Statecraft/Polity",
+    "Medicine",
+    "Grammar"
+   ],
+   "a": 1,
+   "e": "It describes how a king should govern the state."
+  },
+  {
+   "q": "To whose court did Seleucus send his ambassador Megasthenes?",
+   "o": [
+    "Ashoka",
+    "Bindusara",
+    "Samudragupta",
+    "Chandragupta Maurya"
+   ],
+   "a": 3,
+   "e": "The court was at Pataliputra."
+  },
+  {
+   "q": "What is the name of Megasthenes' book?",
+   "o": [
+    "Mudrarakshasa",
+    "Indica",
+    "Arthashastra",
+    "Rajatarangini"
+   ],
+   "a": 1,
+   "e": "It describes the Mauryan administration."
+  },
+  {
+   "q": "According to Megasthenes, Indian society was divided into how many classes?",
+   "o": [
+    "Four",
+    "Seven",
+    "Five",
+    "Eight"
+   ],
+   "a": 1,
+   "e": "Philosophers, farmers, soldiers, herdsmen, artisans, overseers and councillors."
+  },
+  {
+   "q": "Seleucus Nicator was the founder of which dynasty?",
+   "o": [
+    "Shunga",
+    "Achaemenid",
+    "Seleucid",
+    "Maurya"
+   ],
+   "a": 2,
+   "e": "Chandragupta defeated him and, by tradition, married his daughter (Helena)."
+  },
+  {
+   "q": "Which religion did Chandragupta Maurya adopt at the end of his life?",
+   "o": [
+    "Buddhism",
+    "Hinduism",
+    "Ajivika",
+    "Jainism"
+   ],
+   "a": 3,
+   "e": "He embraced Jainism under the influence of Bhadrabahu."
+  },
+  {
+   "q": "What was Ashoka's relationship to Bindusara?",
+   "o": [
+    "Grandson",
+    "Son",
+    "Brother",
+    "Father"
+   ],
+   "a": 1,
+   "e": "Bindusara was the son of Chandragupta Maurya."
+  },
+  {
+   "q": "Which sect did Bindusara follow?",
+   "o": [
+    "Ajivika",
+    "Jain",
+    "Shaiva",
+    "Buddhist"
+   ],
+   "a": 0,
+   "e": "The Ajivika sect was founded by Makkhali Gosala."
+  },
+  {
+   "q": "Who founded the Ajivika sect?",
+   "o": [
+    "Mahavira",
+    "Purana Kassapa",
+    "Makkhali Gosala",
+    "Ajita Kesakambali"
+   ],
+   "a": 2,
+   "e": "It believed in strict determinism (niyati)."
+  },
+  {
+   "q": "During Bindusara's reign, Ashoka served as viceroy of which region?",
+   "o": [
+    "Pataliputra",
+    "Ujjain",
+    "Tosali",
+    "Saurashtra"
+   ],
+   "a": 1,
+   "e": "He was also sent to Taxila to suppress a revolt."
+  },
+  {
+   "q": "What was the capital of the Uttarapatha province in the Mauryan period?",
+   "o": [
+    "Suvarnagiri",
+    "Taxila",
+    "Ujjain",
+    "Tosali"
+   ],
+   "a": 1,
+   "e": "Ujjain was the capital of the western province (Avanti)."
+  },
+  {
+   "q": "What was the capital of the Kalinga province in the Mauryan period?",
+   "o": [
+    "Tosali",
+    "Pataliputra",
+    "Suvarnagiri",
+    "Taxila"
+   ],
+   "a": 0,
+   "e": "Pataliputra was the capital of the eastern/central province."
+  },
+  {
+   "q": "What was the capital of Dakshinapatha in the Mauryan period?",
+   "o": [
+    "Tosali",
+    "Suvarnagiri",
+    "Ujjain",
+    "Taxila"
+   ],
+   "a": 1,
+   "e": "The provinces were governed by princes under central control."
+  },
+  {
+   "q": "Who succeeded Ashoka on the Mauryan throne?",
+   "o": [
+    "Bindusara",
+    "Brihadratha",
+    "Dasharatha",
+    "Samprati"
+   ],
+   "a": 2,
+   "e": "Dasharatha was Ashoka's grandson."
+  },
+  {
+   "q": "Who was the last Mauryan ruler?",
+   "o": [
+    "Brihadratha",
+    "Shalishuka",
+    "Dasharatha",
+    "Samprati"
+   ],
+   "a": 0,
+   "e": "Pushyamitra Shunga killed him and founded the Shunga dynasty."
+  },
+  {
+   "q": "Which dynasty did Pushyamitra found?",
+   "o": [
+    "Gupta",
+    "Satavahana",
+    "Kanva",
+    "Shunga"
+   ],
+   "a": 3,
+   "e": "He assassinated Brihadratha."
+  },
+  {
+   "q": "Which Mauryan rulers got the Barabar and Nagarjuni caves excavated for the Ajivikas?",
+   "o": [
+    "Ashoka and Dasharatha",
+    "Kunala and Samprati",
+    "Bindusara and Kunala",
+    "Chandragupta and Bindusara"
+   ],
+   "a": 0,
+   "e": "Barabar caves (Ashoka) and Nagarjuni caves (Dasharatha) are in Jehanabad, Bihar."
+  },
+  {
+   "q": "Who got the Nagarjuni caves excavated?",
+   "o": [
+    "Dasharatha Maurya",
+    "Ashoka",
+    "The Satavahanas",
+    "Kharavela"
+   ],
+   "a": 0,
+   "e": "They are near Jehanabad in Bihar."
+  },
+  {
+   "q": "Which text guided the centralised bureaucracy of the Mauryan period?",
+   "o": [
+    "Arthashastra",
+    "Ashtadhyayi",
+    "Manusmriti",
+    "Indica"
+   ],
+   "a": 0,
+   "e": "It was a feature of Chandragupta's administration."
+  },
+  {
+   "q": "Which of the following is NOT one of the elements in Kautilya's Saptanga theory?",
+   "o": [
+    "Durga (Fort)",
+    "Swami (King)",
+    "Senapati (Commander)",
+    "Kosha (Treasury)"
+   ],
+   "a": 2,
+   "e": "Saptanga: Swami, Amatya, Janapada, Durga, Kosha, Danda, Mitra."
+  },
+  {
+   "q": "In the Saptanga theory, what does 'Durga' mean?",
+   "o": [
+    "Fort",
+    "Ally",
+    "Treasury",
+    "Army"
+   ],
+   "a": 0,
+   "e": "Danda = army, Kosha = treasury, Janapada = territory, Amatya = minister."
+  },
+  {
+   "q": "Who was the superintendent of agriculture in the Mauryan administration?",
+   "o": [
+    "Sitadhyaksha",
+    "Ashvadhyaksha",
+    "Akshapataladhyaksha",
+    "Navadhyaksha"
+   ],
+   "a": 0,
+   "e": "Sita refers to crown land under cultivation."
+  },
+  {
+   "q": "Who was the Akshapataladhyaksha?",
+   "o": [
+    "Accountant General",
+    "City chief",
+    "Superintendent of agriculture",
+    "Commander-in-chief"
+   ],
+   "a": 0,
+   "e": "He can also be described as the chief audit officer."
+  },
+  {
+   "q": "What was the function of the Samaharta?",
+   "o": [
+    "Chief treasurer",
+    "Judge",
+    "City administrator",
+    "Chief collector of revenue"
+   ],
+   "a": 3,
+   "e": "The Samaharta was the Collector-General of revenue."
+  },
+  {
+   "q": "Who was the chief treasury officer in the Mauryan period?",
+   "o": [
+    "Yukta",
+    "Samaharta",
+    "Gopa",
+    "Sannidhata"
+   ],
+   "a": 3,
+   "e": "The Sannidhata was the head of the treasury."
+  },
+  {
+   "q": "Who was the chief officer of city administration described in the Arthashastra?",
+   "o": [
+    "Samaharta",
+    "Nagarika (Nagaradhyaksha)",
+    "Gopa",
+    "Pradeshta"
+   ],
+   "a": 1,
+   "e": "The Gopa was responsible for accounts."
+  },
+  {
+   "q": "Who was the superintendent of ships (boats) in the Mauryan period?",
+   "o": [
+    "Navadhyaksha",
+    "Shulkadhyaksha",
+    "Ashvadhyaksha",
+    "Samsthadhyaksha"
+   ],
+   "a": 0,
+   "e": "The Ashvadhyaksha was the superintendent of horses (cavalry)."
+  },
+  {
+   "q": "Who was the superintendent of customs/tolls in the Mauryan period?",
+   "o": [
+    "Sitadhyaksha",
+    "Navadhyaksha",
+    "Ashvadhyaksha",
+    "Shulkadhyaksha"
+   ],
+   "a": 3,
+   "e": "Shulka means toll or duty."
+  },
+  {
+   "q": "Which officer supervised the markets in the Mauryan period?",
+   "o": [
+    "Navadhyaksha",
+    "Samsthadhyaksha",
+    "Sitadhyaksha",
+    "Nagarika"
+   ],
+   "a": 1,
+   "e": "The Samsthadhyaksha managed the markets."
+  },
+  {
+   "q": "What was the village headman called in north India during the Mauryan period?",
+   "o": [
+    "Munund",
+    "Gramika",
+    "Pradeshta",
+    "Gopa"
+   ],
+   "a": 1,
+   "e": "The Gramika was the village headman."
+  },
+  {
+   "q": "In the Mauryan period, which tax was paid in cash (literally 'gold')?",
+   "o": [
+    "Hiranya",
+    "Parshvika",
+    "Pranaya",
+    "Senabhaktam"
+   ],
+   "a": 0,
+   "e": "Hiranya was a tax paid in cash rather than in kind."
+  },
+  {
+   "q": "What was the emergency tax called in the Mauryan period?",
+   "o": [
+    "Senabhaktam",
+    "Hiranya",
+    "Parshvika",
+    "Pranaya"
+   ],
+   "a": 3,
+   "e": "Pranaya was an emergency tax."
+  },
+  {
+   "q": "What was 'Senabhaktam' in the Mauryan period?",
+   "o": [
+    "An emergency tax",
+    "An army-related tax (levied when the army passed through)",
+    "A tax on gold",
+    "An additional levy"
+   ],
+   "a": 1,
+   "e": "Parshvika was an additional levy, like a surcharge."
+  },
+  {
+   "q": "Who were the 'Rajukas' in Mauryan administration?",
+   "o": [
+    "Merchants",
+    "Army administrators",
+    "Artisans",
+    "Rural officers in charge of land measurement and justice"
+   ],
+   "a": 3,
+   "e": "Rajukas were administrative officers in rural areas."
+  },
+  {
+   "q": "What was the function of the 'Yukta' in the Mauryan period?",
+   "o": [
+    "Market control",
+    "Assessment and accounting of revenue",
+    "Justice",
+    "Commanding the army"
+   ],
+   "a": 1,
+   "e": "Yuktas were subordinate officers handling revenue records."
+  },
+  {
+   "q": "Which of the following was a major eastern port of the Mauryan period?",
+   "o": [
+    "Bharuch",
+    "Kochi",
+    "Tamralipti",
+    "Sopara"
+   ],
+   "a": 2,
+   "e": "Bharuch (Gujarat) and Sopara (Maharashtra) were western ports."
+  },
+  {
+   "q": "According to the Arthashastra, which two types of courts settled disputes?",
+   "o": [
+    "Royal and Feudal",
+    "Dharmasthiya and Kantakashodhana",
+    "Sabha and Samiti",
+    "Grama and Janapada"
+   ],
+   "a": 1,
+   "e": "Dharmasthiya courts handled civil cases; Kantakashodhana courts, presided over by Pradeshtas, handled criminal cases."
+  },
+  {
+   "q": "Who presided over the Dharmasthiya court?",
+   "o": [
+    "Rajuka",
+    "Pradeshta",
+    "Vyavaharika",
+    "Gopa"
+   ],
+   "a": 2,
+   "e": "Kantakashodhana courts dealt with disputes between the state and individuals."
+  },
+  {
+   "q": "Which metal was most widely used for coins in the Mauryan Empire?",
+   "o": [
+    "Copper",
+    "Silver",
+    "Iron",
+    "Gold"
+   ],
+   "a": 1,
+   "e": "These were called punch-marked coins."
+  },
+  {
+   "q": "What were punch-marked coins also called?",
+   "o": [
+    "Karshapana",
+    "Suvarna",
+    "Nishka",
+    "Dinara"
+   ],
+   "a": 0,
+   "e": "They began in the Mahajanapada period."
+  },
+  {
+   "q": "After which war did Ashoka embrace Buddhism?",
+   "o": [
+    "Battle of the Hydaspes",
+    "Battle of Tarain",
+    "Battle of Panipat",
+    "Kalinga War"
+   ],
+   "a": 3,
+   "e": "The war was fought around 261 BC."
+  },
+  {
+   "q": "How many years after his coronation was the Kalinga War fought?",
+   "o": [
+    "12 years",
+    "4 years",
+    "8 years",
+    "1 year"
+   ],
+   "a": 2,
+   "e": "Ashoka's coronation is believed to have taken place four years after his accession."
+  },
+  {
+   "q": "Who initiated Ashoka into Buddhism?",
+   "o": [
+    "Buddhaghosa",
+    "Upagupta",
+    "Ananda",
+    "Nagasena"
+   ],
+   "a": 1,
+   "e": "According to the northern Buddhist tradition, Upagupta initiated Ashoka."
+  },
+  {
+   "q": "What policy did Ashoka adopt after the Kalinga War?",
+   "o": [
+    "Dhammaghosha in place of Bherighosha",
+    "Digvijaya",
+    "Imperial expansion",
+    "Bherighosha"
+   ],
+   "a": 0,
+   "e": "Conquest was now by Dhamma, not by war."
+  },
+  {
+   "q": "What was the name of Ashoka's elder brother whom he displaced to gain the throne?",
+   "o": [
+    "Tishya",
+    "Susima",
+    "Mahendra",
+    "Dasharatha"
+   ],
+   "a": 1,
+   "e": "Bindusara wanted Susima to be his successor."
+  },
+  {
+   "q": "Which Rock Edict records Ashoka's remorse over the Kalinga War?",
+   "o": [
+    "Fourth",
+    "Thirteenth",
+    "Seventh",
+    "First"
+   ],
+   "a": 1,
+   "e": "It also describes the Kalinga War."
+  },
+  {
+   "q": "How many Major Rock Edicts and Pillar Edicts of Ashoka are there?",
+   "o": [
+    "14 Rock Edicts and 7 Pillar Edicts",
+    "7 Rock Edicts and 14 Pillar Edicts",
+    "10 and 5",
+    "12 and 12"
+   ],
+   "a": 0,
+   "e": "Seven refers to the number of pillar edicts, not the number of pillars."
+  },
+  {
+   "q": "What was prohibited in Ashoka's First Rock Edict?",
+   "o": [
+    "Gambling",
+    "Liquor",
+    "Animal slaughter/sacrifice",
+    "War"
+   ],
+   "a": 2,
+   "e": "The Fourth Rock Edict gives priority to Dhammaghosha."
+  },
+  {
+   "q": "Which Rock Edict of Ashoka conveys the message of tolerance towards all religions?",
+   "o": [
+    "Twelfth",
+    "Fourth",
+    "Thirteenth",
+    "First"
+   ],
+   "a": 0,
+   "e": "The Twelfth Rock Edict calls for respect for all sects."
+  },
+  {
+   "q": "What is the main meaning of 'Dhamma' in Ashoka's inscriptions?",
+   "o": [
+    "Buddhist rituals",
+    "Military policy",
+    "A code of moral conduct",
+    "Tax system"
+   ],
+   "a": 2,
+   "e": "Dhamma refers to moral rules of conduct."
+  },
+  {
+   "q": "Which special officers did Ashoka appoint to propagate Dhamma?",
+   "o": [
+    "Dhamma Mahamattas",
+    "Yuktas",
+    "Pradeshtas",
+    "Rajukas"
+   ],
+   "a": 0,
+   "e": "Dhamma Mahamattas were appointed in the 13th year of his reign."
+  },
+  {
+   "q": "Whom did Ashoka send as Buddhist missionaries to Sri Lanka?",
+   "o": [
+    "Kunala and Tivala",
+    "His son Mahendra and daughter Sanghamitra",
+    "Dasharatha and Samprati",
+    "Upagupta and Tissa"
+   ],
+   "a": 1,
+   "e": "Theravada Buddhism is prevalent in Sri Lanka today."
+  },
+  {
+   "q": "In which language are the inscriptions of Ashoka and Kharavela mainly written?",
+   "o": [
+    "Bengali",
+    "Sanskrit",
+    "Pali",
+    "Prakrit"
+   ],
+   "a": 3,
+   "e": "Prakrit is the most common language of Ashoka's inscriptions."
+  },
+  {
+   "q": "How many languages and scripts are found in Ashoka's inscriptions?",
+   "o": [
+    "2 languages and 2 scripts",
+    "5 languages and 5 scripts",
+    "4 languages and 3 scripts",
+    "3 languages and 4 scripts"
+   ],
+   "a": 3,
+   "e": "Languages: Prakrit, Greek, Aramaic; scripts: Brahmi, Kharosthi, Greek, Aramaic."
+  },
+  {
+   "q": "Which script is most used in Ashoka's inscriptions in north India?",
+   "o": [
+    "Kharosthi",
+    "Aramaic",
+    "Brahmi",
+    "Greek"
+   ],
+   "a": 2,
+   "e": "The pillar edicts are in Prakrit language and Brahmi script."
+  },
+  {
+   "q": "Which script was used in Ashoka's inscriptions in the north-west (Peshawar region)?",
+   "o": [
+    "Brahmi",
+    "Tamil",
+    "Kharosthi",
+    "Devanagari"
+   ],
+   "a": 2,
+   "e": "Greek and Aramaic were used in Afghanistan."
+  },
+  {
+   "q": "Who first deciphered Ashoka's Brahmi inscriptions?",
+   "o": [
+    "Susan Bayly",
+    "James Prinsep",
+    "R.C. Majumdar",
+    "Romila Thapar"
+   ],
+   "a": 1,
+   "e": "This was achieved in 1837."
+  },
+  {
+   "q": "In which year did James Prinsep decipher the Brahmi script?",
+   "o": [
+    "1837",
+    "1920",
+    "1900",
+    "1750"
+   ],
+   "a": 0,
+   "e": "Prinsep identified Ashoka as 'Devanampiya Piyadasi'."
+  },
+  {
+   "q": "By which title is Ashoka addressed in his inscriptions?",
+   "o": [
+    "Maharajadhiraja",
+    "Devanampiya Piyadasi",
+    "Priyamvada",
+    "Chakravarti"
+   ],
+   "a": 1,
+   "e": "It means 'Beloved of the Gods'."
+  },
+  {
+   "q": "In which inscription is Ashoka's name clearly mentioned as 'Ashoka'?",
+   "o": [
+    "Sarnath",
+    "Maski (Karnataka)",
+    "Rummindei",
+    "Kalsi"
+   ],
+   "a": 1,
+   "e": "Besides Maski, the name appears at Gujarra (MP), Nittur and Udegolam."
+  },
+  {
+   "q": "Who discovered the Maski inscription?",
+   "o": [
+    "Cunningham",
+    "John Marshall",
+    "C. Beadon",
+    "James Prinsep"
+   ],
+   "a": 2,
+   "e": "C. Beadon discovered it in 1915."
+  },
+  {
+   "q": "Which material was mainly used for Ashoka's pillars?",
+   "o": [
+    "Stone (sandstone)",
+    "Metal",
+    "Wood",
+    "Brick"
+   ],
+   "a": 0,
+   "e": "Chunar sandstone was used."
+  },
+  {
+   "q": "What is the animal figure at the top of a pillar called?",
+   "o": [
+    "Shaft",
+    "Inverted lotus",
+    "Capital",
+    "Abacus"
+   ],
+   "a": 2,
+   "e": "Parts of the pillar: shaft, inverted lotus, abacus, capital."
+  },
+  {
+   "q": "In which direction do the four lions of the Sarnath Lion Capital face?",
+   "o": [
+    "Two directions",
+    "All four directions",
+    "North only",
+    "East only"
+   ],
+   "a": 1,
+   "e": "It is the National Emblem of India."
+  },
+  {
+   "q": "Which animals are carved between the wheels on the abacus of the Sarnath Lion Capital?",
+   "o": [
+    "Deer, crocodile, horse, camel",
+    "Elephant, bull, horse, lion",
+    "Bull, rhinoceros, lion, swan",
+    "Elephant, deer, peacock, tiger"
+   ],
+   "a": 1,
+   "e": "The abacus shows an elephant, a bull, a horse and a lion separated by wheels."
+  },
+  {
+   "q": "Which Ashokan pillar capital is kept in Rashtrapati Bhavan?",
+   "o": [
+    "Sarnath lion",
+    "Rampurva bull",
+    "Sankisa elephant",
+    "Lauriya lion"
+   ],
+   "a": 1,
+   "e": "Rampurva is in Bihar."
+  },
+  {
+   "q": "What is distinctive about the Ashokan pillar at Lauriya Araraj (Bihar)?",
+   "o": [
+    "It has four lions on top",
+    "No capital has been found on it",
+    "It has an elephant on top",
+    "It has a bull on top"
+   ],
+   "a": 1,
+   "e": "It is located in Bihar."
+  },
+  {
+   "q": "In which country is the Nigali Sagar inscription and what does it record?",
+   "o": [
+    "India; the first sermon",
+    "Sri Lanka; arrival of Mahendra",
+    "Nepal; the Kalinga War",
+    "Nepal; enlargement of the stupa of Kanakamuni Buddha"
+   ],
+   "a": 3,
+   "e": "The Rummindei inscription at Lumbini records a tax remission."
+  },
+  {
+   "q": "Which inscription shows that Ashoka granted tax relief to Lumbini?",
+   "o": [
+    "Rummindei pillar inscription",
+    "Sarnath pillar",
+    "Thirteenth Rock Edict",
+    "Maski inscription"
+   ],
+   "a": 0,
+   "e": "The village's tax share was reduced to one-eighth."
+  },
+  {
+   "q": "In which period were the stupas of Sanchi and Sarnath originally built?",
+   "o": [
+    "Gupta period",
+    "Kushana period",
+    "Chola period",
+    "Mauryan period (mainly Ashoka)"
+   ],
+   "a": 3,
+   "e": "These stupas reflect the architecture of Ashoka's time."
+  },
+  {
+   "q": "In which present-day state is Sopara, a western port of the Mauryan period?",
+   "o": [
+    "Odisha",
+    "Gujarat",
+    "Maharashtra",
+    "Kerala"
+   ],
+   "a": 2,
+   "e": "Bharuch is in Gujarat."
+  }
+ ]
+}
