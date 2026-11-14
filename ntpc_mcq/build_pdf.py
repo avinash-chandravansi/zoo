@@ -46,7 +46,7 @@ def build(vid):
 if __name__ == "__main__":
     ids = [v for v in lect if os.path.exists(f"{BASE}/data/{v}.json")]
     with sync_playwright() as p:
-        b = p.chromium.launch(); pg = b.new_page()
+        b = p.chromium.launch(executable_path='/opt/pw-browsers/chromium', args=['--no-sandbox']); pg = b.new_page()
         for v in ids:
             h, t, n = build(v)
             pg.set_content(h)
