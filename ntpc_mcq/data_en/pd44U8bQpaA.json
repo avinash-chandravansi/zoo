@@ -1,0 +1,2266 @@
+{
+ "title": "Polity Lec 1",
+ "summary": [
+  "The Constituent Assembly took 2 years, 11 months and 18 days to frame the Constitution; adopted on 26 November 1949, came into force on 26 January 1950; first meeting on 9 December 1946 (211 members).",
+  "From Canada: federation with a strong Centre, residuary powers with the Centre, appointment of Governors by the Centre (trick: C for Centre, C for Canada). From Britain: parliamentary system, single citizenship, FPTP, bicameralism. Amendment procedure from South Africa.",
+  "Article 368 (Part XX): only two types of amendment - by special majority, and by special majority plus ratification by at least half of the states (simple majority in state legislatures); citizenship, Legislative Councils etc. are changed by simple majority.",
+  "Federalism = division of powers between Centre and States; India is a 'federation with a strong Centre': K.C. Wheare (quasi-federal), Granville Austin (cooperative), Morris Jones (bargaining), Ivor Jennings (centralising tendency); Article 371A Nagaland = asymmetric federalism.",
+  "Unitary features: single citizenship, single Constitution, integrated judiciary, appointment of Governors, residuary powers, All India Services (Art. 312: IAS, IPS, IFoS). Federal features: Rajya Sabha, dual polity, division of powers.",
+  "Schedules: originally 8, now 12; 2nd - emoluments, 3rd - oaths (ministers here), 4th - Rajya Sabha seats, 5th - Scheduled Areas, 6th - Assam, Tripura, Meghalaya, Mizoram (ATM-M), 7th - three lists, 8th - 22 languages, 9th - 1951, 10th - 52nd Amendment (1985), 11th - 73rd (29 subjects), 12th - 74th (18 subjects).",
+  "Languages: 14 to 22 - Sindhi (21st Amendment), Konkani, Manipuri, Nepali (71st), Bodo, Dogri, Santhali, Maithili (92nd).",
+  "Seventh Schedule: Union 97→100, State 66→61, Concurrent 47→52 subjects; the 42nd Amendment moved 5 subjects (education, forests, weights and measures, protection of wild animals and birds, administration of justice) from State to Concurrent List; in case of conflict, the law of Parliament prevails (Art. 254).",
+  "Parts of the Constitution: 22 originally, now 25 (Part VII deleted); Part III Fundamental Rights, Part IV DPSP, Part V Union, Part VI States, Parts IX/IXA/IXB Panchayats/Municipalities/Co-operative Societies (97th, 2011), Part XI Centre-State relations, Part XII Finance and Property, Part XVI SC/ST, Part XVII Official Language, Part XX Amendment, Part XXI Special Provisions.",
+  "Preamble: borrowed from the USA; based on the Objectives Resolution (moved 13 December 1946, adopted 22 January 1947); Palkhivala - 'identity card', K.M. Munshi - 'political horoscope'; order - Sovereign, Socialist, Secular, Democratic, Republic; 'Socialist', 'Secular' and 'Integrity' added by the 42nd Amendment (1976).",
+  "Preamble: Berubari (1960) - not a part of the Constitution; Kesavananda Bharati (1973) - a part, and amendable; Justice 3 types, Liberty 5, Equality 2, Fraternity 1; Justice from the Russian Revolution, Liberty-Equality-Fraternity from the French Revolution.",
+  "Fundamental Rights: Arts. 12-35, from 7 to 6 (Art. 31 deleted by the 44th Amendment, 1978); Equality 14-18, Freedom 19-22, against Exploitation 23-24, Religion 25-28, Cultural and Educational 29-30, Constitutional Remedies 32; Art. 12 defines 'State', Art. 13 makes inconsistent laws void; Equality includes Rule of Law (Dicey, Britain) and equal protection (USA).",
+  "Reservation: 15(4) by 1st Amendment 1951 (Champakam case), 15(6)/16(6) EWS by 103rd (2019), 16(4A) promotions by 77th, 16(4B) carry forward by 81st; Indra Sawhney 1992 - 50% ceiling, creamy layer; Kaka Kalelkar Commission 1953, Mandal Commission 1979 (implemented 1990).",
+  "Art. 19(1) has 6 freedoms; 19(2) restrictions (3 added by 1st Amendment - Romesh Thappar); Art. 20 - no ex post facto law, no double jeopardy, no self-incrimination; Art. 21 - procedure from Japan, Maneka Gandhi 1978 (due process), 21A (86th, 2002), privacy (Puttaswamy 2017); Arts. 20-21 cannot be suspended even in an emergency; Art. 22 - 24 hours, preventive detention 3 months.",
+  "Religious rights: 25 individuals, 26 religious denominations, 27 no tax for promotion of a religion, 28 no religious instruction in wholly state-funded institutions; 29-30 minorities ('minority' not defined); 31A/31B and Ninth Schedule (I.R. Coelho 2007: laws added after 24 April 1973 open to review); Art. 32 'heart and soul' (Ambedkar), five writs, Art. 226 (High Courts) wider; Arts. 33-35; property now under Art. 300A."
+ ],
+ "mcqs": [
+  {
+   "q": "Which example best shows the need for a constitution in daily life?",
+   "o": [
+    "Setting rules for representation and sharing of resources",
+    "Celebrating festivals",
+    "Settling family disputes",
+    "Buying groceries from a local shop"
+   ],
+   "a": 0,
+   "e": "A constitution lays down the basic rules, such as representation and sharing of resources."
+  },
+  {
+   "q": "Creating a body of laws that limits and checks the powers of government is called:",
+   "o": [
+    "Socialism",
+    "Constitutionalism",
+    "Federalism",
+    "Pluralism"
+   ],
+   "a": 1,
+   "e": "Constitutionalism means limits and checks on governmental power."
+  },
+  {
+   "q": "How much time did the Constituent Assembly of India take to frame the Constitution?",
+   "o": [
+    "2 years 6 months 10 days",
+    "3 years 2 months 5 days",
+    "2 years 11 months 18 days",
+    "1 year 11 months 18 days"
+   ],
+   "a": 2,
+   "e": "The Constitution took 2 years, 11 months and 18 days to frame."
+  },
+  {
+   "q": "Which statement about an unwritten constitution, compared with a written one, is correct?",
+   "o": [
+    "It is very difficult to amend",
+    "It is codified by a Constituent Assembly",
+    "It has no rules or conventions",
+    "It is relatively easy to amend"
+   ],
+   "a": 3,
+   "e": "An unwritten constitution rests on conventions and is easier to change; the UK is an example."
+  },
+  {
+   "q": "Which country is the prime example of an unwritten constitution?",
+   "o": [
+    "United Kingdom",
+    "USA",
+    "India",
+    "Canada"
+   ],
+   "a": 0,
+   "e": "The British constitution is regarded as unwritten, based largely on conventions."
+  },
+  {
+   "q": "Which of the following features of the Indian Constitution was NOT borrowed from Britain?",
+   "o": [
+    "Office of the Speaker",
+    "Appointment of state Governors by the Centre",
+    "Single citizenship",
+    "Bicameral Parliament"
+   ],
+   "a": 1,
+   "e": "Appointment of Governors by the Centre was borrowed from Canada."
+  },
+  {
+   "q": "The provision for appointment of state Governors by the Centre is borrowed from the constitution of:",
+   "o": [
+    "Britain",
+    "USA",
+    "Canada",
+    "Ireland"
+   ],
+   "a": 2,
+   "e": "From Canada: strong Centre, residuary powers with the Centre, appointment of Governors (C for Centre, C for Canada)."
+  },
+  {
+   "q": "The concept of a 'federation with a strong Centre' was borrowed from:",
+   "o": [
+    "Australia",
+    "South Africa",
+    "Japan",
+    "Canada"
+   ],
+   "a": 3,
+   "e": "Federation with a strong Centre was taken from the Canadian constitution."
+  },
+  {
+   "q": "The provision vesting residuary powers in the Centre is borrowed from:",
+   "o": [
+    "Canada",
+    "USA",
+    "Britain",
+    "France"
+   ],
+   "a": 0,
+   "e": "Subjects not in any of the three lists are residuary; Parliament legislates on them."
+  },
+  {
+   "q": "India adopted the First Past the Post (FPTP) electoral system from:",
+   "o": [
+    "USA",
+    "Britain",
+    "Canada",
+    "Ireland"
+   ],
+   "a": 1,
+   "e": "FPTP, parliamentary system, single citizenship and bicameralism come from Britain."
+  },
+  {
+   "q": "The largest part of the Indian Constitution is derived from:",
+   "o": [
+    "Indian Councils Act, 1909",
+    "Government of India Act, 1919",
+    "Government of India Act, 1935",
+    "Cabinet Mission Plan"
+   ],
+   "a": 2,
+   "e": "The bulk of the Constitution, including the administrative framework, came from the GoI Act 1935."
+  },
+  {
+   "q": "India borrowed the procedure for amendment of the Constitution from:",
+   "o": [
+    "USA",
+    "Ireland",
+    "Germany",
+    "South Africa"
+   ],
+   "a": 3,
+   "e": "The amendment procedure (and election of Rajya Sabha members) was taken from South Africa."
+  },
+  {
+   "q": "Amendment of the Constitution is dealt with under which Part and Article?",
+   "o": [
+    "Part XX, Article 368",
+    "Part XIX, Article 360",
+    "Part XXI, Article 370",
+    "Part XVIII, Article 352"
+   ],
+   "a": 0,
+   "e": "Part XX (Article 368) lays down the amendment procedure."
+  },
+  {
+   "q": "How many types of amendment are recognised under Article 368?",
+   "o": [
+    "One",
+    "Two",
+    "Three",
+    "Four"
+   ],
+   "a": 1,
+   "e": "Special majority, and special majority plus ratification by half the states; simple-majority changes are outside Art. 368."
+  },
+  {
+   "q": "Which of the following can be changed by simple majority, outside the procedure of Article 368?",
+   "o": [
+    "Manner of election of the President",
+    "Fundamental Rights",
+    "Provisions on citizenship",
+    "Seventh Schedule"
+   ],
+   "a": 2,
+   "e": "Citizenship (Art. 11), creation/abolition of Legislative Councils (Art. 169) and new states (Arts. 2-4) need a simple majority."
+  },
+  {
+   "q": "What majority is required in Parliament for the creation or abolition of a state Legislative Council?",
+   "o": [
+    "Special majority",
+    "Special majority and ratification by half the states",
+    "Ratification by two-thirds of the states",
+    "Simple majority"
+   ],
+   "a": 3,
+   "e": "Under Article 169; it is not deemed an amendment under Article 368."
+  },
+  {
+   "q": "Which amendment requires a special majority of Parliament along with ratification by at least half of the state legislatures (Art. 368(2))?",
+   "o": [
+    "Manner of election of the President (Art. 55)",
+    "Amendment of Fundamental Rights",
+    "Provisions on citizenship",
+    "Creation of a Legislative Council"
+   ],
+   "a": 0,
+   "e": "Amendments affecting the federal structure need ratification by half the states; MLAs also vote in the presidential election."
+  },
+  {
+   "q": "What majority is required in state legislatures to ratify a constitutional amendment?",
+   "o": [
+    "Special majority",
+    "Simple majority",
+    "Two-thirds majority",
+    "Unanimity"
+   ],
+   "a": 1,
+   "e": "States ratify by simple majority; Parliament needs a special majority."
+  },
+  {
+   "q": "Which north-eastern state has been given special status under Article 371A?",
+   "o": [
+    "Mizoram",
+    "Assam",
+    "Nagaland",
+    "Manipur"
+   ],
+   "a": 2,
+   "e": "Article 371A makes special provisions for Nagaland, an example of asymmetric federalism."
+  },
+  {
+   "q": "What is the basic meaning of federalism?",
+   "o": [
+    "Separation of powers among the three organs",
+    "Concentration of all powers in the Centre",
+    "Giving power only to the states",
+    "Division of powers between the Centre and the states"
+   ],
+   "a": 3,
+   "e": "Federalism is division of powers between Union and States; sharing among organs is separation of powers."
+  },
+  {
+   "q": "Who described Indian federalism as 'quasi-federal'?",
+   "o": [
+    "K.C. Wheare",
+    "Granville Austin",
+    "Morris Jones",
+    "Ivor Jennings"
+   ],
+   "a": 0,
+   "e": "K.C. Wheare called India quasi-federal."
+  },
+  {
+   "q": "Who described Indian federalism as 'cooperative federalism'?",
+   "o": [
+    "K.C. Wheare",
+    "Granville Austin",
+    "Morris Jones",
+    "Ivor Jennings"
+   ],
+   "a": 1,
+   "e": "Granville Austin: cooperative federalism."
+  },
+  {
+   "q": "Who described Indian federalism as 'bargaining federalism'?",
+   "o": [
+    "K.C. Wheare",
+    "Granville Austin",
+    "Morris Jones",
+    "Ivor Jennings"
+   ],
+   "a": 2,
+   "e": "Morris Jones: bargaining federalism."
+  },
+  {
+   "q": "Who used the phrase 'a federation with a centralising tendency'?",
+   "o": [
+    "K.C. Wheare",
+    "Morris Jones",
+    "Granville Austin",
+    "Ivor Jennings"
+   ],
+   "a": 3,
+   "e": "Ivor Jennings called the Indian union a federation with a centralising tendency."
+  },
+  {
+   "q": "Granting some states more powers or special provisions than others reflects which form of Indian federalism?",
+   "o": [
+    "Asymmetric federalism",
+    "Symmetric federalism",
+    "Unitary system",
+    "Presidential system"
+   ],
+   "a": 0,
+   "e": "Article 371 (371A etc.) makes special provisions for various states."
+  },
+  {
+   "q": "Why is the parliamentary system called the 'Westminster model'?",
+   "o": [
+    "The US Congress sits there",
+    "The British Parliament is located at Westminster",
+    "It was borrowed from the USA",
+    "It was created by the Treaty of Westminster"
+   ],
+   "a": 1,
+   "e": "India took the parliamentary system from Britain; it rests on accountability."
+  },
+  {
+   "q": "What is the main basis of the parliamentary system?",
+   "o": [
+    "Strict separation of powers",
+    "Judicial control over the executive",
+    "Accountability of the executive to the legislature (Lok Sabha)",
+    "Direct election of the President"
+   ],
+   "a": 2,
+   "e": "The Council of Ministers is collectively responsible to the Lok Sabha and falls if it loses majority."
+  },
+  {
+   "q": "In which country does the presidential system of government operate?",
+   "o": [
+    "India",
+    "Britain",
+    "Canada",
+    "USA"
+   ],
+   "a": 3,
+   "e": "The USA has a presidential system with strict separation of powers; India does not."
+  },
+  {
+   "q": "What are the three organs of government?",
+   "o": [
+    "Legislature, Executive, Judiciary",
+    "Parliament, President, Prime Minister",
+    "Centre, State, Local government",
+    "Lok Sabha, Rajya Sabha, Vidhan Sabha"
+   ],
+   "a": 0,
+   "e": "Legislature makes laws, executive implements them, judiciary interprets and reviews them."
+  },
+  {
+   "q": "Why is there no strict separation of powers in India?",
+   "o": [
+    "The judiciary is not independent",
+    "The executive is drawn from the legislature itself",
+    "The President is supreme",
+    "States have no powers"
+   ],
+   "a": 1,
+   "e": "Ministers are members of Parliament, and the PM can advise dissolution of the Lok Sabha."
+  },
+  {
+   "q": "Which is the correct difference between 'separation of powers' and 'division of powers'?",
+   "o": [
+    "Separation is between Centre and states; division is among the three organs",
+    "Both are only between Centre and states",
+    "Separation is among the three organs; division is between Centre and states (and local government)",
+    "Both are only among the three organs"
+   ],
+   "a": 2,
+   "e": "Separation: three organs; division: Centre, states (and local bodies after the 73rd/74th Amendments)."
+  },
+  {
+   "q": "Which amendments gave constitutional status to local self-government (Panchayats, Municipalities)?",
+   "o": [
+    "42nd and 44th",
+    "61st and 62nd",
+    "86th and 97th",
+    "73rd and 74th"
+   ],
+   "a": 3,
+   "e": "Both were passed in 1992 and came into force in 1993."
+  },
+  {
+   "q": "How long did Atal Bihari Vajpayee's government of 1996 last?",
+   "o": [
+    "13 days",
+    "13 months",
+    "30 days",
+    "6 months"
+   ],
+   "a": 0,
+   "e": "It fell for lack of majority, an example of accountability in a parliamentary system."
+  },
+  {
+   "q": "Which of the following is a unitary feature of the Indian Constitution?",
+   "o": [
+    "Representation of states in the Rajya Sabha",
+    "Integrated judiciary",
+    "Dual polity",
+    "Supremacy of the Constitution"
+   ],
+   "a": 1,
+   "e": "Integrated judiciary, single citizenship, single constitution, Governors, residuary powers and AIS are unitary features."
+  },
+  {
+   "q": "Which of the following is a federal feature of the Indian system?",
+   "o": [
+    "Single citizenship",
+    "All India Services",
+    "Division of powers between Centre and states",
+    "Residuary powers with the Centre"
+   ],
+   "a": 2,
+   "e": "Written constitution, supremacy of constitution, dual polity, bicameralism and division of powers are federal features."
+  },
+  {
+   "q": "Which of the following reflects a unitary rather than a federal feature?",
+   "o": [
+    "Rajya Sabha",
+    "State ratification for certain amendments",
+    "Division of powers between Union and states",
+    "Single citizenship for the whole country"
+   ],
+   "a": 3,
+   "e": "Single citizenship, borrowed from Britain, is unitary; the USA has dual citizenship."
+  },
+  {
+   "q": "All India Services are provided for under which Article?",
+   "o": [
+    "Article 312",
+    "Article 311",
+    "Article 315",
+    "Article 320"
+   ],
+   "a": 0,
+   "e": "IAS, IPS and IFoS are All India Services; recruited by the Centre but serve state cadres."
+  },
+  {
+   "q": "Which of the following is an All India Service?",
+   "o": [
+    "Indian Revenue Service",
+    "Indian Forest Service",
+    "Indian Postal Service",
+    "Indian Foreign Service"
+   ],
+   "a": 1,
+   "e": "IAS, IPS and IFoS are the only three All India Services."
+  },
+  {
+   "q": "In a statement like 'The basic rules of a constitution are based only on popular customs', what does the word 'only' indicate?",
+   "o": [
+    "A hint of the correct answer",
+    "A necessarily true statement",
+    "An extreme keyword that often makes a statement false",
+    "It has no effect"
+   ],
+   "a": 2,
+   "e": "Words like only, always, never make statements extreme; constitutional rules are legally enforceable."
+  },
+  {
+   "q": "Exam trick: in an MCQ, where is the answer most often found?",
+   "o": [
+    "In the longest option",
+    "Always in option C",
+    "In the option containing 'only'",
+    "Among similar and contrasting options"
+   ],
+   "a": 3,
+   "e": "Teacher's tip: the answer is likely among two similar or opposite options."
+  },
+  {
+   "q": "Which Schedule of the Constitution divides subjects between the Union and the states?",
+   "o": [
+    "Seventh Schedule",
+    "Sixth Schedule",
+    "Eighth Schedule",
+    "Fifth Schedule"
+   ],
+   "a": 0,
+   "e": "The Seventh Schedule contains the Union, State and Concurrent Lists."
+  },
+  {
+   "q": "How many Schedules did the original Constitution have, and how many are there now?",
+   "o": [
+    "10 then, 12 now",
+    "8 then, 12 now",
+    "8 then, 10 now",
+    "9 then, 14 now"
+   ],
+   "a": 1,
+   "e": "The Ninth to Twelfth Schedules were added later."
+  },
+  {
+   "q": "What does the First Schedule contain?",
+   "o": [
+    "Emoluments of the President",
+    "Forms of oaths",
+    "Names and territories of states and Union Territories",
+    "Allocation of Rajya Sabha seats"
+   ],
+   "a": 2,
+   "e": "First Schedule: names and territorial extent of states and UTs."
+  },
+  {
+   "q": "The Second Schedule deals with the emoluments of:",
+   "o": [
+    "Union ministers only",
+    "MPs only",
+    "Chief Ministers only",
+    "President, Governors, judges, CAG, Speaker and Chairman"
+   ],
+   "a": 3,
+   "e": "Second Schedule = emoluments; ministers' salaries are not included."
+  },
+  {
+   "q": "What does the Third Schedule contain?",
+   "o": [
+    "Forms of oaths and affirmations",
+    "Allocation of Rajya Sabha seats",
+    "List of languages",
+    "Anti-defection law"
+   ],
+   "a": 0,
+   "e": "Third Schedule has oaths of ministers, judges etc.; the President's oath is in Article 60."
+  },
+  {
+   "q": "The form of oath for Union ministers is given in which Schedule?",
+   "o": [
+    "Second",
+    "Third",
+    "Fourth",
+    "Fifth"
+   ],
+   "a": 1,
+   "e": "Ministers' oaths are in the Third Schedule; their salaries are fixed by Parliament by law."
+  },
+  {
+   "q": "Allocation of Rajya Sabha seats to the states is given in which Schedule?",
+   "o": [
+    "Third Schedule",
+    "Fifth Schedule",
+    "Fourth Schedule",
+    "Seventh Schedule"
+   ],
+   "a": 2,
+   "e": "Fourth Schedule: allocation of seats in the Rajya Sabha."
+  },
+  {
+   "q": "Administration and control of Scheduled Areas and Scheduled Tribes is described in which Schedule?",
+   "o": [
+    "Sixth Schedule",
+    "Seventh Schedule",
+    "Ninth Schedule",
+    "Fifth Schedule"
+   ],
+   "a": 3,
+   "e": "Fifth Schedule: Scheduled Areas and Scheduled Tribes."
+  },
+  {
+   "q": "The Sixth Schedule provides for administration of tribal areas in which states?",
+   "o": [
+    "Assam, Tripura, Meghalaya, Mizoram",
+    "Assam, Manipur, Nagaland, Mizoram",
+    "Assam, Meghalaya, Manipur, Tripura",
+    "Assam, Arunachal Pradesh, Mizoram, Sikkim"
+   ],
+   "a": 0,
+   "e": "Trick ATM-M: Assam, Tripura, Meghalaya, Mizoram; Manipur is not included."
+  },
+  {
+   "q": "In Sixth Schedule areas, which councils enjoy legislative, judicial and financial powers?",
+   "o": [
+    "Tribes Advisory Council",
+    "Autonomous District Councils (ADC)",
+    "Gram Sabha",
+    "District Planning Committee"
+   ],
+   "a": 1,
+   "e": "ADCs can make laws, run local courts and levy taxes; Ladakh has been demanding Sixth Schedule status."
+  },
+  {
+   "q": "Which council formed in Fifth Schedule areas is only advisory?",
+   "o": [
+    "Autonomous District Council",
+    "Zonal Council",
+    "Tribes Advisory Council (TAC)",
+    "Inter-State Council"
+   ],
+   "a": 2,
+   "e": "The TAC is advisory; Fifth Schedule areas currently exist in 10 states."
+  },
+  {
+   "q": "Who has the power to declare Scheduled Areas under the Fifth Schedule?",
+   "o": [
+    "Governor",
+    "Parliament",
+    "Supreme Court",
+    "President"
+   ],
+   "a": 3,
+   "e": "The President declares Fifth Schedule areas; state names are not listed in the Schedule."
+  },
+  {
+   "q": "The list of languages is given in which Schedule of the Constitution?",
+   "o": [
+    "Eighth Schedule",
+    "Seventh Schedule",
+    "Ninth Schedule",
+    "Eleventh Schedule"
+   ],
+   "a": 0,
+   "e": "The Eighth Schedule had 14 languages originally; now 22."
+  },
+  {
+   "q": "How many languages did the Eighth Schedule originally contain, and how many now?",
+   "o": [
+    "12 then, 20 now",
+    "14 then, 22 now",
+    "14 then, 24 now",
+    "15 then, 22 now"
+   ],
+   "a": 1,
+   "e": "Eight languages were added later."
+  },
+  {
+   "q": "Sindhi was added to the Eighth Schedule by which amendment?",
+   "o": [
+    "71st Amendment",
+    "92nd Amendment",
+    "21st Amendment (1967)",
+    "61st Amendment"
+   ],
+   "a": 2,
+   "e": "Sindhi was added by the 21st Amendment."
+  },
+  {
+   "q": "Konkani, Nepali and Manipuri were added to the Eighth Schedule by which amendment?",
+   "o": [
+    "21st Amendment",
+    "92nd Amendment",
+    "42nd Amendment",
+    "71st Amendment (1992)"
+   ],
+   "a": 3,
+   "e": "The 71st Amendment added Konkani, Manipuri and Nepali."
+  },
+  {
+   "q": "Bodo, Dogri, Santhali and Maithili were added to the Eighth Schedule by which amendment?",
+   "o": [
+    "92nd Amendment (2003)",
+    "21st Amendment",
+    "71st Amendment",
+    "100th Amendment"
+   ],
+   "a": 0,
+   "e": "The 92nd Amendment added Bodo, Dogri, Santhali and Maithili."
+  },
+  {
+   "q": "The Ninth Schedule was added by which amendment?",
+   "o": [
+    "24th Amendment",
+    "1st Amendment, 1951",
+    "42nd Amendment",
+    "52nd Amendment"
+   ],
+   "a": 1,
+   "e": "It was added mainly to shield land reform laws from judicial review."
+  },
+  {
+   "q": "The anti-defection law is in which Schedule and was added by which amendment?",
+   "o": [
+    "Ninth Schedule, 1st Amendment",
+    "Eleventh Schedule, 73rd Amendment",
+    "Tenth Schedule, 52nd Amendment (1985)",
+    "Twelfth Schedule, 74th Amendment"
+   ],
+   "a": 2,
+   "e": "The Tenth Schedule was added by the 52nd Amendment, 1985."
+  },
+  {
+   "q": "How many functional subjects for Panchayats are listed in the Eleventh Schedule?",
+   "o": [
+    "18",
+    "27",
+    "33",
+    "29"
+   ],
+   "a": 3,
+   "e": "Eleventh Schedule: Panchayats, 29 subjects; added by the 73rd Amendment (1992), in force 1993."
+  },
+  {
+   "q": "How many functional subjects for Municipalities are listed in the Twelfth Schedule?",
+   "o": [
+    "18",
+    "29",
+    "20",
+    "12"
+   ],
+   "a": 0,
+   "e": "Twelfth Schedule: Municipalities, 18 subjects; added by the 74th Amendment (1992)."
+  },
+  {
+   "q": "The Twelfth Schedule was added by which amendment?",
+   "o": [
+    "73rd Amendment",
+    "74th Amendment",
+    "52nd Amendment",
+    "97th Amendment"
+   ],
+   "a": 1,
+   "e": "The 74th Amendment was passed in 1992 and came into force in 1993."
+  },
+  {
+   "q": "Which subjects fall in the Union List?",
+   "o": [
+    "Police and public order",
+    "Land and agriculture",
+    "Defence, railways, atomic energy, citizenship",
+    "Education and marriage"
+   ],
+   "a": 2,
+   "e": "Subjects of national importance needing uniformity are in the Union List; only Parliament legislates on them."
+  },
+  {
+   "q": "Which of the following subjects is in the State List?",
+   "o": [
+    "Defence",
+    "Railways",
+    "Atomic energy",
+    "Public order (police)"
+   ],
+   "a": 3,
+   "e": "State List: police/public order, land, agriculture etc.; state legislatures make laws on them."
+  },
+  {
+   "q": "Which of the following subjects is in the Concurrent List?",
+   "o": [
+    "Education",
+    "Defence",
+    "Railways",
+    "Public order"
+   ],
+   "a": 0,
+   "e": "Concurrent List: education, marriage and divorce etc.; both Parliament and states can legislate."
+  },
+  {
+   "q": "How many subjects did the Union List originally have, and how many now?",
+   "o": [
+    "66 then, 61 now",
+    "97 then, 100 now",
+    "47 then, 52 now",
+    "100 then, 97 now"
+   ],
+   "a": 1,
+   "e": "Union List: 97 → 100 entries (as commonly cited)."
+  },
+  {
+   "q": "What is the present number of subjects in the State List?",
+   "o": [
+    "66",
+    "52",
+    "61",
+    "100"
+   ],
+   "a": 2,
+   "e": "The State List originally had 66 subjects; 61 after the 42nd Amendment (as commonly cited)."
+  },
+  {
+   "q": "What is the present number of subjects in the Concurrent List?",
+   "o": [
+    "47",
+    "61",
+    "100",
+    "52"
+   ],
+   "a": 3,
+   "e": "Concurrent List: originally 47, now 52."
+  },
+  {
+   "q": "If both Parliament and a state legislature make a law on a Concurrent List subject, whose law prevails?",
+   "o": [
+    "Parliament's",
+    "The state legislature's",
+    "Whichever was made first",
+    "The Supreme Court decides"
+   ],
+   "a": 0,
+   "e": "Under Article 254 (doctrine of repugnancy), the law of Parliament prevails."
+  },
+  {
+   "q": "When can a state law on a Concurrent List subject prevail in the state?",
+   "o": [
+    "With the Governor's assent",
+    "If it receives the President's assent",
+    "With the Supreme Court's permission",
+    "Never"
+   ],
+   "a": 1,
+   "e": "If reserved for and assented to by the President, it prevails in that state, though Parliament can later override it."
+  },
+  {
+   "q": "The 'doctrine of repugnancy' is contained in which Article?",
+   "o": [
+    "Article 245",
+    "Article 248",
+    "Article 254",
+    "Article 263"
+   ],
+   "a": 2,
+   "e": "Art. 254: conflict between Central and state laws on the Concurrent List; Art. 248: residuary powers."
+  },
+  {
+   "q": "How many subjects were transferred from the State List to the Concurrent List by the 42nd Amendment?",
+   "o": [
+    "Three",
+    "Four",
+    "Seven",
+    "Five"
+   ],
+   "a": 3,
+   "e": "Education, forests, weights and measures, protection of wild animals and birds, administration of justice."
+  },
+  {
+   "q": "Which of the following was NOT transferred from the State List to the Concurrent List by the 42nd Amendment?",
+   "o": [
+    "Police",
+    "Forests",
+    "Education",
+    "Protection of wild animals and birds"
+   ],
+   "a": 0,
+   "e": "Transferred: education, forests, weights and measures, wildlife protection, administration of justice."
+  },
+  {
+   "q": "Who has the power to make laws on a subject not mentioned in any of the three lists?",
+   "o": [
+    "State legislature",
+    "Parliament",
+    "President",
+    "Supreme Court"
+   ],
+   "a": 1,
+   "e": "Residuary powers lie with the Centre (borrowed from Canada)."
+  },
+  {
+   "q": "Fundamental Rights are contained in which Part of the Constitution?",
+   "o": [
+    "Part IV (Arts. 36-51)",
+    "Part IVA (Art. 51A)",
+    "Part III (Arts. 12-35)",
+    "Part V"
+   ],
+   "a": 2,
+   "e": "Part III: Fundamental Rights; Part IV: DPSP; Part IVA: Fundamental Duties."
+  },
+  {
+   "q": "What is described in Part IV of the Constitution?",
+   "o": [
+    "Fundamental Rights",
+    "The Union Executive",
+    "Inter-state relations",
+    "Directive Principles of State Policy (DPSP)"
+   ],
+   "a": 3,
+   "e": "Part IV = DPSP; Part III = Fundamental Rights."
+  },
+  {
+   "q": "Which Part of the Constitution deals with the Union executive?",
+   "o": [
+    "Part V",
+    "Part VI",
+    "Part III",
+    "Part IV"
+   ],
+   "a": 0,
+   "e": "Part V deals with the Union, Part VI with the states."
+  },
+  {
+   "q": "Special provisions for Scheduled Castes, Scheduled Tribes and backward classes are in which Part?",
+   "o": [
+    "Part III",
+    "Part XVI (Arts. 330-342A)",
+    "Part IX",
+    "Part XVII"
+   ],
+   "a": 1,
+   "e": "Part XVI (Arts. 330-342A): special provisions relating to certain classes."
+  },
+  {
+   "q": "Provisions relating to the official language are in which Part of the Constitution?",
+   "o": [
+    "Part XVI",
+    "Part XVIII",
+    "Part XVII (Arts. 343-351)",
+    "Part XII"
+   ],
+   "a": 2,
+   "e": "Part XVII: language of the Union, regional languages, language of courts, special directives."
+  },
+  {
+   "q": "Articles 350 and 351 deal with:",
+   "o": [
+    "Language of the courts",
+    "Regional languages",
+    "Language of the Union",
+    "Special directives relating to language"
+   ],
+   "a": 3,
+   "e": "Chapter IV of Part XVII: special directives (mother-tongue instruction, development of Hindi)."
+  },
+  {
+   "q": "Provisions relating to Panchayats are in which Part of the Constitution?",
+   "o": [
+    "Part IX",
+    "Part IXA",
+    "Part IXB",
+    "Part XI"
+   ],
+   "a": 0,
+   "e": "Part IX Panchayats, IXA Municipalities, IXB Co-operative Societies."
+  },
+  {
+   "q": "Part IXB on co-operative societies was added by which amendment?",
+   "o": [
+    "73rd Amendment",
+    "97th Amendment (2011)",
+    "74th Amendment",
+    "86th Amendment"
+   ],
+   "a": 1,
+   "e": "Any question on co-operative societies: the answer is the 97th Amendment."
+  },
+  {
+   "q": "Relations between the Union and the states (Arts. 245-263) are in which Part?",
+   "o": [
+    "Part XII",
+    "Part X",
+    "Part XI",
+    "Part XIII"
+   ],
+   "a": 2,
+   "e": "Part XI = Centre-State relations."
+  },
+  {
+   "q": "Finance, property, contracts and suits are the subject of which Part?",
+   "o": [
+    "Part XI",
+    "Part XIII",
+    "Part XIV",
+    "Part XII"
+   ],
+   "a": 3,
+   "e": "Part XII covers finance, property, contracts and suits, including Art. 300A (right to property)."
+  },
+  {
+   "q": "Special provisions for certain states (such as Article 371) fall under which Part?",
+   "o": [
+    "Part XXI",
+    "Part XX",
+    "Part XIX",
+    "Part XXII"
+   ],
+   "a": 0,
+   "e": "Part XXI: temporary, transitional and special provisions; Part XX = amendment, Part XIX = miscellaneous."
+  },
+  {
+   "q": "How many Parts did the Constitution originally have, and how many now?",
+   "o": [
+    "22 then, 26 now",
+    "22 then, 25 now",
+    "20 then, 25 now",
+    "24 then, 22 now"
+   ],
+   "a": 1,
+   "e": "Four Parts were added (IVA, IXA, IXB, XIVA) and one (Part VII) was deleted."
+  },
+  {
+   "q": "Which Part of the Constitution was deleted by the 7th Amendment?",
+   "o": [
+    "Part VI",
+    "Part VIII",
+    "Part VII",
+    "Part IX"
+   ],
+   "a": 2,
+   "e": "Part VII (Part B states) was deleted by the 7th Amendment, 1956."
+  },
+  {
+   "q": "When was the Indian Constitution adopted and when did it come into force?",
+   "o": [
+    "Adopted 26 January 1949, in force 26 November 1950",
+    "Both on 26 January 1950",
+    "Adopted 15 August 1947, in force 26 January 1950",
+    "Adopted 26 November 1949, in force 26 January 1950"
+   ],
+   "a": 3,
+   "e": "26 November is celebrated as Constitution Day."
+  },
+  {
+   "q": "In what capacity does the Preamble function?",
+   "o": [
+    "As a guiding principle for interpretation (essence of the Constitution)",
+    "As a Schedule",
+    "As financial guidelines",
+    "As a law enforceable in courts"
+   ],
+   "a": 0,
+   "e": "The Preamble is the essence of the Constitution but is not enforceable in court."
+  },
+  {
+   "q": "India borrowed the idea of the Preamble from the constitution of:",
+   "o": [
+    "Britain",
+    "USA",
+    "Canada",
+    "France"
+   ],
+   "a": 1,
+   "e": "The Preamble is from the USA; justice from the Russian Revolution, liberty-equality-fraternity from the French Revolution."
+  },
+  {
+   "q": "Who called the Preamble the 'identity card of the Constitution'?",
+   "o": [
+    "K.M. Munshi",
+    "Thakur Das Bhargava",
+    "N.A. Palkhivala",
+    "Ernest Barker"
+   ],
+   "a": 2,
+   "e": "N.A. Palkhivala: identity card of the Constitution."
+  },
+  {
+   "q": "Who called the Preamble the 'political horoscope' of the Constitution?",
+   "o": [
+    "N.A. Palkhivala",
+    "Thakur Das Bhargava",
+    "B.R. Ambedkar",
+    "K.M. Munshi"
+   ],
+   "a": 3,
+   "e": "K.M. Munshi: political horoscope."
+  },
+  {
+   "q": "Which statement about the Preamble is correct?",
+   "o": [
+    "It cannot be enforced in a court of law",
+    "It can never be amended",
+    "It is above the Fundamental Rights",
+    "It is part of the Fundamental Rights"
+   ],
+   "a": 0,
+   "e": "The Preamble is non-justiciable, but it can be amended (Kesavananda Bharati)."
+  },
+  {
+   "q": "The Preamble tells us about which four things?",
+   "o": [
+    "Only Fundamental Rights",
+    "Source of authority, nature of the state, objectives and date of adoption",
+    "Only Fundamental Duties",
+    "Only the federal structure"
+   ],
+   "a": 1,
+   "e": "Source: We the people; nature: sovereign socialist secular democratic republic; objectives: justice etc.; date: 26 Nov 1949."
+  },
+  {
+   "q": "According to the Preamble, what is the source of authority of the Constitution?",
+   "o": [
+    "Parliament",
+    "Constituent Assembly",
+    "We, the people of India",
+    "President"
+   ],
+   "a": 2,
+   "e": "'We, the people of India' are the source of authority."
+  },
+  {
+   "q": "What is the correct order of the words describing India in the Preamble?",
+   "o": [
+    "Sovereign, Secular, Socialist, Democratic, Republic",
+    "Socialist, Sovereign, Democratic, Secular, Republic",
+    "Sovereign, Democratic, Socialist, Secular, Republic",
+    "Sovereign, Socialist, Secular, Democratic, Republic"
+   ],
+   "a": 3,
+   "e": "Sovereign Socialist Secular Democratic Republic - questions test this order."
+  },
+  {
+   "q": "What does the word 'sovereign' in the Preamble mean?",
+   "o": [
+    "Freedom from external control",
+    "Religious freedom",
+    "Non-aligned policy",
+    "Power to appoint the President"
+   ],
+   "a": 0,
+   "e": "Sovereign: independent in decision-making, not subject to any external power."
+  },
+  {
+   "q": "The word 'Socialist' was added to the Preamble by which amendment?",
+   "o": [
+    "44th Amendment",
+    "42nd Amendment (1976)",
+    "52nd Amendment",
+    "61st Amendment"
+   ],
+   "a": 1,
+   "e": "The 42nd Amendment added Socialist, Secular and Integrity; it is called the 'mini-Constitution'."
+  },
+  {
+   "q": "Which three words were added to the Preamble by the 42nd Amendment?",
+   "o": [
+    "Sovereign, Socialist, Secular",
+    "Socialist, Democratic, Republic",
+    "Socialist, Secular, Integrity",
+    "Secular, Fraternity, Integrity"
+   ],
+   "a": 2,
+   "e": "Trick SSI: Socialist, Secular, Integrity; 'Sovereign' was original."
+  },
+  {
+   "q": "How many times has the Preamble been amended so far?",
+   "o": [
+    "Twice",
+    "Thrice",
+    "Never",
+    "Once"
+   ],
+   "a": 3,
+   "e": "Only once, by the 42nd Amendment (1976)."
+  },
+  {
+   "q": "The 42nd Constitutional Amendment is popularly known as:",
+   "o": [
+    "Mini-Constitution",
+    "Mini-Constitution-2",
+    "Fundamental Rights Amendment",
+    "Federal Amendment"
+   ],
+   "a": 0,
+   "e": "It made so many changes that it was called the 'mini-Constitution'."
+  },
+  {
+   "q": "What does declaring India 'secular' in the Preamble mean?",
+   "o": [
+    "Citizens should follow no religion",
+    "The State protects all religions equally",
+    "The State has an official religion",
+    "Only the majority religion is protected"
+   ],
+   "a": 1,
+   "e": "India has no state religion (unlike, e.g., Pakistan, an Islamic state)."
+  },
+  {
+   "q": "Which word in the Preamble indicates that India's head of state is elected, not hereditary?",
+   "o": [
+    "Socialist",
+    "Secular",
+    "Republic",
+    "Sovereign"
+   ],
+   "a": 2,
+   "e": "Republic: elected head of state (indirectly in India); Britain has a hereditary monarchy."
+  },
+  {
+   "q": "What is the main meaning of socialism?",
+   "o": [
+    "Means of production in the hands of capitalists",
+    "No control at all",
+    "Only private companies",
+    "Government control over the means of production"
+   ],
+   "a": 3,
+   "e": "Its opposite is capitalism."
+  },
+  {
+   "q": "How many types of justice are mentioned in the Preamble?",
+   "o": [
+    "Three (social, economic, political)",
+    "Two",
+    "Four",
+    "Five"
+   ],
+   "a": 0,
+   "e": "Social, economic and political justice, taken from the Russian Revolution."
+  },
+  {
+   "q": "How many types of liberty are mentioned in the Preamble?",
+   "o": [
+    "Three",
+    "Five (thought, expression, belief, faith, worship)",
+    "Four",
+    "Seven"
+   ],
+   "a": 1,
+   "e": "Liberty of thought, expression, belief, faith and worship."
+  },
+  {
+   "q": "How many types of equality are mentioned in the Preamble?",
+   "o": [
+    "Three",
+    "One",
+    "Two (of status and of opportunity)",
+    "Four"
+   ],
+   "a": 2,
+   "e": "Equality of status and of opportunity."
+  },
+  {
+   "q": "According to the Preamble, fraternity assures:",
+   "o": [
+    "Only national unity",
+    "Only economic equality",
+    "Only religious harmony",
+    "Dignity of the individual and unity and integrity of the Nation"
+   ],
+   "a": 3,
+   "e": "Fraternity has one type; 'integrity' was added by the 42nd Amendment."
+  },
+  {
+   "q": "India took the ideals of liberty, equality and fraternity from which revolution?",
+   "o": [
+    "French Revolution",
+    "Russian Revolution",
+    "American Revolution",
+    "Glorious Revolution"
+   ],
+   "a": 0,
+   "e": "Social, economic and political justice was taken from the Russian Revolution."
+  },
+  {
+   "q": "When is Constitution Day celebrated?",
+   "o": [
+    "26 January",
+    "26 November",
+    "15 August",
+    "9 December"
+   ],
+   "a": 1,
+   "e": "The Constitution was adopted on 26 November 1949."
+  },
+  {
+   "q": "In which case did the Supreme Court hold that the Preamble is not a part of the Constitution?",
+   "o": [
+    "Kesavananda Bharati case (1973)",
+    "S.R. Bommai case",
+    "Berubari Union case (1960)",
+    "Golaknath case"
+   ],
+   "a": 2,
+   "e": "Berubari (1960): the Preamble is not part of the Constitution."
+  },
+  {
+   "q": "In which case was the Preamble first held to be a part of the Constitution?",
+   "o": [
+    "Berubari Union case",
+    "S.R. Bommai case",
+    "Minerva Mills case",
+    "Kesavananda Bharati case (1973)"
+   ],
+   "a": 3,
+   "e": "This made amendment of the Preamble possible (42nd Amendment, 1976)."
+  },
+  {
+   "q": "The S.R. Bommai case is related to:",
+   "o": [
+    "Misuse of President's Rule (Art. 356)",
+    "Whether the Preamble is part of the Constitution",
+    "Amendment of Fundamental Rights",
+    "Right to privacy"
+   ],
+   "a": 0,
+   "e": "President's Rule must be a last resort and cannot be imposed arbitrarily."
+  },
+  {
+   "q": "The Preamble is based on which resolution moved by Pandit Nehru?",
+   "o": [
+    "Cabinet Mission Plan",
+    "Objectives Resolution",
+    "Nehru Report",
+    "Cripps Proposals"
+   ],
+   "a": 1,
+   "e": "The Objectives Resolution is the basis of the Preamble, not the Preamble itself."
+  },
+  {
+   "q": "When did Nehru move the Objectives Resolution in the Constituent Assembly, and when was it adopted?",
+   "o": [
+    "Moved 9 December 1946, adopted 26 January 1950",
+    "Moved 22 January 1947, adopted 13 December 1946",
+    "Moved 13 December 1946, adopted 22 January 1947",
+    "Moved 15 August 1947, adopted 26 November 1949"
+   ],
+   "a": 2,
+   "e": "Moved on 13 December 1946 and adopted on 22 January 1947."
+  },
+  {
+   "q": "When was the first meeting of the Constituent Assembly held, and how many members attended?",
+   "o": [
+    "26 November 1949, 299 members",
+    "15 August 1947, 389 members",
+    "13 December 1946, 211 members",
+    "9 December 1946, 211 members"
+   ],
+   "a": 3,
+   "e": "The first meeting was held on 9 December 1946 with 211 members present."
+  },
+  {
+   "q": "The 61st Constitutional Amendment is related to:",
+   "o": [
+    "Lowering the voting age from 21 to 18 years",
+    "Lowering the voting age from 25 to 21",
+    "Adding Fundamental Duties",
+    "Right to education"
+   ],
+   "a": 0,
+   "e": "The 61st Amendment (1988) lowered the voting age to 18."
+  },
+  {
+   "q": "In which Part and Articles are Fundamental Rights placed, and from where were they borrowed?",
+   "o": [
+    "Part IV, Arts. 36-51; from Ireland",
+    "Part III, Arts. 12-35; inspired by the US Bill of Rights",
+    "Part III, Arts. 12-35; from Britain",
+    "Part II, Arts. 5-11; from Canada"
+   ],
+   "a": 1,
+   "e": "Fundamental Rights are inspired by the American Bill of Rights."
+  },
+  {
+   "q": "How many Fundamental Rights were there in the original Constitution, and how many now?",
+   "o": [
+    "6 then, 7 now",
+    "7 then, 5 now",
+    "7 then, 6 now",
+    "8 then, 6 now"
+   ],
+   "a": 2,
+   "e": "The right to property (Art. 31) was removed by the 44th Amendment, 1978."
+  },
+  {
+   "q": "The Right to Equality is contained in which Articles?",
+   "o": [
+    "Articles 19-22",
+    "Articles 23-24",
+    "Articles 25-28",
+    "Articles 14-18"
+   ],
+   "a": 3,
+   "e": "Equality 14-18; Freedom 19-22; against Exploitation 23-24; Religion 25-28; Cultural-Educational 29-30; Remedies 32."
+  },
+  {
+   "q": "The Right to Freedom is contained in which Articles?",
+   "o": [
+    "Articles 19-22",
+    "Articles 14-18",
+    "Articles 23-24",
+    "Articles 29-30"
+   ],
+   "a": 0,
+   "e": "Articles 19 to 22 cover the Right to Freedom."
+  },
+  {
+   "q": "The Right against Exploitation is described in which Articles?",
+   "o": [
+    "Articles 21 and 22",
+    "Articles 23 and 24",
+    "Articles 25 and 26",
+    "Articles 29 and 30"
+   ],
+   "a": 1,
+   "e": "Art. 23 bans human trafficking and forced labour; Art. 24 bans employing children below 14 in hazardous work."
+  },
+  {
+   "q": "The Right to Freedom of Religion is contained in which Articles?",
+   "o": [
+    "Articles 14-18",
+    "Articles 29-30",
+    "Articles 25-28",
+    "Article 32"
+   ],
+   "a": 2,
+   "e": "Articles 25 to 28 cover freedom of religion."
+  },
+  {
+   "q": "Cultural and Educational Rights are contained in which Articles?",
+   "o": [
+    "Articles 25 and 26",
+    "Articles 31 and 32",
+    "Articles 19 and 20",
+    "Articles 29 and 30"
+   ],
+   "a": 3,
+   "e": "Art. 29: protection of language, script and culture; Art. 30: educational institutions of minorities."
+  },
+  {
+   "q": "The Right to Constitutional Remedies is contained in which Article?",
+   "o": [
+    "Article 32",
+    "Article 31",
+    "Article 226",
+    "Article 33"
+   ],
+   "a": 0,
+   "e": "Art. 31 (property) has been deleted; Art. 226 is not a Fundamental Right."
+  },
+  {
+   "q": "Which statement about Fundamental Rights is incorrect?",
+   "o": [
+    "Reasonable restrictions can be imposed on them",
+    "They are absolute and cannot be restricted",
+    "They are enforceable by courts",
+    "Cultural and educational rights of Arts. 29-30 are also Fundamental Rights"
+   ],
+   "a": 1,
+   "e": "Fundamental Rights are not absolute; they are subject to reasonable restrictions."
+  },
+  {
+   "q": "Article 12 defines which term?",
+   "o": [
+    "Citizen",
+    "Minority",
+    "State",
+    "Title"
+   ],
+   "a": 2,
+   "e": "Parliament, state legislatures, Union/state governments, local bodies and other authorities are 'State'."
+  },
+  {
+   "q": "Under Article 13, what happens to laws inconsistent with Fundamental Rights?",
+   "o": [
+    "They continue automatically",
+    "Parliament will amend them",
+    "Only the Governor can annul them",
+    "They can be declared void"
+   ],
+   "a": 3,
+   "e": "Art. 13 is the basis of judicial review of both pre- and post-constitutional laws."
+  },
+  {
+   "q": "Which of the following is NOT included in the definition of 'State' under Article 12?",
+   "o": [
+    "A private individual",
+    "Parliament",
+    "State legislature",
+    "Local authorities"
+   ],
+   "a": 0,
+   "e": "Parliament, legislatures, Union and state governments and local authorities are included."
+  },
+  {
+   "q": "'Equality before law' and 'equal protection of laws' are contained in which Article?",
+   "o": [
+    "Article 13",
+    "Article 14",
+    "Article 15",
+    "Article 16"
+   ],
+   "a": 1,
+   "e": "Article 14 contains both concepts."
+  },
+  {
+   "q": "The concept of 'equality before law' was borrowed from which country, and what kind of concept is it?",
+   "o": [
+    "From the USA; positive concept",
+    "From Canada; negative concept",
+    "From Britain; negative concept",
+    "From Britain; positive concept"
+   ],
+   "a": 2,
+   "e": "It is linked to the Rule of Law: no one is above the law."
+  },
+  {
+   "q": "Who propounded the concept of 'Rule of Law'?",
+   "o": [
+    "K.C. Wheare",
+    "Ivor Jennings",
+    "N.A. Palkhivala",
+    "A.V. Dicey"
+   ],
+   "a": 3,
+   "e": "A.V. Dicey gave the concept of Rule of Law."
+  },
+  {
+   "q": "'Equal protection of laws' is what kind of concept, and from where was it borrowed?",
+   "o": [
+    "Positive; from the USA",
+    "Negative; from Britain",
+    "Positive; from Canada",
+    "Negative; from the USA"
+   ],
+   "a": 0,
+   "e": "It means like should be treated alike in similar circumstances."
+  },
+  {
+   "q": "Article 15 prohibits the State from discriminating on which grounds?",
+   "o": [
+    "Only religion and caste",
+    "Religion, race, caste, sex, place of birth",
+    "Religion, caste, income, education",
+    "Language, region, age"
+   ],
+   "a": 1,
+   "e": "Discrimination is barred only on these grounds."
+  },
+  {
+   "q": "Under Article 15(2), access to which places cannot be denied?",
+   "o": [
+    "Only government offices",
+    "Only temples",
+    "Shops, public restaurants, hotels, wells, bathing ghats",
+    "Only schools"
+   ],
+   "a": 2,
+   "e": "It guarantees access to public places."
+  },
+  {
+   "q": "Article 15(3) allows the State to make special provisions for:",
+   "o": [
+    "Only senior citizens",
+    "Only soldiers",
+    "Only minorities",
+    "Women and children"
+   ],
+   "a": 3,
+   "e": "Such provisions do not violate Article 15."
+  },
+  {
+   "q": "Article 15(4) was added by which amendment?",
+   "o": [
+    "1st Amendment, 1951 (after the Champakam Dorairajan case)",
+    "42nd Amendment, 1976",
+    "103rd Amendment, 2019",
+    "93rd Amendment, 2005"
+   ],
+   "a": 0,
+   "e": "It enables special provisions for socially and educationally backward classes after Champakam Dorairajan (1951)."
+  },
+  {
+   "q": "Article 15(5) provides for:",
+   "o": [
+    "Reservation in promotions",
+    "Reservation for backward classes in educational institutions, including private ones",
+    "EWS reservation",
+    "Backlog vacancies"
+   ],
+   "a": 1,
+   "e": "Added by the 93rd Amendment, 2005; covers admissions in aided/unaided institutions except minority ones."
+  },
+  {
+   "q": "Which amendment added Articles 15(6) and 16(6) to provide reservation for Economically Weaker Sections (EWS)?",
+   "o": [
+    "102nd Amendment",
+    "101st Amendment",
+    "103rd Amendment (2019)",
+    "104th Amendment"
+   ],
+   "a": 2,
+   "e": "EWS reservation: 103rd Constitutional Amendment Act, 2019."
+  },
+  {
+   "q": "Article 16 is related to:",
+   "o": [
+    "Abolition of untouchability",
+    "Abolition of titles",
+    "Right to education",
+    "Equality of opportunity in public employment"
+   ],
+   "a": 3,
+   "e": "Equality of opportunity in public employment."
+  },
+  {
+   "q": "Who can prescribe a residence requirement for certain posts in public employment (Art. 16(3))?",
+   "o": [
+    "Parliament",
+    "Governor",
+    "President",
+    "High Court"
+   ],
+   "a": 0,
+   "e": "Parliament may by law prescribe residence for posts in a state/UT."
+  },
+  {
+   "q": "Article 16(4A), providing reservation in promotions, was added by which amendment?",
+   "o": [
+    "81st Amendment",
+    "77th Amendment",
+    "85th Amendment",
+    "42nd Amendment"
+   ],
+   "a": 1,
+   "e": "Indra Sawhney barred reservation in promotions; the 77th Amendment added 16(4A)."
+  },
+  {
+   "q": "The 'carry forward' rule in Article 16(4B) was added by which amendment?",
+   "o": [
+    "77th Amendment",
+    "85th Amendment",
+    "81st Amendment",
+    "103rd Amendment"
+   ],
+   "a": 2,
+   "e": "Allows unfilled reserved vacancies to be carried forward to later years."
+  },
+  {
+   "q": "Under Article 16(5), what may be done for an office in a religious institution?",
+   "o": [
+    "Religion-based appointment is fully prohibited",
+    "It applies only to government institutions",
+    "Appointment of minorities is mandatory",
+    "Belonging to that religion can be made a qualification"
+   ],
+   "a": 3,
+   "e": "Membership of the particular religion may be required for posts in religious/denominational bodies."
+  },
+  {
+   "q": "Abolition of untouchability is provided in which Article?",
+   "o": [
+    "Article 17",
+    "Article 15",
+    "Article 16",
+    "Article 18"
+   ],
+   "a": 0,
+   "e": "Art. 17: abolition of untouchability."
+  },
+  {
+   "q": "In 1976, the Untouchability (Offences) Act, 1955 was renamed as:",
+   "o": [
+    "SC/ST (Prevention of Atrocities) Act",
+    "Protection of Civil Rights Act, 1955",
+    "Protection of Human Rights Act",
+    "Equality Act"
+   ],
+   "a": 1,
+   "e": "Renamed the Protection of Civil Rights Act, 1955 in 1976."
+  },
+  {
+   "q": "Which Article prevents Indian citizens from accepting titles from a foreign state?",
+   "o": [
+    "Article 16",
+    "Article 17",
+    "Article 18",
+    "Article 19"
+   ],
+   "a": 2,
+   "e": "Art. 18 abolishes titles; military and academic distinctions are exempt; Bharat Ratna and Padma awards are not titles."
+  },
+  {
+   "q": "Which of the following does NOT count as a 'title' under Article 18?",
+   "o": [
+    "Rai Bahadur",
+    "Sir",
+    "Any title from a foreign state",
+    "Bharat Ratna and Padma awards"
+   ],
+   "a": 3,
+   "e": "Bharat Ratna, Padma awards etc. are decorations; academic distinctions are also outside Art. 18."
+  },
+  {
+   "q": "The right to reside and settle in any part of India is in which Article?",
+   "o": [
+    "Article 19(1)(e)",
+    "Article 15",
+    "Article 18",
+    "Article 21"
+   ],
+   "a": 0,
+   "e": "Art. 19(1) has six freedoms: speech (a), assembly (b), association (c), movement (d), residence (e), profession (g)."
+  },
+  {
+   "q": "Article 19(1)(a) describes which right?",
+   "o": [
+    "Freedom to form associations",
+    "Freedom of speech and expression",
+    "Freedom of movement",
+    "Freedom of profession"
+   ],
+   "a": 1,
+   "e": "Expression through any medium: newspapers, songs, pictures, etc."
+  },
+  {
+   "q": "What condition applies to the freedom of assembly under Article 19(1)(b)?",
+   "o": [
+    "With arms",
+    "Only with government permission",
+    "Peaceably and without arms",
+    "Only at night"
+   ],
+   "a": 2,
+   "e": "Citizens may assemble peaceably and without arms."
+  },
+  {
+   "q": "Which sub-clause of Article 19(1) was deleted, and by which amendment?",
+   "o": [
+    "19(1)(a); 42nd Amendment",
+    "19(1)(g); 44th Amendment",
+    "19(1)(c); 61st Amendment",
+    "19(1)(f) right to property; 44th Amendment, 1978"
+   ],
+   "a": 3,
+   "e": "The 44th Amendment removed 19(1)(f) and Art. 31, making property a legal right under Art. 300A."
+  },
+  {
+   "q": "What is the present status of the right to property?",
+   "o": [
+    "Legal right, Article 300A (Part XII)",
+    "Fundamental Right, Art. 31",
+    "Fundamental Right, Art. 19(1)(f)",
+    "Directive Principle, Art. 39"
+   ],
+   "a": 0,
+   "e": "It is now a constitutional/legal right, not a Fundamental Right."
+  },
+  {
+   "q": "Article 19(2) is related to:",
+   "o": [
+    "Fundamental Duties",
+    "Reasonable restrictions",
+    "Punishment for offences",
+    "Emergency"
+   ],
+   "a": 1,
+   "e": "Grounds include public order, incitement, contempt, defamation, decency, sovereignty, security, friendly relations."
+  },
+  {
+   "q": "Which three restrictions were added to Article 19(2) by the 1st Amendment (1951)?",
+   "o": [
+    "Defamation, contempt, decency",
+    "Sovereignty, security, public health",
+    "Public order, friendly relations with foreign states, incitement to an offence",
+    "Public order, defamation, security"
+   ],
+   "a": 2,
+   "e": "Three grounds were added by the 1st Amendment; there are now eight grounds in all."
+  },
+  {
+   "q": "Which case, in which a ban on a journal was lifted, prompted the 1st Constitutional Amendment of 1951?",
+   "o": [
+    "A.K. Gopalan v. State of Madras",
+    "Champakam Dorairajan case",
+    "Indra Sawhney case",
+    "Romesh Thappar v. State of Madras"
+   ],
+   "a": 3,
+   "e": "Romesh Thappar (1950): the court lifted Madras's ban on the journal 'Cross Roads'."
+  },
+  {
+   "q": "Which rights are suspended automatically only in an emergency on grounds of war/external aggression, not armed rebellion?",
+   "o": [
+    "The six freedoms of Article 19",
+    "Articles 20 and 21",
+    "Article 14",
+    "Rights under Article 32"
+   ],
+   "a": 0,
+   "e": "Art. 358: Art. 19 is suspended in a war/external aggression emergency, not in armed rebellion."
+  },
+  {
+   "q": "How many clauses does Article 20 have and what do they deal with?",
+   "o": [
+    "Two: arrest and detention",
+    "Three: no ex post facto law, no double jeopardy, no self-incrimination",
+    "Four: life, liberty, education, privacy",
+    "Five: the five writs"
+   ],
+   "a": 1,
+   "e": "Art. 20: protection in respect of conviction for offences."
+  },
+  {
+   "q": "What does 'no ex post facto law' mean?",
+   "o": [
+    "No double punishment for one offence",
+    "The accused cannot be made a witness against himself",
+    "Only the penalty in force at the time of the offence applies, not one enhanced later",
+    "Arrest without hearing"
+   ],
+   "a": 2,
+   "e": "Article 20(1)."
+  },
+  {
+   "q": "What does 'no double jeopardy' mean?",
+   "o": [
+    "No law will be made after the offence",
+    "No witness against oneself",
+    "Production within 24 hours",
+    "No punishment twice for the same offence"
+   ],
+   "a": 3,
+   "e": "Article 20(2)."
+  },
+  {
+   "q": "What is the exception to the protection against self-incrimination?",
+   "o": [
+    "One may have to give blood samples, handwriting and thumb impressions",
+    "There is no exception",
+    "Making statements in court",
+    "Not being a witness"
+   ],
+   "a": 0,
+   "e": "Art. 20(3) bars compelled testimony, but not blood samples, thumb impressions or handwriting."
+  },
+  {
+   "q": "Under Article 21, a person can be deprived of life and personal liberty only:",
+   "o": [
+    "By order of the President",
+    "According to procedure established by law",
+    "Without any procedure",
+    "At the will of Parliament"
+   ],
+   "a": 1,
+   "e": "'Procedure established by law' was borrowed from the Japanese constitution."
+  },
+  {
+   "q": "The concept of 'procedure established by law' was borrowed from:",
+   "o": [
+    "USA",
+    "Britain",
+    "Japan",
+    "Germany"
+   ],
+   "a": 2,
+   "e": "Art. 21 takes it from Japan; the USA has 'due process of law'."
+  },
+  {
+   "q": "In which case did the Supreme Court give a narrow interpretation of Article 21?",
+   "o": [
+    "Maneka Gandhi case (1978)",
+    "Puttaswamy case (2017)",
+    "Kesavananda Bharati case (1973)",
+    "A.K. Gopalan case (1950)"
+   ],
+   "a": 3,
+   "e": "Gopalan looked only at the validity of procedure; Maneka Gandhi adopted a wider due-process approach."
+  },
+  {
+   "q": "Which case, decided during the Emergency, is known as the Habeas Corpus case?",
+   "o": [
+    "ADM Jabalpur v. Shivkant Shukla (1976)",
+    "Maneka Gandhi case",
+    "S.R. Bommai case",
+    "Indra Sawhney case"
+   ],
+   "a": 0,
+   "e": "The court held habeas corpus unavailable while Art. 21 was suspended; the 44th Amendment later protected Arts. 20-21."
+  },
+  {
+   "q": "In which case did the Supreme Court adopt the idea of 'due process of law', requiring laws to be just, fair and reasonable?",
+   "o": [
+    "A.K. Gopalan case",
+    "Maneka Gandhi v. Union of India (1978)",
+    "Golaknath case",
+    "Berubari case"
+   ],
+   "a": 1,
+   "e": "Maneka Gandhi's passport was impounded; the right to go abroad was read into Art. 21."
+  },
+  {
+   "q": "The right to go abroad has been held to be a part of which Article?",
+   "o": [
+    "Article 19(1)(d)",
+    "Article 14",
+    "Article 21",
+    "Article 25"
+   ],
+   "a": 2,
+   "e": "Held under Art. 21 in the Maneka Gandhi case."
+  },
+  {
+   "q": "Rights under which Articles cannot be suspended even during a National Emergency?",
+   "o": [
+    "Articles 14 and 15",
+    "Articles 19 and 21",
+    "Articles 25 and 26",
+    "Articles 20 and 21"
+   ],
+   "a": 3,
+   "e": "Since the 44th Amendment (1978), Arts. 20 and 21 cannot be suspended in an emergency."
+  },
+  {
+   "q": "The right to free and compulsory education for children aged 6 to 14 was provided by which Article and amendment?",
+   "o": [
+    "Article 21A; 86th Amendment, 2002",
+    "Article 45; 42nd Amendment",
+    "Article 21A; 44th Amendment",
+    "Article 24; 86th Amendment"
+   ],
+   "a": 0,
+   "e": "Article 21A was inserted by the 86th Amendment, 2002."
+  },
+  {
+   "q": "In which case was the right to privacy declared a Fundamental Right in 2017?",
+   "o": [
+    "Shreya Singhal v. Union of India",
+    "K.S. Puttaswamy v. Union of India (Aadhaar case)",
+    "Navtej Singh Johar case",
+    "Anuradha Bhasin case"
+   ],
+   "a": 1,
+   "e": "The right to privacy is part of Article 21."
+  },
+  {
+   "q": "What was struck down in Shreya Singhal v. Union of India?",
+   "o": [
+    "Section 377 of the IPC",
+    "Section 124A of the IPC",
+    "Section 66A of the IT Act, 2000",
+    "Section 69 of the IT Act"
+   ],
+   "a": 2,
+   "e": "A 2015 free-speech (Art. 19) case."
+  },
+  {
+   "q": "What happened in Navtej Singh Johar v. Union of India (2018)?",
+   "o": [
+    "Privacy declared a Fundamental Right",
+    "Internet shutdown upheld",
+    "Aadhaar held unconstitutional",
+    "Section 377 IPC struck down to the extent it criminalised homosexuality"
+   ],
+   "a": 3,
+   "e": "Consensual same-sex relations were decriminalised."
+  },
+  {
+   "q": "Under Article 22, within how much time must an arrested person (ordinary arrest) be produced before a magistrate?",
+   "o": [
+    "24 hours",
+    "12 hours",
+    "48 hours",
+    "72 hours"
+   ],
+   "a": 0,
+   "e": "Within 24 hours, excluding travel time."
+  },
+  {
+   "q": "For how long at most can a person be held in preventive detention without the opinion of an Advisory Board?",
+   "o": [
+    "24 hours",
+    "3 months",
+    "6 months",
+    "1 year"
+   ],
+   "a": 1,
+   "e": "Beyond that, an Advisory Board of High Court judges must approve; the 44th Amendment's change was never notified."
+  },
+  {
+   "q": "Which clauses of Article 22 deal with punitive (ordinary) arrest and which with preventive detention?",
+   "o": [
+    "Clauses 1-2 preventive; clauses 4-7 punitive",
+    "All clauses deal only with preventive detention",
+    "Clauses 1-2 punitive; clauses 4-7 preventive",
+    "All clauses deal only with punitive arrest"
+   ],
+   "a": 2,
+   "e": "Clauses 1-2 cover ordinary arrest, clause 3 sets exceptions, clauses 4-7 cover preventive detention."
+  },
+  {
+   "q": "In Vihaan Kumar v. State of Haryana (2025), why did the Supreme Court declare the arrest illegal?",
+   "o": [
+    "He was not produced within 24 hours",
+    "Violation of privacy",
+    "Unfair punishment",
+    "Grounds of arrest were not communicated (Art. 22)"
+   ],
+   "a": 3,
+   "e": "Art. 22(1) mandates informing the grounds of arrest and the right to consult a lawyer."
+  },
+  {
+   "q": "Article 25 describes which right?",
+   "o": [
+    "Freedom of conscience and free profession, practice and propagation of religion",
+    "Right of denominations to establish institutions",
+    "Freedom from taxes for religion",
+    "Religious instruction in government institutions"
+   ],
+   "a": 0,
+   "e": "Art. 25 is an individual right, subject to public order, health and morality."
+  },
+  {
+   "q": "Article 26 confers rights on:",
+   "o": [
+    "Individuals",
+    "Religious denominations",
+    "Only minorities",
+    "Only Hindus"
+   ],
+   "a": 1,
+   "e": "Art. 26: establish/maintain institutions, manage religious affairs, own and administer property."
+  },
+  {
+   "q": "Which right is NOT available to religious denominations under Article 26?",
+   "o": [
+    "Establishing institutions",
+    "Managing their own religious affairs",
+    "Compelling people to pay taxes for promotion of their religion",
+    "Acquiring movable and immovable property"
+   ],
+   "a": 2,
+   "e": "Art. 27: no one can be compelled to pay taxes for promoting any religion."
+  },
+  {
+   "q": "Under Article 28, religious instruction cannot be given in:",
+   "o": [
+    "Private institutions",
+    "Madrasas",
+    "Religious institutions",
+    "Educational institutions wholly maintained out of State funds"
+   ],
+   "a": 3,
+   "e": "Art. 28 bars religious instruction in wholly state-funded institutions."
+  },
+  {
+   "q": "What right does Article 29 provide?",
+   "o": [
+    "Right of any section of citizens to conserve its language, script and culture",
+    "Right of minorities to establish educational institutions",
+    "Right to religious education",
+    "Right to property"
+   ],
+   "a": 0,
+   "e": "Art. 29(2): no denial of admission to state-aided institutions on grounds of religion, race, caste or language."
+  },
+  {
+   "q": "Which Article gives minorities (religious and linguistic) the right to establish and administer educational institutions?",
+   "o": [
+    "Article 29",
+    "Article 30",
+    "Article 28",
+    "Article 31"
+   ],
+   "a": 1,
+   "e": "The term 'minority' is not defined anywhere in the Constitution."
+  },
+  {
+   "q": "Article 31B was introduced to protect which kind of laws from judicial challenge?",
+   "o": [
+    "Taxation laws",
+    "Language laws",
+    "Land reform laws",
+    "Environmental laws"
+   ],
+   "a": 2,
+   "e": "Arts. 31A and 31B were added by the 1st Amendment; Ninth Schedule laws were shielded from review."
+  },
+  {
+   "q": "What did the Supreme Court hold in the I.R. Coelho case (2007)?",
+   "o": [
+    "The Ninth Schedule is abolished",
+    "Review of all laws is barred",
+    "Pre-1951 laws are void",
+    "Laws placed in the Ninth Schedule after 24 April 1973 are open to judicial review"
+   ],
+   "a": 3,
+   "e": "The Ninth Schedule case, based on Kesavananda Bharati (1973): judicial review is part of the basic structure."
+  },
+  {
+   "q": "What doctrine did the Supreme Court lay down in the Kesavananda Bharati case (1973)?",
+   "o": [
+    "Basic structure doctrine",
+    "Preamble is not part of the Constitution",
+    "Parliament can take away Fundamental Rights",
+    "Parliament is supreme"
+   ],
+   "a": 0,
+   "e": "Parliament cannot alter the basic structure; judicial review is part of it."
+  },
+  {
+   "q": "Who called Article 32 the 'heart and soul of the Constitution'?",
+   "o": [
+    "Jawaharlal Nehru",
+    "Dr. B.R. Ambedkar",
+    "K.M. Munshi",
+    "N.A. Palkhivala"
+   ],
+   "a": 1,
+   "e": "It is the means of protecting Fundamental Rights."
+  },
+  {
+   "q": "How many types of writs can the Supreme Court issue under Article 32?",
+   "o": [
+    "Three",
+    "Four",
+    "Five",
+    "Six"
+   ],
+   "a": 2,
+   "e": "Habeas corpus, mandamus, prohibition, certiorari and quo warranto."
+  },
+  {
+   "q": "High Courts derive their power to issue writs from which Article?",
+   "o": [
+    "Article 32",
+    "Article 136",
+    "Article 227",
+    "Article 226"
+   ],
+   "a": 3,
+   "e": "Art. 226 is not a Fundamental Right; a High Court may decline a writ, while Art. 32 itself is a Fundamental Right."
+  },
+  {
+   "q": "Why is the writ jurisdiction of High Courts wider than that of the Supreme Court?",
+   "o": [
+    "They can issue writs for both Fundamental Rights and other legal rights",
+    "Because they are under the President",
+    "Because they issue writs only in state matters",
+    "Because they deal only with legal rights"
+   ],
+   "a": 0,
+   "e": "The Supreme Court issues writs under Art. 32 only for violation of Fundamental Rights."
+  },
+  {
+   "q": "What is meant by the writ of 'mandamus'?",
+   "o": [
+    "'Produce the body'",
+    "'We command' - an order to a public official to perform a duty",
+    "'By what authority?'",
+    "Quash an order of a subordinate court"
+   ],
+   "a": 1,
+   "e": "Mandamus orders a public official or body to perform a mandatory duty."
+  },
+  {
+   "q": "The writ of 'prohibition' is issued by whom and against whom?",
+   "o": [
+    "By a lower court against a higher court",
+    "By the President against a court",
+    "By a higher court against a subordinate court, to stop it exceeding jurisdiction",
+    "By Parliament against a state"
+   ],
+   "a": 2,
+   "e": "It stops the proceedings while they are still pending."
+  },
+  {
+   "q": "What does the writ of 'certiorari' do?",
+   "o": [
+    "Releases a person from illegal detention",
+    "Questions the authority of an office holder",
+    "Compels an official to perform a duty",
+    "Quashes an order passed by a subordinate court beyond its jurisdiction, transferring the case to itself"
+   ],
+   "a": 3,
+   "e": "Prohibition prevents excess of jurisdiction; certiorari cures it after the order is passed."
+  },
+  {
+   "q": "Which writ protects life and personal liberty against illegal arrest or detention?",
+   "o": [
+    "Habeas corpus",
+    "Mandamus",
+    "Prohibition",
+    "Quo warranto"
+   ],
+   "a": 0,
+   "e": "Habeas corpus means 'to have the body'."
+  },
+  {
+   "q": "Does the principle of 'locus standi' apply to habeas corpus?",
+   "o": [
+    "Yes, only the aggrieved person can file",
+    "No, any other person can also file the petition",
+    "Yes, only a lawyer can file",
+    "Only the President can file"
+   ],
+   "a": 1,
+   "e": "Locus standi means only the aggrieved may approach the court; it is relaxed for habeas corpus."
+  },
+  {
+   "q": "Parliament's power to restrict or modify the application of Fundamental Rights to the armed forces comes from which Article?",
+   "o": [
+    "Article 34",
+    "Article 35",
+    "Article 33",
+    "Article 32"
+   ],
+   "a": 2,
+   "e": "Art. 33: armed forces, police forces etc."
+  },
+  {
+   "q": "What does Article 34 provide?",
+   "o": [
+    "Restriction of Fundamental Rights for armed forces",
+    "Only Parliament legislates on Fundamental Rights",
+    "Writ power of High Courts",
+    "Restriction of Fundamental Rights while martial law is in force"
+   ],
+   "a": 3,
+   "e": "Art. 34: restrictions on rights in areas under martial law."
+  },
+  {
+   "q": "Under Article 35, the power to make laws to give effect to certain Fundamental Rights lies only with:",
+   "o": [
+    "Parliament",
+    "State legislatures",
+    "Supreme Court",
+    "President"
+   ],
+   "a": 0,
+   "e": "Art. 35: only Parliament."
+  },
+  {
+   "q": "In what context did the Supreme Court call itself the 'sentinel on the qui vive'?",
+   "o": [
+    "Constitutional amendments",
+    "Protection of Fundamental Rights",
+    "Monitoring elections",
+    "Centre-State relations"
+   ],
+   "a": 1,
+   "e": "State of Madras v. V.G. Row (1952)."
+  },
+  {
+   "q": "In which case did the Supreme Court hold that Parliament cannot amend Fundamental Rights?",
+   "o": [
+    "Kesavananda Bharati case (1973)",
+    "A.K. Gopalan case (1950)",
+    "Golaknath case (1967)",
+    "Maneka Gandhi case (1978)"
+   ],
+   "a": 2,
+   "e": "Kesavananda Bharati (1973) later allowed amendment, but not of the basic structure."
+  },
+  {
+   "q": "What did the court decide in the Indra Sawhney case (Mandal case, 1992)?",
+   "o": [
+    "OBC reservation unconstitutional",
+    "Reservation in promotions mandatory",
+    "No ceiling on reservation",
+    "OBC reservation valid, creamy layer excluded, total reservation not to exceed 50%"
+   ],
+   "a": 3,
+   "e": "It also barred reservation in promotions (reversed by the 77th Amendment) and struck down the 10% economic quota."
+  },
+  {
+   "q": "Under whose chairmanship was the first Backward Classes Commission (1953) set up, whose recommendations were not implemented?",
+   "o": [
+    "Kaka Kalelkar",
+    "B.P. Mandal",
+    "M.C. Chagla",
+    "G.B. Pant"
+   ],
+   "a": 0,
+   "e": "The second was the Mandal Commission (1979); V.P. Singh's government implemented it in 1990."
+  },
+  {
+   "q": "Under which Prime Minister were the Mandal Commission recommendations implemented?",
+   "o": [
+    "Rajiv Gandhi",
+    "V.P. Singh (1990)",
+    "Chandra Shekhar",
+    "P.V. Narasimha Rao"
+   ],
+   "a": 1,
+   "e": "The Mandal Commission was set up in 1979; the Indra Sawhney case challenged its implementation."
+  },
+  {
+   "q": "The Anuradha Bhasin case is related to:",
+   "o": [
+    "Right to privacy",
+    "Homosexuality",
+    "Internet shutdown (freedom of expression)",
+    "Right to education"
+   ],
+   "a": 2,
+   "e": "Freedom of speech and trade via the internet is protected under Art. 19; decided in 2020."
+  },
+  {
+   "q": "The Raj Narain v. Indira Gandhi (1975) case was related to:",
+   "o": [
+    "Right to privacy",
+    "Co-operative societies",
+    "Land reform laws",
+    "Challenge to Indira Gandhi's election"
+   ],
+   "a": 3,
+   "e": "The Allahabad High Court set aside her election from Rae Bareli; the Emergency followed."
+  }
+ ]
+}
