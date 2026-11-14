@@ -21,21 +21,21 @@
   {
    "q": "Who took the title 'Dakshinapatheshvara' after defeating Harsha?",
    "o": [
-    "Pulakeshin II",
     "Narasimhavarman I",
     "Mahendravarman I",
-    "Dantidurga"
+    "Dantidurga",
+    "Pulakeshin II"
    ],
-   "a": 0,
+   "a": 3,
    "e": "Pulakeshin II of the Chalukyas of Badami defeated Harsha."
   },
   {
    "q": "On the banks of which river was the battle between Harsha and Pulakeshin II fought?",
    "o": [
-    "Ganga",
-    "Narmada",
     "Krishna",
-    "Tungabhadra"
+    "Narmada",
+    "Tungabhadra",
+    "Ganga"
    ],
    "a": 1,
    "e": "The Battle of the Narmada was fought around 618-619 AD."
@@ -43,23 +43,23 @@
   {
    "q": "In approximately which year is the Battle of the Narmada (Harsha vs Pulakeshin II) believed to have been fought?",
    "o": [
-    "606 AD",
-    "647 AD",
+    "380 AD",
     "618 AD",
-    "380 AD"
+    "647 AD",
+    "606 AD"
    ],
-   "a": 2,
+   "a": 1,
    "e": "It is known from the Aihole inscription."
   },
   {
    "q": "Which Pallava ruler was defeated by Pulakeshin II?",
    "o": [
-    "Narasimhavarman II",
-    "Simhavishnu",
     "Parameshvaravarman",
-    "Mahendravarman I"
+    "Mahendravarman I",
+    "Narasimhavarman II",
+    "Simhavishnu"
    ],
-   "a": 3,
+   "a": 1,
    "e": "Mahendravarman I's son Narasimhavarman I later avenged this defeat."
   },
   {
@@ -87,19 +87,19 @@
   {
    "q": "Vatapi (Badami) was the capital of which dynasty?",
    "o": [
-    "Pallavas",
+    "Cholas",
     "Rashtrakutas",
-    "Chalukyas",
-    "Cholas"
+    "Pallavas",
+    "Chalukyas"
    ],
-   "a": 2,
+   "a": 3,
    "e": "Vatapi was the capital of the Chalukyas of Badami."
   },
   {
    "q": "Who wrote 'Panchasiddhantika' and 'Brihat Samhita'?",
    "o": [
-    "Aryabhata",
     "Kalidasa",
+    "Aryabhata",
     "Amarasimha",
     "Varahamihira"
    ],
@@ -110,8 +110,8 @@
    "q": "Aryabhata is mainly known as a:",
    "o": [
     "Mathematician",
-    "Poet",
     "Physician",
+    "Poet",
     "Architect"
    ],
    "a": 0,
@@ -120,54 +120,54 @@
   {
    "q": "Which of the following is NOT a work of Kalidasa?",
    "o": [
+    "Malavikagnimitram",
     "Meghadutam",
-    "Mrichchhakatikam",
     "Abhijnana Shakuntalam",
-    "Malavikagnimitram"
+    "Mrichchhakatikam"
    ],
-   "a": 1,
+   "a": 3,
    "e": "Mrichchhakatikam was written by Shudraka."
   },
   {
    "q": "Which of the following is a work of Kalidasa?",
    "o": [
-    "Mudrarakshasa",
     "Harshacharita",
-    "Ritusamhara",
-    "Panchatantra"
+    "Panchatantra",
+    "Mudrarakshasa",
+    "Ritusamhara"
    ],
-   "a": 2,
+   "a": 3,
    "e": "Kumarasambhava, Raghuvamsha and Ritusamhara are works of Kalidasa."
   },
   {
    "q": "Kalidasa is known as the:",
    "o": [
     "Napoleon of India",
-    "Machiavelli of India",
+    "Shakespeare of India",
     "Keats of India",
-    "Shakespeare of India"
+    "Machiavelli of India"
    ],
-   "a": 3,
+   "a": 1,
    "e": "Kalidasa was one of the Navaratnas in the court of Chandragupta II."
   },
   {
    "q": "Which Gupta ruler took the title 'Vikramaditya' after defeating the Shakas in western India?",
    "o": [
-    "Chandragupta II",
+    "Skandagupta",
     "Chandragupta I",
-    "Samudragupta",
-    "Skandagupta"
+    "Chandragupta II",
+    "Samudragupta"
    ],
-   "a": 0,
+   "a": 2,
    "e": "He assumed the title Vikramaditya after the Shaka conquest."
   },
   {
    "q": "What is considered the reign period of Chandragupta II?",
    "o": [
-    "319-335 AD",
+    "455-467 AD",
     "380-415 AD",
-    "335-375 AD",
-    "455-467 AD"
+    "319-335 AD",
+    "335-375 AD"
    ],
    "a": 1,
    "e": "Chandragupta II ruled from 380 to 415 AD."
@@ -176,9 +176,9 @@
    "q": "What is considered the reign period of Chandragupta I?",
    "o": [
     "335-375 AD",
-    "380-415 AD",
+    "415-455 AD",
     "319-335 AD",
-    "415-455 AD"
+    "380-415 AD"
    ],
    "a": 2,
    "e": "He took the title 'Maharajadhiraja'."
@@ -186,23 +186,23 @@
   {
    "q": "What is considered the reign period of Samudragupta?",
    "o": [
-    "319-335 AD",
+    "335-375 AD",
     "380-415 AD",
     "606-647 AD",
-    "335-375 AD"
+    "319-335 AD"
    ],
-   "a": 3,
+   "a": 0,
    "e": "Samudragupta was the son of Chandragupta I."
   },
   {
    "q": "Who successfully resisted the invasion of the Hunas?",
    "o": [
+    "Samudragupta",
     "Skandagupta",
     "Kumaragupta I",
-    "Chandragupta II",
-    "Samudragupta"
+    "Chandragupta II"
    ],
-   "a": 0,
+   "a": 1,
    "e": "Skandagupta repulsed the Huna invasion."
   },
   {
@@ -219,10 +219,10 @@
   {
    "q": "What is the approximate height of the Mehrauli Iron Pillar?",
    "o": [
-    "4.5 metres",
     "10 metres",
+    "3 metres",
     "7.2 metres",
-    "3 metres"
+    "4.5 metres"
    ],
    "a": 2,
    "e": "This rust-resistant iron pillar stands in Delhi."
@@ -230,89 +230,89 @@
   {
    "q": "Who wrote 'Mrichchhakatikam'?",
    "o": [
-    "Vishakhadatta",
+    "Shudraka",
     "Bhasa",
     "Bhavabhuti",
-    "Shudraka"
+    "Vishakhadatta"
    ],
-   "a": 3,
+   "a": 0,
    "e": "Mrichchhakatikam means 'The Little Clay Cart'."
   },
   {
    "q": "Which inscription is the main source of information about Samudragupta's military achievements?",
    "o": [
+    "Nasik Cave Inscription",
     "Allahabad Pillar Inscription (Prayag Prashasti)",
-    "Mehrauli Iron Pillar Inscription",
     "Junagadh Inscription",
-    "Nasik Cave Inscription"
+    "Mehrauli Iron Pillar Inscription"
    ],
-   "a": 0,
+   "a": 1,
    "e": "It was composed by Harishena."
   },
   {
    "q": "The Junagadh Rock Inscription is associated with which ruler?",
    "o": [
+    "Gautamiputra Satakarni",
     "Samudragupta",
     "Rudradaman (Shaka)",
-    "Gautamiputra Satakarni",
     "Harshavardhana"
    ],
-   "a": 1,
+   "a": 2,
    "e": "It records the repair of the Sudarshana Lake."
   },
   {
    "q": "The Nasik Cave Inscription is associated with which ruler?",
    "o": [
-    "Rudradaman",
     "Chandragupta II",
     "Gautamiputra Satakarni",
-    "Pulakeshin II"
+    "Pulakeshin II",
+    "Rudradaman"
    ],
-   "a": 2,
+   "a": 1,
    "e": "Gautamiputra Satakarni was the most powerful Satavahana ruler."
   },
   {
    "q": "What does the word 'Prashasti' in Prayag Prashasti mean?",
    "o": [
     "Order",
+    "Praise (eulogy)",
     "Donation",
-    "War",
-    "Praise (eulogy)"
+    "War"
    ],
-   "a": 3,
+   "a": 1,
    "e": "It was written in praise of Samudragupta."
   },
   {
    "q": "What was the capital of the Satavahanas?",
    "o": [
-    "Pratishthana (Paithan)",
     "Vatapi",
     "Kanchipuram",
-    "Vengi"
+    "Vengi",
+    "Pratishthana (Paithan)"
    ],
-   "a": 0,
+   "a": 3,
    "e": "Pratishthana is present-day Paithan in Maharashtra."
   },
   {
    "q": "Who was the first ruler of the Satavahana dynasty?",
    "o": [
-    "Gautamiputra Satakarni",
-    "Simuka",
+    "Yajna Sri Satakarni",
     "Vashishthiputra Pulumavi",
-    "Yajna Sri Satakarni"
+    "Gautamiputra Satakarni",
+    "Simuka"
    ],
-   "a": 1,
+   "a": 3,
    "e": "The Satavahanas started the practice of land grants."
   },
   {
    "q": "Which was a feature of Satavahana society?",
    "o": [
-    "Polyandry",
-    "Compulsory sati",
     "Metronymics (use of the mother's name)",
-    "Abolition of slavery"
+    "Compulsory sati",
+    "Abolition of slavery",
+    "Polyandry"
    ],
-   "a": 2,
+   "a": 0,
    "e": "Names like Gautamiputra and Vashishthiputra were derived from mothers."
   },
   {
@@ -329,76 +329,76 @@
   {
    "q": "The Amaravati school of art is associated with which dynasty, and which stone was used?",
    "o": [
+    "Cholas; granite",
     "Satavahanas; white marble/limestone",
     "Guptas; red sandstone",
-    "Kushanas; spotted sandstone",
-    "Cholas; granite"
+    "Kushanas; spotted sandstone"
    ],
-   "a": 0,
+   "a": 1,
    "e": "The Amaravati School of Art is associated with the Satavahanas."
   },
   {
    "q": "Harshavardhana belonged to which dynasty?",
    "o": [
     "Maukhari",
+    "Vakataka",
     "Pushyabhuti (Vardhana)",
-    "Maitraka",
-    "Vakataka"
+    "Maitraka"
    ],
-   "a": 1,
+   "a": 2,
    "e": "The Pushyabhuti dynasty is also called the Vardhana dynasty."
   },
   {
    "q": "Where was the capital of the Pushyabhuti dynasty?",
    "o": [
-    "Kannauj",
-    "Vallabhi",
+    "Pataliputra",
     "Thanesar (Haryana)",
-    "Pataliputra"
+    "Vallabhi",
+    "Kannauj"
    ],
-   "a": 2,
+   "a": 1,
    "e": "Harsha later made Kannauj his capital."
   },
   {
    "q": "Who was the first notable/independent ruler of the Pushyabhuti dynasty?",
    "o": [
-    "Rajyavardhana",
+    "Prabhakaravardhana",
     "Harshavardhana",
-    "Adityavardhana",
-    "Prabhakaravardhana"
+    "Rajyavardhana",
+    "Adityavardhana"
    ],
-   "a": 3,
+   "a": 0,
    "e": "His reign is dated to about 580-605 AD."
   },
   {
    "q": "What was the name of Harshavardhana's elder brother?",
    "o": [
+    "Shashanka",
     "Rajyavardhana",
-    "Prabhakaravardhana",
     "Grahavarman",
-    "Shashanka"
+    "Prabhakaravardhana"
    ],
-   "a": 0,
+   "a": 1,
    "e": "Rajyavardhana was treacherously killed by Shashanka."
   },
   {
    "q": "What was the name of Harshavardhana's sister?",
    "o": [
-    "Prabhavati Gupta",
     "Rajyashri",
+    "Prabhavati Gupta",
     "Dhruvadevi",
     "Kumaradevi"
    ],
-   "a": 1,
+   "a": 0,
    "e": "Rajyashri was married to the Maukhari ruler Grahavarman."
   },
   {
    "q": "Whom did Rajyashri marry?",
    "o": [
-    "Shashanka",
+    "Dhruvasena II",
     "Devagupta",
     "Grahavarman (Maukhari)",
-    "Dhruvasena II"
+    "Shashanka"
    ],
    "a": 2,
    "e": "Grahavarman was killed by Devagupta of Malwa."
@@ -417,78 +417,78 @@
   {
    "q": "Which ruler is believed to have cut down the Bodhi Tree?",
    "o": [
-    "Shashanka",
+    "Kanishka",
     "Harshavardhana",
-    "Ashoka",
-    "Kanishka"
+    "Shashanka",
+    "Ashoka"
    ],
-   "a": 0,
+   "a": 2,
    "e": "Shashanka was the king of Gauda (Bengal)."
   },
   {
    "q": "Who was Shashanka's ally against the Maukharis and Harsha's brother Rajyavardhana?",
    "o": [
     "Prabhakaravardhana",
-    "Devagupta of Malwa",
     "Dronasimha",
-    "Dhruvasena"
+    "Dhruvasena",
+    "Devagupta of Malwa"
    ],
-   "a": 1,
+   "a": 3,
    "e": "Devagupta was the ruler of Malwa."
   },
   {
    "q": "Harshavardhana shifted his capital from Thanesar to:",
    "o": [
-    "Pataliputra",
+    "Vallabhi",
     "Ujjain",
-    "Kannauj",
-    "Vallabhi"
+    "Pataliputra",
+    "Kannauj"
    ],
-   "a": 2,
+   "a": 3,
    "e": "Kannauj was earlier the Maukhari capital."
   },
   {
    "q": "What was the capital of the Maukhari dynasty?",
    "o": [
+    "Kannauj",
     "Thanesar",
     "Vallabhi",
-    "Pratishthana",
-    "Kannauj"
+    "Pratishthana"
    ],
-   "a": 3,
+   "a": 0,
    "e": "The Maukharis made Kannauj the political centre of north India."
   },
   {
    "q": "Which city replaced Pataliputra as the political centre of north India?",
    "o": [
-    "Kannauj",
     "Thanesar",
     "Vallabhi",
-    "Mathura"
+    "Mathura",
+    "Kannauj"
    ],
-   "a": 0,
+   "a": 3,
    "e": "Kannauj later became the prize of the Tripartite Struggle."
   },
   {
    "q": "Between whom was the Tripartite Struggle for Kannauj fought?",
    "o": [
+    "Chalukyas, Pallavas and Rashtrakutas",
     "Cholas, Pandyas and Cheras",
-    "Rashtrakutas, Palas and Gurjara-Pratiharas",
     "Guptas, Vakatakas and Shakas",
-    "Chalukyas, Pallavas and Rashtrakutas"
+    "Rashtrakutas, Palas and Gurjara-Pratiharas"
    ],
-   "a": 1,
+   "a": 3,
    "e": "The struggle began in the late 8th century."
   },
   {
    "q": "The Tripartite Struggle was fought for control of which city?",
    "o": [
-    "Delhi",
-    "Ujjain",
+    "Mathura",
     "Kannauj",
-    "Mathura"
+    "Ujjain",
+    "Delhi"
    ],
-   "a": 2,
+   "a": 1,
    "e": "Kannauj is also known as the 'City of Perfumes'."
   },
   {
@@ -505,32 +505,32 @@
   {
    "q": "Who was the court poet of Harshavardhana?",
    "o": [
-    "Banabhatta",
-    "Harishena",
     "Ravikirti",
+    "Harishena",
+    "Banabhatta",
     "Vishakhadatta"
    ],
-   "a": 0,
+   "a": 2,
    "e": "Banabhatta wrote Harshacharita and Kadambari."
   },
   {
    "q": "Who wrote 'Harshacharita'?",
    "o": [
-    "Ravikirti",
-    "Banabhatta",
+    "Vishnu Sharma",
     "Kalidasa",
-    "Vishnu Sharma"
+    "Banabhatta",
+    "Ravikirti"
    ],
-   "a": 1,
+   "a": 2,
    "e": "It is a biography of Harshavardhana."
   },
   {
    "q": "Who is the author of 'Kadambari'?",
    "o": [
-    "Kalidasa",
     "Harshavardhana",
+    "Shudraka",
     "Banabhatta",
-    "Shudraka"
+    "Kalidasa"
    ],
    "a": 2,
    "e": "Banabhatta was Harsha's court poet."
@@ -538,78 +538,78 @@
   {
    "q": "Which three works were written by Harshavardhana himself?",
    "o": [
-    "Mrichchhakatikam, Mudrarakshasa, Kadambari",
-    "Meghaduta, Raghuvamsha, Kumarasambhava",
     "Harshacharita, Kadambari, Panchatantra",
-    "Ratnavali, Priyadarshika, Nagananda"
+    "Ratnavali, Priyadarshika, Nagananda",
+    "Meghaduta, Raghuvamsha, Kumarasambhava",
+    "Mrichchhakatikam, Mudrarakshasa, Kadambari"
    ],
-   "a": 3,
+   "a": 1,
    "e": "All three are Sanskrit plays."
   },
   {
    "q": "Who is the author of 'Panchatantra'?",
    "o": [
-    "Vishnu Sharma",
-    "Banabhatta",
     "Ravikirti",
-    "Surasena"
+    "Banabhatta",
+    "Surasena",
+    "Vishnu Sharma"
    ],
-   "a": 0,
+   "a": 3,
    "e": "The Panchatantra is a famous collection of fables."
   },
   {
    "q": "Who composed the Aihole Inscription (Prashasti)?",
    "o": [
-    "Harishena",
-    "Ravikirti",
     "Banabhatta",
-    "Vishakhadatta"
+    "Vishakhadatta",
+    "Harishena",
+    "Ravikirti"
    ],
-   "a": 1,
+   "a": 3,
    "e": "It is associated with Pulakeshin II."
   },
   {
    "q": "The Aihole Inscription provides information about which event?",
    "o": [
-    "Samudragupta's conquests",
-    "Ashoka's Kalinga War",
     "The war between Harsha and Pulakeshin II",
-    "Chandragupta Maurya's victories"
+    "Ashoka's Kalinga War",
+    "Chandragupta Maurya's victories",
+    "Samudragupta's conquests"
    ],
-   "a": 2,
+   "a": 0,
    "e": "The inscription is contemporary with Harsha's reign."
   },
   {
    "q": "During whose reign did the Chinese traveller Fa-Hien visit India?",
    "o": [
-    "Harshavardhana",
-    "Ashoka",
     "Kanishka",
-    "Chandragupta II"
+    "Harshavardhana",
+    "Chandragupta II",
+    "Ashoka"
    ],
-   "a": 3,
+   "a": 2,
    "e": "Fa-Hien was the first Chinese traveller to visit during the Gupta period."
   },
   {
    "q": "During whose reign did Hiuen Tsang (Xuanzang) visit India?",
    "o": [
-    "Harshavardhana",
-    "Chandragupta II",
+    "Skandagupta",
     "Samudragupta",
-    "Skandagupta"
+    "Chandragupta II",
+    "Harshavardhana"
    ],
-   "a": 0,
+   "a": 3,
    "e": "Hiuen Tsang visited Harsha's court and Nalanda."
   },
   {
    "q": "Who is considered the founder of the Gupta dynasty?",
    "o": [
     "Ghatotkacha",
-    "Sri Gupta",
     "Chandragupta I",
+    "Sri Gupta",
     "Samudragupta"
    ],
-   "a": 1,
+   "a": 2,
    "e": "Ghatotkacha was the son of Sri Gupta."
   },
   {
@@ -617,30 +617,30 @@
    "o": [
     "Chandragupta I",
     "Ramagupta",
-    "Ghatotkacha",
-    "Kumaragupta"
+    "Kumaragupta",
+    "Ghatotkacha"
    ],
-   "a": 2,
+   "a": 3,
    "e": "Ghatotkacha's son was Chandragupta I."
   },
   {
    "q": "Who was the first major ruler of the Gupta dynasty?",
    "o": [
-    "Sri Gupta",
+    "Chandragupta I",
     "Samudragupta",
     "Kumaragupta",
-    "Chandragupta I"
+    "Sri Gupta"
    ],
-   "a": 3,
+   "a": 0,
    "e": "He took the title Maharajadhiraja."
   },
   {
    "q": "Chandragupta I married which princess?",
    "o": [
     "Lichchhavi princess Kumaradevi",
+    "Kuberanaga",
     "Prabhavati Gupta",
-    "Dhruvadevi",
-    "Kuberanaga"
+    "Dhruvadevi"
    ],
    "a": 0,
    "e": "This marriage strengthened the power of the Guptas."
@@ -650,8 +650,8 @@
    "o": [
     "Vikramaditya",
     "Maharajadhiraja",
-    "Dakshinapatheshvara",
-    "Rajadhiraja"
+    "Rajadhiraja",
+    "Dakshinapatheshvara"
    ],
    "a": 1,
    "e": "Maharajadhiraja means 'great king of kings'."
@@ -659,32 +659,32 @@
   {
    "q": "Chandragupta I's family is believed to have earlier been feudatories of whom?",
    "o": [
-    "Satavahanas",
     "Mauryas",
-    "Kushanas",
-    "Pallavas"
+    "Pallavas",
+    "Satavahanas",
+    "Kushanas"
    ],
-   "a": 2,
+   "a": 3,
    "e": "The early Guptas are believed to have been subordinate to the Kushanas."
   },
   {
    "q": "The Gupta period is known as the:",
    "o": [
+    "Golden Age (of north India)",
     "Dark Age",
     "Iron Age",
-    "Megalithic Age",
-    "Golden Age (of north India)"
+    "Megalithic Age"
    ],
-   "a": 3,
+   "a": 0,
    "e": "Due to progress in art, literature and science."
   },
   {
    "q": "Which powers emerged after the decline of the Gupta Empire?",
    "o": [
     "Pushyabhutis, Maukharis, Gaudas, Malwa",
-    "Mauryas, Shungas, Kanvas",
     "Cholas, Cheras, Pandyas",
-    "Satavahanas, Kushanas, Shakas"
+    "Satavahanas, Kushanas, Shakas",
+    "Mauryas, Shungas, Kanvas"
    ],
    "a": 0,
    "e": "Feudatories declared independence as the centre weakened."
@@ -692,34 +692,34 @@
   {
    "q": "What was a feature of the political structure of the post-Gupta period?",
    "o": [
-    "A unified large empire",
-    "Rise of small kingdoms under hereditary rulers",
     "Establishment of republics",
-    "Foreign rule"
+    "Foreign rule",
+    "A unified large empire",
+    "Rise of small kingdoms under hereditary rulers"
    ],
-   "a": 1,
+   "a": 3,
    "e": "Feudalism developed in this period."
   },
   {
    "q": "Who were the 'Samantas' in the post-Gupta period?",
    "o": [
     "Farmers",
+    "Traders",
     "Religious heads",
-    "Feudal lords",
-    "Traders"
+    "Feudal lords"
    ],
-   "a": 2,
+   "a": 3,
    "e": "They became independent when the centre weakened."
   },
   {
    "q": "What was the nature of Kumaragupta I's reign?",
    "o": [
     "Constant internal revolts",
+    "Focused on consolidation and prosperity of the empire",
     "Rapid expansion",
-    "Foreign subjugation",
-    "Focused on consolidation and prosperity of the empire"
+    "Foreign subjugation"
    ],
-   "a": 3,
+   "a": 1,
    "e": "Major expansion had been completed by Chandragupta II."
   },
   {
@@ -736,21 +736,21 @@
   {
    "q": "Who destroyed Nalanda University?",
    "o": [
+    "Qutbuddin Aibak",
     "Muhammad Ghori",
     "Bakhtiyar Khilji",
-    "Mahmud of Ghazni",
-    "Qutbuddin Aibak"
+    "Mahmud of Ghazni"
    ],
-   "a": 1,
+   "a": 2,
    "e": "This happened at the end of the 12th century."
   },
   {
    "q": "Who founded Vikramashila University?",
    "o": [
+    "Harshavardhana",
     "Gopala",
-    "Kumaragupta I",
     "Dharmapala (Pala)",
-    "Harshavardhana"
+    "Kumaragupta I"
    ],
    "a": 2,
    "e": "It was founded by the Pala ruler Dharmapala."
@@ -759,30 +759,30 @@
    "q": "Who founded Odantapuri University?",
    "o": [
     "Dharmapala",
-    "Devapala",
+    "Gopala (founder of the Pala dynasty)",
     "Kumaragupta",
-    "Gopala (founder of the Pala dynasty)"
+    "Devapala"
    ],
-   "a": 3,
+   "a": 1,
    "e": "Gopala was the founder of the Pala dynasty."
   },
   {
    "q": "Who was the son and successor of Chandragupta II?",
    "o": [
-    "Kumaragupta I",
-    "Samudragupta",
     "Ramagupta",
-    "Skandagupta"
+    "Skandagupta",
+    "Samudragupta",
+    "Kumaragupta I"
    ],
-   "a": 0,
+   "a": 3,
    "e": "Kumaragupta I founded Nalanda."
   },
   {
    "q": "Who was the father of Ramagupta and Chandragupta II?",
    "o": [
-    "Chandragupta I",
-    "Samudragupta",
     "Kumaragupta",
+    "Samudragupta",
+    "Chandragupta I",
     "Skandagupta"
    ],
    "a": 1,
@@ -791,12 +791,12 @@
   {
    "q": "After defeating the Shaka king, Chandragupta II married Ramagupta's widow. What was her name?",
    "o": [
-    "Kuberanaga",
-    "Prabhavati",
     "Dhruvadevi",
-    "Kumaradevi"
+    "Kuberanaga",
+    "Kumaradevi",
+    "Prabhavati"
    ],
-   "a": 2,
+   "a": 0,
    "e": "Kuberanaga was another wife of Chandragupta II."
   },
   {
@@ -804,10 +804,10 @@
    "o": [
     "Samudragupta",
     "Kumaragupta",
-    "Harshavardhana",
-    "Chandragupta II"
+    "Chandragupta II",
+    "Harshavardhana"
    ],
-   "a": 3,
+   "a": 2,
    "e": "She was a princess of the Naga dynasty."
   },
   {
@@ -815,8 +815,8 @@
    "o": [
     "Because his elder brother Ramagupta ruled until then",
     "Because he was born later",
-    "Because of a war",
-    "Because his father was still alive"
+    "Because his father was still alive",
+    "Because of a war"
    ],
    "a": 0,
    "e": "Chandragupta II became king after Ramagupta."
@@ -825,11 +825,11 @@
    "q": "Whom did Prabhavati Gupta, daughter of Chandragupta II, marry?",
    "o": [
     "Dhruvasena II",
-    "Rudrasena II (Vakataka)",
+    "Devagupta",
     "Rudrasimha III",
-    "Devagupta"
+    "Rudrasena II (Vakataka)"
    ],
-   "a": 1,
+   "a": 3,
    "e": "Prabhavati ruled as regent after her husband's death."
   },
   {
@@ -846,32 +846,32 @@
   {
    "q": "Where was the capital of the Maitraka dynasty?",
    "o": [
-    "Kannauj",
     "Thanesar",
     "Vengi",
-    "Vallabhi (Gujarat)"
+    "Vallabhi (Gujarat)",
+    "Kannauj"
    ],
-   "a": 3,
+   "a": 2,
    "e": "The Maitrakas were earlier feudatories of the Guptas."
   },
   {
    "q": "The Vakataka ruler Rudrasena II was the son-in-law of:",
    "o": [
-    "Chandragupta II",
     "Harshavardhana",
     "Samudragupta",
-    "Skandagupta"
+    "Skandagupta",
+    "Chandragupta II"
    ],
-   "a": 0,
+   "a": 3,
    "e": "Prabhavati Gupta was his wife."
   },
   {
    "q": "Who was the last Shaka (Western Kshatrapa) ruler defeated by Chandragupta II?",
    "o": [
-    "Rudradaman",
-    "Rudrasimha III",
     "Nahapana",
-    "Chashtana"
+    "Rudrasimha III",
+    "Chashtana",
+    "Rudradaman"
    ],
    "a": 1,
    "e": "This ended Shaka rule in western India."
@@ -879,10 +879,10 @@
   {
    "q": "Which Maitraka ruler issued the earliest known Maitraka land grant in 502 AD?",
    "o": [
-    "Bhatarka",
     "Dhruvasena",
+    "Dharapatta",
     "Dronasimha",
-    "Dharapatta"
+    "Bhatarka"
    ],
    "a": 2,
    "e": "Dronasimha belonged to the Maitraka family."
@@ -890,9 +890,9 @@
   {
    "q": "Dronasimha belonged to which dynasty?",
    "o": [
-    "Maukhari",
-    "Vakataka",
     "Pallava",
+    "Vakataka",
+    "Maukhari",
     "Maitraka"
    ],
    "a": 3,
@@ -902,9 +902,9 @@
    "q": "Which ruler of the Maukhari dynasty also assumed the title 'Maharajadhiraja'?",
    "o": [
     "Ishanavarman",
-    "Grahavarman",
+    "Shashanka",
     "Harshavardhana",
-    "Shashanka"
+    "Grahavarman"
    ],
    "a": 0,
    "e": "Maukhari rulers' names ended in 'varman'."
@@ -912,31 +912,31 @@
   {
    "q": "Yajnavarman, Shardulavarman and Anantavarman were rulers of which dynasty?",
    "o": [
-    "Vardhana",
-    "Maukhari",
     "Pallava",
-    "Maitraka"
+    "Maitraka",
+    "Vardhana",
+    "Maukhari"
    ],
-   "a": 1,
+   "a": 3,
    "e": "Maukhari rulers' names carry the suffix 'varman'."
   },
   {
    "q": "By what other name is the Pushyabhuti dynasty known?",
    "o": [
-    "Varman dynasty",
-    "Gupta dynasty",
     "Vardhana dynasty",
+    "Gupta dynasty",
+    "Varman dynasty",
     "Maukhari dynasty"
    ],
-   "a": 2,
+   "a": 0,
    "e": "Because its rulers' names ended in 'vardhana'."
   },
   {
    "q": "Who composed the Prayag Prashasti?",
    "o": [
-    "Banabhatta",
-    "Ravikirti",
     "Kalidasa",
+    "Ravikirti",
+    "Banabhatta",
     "Harishena"
    ],
    "a": 3,
@@ -956,75 +956,75 @@
   {
    "q": "In the Prayag Prashasti, Samudragupta is compared to which god of wealth?",
    "o": [
-    "Yama",
-    "Kubera",
+    "Indra",
     "Varuna",
-    "Indra"
+    "Kubera",
+    "Yama"
    ],
-   "a": 1,
+   "a": 2,
    "e": "Yama is the god of death, Varuna of the sea and Indra of rain."
   },
   {
    "q": "Among Hindu deities, Yama is the god of:",
    "o": [
-    "Wealth",
     "Sea",
     "Death",
-    "Rain"
+    "Rain",
+    "Wealth"
    ],
-   "a": 2,
+   "a": 1,
    "e": "The Prayag Prashasti compares Samudragupta to several gods."
   },
   {
    "q": "Varuna is regarded as the god of:",
    "o": [
-    "Rain",
+    "Sea (waters)",
     "Wealth",
-    "Death",
-    "Sea (waters)"
+    "Rain",
+    "Death"
    ],
-   "a": 3,
+   "a": 0,
    "e": "Indra is the god of rain."
   },
   {
    "q": "Which Gupta ruler is called the 'Napoleon of India'?",
    "o": [
-    "Samudragupta",
-    "Chandragupta I",
     "Chandragupta II",
-    "Skandagupta"
+    "Skandagupta",
+    "Chandragupta I",
+    "Samudragupta"
    ],
-   "a": 0,
+   "a": 3,
    "e": "V. A. Smith gave him this title for his military conquests."
   },
   {
    "q": "Which historian called Samudragupta the 'Napoleon of India'?",
    "o": [
     "R. C. Majumdar",
-    "V. A. Smith",
     "K. P. Jayaswal",
-    "Romila Thapar"
+    "Romila Thapar",
+    "V. A. Smith"
    ],
-   "a": 1,
+   "a": 3,
    "e": "Vincent A. Smith was a British historian."
   },
   {
    "q": "Which Chola ruler is called the 'Napoleon of South India'?",
    "o": [
+    "Rajendra I",
     "Rajaraja I",
     "Kulottunga I",
-    "Rajendra I",
     "Vijayalaya"
    ],
-   "a": 2,
+   "a": 0,
    "e": "Samudragupta is called the Napoleon of India."
   },
   {
    "q": "Samudragupta's coins depict him playing which instrument?",
    "o": [
-    "Flute",
     "Tabla",
     "Sitar",
+    "Flute",
     "Veena"
    ],
    "a": 3,
@@ -1055,43 +1055,43 @@
   {
    "q": "Who was the lexicographer in the court of Chandragupta II?",
    "o": [
+    "Amarasimha",
     "Dhanvantari",
     "Shanku",
-    "Amarasimha",
     "Vetalabhatta"
    ],
-   "a": 2,
+   "a": 0,
    "e": "Amarasimha wrote the Amarakosha."
   },
   {
    "q": "Who was the architect in the court of Chandragupta II?",
    "o": [
-    "Dhanvantari",
-    "Amarasimha",
-    "Varahamihira",
-    "Shanku"
-   ],
-   "a": 3,
-   "e": "He was one of the Navaratnas."
-  },
-  {
-   "q": "Who was the physician in the court of Chandragupta II?",
-   "o": [
-    "Dhanvantari",
     "Shanku",
     "Amarasimha",
-    "Kshapanaka"
+    "Dhanvantari",
+    "Varahamihira"
    ],
    "a": 0,
    "e": "He was one of the Navaratnas."
   },
   {
-   "q": "Who was the astronomer among the Navaratnas of Chandragupta II?",
+   "q": "Who was the physician in the court of Chandragupta II?",
    "o": [
     "Amarasimha",
-    "Varahamihira",
+    "Kshapanaka",
     "Shanku",
     "Dhanvantari"
+   ],
+   "a": 3,
+   "e": "He was one of the Navaratnas."
+  },
+  {
+   "q": "Who was the astronomer among the Navaratnas of Chandragupta II?",
+   "o": [
+    "Dhanvantari",
+    "Varahamihira",
+    "Shanku",
+    "Amarasimha"
    ],
    "a": 1,
    "e": "Vetalabhatta was another scholar in the court."
@@ -1100,19 +1100,19 @@
    "q": "Which famous poet adorned the court of the Gupta ruler who took the title 'Vikramaditya'?",
    "o": [
     "Banabhatta",
-    "Ravikirti",
     "Kalidasa",
+    "Ravikirti",
     "Harishena"
    ],
-   "a": 2,
+   "a": 1,
    "e": "Kalidasa flourished under Chandragupta II."
   },
   {
    "q": "Who developed the Nagara style of temples?",
    "o": [
     "Pallavas",
-    "Chalukyas",
     "Cholas",
+    "Chalukyas",
     "Guptas"
    ],
    "a": 3,
@@ -1121,65 +1121,65 @@
   {
    "q": "Who mainly initiated the Dravida style of temples?",
    "o": [
-    "Pallavas",
     "Guptas",
-    "Chalukyas",
-    "Rashtrakutas"
+    "Pallavas",
+    "Rashtrakutas",
+    "Chalukyas"
    ],
-   "a": 0,
+   "a": 1,
    "e": "The temples at Mahabalipuram were built by the Pallavas."
   },
   {
    "q": "The Vesara style is credited to the:",
    "o": [
-    "Pallavas",
-    "Chalukyas",
     "Guptas",
-    "Cholas"
+    "Cholas",
+    "Pallavas",
+    "Chalukyas"
    ],
-   "a": 1,
+   "a": 3,
    "e": "Vesara is a hybrid style of the Deccan."
   },
   {
    "q": "What is the temple style of north India called?",
    "o": [
-    "Dravida",
-    "Vesara",
+    "Panchayatana",
     "Nagara",
-    "Panchayatana"
+    "Vesara",
+    "Dravida"
    ],
-   "a": 2,
+   "a": 1,
    "e": "South India has the Dravida style and the Deccan the Vesara style."
   },
   {
    "q": "Which of the following temple features is associated with the Nagara style?",
    "o": [
-    "Gopuram",
+    "Panchayatana",
     "Gajaprishtha",
-    "Vimana (southern)",
-    "Panchayatana"
+    "Gopuram",
+    "Vimana (southern)"
    ],
-   "a": 3,
+   "a": 0,
    "e": "In Panchayatana, four smaller shrines surround the main shrine."
   },
   {
    "q": "What is a 'Jagati' in temples?",
    "o": [
-    "A raised platform",
-    "Sanctum sanctorum",
     "Entrance gateway",
-    "Pillared hall"
+    "Pillared hall",
+    "Sanctum sanctorum",
+    "A raised platform"
    ],
-   "a": 0,
+   "a": 3,
    "e": "Nagara temples were built on a jagati."
   },
   {
    "q": "How many shrines are there in the Panchayatana style?",
    "o": [
-    "Only one",
+    "Seven",
     "A main shrine and four smaller ones (five in all)",
-    "Three",
-    "Seven"
+    "Only one",
+    "Three"
    ],
    "a": 1,
    "e": "Subsidiary shrines stand at the four corners."
@@ -1198,53 +1198,53 @@
   {
    "q": "What is the tall entrance gateway in the Dravida style called?",
    "o": [
-    "Vimana",
     "Shikhara",
-    "Jagati",
-    "Gopuram"
+    "Gopuram",
+    "Vimana",
+    "Jagati"
    ],
-   "a": 3,
+   "a": 1,
    "e": "It is a distinctive feature of the Dravida style."
   },
   {
    "q": "What is the curvilinear superstructure in the Nagara style called?",
    "o": [
+    "Mandapa",
     "Shikhara",
     "Vimana",
-    "Gopuram",
-    "Mandapa"
+    "Gopuram"
    ],
-   "a": 0,
+   "a": 1,
    "e": "Nagara has the shikhara, Dravida the vimana."
   },
   {
    "q": "What is a pillared hall in a temple called?",
    "o": [
-    "Shikhara",
-    "Mandapa",
     "Vimana",
-    "Gopuram"
+    "Shikhara",
+    "Gopuram",
+    "Mandapa"
    ],
-   "a": 1,
+   "a": 3,
    "e": "It is found in both Nagara and Dravida temples."
   },
   {
    "q": "Who built the Dashavatara Temple at Deogarh?",
    "o": [
-    "Pallavas",
-    "Chalukyas",
     "Guptas",
-    "Cholas"
+    "Cholas",
+    "Pallavas",
+    "Chalukyas"
    ],
-   "a": 2,
+   "a": 0,
    "e": "It is in Lalitpur district, Uttar Pradesh."
   },
   {
    "q": "The Bhitargaon temple near Kanpur belongs to which period, and what is special about it?",
    "o": [
-    "Chola; stone temple",
-    "Pallava; cave temple",
     "Chalukya; granite temple",
+    "Pallava; cave temple",
+    "Chola; stone temple",
     "Gupta; oldest surviving brick temple in India"
    ],
    "a": 3,
@@ -1253,76 +1253,76 @@
   {
    "q": "Who built the Udayagiri Caves in Madhya Pradesh?",
    "o": [
-    "Guptas (Chandragupta II)",
     "Kharavela",
     "Chalukyas",
+    "Guptas (Chandragupta II)",
     "Pallavas"
    ],
-   "a": 0,
+   "a": 2,
    "e": "They are located near Vidisha, Madhya Pradesh."
   },
   {
    "q": "Who built the Udayagiri-Khandagiri Caves in Odisha?",
    "o": [
-    "Chandragupta II",
     "Kharavela (Chedi dynasty)",
     "Ashoka",
-    "Harshavardhana"
+    "Harshavardhana",
+    "Chandragupta II"
    ],
-   "a": 1,
+   "a": 0,
    "e": "Kharavela was a ruler of the Chedi dynasty."
   },
   {
    "q": "What was the reason for the decline of metal coinage in the post-Gupta period?",
    "o": [
+    "Decline in trade and land grants replacing cash payments",
     "Huge rise in trade",
     "Kings preferring old coins",
-    "Decline in trade and land grants replacing cash payments",
     "Abundance of gold"
    ],
-   "a": 2,
+   "a": 0,
    "e": "Coins lost importance as trade declined."
   },
   {
    "q": "In which period was the largest number of gold coins issued?",
    "o": [
-    "Kushana",
-    "Maurya",
     "Satavahana",
-    "Gupta"
+    "Maurya",
+    "Gupta",
+    "Kushana"
    ],
-   "a": 3,
+   "a": 2,
    "e": "The Guptas issued the largest number of gold coins."
   },
   {
    "q": "The purest gold coins are associated with the:",
    "o": [
-    "Kushanas",
     "Guptas",
     "Mauryas",
-    "Satavahanas"
+    "Satavahanas",
+    "Kushanas"
    ],
-   "a": 0,
+   "a": 3,
    "e": "Pure gold coins circulated in the time of Kanishka."
   },
   {
    "q": "Who first issued gold coins bearing the image of the king?",
    "o": [
     "Kushanas",
-    "Indo-Greeks",
+    "Shakas",
     "Guptas",
-    "Shakas"
+    "Indo-Greeks"
    ],
-   "a": 1,
+   "a": 3,
    "e": "Menander (Milinda) was the most powerful Indo-Greek ruler."
   },
   {
    "q": "In 'Milindapanho', whom did Milinda question?",
    "o": [
+    "Vasumitra",
     "Ashvaghosha",
-    "Nagarjuna",
     "Nagasena",
-    "Vasumitra"
+    "Nagarjuna"
    ],
    "a": 2,
    "e": "Milinda is also known as Menander."
@@ -1331,31 +1331,31 @@
    "q": "Who wrote the 'Arthashastra'?",
    "o": [
     "Vishakhadatta",
-    "Kalidasa",
+    "Kautilya",
     "Shudraka",
-    "Kautilya"
+    "Kalidasa"
    ],
-   "a": 3,
+   "a": 1,
    "e": "It was written in the time of Chandragupta Maurya."
   },
   {
    "q": "Who is the author of 'Mudrarakshasa'?",
    "o": [
+    "Bhasa",
     "Vishakhadatta",
     "Shudraka",
-    "Bhasa",
     "Kalidasa"
    ],
-   "a": 0,
+   "a": 1,
    "e": "It describes the rise of Chandragupta Maurya."
   },
   {
    "q": "Which ruler patronised the First Buddhist Council?",
    "o": [
-    "Kalashoka",
-    "Ajatashatru (Haryanka)",
     "Ashoka",
-    "Kanishka"
+    "Ajatashatru (Haryanka)",
+    "Kanishka",
+    "Kalashoka"
    ],
    "a": 1,
    "e": "Ajatashatru was the son of Bimbisara."
@@ -1363,10 +1363,10 @@
   {
    "q": "Who was the founder of the Haryanka dynasty?",
    "o": [
+    "Mahapadma Nanda",
     "Ajatashatru",
-    "Shishunaga",
     "Bimbisara",
-    "Mahapadma Nanda"
+    "Shishunaga"
    ],
    "a": 2,
    "e": "The Haryankas were the first ruling dynasty of Magadha."
@@ -1375,77 +1375,77 @@
    "q": "The Second Buddhist Council was held during the reign of:",
    "o": [
     "Ajatashatru",
+    "Kalashoka (Shishunaga dynasty)",
     "Ashoka",
-    "Kanishka",
-    "Kalashoka (Shishunaga dynasty)"
+    "Kanishka"
    ],
-   "a": 3,
+   "a": 1,
    "e": "Kalashoka belonged to the Shishunaga dynasty."
   },
   {
    "q": "Who was the patron of the Third Buddhist Council?",
    "o": [
-    "Ashoka (Maurya)",
     "Kanishka",
-    "Kalashoka",
-    "Ajatashatru"
+    "Ajatashatru",
+    "Ashoka (Maurya)",
+    "Kalashoka"
    ],
-   "a": 0,
+   "a": 2,
    "e": "It was held at Pataliputra."
   },
   {
    "q": "Who was the patron of the Fourth Buddhist Council?",
    "o": [
-    "Ashoka",
-    "Kanishka (Kushana)",
     "Harshavardhana",
-    "Ajatashatru"
+    "Ajatashatru",
+    "Kanishka (Kushana)",
+    "Ashoka"
    ],
-   "a": 1,
+   "a": 2,
    "e": "Kanishka belonged to the Kushana dynasty."
   },
   {
    "q": "Which uncle of Pulakeshin II did he overthrow?",
    "o": [
-    "Kirtivarman",
+    "Vikramaditya",
     "Kubja Vishnuvardhana",
-    "Mangalesha",
-    "Vikramaditya"
+    "Kirtivarman",
+    "Mangalesha"
    ],
-   "a": 2,
+   "a": 3,
    "e": "Mangalesha refused to give up the throne."
   },
   {
    "q": "Who founded the Chalukya dynasty of Badami?",
    "o": [
-    "Pulakeshin II",
-    "Kirtivarman",
     "Mangalesha",
-    "Pulakeshin I"
+    "Pulakeshin I",
+    "Kirtivarman",
+    "Pulakeshin II"
    ],
-   "a": 3,
+   "a": 1,
    "e": "Pulakeshin I made Vatapi his capital."
   },
   {
    "q": "Who was the last ruler of the Chalukyas of Badami?",
    "o": [
-    "Kirtivarman II",
-    "Pulakeshin II",
     "Mangalesha",
+    "Pulakeshin II",
+    "Kirtivarman II",
     "Vikramaditya II"
    ],
-   "a": 0,
+   "a": 2,
    "e": "He was defeated by Dantidurga."
   },
   {
    "q": "Who overthrew the Chalukyas of Badami?",
    "o": [
     "Palas",
-    "Rashtrakutas",
     "Cholas",
+    "Rashtrakutas",
     "Pallavas"
    ],
-   "a": 1,
+   "a": 2,
    "e": "Dantidurga defeated Kirtivarman II."
   },
   {
@@ -1453,32 +1453,32 @@
    "o": [
     "Krishna I",
     "Amoghavarsha",
-    "Dantidurga",
-    "Dhruva"
+    "Dhruva",
+    "Dantidurga"
    ],
-   "a": 2,
+   "a": 3,
    "e": "He founded the dynasty after defeating Kirtivarman II."
   },
   {
    "q": "Among the three Chalukya branches, what was the capital of the Eastern Chalukyas?",
    "o": [
-    "Badami",
     "Kalyani",
-    "Kanchipuram",
-    "Vengi"
+    "Badami",
+    "Vengi",
+    "Kanchipuram"
    ],
-   "a": 3,
+   "a": 2,
    "e": "The founder was Kubja Vishnuvardhana."
   },
   {
    "q": "Who founded the Eastern Chalukya dynasty?",
    "o": [
-    "Kubja Vishnuvardhana",
-    "Pulakeshin I",
     "Kirtivarman",
+    "Pulakeshin I",
+    "Kubja Vishnuvardhana",
     "Mangalesha"
    ],
-   "a": 0,
+   "a": 2,
    "e": "He was the brother of Pulakeshin II."
   },
   {
@@ -1486,8 +1486,8 @@
    "o": [
     "Vengi",
     "Kalyani",
-    "Badami",
-    "Manyakheta"
+    "Manyakheta",
+    "Badami"
    ],
    "a": 1,
    "e": "The Chalukyas after Badami ruled from Kalyani."
@@ -1495,10 +1495,10 @@
   {
    "q": "What was the capital of the Pallava dynasty?",
    "o": [
-    "Vengi",
     "Madurai",
+    "Thanjavur",
     "Kanchipuram",
-    "Thanjavur"
+    "Vengi"
    ],
    "a": 2,
    "e": "Kanchipuram is in present-day Tamil Nadu."
@@ -1506,21 +1506,21 @@
   {
    "q": "Who is regarded as the founder of the Pallava dynasty?",
    "o": [
-    "Mahendravarman I",
+    "Simhavishnu",
     "Narasimhavarman I",
     "Parameshvaravarman",
-    "Simhavishnu"
+    "Mahendravarman I"
    ],
-   "a": 3,
+   "a": 0,
    "e": "Simhavishnu made Kanchi his capital."
   },
   {
    "q": "Which Pallava ruler introduced rock-cut temples?",
    "o": [
     "Mahendravarman I",
-    "Narasimhavarman I",
+    "Simhavishnu",
     "Narasimhavarman II",
-    "Simhavishnu"
+    "Narasimhavarman I"
    ],
    "a": 0,
    "e": "Rock-cut temples were mainly carved in granite."
@@ -1530,8 +1530,8 @@
    "o": [
     "Mahendravarman I",
     "Narasimhavarman I",
-    "Narasimhavarman II",
-    "Simhavishnu"
+    "Simhavishnu",
+    "Narasimhavarman II"
    ],
    "a": 1,
    "e": "The Pancha Rathas are monolithic (carved from single rocks)."
@@ -1539,10 +1539,10 @@
   {
    "q": "By what other name is Narasimhavarman I known?",
    "o": [
-    "Rajasimha",
+    "Atiranachanda",
     "Vatapikonda",
     "Mamalla",
-    "Atiranachanda"
+    "Rajasimha"
    ],
    "a": 2,
    "e": "Mamallapuram (Mahabalipuram) is named after him."
@@ -1550,53 +1550,53 @@
   {
    "q": "Who built the Kailasanatha Temple at Kanchi and the Shore Temple?",
    "o": [
-    "Narasimhavarman I",
     "Mahendravarman I",
-    "Simhavishnu",
-    "Narasimhavarman II"
+    "Narasimhavarman I",
+    "Narasimhavarman II",
+    "Simhavishnu"
    ],
-   "a": 3,
+   "a": 2,
    "e": "He is also known as Rajasimha."
   },
   {
    "q": "Which Rashtrakuta ruler built the Kailasa Temple (Cave 16) at Ellora?",
    "o": [
-    "Krishna I",
+    "Dhruva",
     "Dantidurga",
     "Amoghavarsha",
-    "Dhruva"
+    "Krishna I"
    ],
-   "a": 0,
+   "a": 3,
    "e": "It is at Ellora, not Ajanta."
   },
   {
    "q": "In which cave number is the Kailasa Temple at Ellora?",
    "o": [
-    "Cave No. 1",
     "Cave No. 16",
+    "Cave No. 1",
     "Cave No. 10",
     "Cave No. 29"
    ],
-   "a": 1,
+   "a": 0,
    "e": "It was carved out of a single rock."
   },
   {
    "q": "Who built the Virupaksha Temple at Pattadakal?",
    "o": [
-    "Queen Prabhavati",
-    "Queen Rajyashri",
     "Queen Lokamahadevi",
-    "Queen Kumaradevi"
+    "Queen Kumaradevi",
+    "Queen Rajyashri",
+    "Queen Prabhavati"
    ],
-   "a": 2,
+   "a": 0,
    "e": "Built to commemorate her husband Vikramaditya II's victory over the Pallavas."
   },
   {
    "q": "The Virupaksha Temple at Pattadakal was built under which dynasty?",
    "o": [
+    "Chola",
     "Pallava",
     "Rashtrakuta",
-    "Chola",
     "Chalukya"
    ],
    "a": 3,
@@ -1605,76 +1605,76 @@
   {
    "q": "The Virupaksha Temple at Hampi is in the capital of which empire?",
    "o": [
-    "Vijayanagara",
-    "Chola",
     "Pallava",
-    "Bahmani"
+    "Vijayanagara",
+    "Bahmani",
+    "Chola"
    ],
-   "a": 0,
+   "a": 1,
    "e": "Virupaksha is a name of Lord Shiva."
   },
   {
    "q": "Who built the Badami caves?",
    "o": [
+    "Cholas",
     "Pallavas",
     "Chalukyas",
-    "Rashtrakutas",
-    "Cholas"
+    "Rashtrakutas"
    ],
-   "a": 1,
+   "a": 2,
    "e": "These are rock-cut cave temples in Karnataka."
   },
   {
    "q": "The group of temples at Aihole is known as the:",
    "o": [
-    "Kashi of the South",
-    "City of Temples",
     "Cradle of Indian temple architecture",
-    "Valley of Gods"
+    "Valley of Gods",
+    "City of Temples",
+    "Kashi of the South"
    ],
-   "a": 2,
+   "a": 0,
    "e": "The Durga Temple at Aihole is famous."
   },
   {
    "q": "In what sense is the Durga Temple at Aihole named 'Durga'?",
    "o": [
-    "A temple of Goddess Durga",
     "Name of a river",
-    "Name of a king",
-    "In the sense of a fort (not Goddess Durga)"
+    "A temple of Goddess Durga",
+    "In the sense of a fort (not Goddess Durga)",
+    "Name of a king"
    ],
-   "a": 3,
+   "a": 2,
    "e": "The name comes from 'durg', meaning fort."
   },
   {
    "q": "Which of the following temples is NOT part of the Pattadakal group?",
    "o": [
-    "Durga Temple",
+    "Galaganatha Temple",
     "Papanatha Temple",
-    "Sangameshvara Temple",
-    "Galaganatha Temple"
+    "Durga Temple",
+    "Sangameshvara Temple"
    ],
-   "a": 0,
+   "a": 2,
    "e": "The Durga Temple is at Aihole."
   },
   {
    "q": "In the Gupta period, what did 'Bhukti' mean?",
    "o": [
+    "City",
     "District",
-    "Province",
     "Village",
-    "City"
+    "Province"
    ],
-   "a": 1,
+   "a": 3,
    "e": "A bhukti was administered by an Uparika."
   },
   {
    "q": "What was a district called in the Gupta period?",
    "o": [
-    "Bhukti",
     "Grama",
+    "Pura",
     "Vishaya",
-    "Pura"
+    "Bhukti"
    ],
    "a": 2,
    "e": "The head of a vishaya was the Vishayapati."
@@ -1682,34 +1682,34 @@
   {
    "q": "In the Gupta period, the Vishayapati administered a:",
    "o": [
-    "Province",
-    "Village",
     "City",
-    "District"
+    "District",
+    "Village",
+    "Province"
    ],
-   "a": 3,
+   "a": 1,
    "e": "Province - bhukti, district - vishaya, village - grama."
   },
   {
    "q": "What was the village headman called in the Gupta period?",
    "o": [
-    "Gramika",
-    "Uparika",
     "Mahattara (village elder)",
+    "Uparika",
+    "Gramika",
     "Vishayapati"
    ],
-   "a": 0,
+   "a": 2,
    "e": "Mahattaras were senior village elders."
   },
   {
    "q": "Who was the governor of a province (bhukti) in the Gupta period?",
    "o": [
-    "Gramika",
-    "Uparika",
     "Vishayapati",
-    "Mahattara"
+    "Mahattara",
+    "Uparika",
+    "Gramika"
    ],
-   "a": 1,
+   "a": 2,
    "e": "The Uparika also looked after provincial judicial matters."
   },
   {
@@ -1727,42 +1727,42 @@
    "q": "What was the main function of the 'Ayukta'?",
    "o": [
     "Dispensing justice",
+    "Revenue collection",
     "Leading the army",
-    "Managing temples",
-    "Revenue collection"
+    "Managing temples"
    ],
-   "a": 3,
+   "a": 1,
    "e": "A senior official who collected revenue."
   },
   {
    "q": "Who was the 'Sandhivigrahika' in the Gupta period?",
    "o": [
-    "Minister of war and peace",
     "Minister of justice",
-    "Army treasurer",
-    "Chief banker"
+    "Minister of war and peace",
+    "Chief banker",
+    "Army treasurer"
    ],
-   "a": 0,
+   "a": 1,
    "e": "He handled matters of war and treaties."
   },
   {
    "q": "What was a 'Kumaramatya'?",
    "o": [
-    "Village headman",
     "The most important high-ranking/provincial officer",
     "Chief artisan",
-    "Scribe"
+    "Scribe",
+    "Village headman"
    ],
-   "a": 1,
+   "a": 0,
    "e": "Comparable to a modern IAS officer."
   },
   {
    "q": "What was a 'Mahadandanayaka'?",
    "o": [
-    "Army supply officer",
+    "Head of the elephant force",
     "Customs officer",
     "Officer of justice/punishment (minister of justice)",
-    "Head of the elephant force"
+    "Army supply officer"
    ],
    "a": 2,
    "e": "'Danda' means punishment."
@@ -1770,9 +1770,9 @@
   {
    "q": "The 'Ranabhandagarika' was related to:",
    "o": [
-    "Revenue",
-    "Justice",
     "Temples",
+    "Justice",
+    "Revenue",
     "Storage of military supplies"
    ],
    "a": 3,
@@ -1781,129 +1781,129 @@
   {
    "q": "Who was the 'Pilupati'?",
    "o": [
-    "Head of the elephant force",
-    "Head of cavalry",
     "Head of chariots",
-    "Head of spies"
+    "Head of spies",
+    "Head of the elephant force",
+    "Head of cavalry"
    ],
-   "a": 0,
+   "a": 2,
    "e": "'Pilu' means elephant."
   },
   {
    "q": "Who was the 'Mahapratihara'?",
    "o": [
+    "Scribe",
     "Treasurer",
     "Chief guard (chamberlain)",
-    "Scribe",
     "Judge"
    ],
-   "a": 1,
+   "a": 2,
    "e": "Chief guard of the royal palace."
   },
   {
    "q": "Who was the 'Nagara Shreshthi'?",
    "o": [
-    "Chief artisan",
-    "Village headman",
+    "Judge",
     "Chief banker/merchant of the city",
-    "Judge"
+    "Chief artisan",
+    "Village headman"
    ],
-   "a": 2,
+   "a": 1,
    "e": "Head of the merchants of a city."
   },
   {
    "q": "Who was the 'Prathama Kulika'?",
    "o": [
-    "Chief scribe",
-    "Chief merchant",
     "Commander",
-    "Chief artisan"
+    "Chief artisan",
+    "Chief scribe",
+    "Chief merchant"
    ],
-   "a": 3,
+   "a": 1,
    "e": "Head of the artisans' guild."
   },
   {
    "q": "Who was the 'Prathama Kayastha'?",
    "o": [
-    "Chief scribe",
-    "Chief artisan",
     "Chief banker",
-    "Commander"
+    "Chief artisan",
+    "Commander",
+    "Chief scribe"
    ],
-   "a": 0,
+   "a": 3,
    "e": "He kept records and accounts."
   },
   {
    "q": "In the Gupta period, the terms 'Chata' and 'Bhata' were used for:",
    "o": [
     "Priests and warriors",
-    "Regular and irregular soldiers",
+    "Spies",
     "Elephant riders",
-    "Spies"
+    "Regular and irregular soldiers"
    ],
-   "a": 1,
+   "a": 3,
    "e": "Chata were regular and Bhata irregular soldiers."
   },
   {
    "q": "What was the main function of a 'Shreni' (guild) in the Gupta period?",
    "o": [
+    "Regulation of trade and crafts",
     "Army recruitment",
     "Dispensing justice",
-    "Regulation of trade and crafts",
     "Temple building"
    ],
-   "a": 2,
+   "a": 0,
    "e": "Shrenis were associations of artisans and merchants."
   },
   {
    "q": "What kind of tax was 'Uparikara'?",
    "o": [
-    "Forced labour",
-    "One-sixth of the land",
     "Emergency tax",
-    "Additional tax (like a surcharge)"
+    "One-sixth of the land",
+    "Additional tax (like a surcharge)",
+    "Forced labour"
    ],
-   "a": 3,
+   "a": 2,
    "e": "Like a tax on top of a tax."
   },
   {
    "q": "What was 'Vishti'?",
    "o": [
-    "Forced labour (begar)",
     "Land tax",
+    "Special tax",
     "Plough tax",
-    "Special tax"
+    "Forced labour (begar)"
    ],
-   "a": 0,
+   "a": 3,
    "e": "Compare with Vetti and Kadamai of the Cholas."
   },
   {
    "q": "On what was 'Halivakara' levied?",
    "o": [
-    "Trade",
     "Plough (tillage)",
-    "Land grants",
-    "War"
+    "War",
+    "Trade",
+    "Land grants"
    ],
-   "a": 1,
+   "a": 0,
    "e": "Paid by those who owned a plough."
   },
   {
    "q": "How much was the 'Bhaga' tax?",
    "o": [
-    "1/4 share",
-    "1/3 share",
     "1/6 of the produce",
-    "1/10 share"
+    "1/10 share",
+    "1/4 share",
+    "1/3 share"
    ],
-   "a": 2,
+   "a": 0,
    "e": "It was paid by farmers."
   },
   {
    "q": "What was the 'Hiranya' tax?",
    "o": [
-    "Forced labour",
     "Plough tax",
+    "Forced labour",
     "Emergency tax",
     "Tax for special purposes (paid in cash/gold)"
    ],
@@ -1913,76 +1913,76 @@
   {
    "q": "What kind of tax was 'Chikara'?",
    "o": [
-    "Emergency tax",
     "Land tax",
+    "Emergency tax",
     "Plough tax",
     "Forced labour"
    ],
-   "a": 0,
+   "a": 1,
    "e": "It was levied in times of crisis."
   },
   {
    "q": "What was the main source of revenue of the Pallavas?",
    "o": [
-    "Trade tax",
     "Land tax (1/6 of produce)",
+    "Trade tax",
     "War booty",
     "Minting of coins"
    ],
-   "a": 1,
+   "a": 0,
    "e": "Land tax was the largest source."
   },
   {
    "q": "Who administered Agrahara land in the post-Gupta period?",
    "o": [
-    "Kshatriyas",
     "Vaishyas",
     "Brahmins",
+    "Kshatriyas",
     "Shudras"
    ],
-   "a": 2,
+   "a": 1,
    "e": "Agraharas were lands granted to Brahmins."
   },
   {
    "q": "In the post-Gupta period, land grants were mostly given to:",
    "o": [
-    "Kshatriyas",
     "Vaishyas",
-    "Shudras",
-    "Brahmins"
+    "Kshatriyas",
+    "Brahmins",
+    "Shudras"
    ],
-   "a": 3,
+   "a": 2,
    "e": "Because they held the highest position in the varna system."
   },
   {
    "q": "In the Brahmadeya villages of the Pallavas, the local assembly was managed by:",
    "o": [
-    "Brahmins",
-    "Kshatriyas",
     "Vaishyas",
-    "Shudras"
+    "Shudras",
+    "Kshatriyas",
+    "Brahmins"
    ],
-   "a": 0,
+   "a": 3,
    "e": "Brahmadeya was land granted to Brahmins."
   },
   {
    "q": "What was the 'Ur' in the Tamil region?",
    "o": [
-    "Assembly of learned Brahmins",
     "Assembly of common villagers",
+    "Assembly of learned Brahmins",
     "Army",
     "Tax"
    ],
-   "a": 1,
+   "a": 0,
    "e": "The Sabha was the assembly of learned Brahmins."
   },
   {
    "q": "The 'Sabha' was the assembly of:",
    "o": [
-    "Farmers",
     "Traders",
+    "Soldiers",
     "Learned Brahmins",
-    "Soldiers"
+    "Farmers"
    ],
    "a": 2,
    "e": "The assembly of common people was the 'Ur'."
@@ -1991,55 +1991,55 @@
    "q": "The term 'Tadaga' was used for:",
    "o": [
     "Drinking-water shed",
-    "River",
+    "Tank or pond",
     "Field",
-    "Tank or pond"
+    "River"
    ],
-   "a": 3,
+   "a": 1,
    "e": "Prapa was a drinking-water shed."
   },
   {
    "q": "What was a 'Prapa'?",
    "o": [
-    "Drinking-water shed",
-    "Pond",
     "Land tax",
-    "Temple"
+    "Drinking-water shed",
+    "Temple",
+    "Pond"
    ],
-   "a": 0,
+   "a": 1,
    "e": "It provided water to all."
   },
   {
    "q": "What did the term 'Kshetra' mean in the post-Gupta period?",
    "o": [
     "River",
-    "Agricultural land",
+    "City",
     "Pond",
-    "City"
+    "Agricultural land"
    ],
-   "a": 1,
+   "a": 3,
    "e": "Kshetra referred to cultivated fields."
   },
   {
    "q": "In which region is Tirabhukti (Tirhut)?",
    "o": [
-    "Bundelkhand",
-    "Gujarat",
     "Bihar",
-    "Bengal"
+    "Gujarat",
+    "Bengal",
+    "Bundelkhand"
    ],
-   "a": 2,
+   "a": 0,
    "e": "Present-day north Bihar."
   },
   {
    "q": "Which region was called Jejakabhukti?",
    "o": [
-    "Bihar",
+    "Bundelkhand (MP)",
     "Punjab",
-    "Assam",
-    "Bundelkhand (MP)"
+    "Bihar",
+    "Assam"
    ],
-   "a": 3,
+   "a": 0,
    "e": "The region associated with the Chandelas."
   },
   {
@@ -2047,8 +2047,8 @@
    "o": [
     "Sudarshana Lake",
     "Dal Lake",
-    "Chilika Lake",
-    "Pushkar Lake"
+    "Pushkar Lake",
+    "Chilika Lake"
    ],
    "a": 0,
    "e": "Pushyagupta was Chandragupta Maurya's governor."
@@ -2057,22 +2057,22 @@
    "q": "Why was Indo-Byzantine trade affected?",
    "o": [
     "India stopped exports",
-    "The Byzantine Empire learned silk production",
     "Pirates",
+    "The Byzantine Empire learned silk production",
     "Heavy taxes"
    ],
-   "a": 1,
+   "a": 2,
    "e": "So they no longer imported silk from India."
   },
   {
    "q": "Which of the following is NOT among the epigraphic sources of Harsha?",
    "o": [
-    "Banskhera Inscription",
     "Nalanda seals",
     "Muzaffarnagar seals",
-    "Madhuban copper plate"
+    "Madhuban copper plate",
+    "Banskhera Inscription"
    ],
-   "a": 2,
+   "a": 1,
    "e": "The Banskhera inscription and Nalanda seals relate to Harsha."
   },
   {
@@ -2100,23 +2100,23 @@
   {
    "q": "Which title did Pallava kings adopt to show they were guided by the Dharmashastras?",
    "o": [
-    "Maharajadhiraja",
     "Dharmamaharaja",
-    "Vikramaditya",
-    "Rajadhiraja"
+    "Maharajadhiraja",
+    "Rajadhiraja",
+    "Vikramaditya"
    ],
-   "a": 1,
+   "a": 0,
    "e": "Maharajadhiraja was taken by Chandragupta I and Ishanavarman."
   },
   {
    "q": "What does 'Dakshinapatheshvara', the title of the Chalukya ruler who defeated Harsha, mean?",
    "o": [
-    "Lord of the North",
-    "Lord of the Sea",
     "Lord of the South (Deccan)",
-    "Lord of the East"
+    "Lord of the East",
+    "Lord of the North",
+    "Lord of the Sea"
    ],
-   "a": 2,
+   "a": 0,
    "e": "This title was taken by Pulakeshin II."
   }
  ]

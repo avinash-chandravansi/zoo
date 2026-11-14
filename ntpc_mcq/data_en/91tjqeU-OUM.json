@@ -22,32 +22,32 @@
   {
    "q": "Which of the following is a fibre crop in India?",
    "o": [
-    "Jute",
     "Cucumber",
     "Turnip",
+    "Jute",
     "Radish"
    ],
-   "a": 0,
+   "a": 2,
    "e": "Jute, cotton, flax and hemp are fibre crops."
   },
   {
    "q": "Jute is popularly known as:",
    "o": [
     "White Gold",
+    "Black Gold",
     "Golden Fibre",
-    "Green Gold",
-    "Black Gold"
+    "Green Gold"
    ],
-   "a": 1,
+   "a": 2,
    "e": "Jute is called the Golden Fibre."
   },
   {
    "q": "Which country ranks first in the world in jute production?",
    "o": [
     "Bangladesh",
-    "China",
+    "Brazil",
     "India",
-    "Brazil"
+    "China"
    ],
    "a": 2,
    "e": "India leads in production, while Bangladesh leads in exports."
@@ -55,65 +55,65 @@
   {
    "q": "Which country is the world's leading exporter of jute?",
    "o": [
+    "Bangladesh",
     "India",
     "Nepal",
-    "Thailand",
-    "Bangladesh"
+    "Thailand"
    ],
-   "a": 3,
+   "a": 0,
    "e": "India leads in production but Bangladesh in exports."
   },
   {
    "q": "Which is the leading jute-producing state in India?",
    "o": [
-    "West Bengal",
-    "Bihar",
     "Assam",
-    "Odisha"
+    "West Bengal",
+    "Odisha",
+    "Bihar"
    ],
-   "a": 0,
+   "a": 1,
    "e": "West Bengal is the largest producer of jute."
   },
   {
    "q": "The pre-monsoon showers beneficial for jute are called in Bengal:",
    "o": [
-    "Mawat",
     "Kalbaisakhi",
     "Mango showers",
-    "Loo"
+    "Loo",
+    "Mawat"
    ],
-   "a": 1,
+   "a": 0,
    "e": "These are Nor'westers; in Assam they are called Bardoli Chheerha."
   },
   {
    "q": "What are Nor'westers (pre-monsoon showers) called in Assam?",
    "o": [
     "Kalbaisakhi",
-    "Cherry blossom",
     "Bardoli Chheerha",
+    "Cherry blossom",
     "Flower showers"
    ],
-   "a": 2,
+   "a": 1,
    "e": "In Assam they are called Bardoli Chheerha or Bordoisila."
   },
   {
    "q": "Nylon is which type of fibre?",
    "o": [
     "Natural plant fibre",
+    "Synthetic (man-made) fibre",
     "Natural animal fibre",
-    "Mineral fibre",
-    "Synthetic (man-made) fibre"
+    "Mineral fibre"
    ],
-   "a": 3,
+   "a": 1,
    "e": "Nylon is synthetic, whereas jute and cotton are natural."
   },
   {
    "q": "Which type of farming is practised in the wheat-growing regions of the USA and Canada?",
    "o": [
     "Commercial grain farming",
-    "Intensive subsistence farming",
+    "Plantation farming",
     "Shifting cultivation",
-    "Plantation farming"
+    "Intensive subsistence farming"
    ],
    "a": 0,
    "e": "Grain is grown for sale on large mechanised farms."
@@ -121,12 +121,12 @@
   {
    "q": "Agriculture is broadly divided into which two categories?",
    "o": [
-    "Intensive and plantation",
-    "Subsistence and commercial",
     "Shifting and plantation",
-    "Dry and wet"
+    "Dry and wet",
+    "Subsistence and commercial",
+    "Intensive and plantation"
    ],
-   "a": 1,
+   "a": 2,
    "e": "Subsistence farming is for self-consumption; commercial farming is for sale."
   },
   {
@@ -143,43 +143,43 @@
   {
    "q": "What is the main feature of plantation agriculture?",
    "o": [
-    "Mixed crops on small farms",
     "Animal rearing with crops",
     "Farming after burning forests",
-    "Growing a single crop over a large area"
+    "Growing a single crop over a large area",
+    "Mixed crops on small farms"
    ],
-   "a": 3,
+   "a": 2,
    "e": "Tea, coffee and rubber are plantation crops."
   },
   {
    "q": "Which of the following is a plantation crop?",
    "o": [
-    "Tea",
-    "Wheat",
     "Gram",
-    "Pea"
+    "Wheat",
+    "Pea",
+    "Tea"
    ],
-   "a": 0,
+   "a": 3,
    "e": "Tea, coffee and rubber are plantation crops."
   },
   {
    "q": "Which practices come under primitive subsistence farming?",
    "o": [
     "Commercial grain farming",
-    "Shifting cultivation and nomadic herding",
     "Plantation farming",
-    "Dairy farming"
+    "Dairy farming",
+    "Shifting cultivation and nomadic herding"
    ],
-   "a": 1,
+   "a": 3,
    "e": "It uses primitive tools like hoe, dao and digging sticks."
   },
   {
    "q": "Raising crops along with rearing animals is called:",
    "o": [
-    "Mixed cropping",
     "Intercropping",
+    "Plantation farming",
     "Mixed farming",
-    "Plantation farming"
+    "Mixed cropping"
    ],
    "a": 2,
    "e": "Mixed farming = crop cultivation + animal husbandry."
@@ -188,66 +188,66 @@
    "q": "Sowing seeds of several crops mixed together in the same field is called:",
    "o": [
     "Intercropping",
-    "Mixed farming",
     "Crop rotation",
-    "Mixed cropping"
+    "Mixed cropping",
+    "Mixed farming"
    ],
-   "a": 3,
+   "a": 2,
    "e": "Intercropping, by contrast, follows a definite row pattern."
   },
   {
    "q": "What is the characteristic of intercropping?",
    "o": [
+    "Only one crop is grown",
     "Crops are grown in a definite row pattern",
     "All seeds are mixed and sown",
-    "Only one crop is grown",
     "Animal rearing is done alongside"
    ],
-   "a": 0,
+   "a": 1,
    "e": "In mixed cropping seeds are mixed; intercropping follows a set pattern."
   },
   {
    "q": "What is meant by barren (waste) land?",
    "o": [
-    "Land covered by forests",
     "Land unfit for cultivation due to natural or human causes",
     "Irrigated land",
+    "Land covered by forests",
     "Pasture land"
    ],
-   "a": 1,
+   "a": 0,
    "e": "Barren land is not cultivable."
   },
   {
    "q": "Which region of India is known for slash-and-burn (Jhum) cultivation?",
    "o": [
-    "Punjab plains",
     "Ganga delta",
     "North-eastern hill region",
+    "Punjab plains",
     "Malabar coast"
    ],
-   "a": 2,
+   "a": 1,
    "e": "Jhum means cut and burn; it leads to deforestation."
   },
   {
    "q": "In slash-and-burn agriculture, what do 'slash' and 'burn' mean?",
    "o": [
-    "Plough and sow",
-    "Irrigate and harvest",
     "Dig and fill",
-    "Cut and burn"
+    "Irrigate and harvest",
+    "Cut and burn",
+    "Plough and sow"
    ],
-   "a": 3,
+   "a": 2,
    "e": "Ash enriches the soil; farmers move on once fertility declines."
   },
   {
    "q": "What is shifting cultivation called in Jharkhand?",
    "o": [
-    "Kuruwa",
     "Deepa",
     "Dahiya",
+    "Kuruwa",
     "Podu"
    ],
-   "a": 0,
+   "a": 2,
    "e": "In Jharkhand it is called Kuruwa/Kurua."
   },
   {
@@ -255,8 +255,8 @@
    "o": [
     "Kuruwa",
     "Deepa",
-    "Dahiya",
-    "Bewar"
+    "Bewar",
+    "Dahiya"
    ],
    "a": 1,
    "e": "It is also called Deepa in the Andaman and Nicobar Islands."
@@ -264,10 +264,10 @@
   {
    "q": "What are the local names of shifting cultivation in Madhya Pradesh?",
    "o": [
+    "Kuruwa and Jhum",
     "Kumari and Podu",
-    "Walra and Deepa",
     "Dahiya and Bewar",
-    "Kuruwa and Jhum"
+    "Walra and Deepa"
    ],
    "a": 2,
    "e": "Bewar and Dahiya are used in Madhya Pradesh."
@@ -275,21 +275,21 @@
   {
    "q": "What is shifting cultivation called in Andhra Pradesh?",
    "o": [
-    "Deepa",
-    "Kuruwa",
     "Jhum",
-    "Podu (Penda)"
+    "Kuruwa",
+    "Podu (Penda)",
+    "Deepa"
    ],
-   "a": 3,
+   "a": 2,
    "e": "Podu is the name used in Andhra Pradesh and Odisha."
   },
   {
    "q": "What is the local name of shifting cultivation in the Western Ghats?",
    "o": [
     "Kumari",
-    "Jhum",
+    "Chena",
     "Dahiya",
-    "Chena"
+    "Jhum"
    ],
    "a": 0,
    "e": "Kumari is the name used in the Western Ghats."
@@ -297,75 +297,75 @@
   {
    "q": "What is shifting cultivation called in Rajasthan?",
    "o": [
-    "Jhum",
-    "Walra (Waltre)",
     "Deepa",
-    "Bewar"
+    "Bewar",
+    "Walra (Waltre)",
+    "Jhum"
    ],
-   "a": 1,
+   "a": 2,
    "e": "In Rajasthan it is called Walra/Waltre."
   },
   {
    "q": "What is shifting cultivation called in Sri Lanka?",
    "o": [
-    "Milpa",
+    "Roca",
     "Ladang",
-    "Chena",
-    "Roca"
+    "Milpa",
+    "Chena"
    ],
-   "a": 2,
+   "a": 3,
    "e": "In Sri Lanka it is called Chena."
   },
   {
    "q": "What is shifting cultivation called in Mexico?",
    "o": [
-    "Chena",
     "Ladang",
+    "Milpa",
     "Conuco",
-    "Milpa"
+    "Chena"
    ],
-   "a": 3,
+   "a": 1,
    "e": "In Mexico it is called Milpa."
   },
   {
    "q": "What is shifting cultivation called in Indonesia?",
    "o": [
-    "Ladang",
-    "Milpa",
+    "Roca",
     "Chena",
-    "Roca"
+    "Ladang",
+    "Milpa"
    ],
-   "a": 0,
+   "a": 2,
    "e": "In Indonesia it is called Ladang."
   },
   {
    "q": "What is shifting cultivation called in Brazil?",
    "o": [
     "Conuco",
+    "Ladang",
     "Roca",
-    "Milpa",
-    "Ladang"
+    "Milpa"
    ],
-   "a": 1,
+   "a": 2,
    "e": "Roca in Brazil; Conuco in Venezuela."
   },
   {
    "q": "What is shifting cultivation called in Venezuela?",
    "o": [
     "Roca",
-    "Milpa",
     "Conuco",
+    "Milpa",
     "Chena"
    ],
-   "a": 2,
+   "a": 1,
    "e": "In Venezuela it is called Conuco."
   },
   {
    "q": "Where is canal irrigation most developed in India?",
    "o": [
+    "Coastal sandy areas",
     "Plateau regions",
     "Mountain regions",
-    "Coastal sandy areas",
     "Alluvial plains with perennial rivers"
    ],
    "a": 3,
@@ -374,20 +374,20 @@
   {
    "q": "Which rivers are called perennial?",
    "o": [
-    "Rivers that have water throughout the year",
-    "Rivers that flow only in the rainy season",
     "Rivers that disappear in deserts",
-    "Rivers that flow only eastwards"
+    "Rivers that flow only in the rainy season",
+    "Rivers that flow only eastwards",
+    "Rivers that have water throughout the year"
    ],
-   "a": 0,
+   "a": 3,
    "e": "Himalayan rivers are perennial as they are fed by glaciers."
   },
   {
    "q": "By nature, Peninsular rivers are:",
    "o": [
-    "Perennial",
-    "Seasonal (non-perennial)",
     "Antecedent",
+    "Seasonal (non-perennial)",
+    "Perennial",
     "Glacial"
    ],
    "a": 1,
@@ -396,54 +396,54 @@
   {
    "q": "Why are Himalayan rivers called antecedent rivers?",
    "o": [
+    "They existed before the Himalayas rose and kept their course",
     "They formed last",
     "They flow only westwards",
-    "They existed before the Himalayas rose and kept their course",
     "They are seasonal"
    ],
-   "a": 2,
+   "a": 0,
    "e": "They cut through the rising mountains to maintain their course."
   },
   {
    "q": "What are the three cropping seasons of India?",
    "o": [
-    "Kharif, Rabi and Boro",
-    "Aus, Aman and Boro",
     "Rainy, winter and summer",
-    "Kharif, Rabi and Zaid"
+    "Kharif, Rabi and Zaid",
+    "Kharif, Rabi and Boro",
+    "Aus, Aman and Boro"
    ],
-   "a": 3,
+   "a": 1,
    "e": "These are India's three cropping seasons."
   },
   {
    "q": "When are Kharif crops sown?",
    "o": [
-    "June-July (with the onset of monsoon)",
     "October-November",
+    "January-February",
     "March-April",
-    "January-February"
+    "June-July (with the onset of monsoon)"
    ],
-   "a": 0,
+   "a": 3,
    "e": "They are harvested in Sept-Oct and are also called monsoon crops."
   },
   {
    "q": "What is the usual sowing and harvesting time of Rabi crops?",
    "o": [
     "Sown June-July, harvested September",
-    "Sown October-November, harvested March-April",
+    "Sown January, harvested May",
     "Sown March, harvested June",
-    "Sown January, harvested May"
+    "Sown October-November, harvested March-April"
    ],
-   "a": 1,
+   "a": 3,
    "e": "These are winter crops."
   },
   {
    "q": "What is the Zaid cropping season?",
    "o": [
+    "A year-round season",
     "A long winter season",
-    "The monsoon season",
     "A short summer season between Rabi and Kharif",
-    "A year-round season"
+    "The monsoon season"
    ],
    "a": 2,
    "e": "Cucumber, watermelon, muskmelon and fodder crops are grown."
@@ -451,32 +451,32 @@
   {
    "q": "What are fodder crops?",
    "o": [
-    "Oilseed crops",
     "Fibre crops",
     "Medicinal crops",
-    "Crops grown as feed for animals"
+    "Crops grown as feed for animals",
+    "Oilseed crops"
    ],
-   "a": 3,
+   "a": 2,
    "e": "These are also grown in the Zaid season."
   },
   {
    "q": "Which of the following is a Rabi crop?",
    "o": [
-    "Wheat",
     "Cotton",
     "Rice",
-    "Bajra"
+    "Bajra",
+    "Wheat"
    ],
-   "a": 0,
+   "a": 3,
    "e": "Wheat, mustard, gram, peas, linseed and rapeseed are Rabi crops."
   },
   {
    "q": "Which of the following groups consists of Kharif crops?",
    "o": [
-    "Wheat, mustard, gram",
+    "Wheat, peas, rapeseed",
     "Paddy, maize, bajra, jowar, soybean, cotton",
-    "Peas, linseed, barley",
-    "Wheat, peas, rapeseed"
+    "Wheat, mustard, gram",
+    "Peas, linseed, barley"
    ],
    "a": 1,
    "e": "Kharif crops are monsoon crops and include coarse grains."
@@ -484,131 +484,131 @@
   {
    "q": "The three rice crops grown in West Bengal are known as:",
    "o": [
-    "Kharif, Rabi and Zaid",
+    "Kal, Baisakhi and Amra",
     "Arabica, Robusta and Liberica",
-    "Aus, Aman and Boro",
-    "Kal, Baisakhi and Amra"
+    "Kharif, Rabi and Zaid",
+    "Aus, Aman and Boro"
    ],
-   "a": 2,
+   "a": 3,
    "e": "These rice crops are grown in eastern India (Bengal, Assam, Odisha)."
   },
   {
    "q": "Among rice crops, 'Boro' is grown in which season?",
    "o": [
-    "Rain-fed monsoon autumn crop",
     "Purely winter crop",
+    "Summer/winter-spring (irrigated dry-season crop)",
     "Zaid fodder crop",
-    "Summer/winter-spring (irrigated dry-season crop)"
+    "Rain-fed monsoon autumn crop"
    ],
-   "a": 3,
+   "a": 1,
    "e": "Aus is autumn, Aman is winter (harvested in December) and Boro is summer rice."
   },
   {
    "q": "The plantation crops of Assam and Karnataka respectively are:",
    "o": [
-    "Tea and coffee",
-    "Coffee and tea",
+    "Cotton and jute",
     "Rubber and tea",
-    "Cotton and jute"
+    "Tea and coffee",
+    "Coffee and tea"
    ],
-   "a": 0,
+   "a": 2,
    "e": "Assam is famous for tea and Karnataka for coffee."
   },
   {
    "q": "What are the main varieties of coffee?",
    "o": [
-    "Boro, Aman and Aus",
-    "Arabica, Liberica and Robusta",
+    "Moll, Shola and Taiga",
     "Regur, Khadar and Bhangar",
-    "Moll, Shola and Taiga"
+    "Arabica, Liberica and Robusta",
+    "Boro, Aman and Aus"
    ],
-   "a": 1,
+   "a": 2,
    "e": "Karnataka is India's leading coffee producer."
   },
   {
    "q": "Which state ranks first in natural rubber production in India?",
    "o": [
     "Tamil Nadu",
-    "Karnataka",
     "Kerala",
+    "Karnataka",
     "Andhra Pradesh"
    ],
-   "a": 2,
+   "a": 1,
    "e": "About 70-75% of India's rubber comes from Kerala."
   },
   {
    "q": "Manila hemp (abaca) is mainly found in:",
    "o": [
+    "Philippines",
     "Indonesia",
     "Brazil",
-    "Bangladesh",
-    "Philippines"
+    "Bangladesh"
    ],
-   "a": 3,
+   "a": 0,
    "e": "It is a fibre crop."
   },
   {
    "q": "Wet farming is least likely in which low-rainfall state?",
    "o": [
-    "Haryana",
+    "Tripura",
     "Assam",
     "Manipur",
-    "Tripura"
+    "Haryana"
    ],
-   "a": 0,
+   "a": 3,
    "e": "Assam, Manipur and Tripura receive heavy rain and practise wet farming."
   },
   {
    "q": "Which crop is grown in waterlogged conditions?",
    "o": [
-    "Maize",
     "Rice (paddy)",
-    "Bajra",
-    "Groundnut"
+    "Maize",
+    "Groundnut",
+    "Bajra"
    ],
-   "a": 1,
+   "a": 0,
    "e": "Paddy is transplanted in flooded fields."
   },
   {
    "q": "What is net sown area?",
    "o": [
-    "Total irrigated area",
-    "Land under forests",
     "Area sown with crops in a year, counted only once",
-    "Land fallow for over five years"
+    "Land under forests",
+    "Land fallow for over five years",
+    "Total irrigated area"
    ],
-   "a": 2,
+   "a": 0,
    "e": "It is the net area under crops in a year."
   },
   {
    "q": "In India, most permanent pastures and grazing lands are owned by:",
    "o": [
-    "Private farmers",
-    "Central government",
     "Forest department",
-    "Village panchayats"
+    "Central government",
+    "Village panchayats",
+    "Private farmers"
    ],
-   "a": 3,
+   "a": 2,
    "e": "Grazing lands are mostly under village panchayats or the government."
   },
   {
    "q": "In which region is tube-well irrigation unsuitable due to deep groundwater?",
    "o": [
-    "Plateau region",
     "Northern plains",
+    "Plateau region",
     "Coastal plains",
     "Delta region"
    ],
-   "a": 0,
+   "a": 1,
    "e": "Tube wells suit alluvial areas; boring is difficult in hard plateau rock."
   },
   {
    "q": "An irrigation project with a culturable command area of more than 10,000 hectares is called:",
    "o": [
-    "Medium project",
-    "Major project",
     "Minor project",
-    "Micro project"
+    "Major project",
+    "Micro project",
+    "Medium project"
    ],
    "a": 1,
    "e": "Medium: 2,000-10,000 ha; minor: below 2,000 ha CCA."
@@ -617,41 +617,41 @@
    "q": "What is the culturable command area (CCA) of a medium irrigation project?",
    "o": [
     "Less than 2,000 ha",
+    "More than 50,000 ha",
     "More than 10,000 ha",
-    "2,000 to 10,000 ha",
-    "More than 50,000 ha"
+    "2,000 to 10,000 ha"
    ],
-   "a": 2,
+   "a": 3,
    "e": "CCA stands for Culturable Command Area."
   },
   {
    "q": "What is the water-harvesting system of Himachal Pradesh called?",
    "o": [
-    "Johad",
-    "Khadin",
+    "Guls or Kuls",
     "Tanka",
-    "Guls or Kuls"
+    "Khadin",
+    "Johad"
    ],
-   "a": 3,
+   "a": 0,
    "e": "It is a hill-region diversion channel system."
   },
   {
    "q": "What are the traditional water-harvesting systems of Rajasthan called?",
    "o": [
+    "Eri",
     "Johads and Khadins",
     "Guls and Kuls",
-    "Bawdi only",
-    "Eri"
+    "Bawdi only"
    ],
-   "a": 0,
+   "a": 1,
    "e": "These are systems of the Rajasthan region."
   },
   {
    "q": "Which is the most efficient irrigation technique for water conservation?",
    "o": [
-    "Sprinkler irrigation",
-    "Drip irrigation",
     "Canal irrigation",
+    "Drip irrigation",
+    "Sprinkler irrigation",
     "Flood irrigation"
    ],
    "a": 1,
@@ -662,62 +662,62 @@
    "o": [
     "Intensive farms are larger",
     "Extensive farming has higher population density",
-    "Intensive farming uses more inputs on less land for higher productivity",
-    "Intensive farming uses no machines"
+    "Intensive farming uses no machines",
+    "Intensive farming uses more inputs on less land for higher productivity"
    ],
-   "a": 2,
+   "a": 3,
    "e": "Extensive farming has large holdings and low inputs."
   },
   {
    "q": "Which of the following does NOT contribute to agricultural diversity in India?",
    "o": [
-    "Availability of irrigation",
+    "Uniform landforms",
     "Soil type",
     "Climate",
-    "Uniform landforms"
+    "Availability of irrigation"
    ],
-   "a": 3,
+   "a": 0,
    "e": "Diversity comes from varied, not uniform, landforms."
   },
   {
    "q": "Which soil is most suitable for cotton cultivation in India?",
    "o": [
-    "Black soil",
-    "Red soil",
+    "Mountain soil",
     "Laterite soil",
-    "Mountain soil"
+    "Black soil",
+    "Red soil"
    ],
-   "a": 0,
+   "a": 2,
    "e": "Remember: black soil, white cotton."
   },
   {
    "q": "Black soil is also known as:",
    "o": [
     "Khadar",
+    "Laterite",
     "Regur",
-    "Bhangar",
-    "Laterite"
+    "Bhangar"
    ],
-   "a": 1,
+   "a": 2,
    "e": "It is found in the north-western Deccan Plateau."
   },
   {
    "q": "Black soil is mainly found in which states?",
    "o": [
-    "Punjab, Haryana",
-    "Kerala, Tamil Nadu",
     "Maharashtra, Gujarat and south-west Madhya Pradesh",
-    "Assam, Bengal"
+    "Punjab, Haryana",
+    "Assam, Bengal",
+    "Kerala, Tamil Nadu"
    ],
-   "a": 2,
+   "a": 0,
    "e": "Hence these states lead in cotton production."
   },
   {
    "q": "How many frost-free days does cotton require?",
    "o": [
     "About 100 days",
-    "About 150 days",
     "About 300 days",
+    "About 150 days",
     "About 210 days"
    ],
    "a": 3,
@@ -737,65 +737,65 @@
   {
    "q": "Why does intensive canal irrigation increase soil salinity in semi-arid north-west India?",
    "o": [
-    "Due to heavy rainfall",
     "Rising water table and capillary action bring salts to the surface",
-    "Due to forest growth",
-    "Due to wind erosion"
+    "Due to wind erosion",
+    "Due to heavy rainfall",
+    "Due to forest growth"
    ],
-   "a": 1,
+   "a": 0,
    "e": "Water evaporates, leaving salts in the top layer."
   },
   {
    "q": "What is used to treat saline soil?",
    "o": [
+    "Gypsum",
     "Lime",
     "Urea",
-    "Gypsum",
     "Potash"
    ],
-   "a": 2,
+   "a": 0,
    "e": "Lime is used to treat acidic soil."
   },
   {
    "q": "What is used to treat acidic soil?",
    "o": [
+    "Lime",
     "Gypsum",
-    "Salt",
     "Ash",
-    "Lime"
+    "Salt"
    ],
-   "a": 3,
+   "a": 0,
    "e": "Lime neutralises acidity."
   },
   {
    "q": "What is the chemical formula of gypsum?",
    "o": [
-    "CaSO4·2H2O",
     "CaCO3",
+    "CaSO4·2H2O",
     "CaO",
     "Na2SO4"
    ],
-   "a": 0,
+   "a": 1,
    "e": "Heating it gives Plaster of Paris."
   },
   {
    "q": "What is formed when gypsum is heated to about 373 K?",
    "o": [
-    "Slaked lime",
     "Plaster of Paris (CaSO4·½H2O)",
+    "Sodium sulphate",
     "Calcium carbonate",
-    "Sodium sulphate"
+    "Slaked lime"
    ],
-   "a": 1,
+   "a": 0,
    "e": "Gypsum loses one and a half molecules of water."
   },
   {
    "q": "When did the first phase of the Green Revolution occur in India?",
    "o": [
-    "1950s",
+    "1980s",
     "Mid-1970s",
     "Mid-1960s",
-    "1980s"
+    "1950s"
    ],
    "a": 2,
    "e": "It was centred on wheat and rice in Punjab, Haryana and western UP."
@@ -803,53 +803,53 @@
   {
    "q": "What was a negative impact of the first phase of the Green Revolution?",
    "o": [
-    "Fall in grain production",
-    "Increase in forests",
     "Increase in soil fertility",
-    "Soil salinisation, falling groundwater and inequality among farmers"
+    "Fall in grain production",
+    "Soil salinisation, falling groundwater and inequality among farmers",
+    "Increase in forests"
    ],
-   "a": 3,
+   "a": 2,
    "e": "Punjab-Haryana farmers prospered while eastern UP and Bihar lagged."
   },
   {
    "q": "When did the second phase of the Green Revolution begin?",
    "o": [
-    "Mid-1970s",
-    "Mid-1960s",
     "1990s",
-    "1950s"
+    "1950s",
+    "Mid-1960s",
+    "Mid-1970s"
    ],
-   "a": 0,
+   "a": 3,
    "e": "It extended to more states and more crops."
   },
   {
    "q": "Who coined the term 'Green Revolution'?",
    "o": [
     "Norman Borlaug",
+    "Verghese Kurien",
     "William Gaud",
-    "M. S. Swaminathan",
-    "Verghese Kurien"
+    "M. S. Swaminathan"
    ],
-   "a": 1,
+   "a": 2,
    "e": "William Gaud of USAID coined the term in 1968."
   },
   {
    "q": "Who is known as the father of the Green Revolution in the world?",
    "o": [
-    "M. S. Swaminathan",
-    "William Gaud",
+    "Verghese Kurien",
     "Norman Borlaug",
-    "Verghese Kurien"
+    "M. S. Swaminathan",
+    "William Gaud"
    ],
-   "a": 2,
+   "a": 1,
    "e": "In India, M. S. Swaminathan is the father."
   },
   {
    "q": "Who is regarded as the father of the Green Revolution in India?",
    "o": [
-    "Norman Borlaug",
     "William Gaud",
     "Verghese Kurien",
+    "Norman Borlaug",
     "M. S. Swaminathan"
    ],
    "a": 3,
@@ -858,42 +858,42 @@
   {
    "q": "Where did the Green Revolution first begin?",
    "o": [
+    "Europe",
     "Latin America (Mexico)",
     "Africa",
-    "Europe",
     "Australia"
    ],
-   "a": 0,
+   "a": 1,
    "e": "It was later adopted in India."
   },
   {
    "q": "Which high-yielding rice variety, developed in the Philippines, was introduced in India in 1966?",
    "o": [
-    "Sonalika",
-    "IR-8",
+    "Ratna",
     "Kalyan Sona",
-    "Ratna"
+    "IR-8",
+    "Sonalika"
    ],
-   "a": 1,
+   "a": 2,
    "e": "IR-8 came from IRRI, Philippines; Sonalika and Kalyan Sona are wheat varieties."
   },
   {
    "q": "What is the effect of the high moisture retention of black soil on cropping intensity?",
    "o": [
-    "It limits farming to a single crop",
-    "It increases the need for crop rotation",
     "It supports multiple cropping cycles",
-    "It reduces fertility"
+    "It limits farming to a single crop",
+    "It reduces fertility",
+    "It increases the need for crop rotation"
    ],
-   "a": 2,
+   "a": 0,
    "e": "High moisture retention keeps water available even in summer."
   },
   {
    "q": "What causes the 'self-ploughing' nature of black soil?",
    "o": [
+    "Acidity",
     "Excessive sandiness",
     "Lack of moisture",
-    "Acidity",
     "It cracks when dry and becomes sticky when wet"
    ],
    "a": 3,
@@ -902,32 +902,32 @@
   {
    "q": "What is the water-holding capacity of black soil?",
    "o": [
-    "Very high",
+    "Moderate",
     "Very low",
-    "Nil",
-    "Moderate"
+    "Very high",
+    "Nil"
    ],
-   "a": 0,
+   "a": 2,
    "e": "Its clayey texture makes it retain moisture."
   },
   {
    "q": "What is the approximate width of the Bhabar belt?",
    "o": [
-    "30 to 60 km",
     "8 to 16 km",
-    "1 to 2 km",
-    "100 km"
+    "30 to 60 km",
+    "100 km",
+    "1 to 2 km"
    ],
-   "a": 1,
+   "a": 0,
    "e": "Streams disappear underground here."
   },
   {
    "q": "What is a feature of the Terai region?",
    "o": [
-    "Streams disappear",
     "Completely dry",
+    "Sand dunes",
     "Streams re-emerge; marshy, dense forests and national parks",
-    "Sand dunes"
+    "Streams disappear"
    ],
    "a": 2,
    "e": "The Terai is a 15-30 km wide marshy belt."
@@ -935,9 +935,9 @@
   {
    "q": "The new alluvium of the northern plains, renewed every year, is called:",
    "o": [
-    "Bhangar",
-    "Regur",
     "Laterite",
+    "Regur",
+    "Bhangar",
     "Khadar"
    ],
    "a": 3,
@@ -946,32 +946,32 @@
   {
    "q": "The old alluvium of the northern plains is called:",
    "o": [
+    "Regur",
     "Bhangar",
     "Khadar",
-    "Regur",
     "Bhabar"
    ],
-   "a": 0,
+   "a": 1,
    "e": "New alluvium is called Khadar."
   },
   {
    "q": "In arid regions, the hard upper crust of salts formed by capillary action is called:",
    "o": [
     "Topsoil",
-    "Hardpan",
     "Humus",
+    "Hardpan",
     "Regur"
    ],
-   "a": 1,
+   "a": 2,
    "e": "Salts are left behind after evaporation."
   },
   {
    "q": "Which is the most suitable measure to check land degradation in arid regions?",
    "o": [
-    "Damming rivers",
+    "Deforestation",
     "Over-irrigation",
     "Planting shelter belts",
-    "Deforestation"
+    "Damming rivers"
    ],
    "a": 2,
    "e": "Rows of trees reduce wind speed and check wind erosion."
@@ -979,97 +979,97 @@
   {
    "q": "What is the purpose of contour ploughing?",
    "o": [
-    "Burning the soil",
-    "Speeding up water flow",
+    "Checking water flow on slopes to reduce soil erosion",
     "Changing crops",
-    "Checking water flow on slopes to reduce soil erosion"
+    "Burning the soil",
+    "Speeding up water flow"
    ],
-   "a": 3,
+   "a": 0,
    "e": "Ploughing along contours forms barriers across the slope."
   },
   {
    "q": "Why is terrace farming practised?",
    "o": [
-    "To check soil erosion on hill slopes",
-    "To farm in deserts",
     "To farm in deltas",
-    "For animal rearing"
+    "To check soil erosion on hill slopes",
+    "For animal rearing",
+    "To farm in deserts"
    ],
-   "a": 0,
+   "a": 1,
    "e": "Terraces slow down the flow of water."
   },
   {
    "q": "What is the main purpose of mulching?",
    "o": [
-    "Burning the soil",
     "Retaining soil moisture",
+    "Burning the soil",
     "Increasing salts",
     "Cutting plants"
    ],
-   "a": 1,
+   "a": 0,
    "e": "Covering soil with organic matter like straw reduces evaporation."
   },
   {
    "q": "Which soil is formed under high temperature and heavy rainfall, resulting in intense leaching?",
    "o": [
+    "Black soil",
     "Laterite soil",
     "Red soil",
-    "Alluvial soil",
-    "Black soil"
+    "Alluvial soil"
    ],
-   "a": 0,
+   "a": 1,
    "e": "Laterite soil is highly leached and less fertile."
   },
   {
    "q": "Why is laterite soil acidic and less fertile?",
    "o": [
-    "Due to excess ash",
-    "Due to sea salts",
     "Due to volcanoes",
-    "Heavy rain leaches away minerals"
+    "Due to excess ash",
+    "Heavy rain leaches away minerals",
+    "Due to sea salts"
    ],
-   "a": 3,
+   "a": 2,
    "e": "Leaching washes away important nutrients."
   },
   {
    "q": "From which word is 'laterite' derived?",
    "o": [
-    "'Later' (brick)",
-    "'Letter'",
     "'Latitude'",
-    "'Lime'"
+    "'Later' (brick)",
+    "'Lime'",
+    "'Letter'"
    ],
-   "a": 0,
+   "a": 1,
    "e": "It is used to make bricks, hence called brick soil."
   },
   {
    "q": "The red colour of red soil is due to:",
    "o": [
     "Magnesium",
+    "Lime",
     "Iron oxide",
-    "Humus",
-    "Lime"
+    "Humus"
    ],
-   "a": 1,
+   "a": 2,
    "e": "It turns yellow when hydrated."
   },
   {
    "q": "Where is red soil mainly found?",
    "o": [
-    "Very high rainfall coasts",
+    "Delta regions",
     "Himalayan snowfields",
-    "Low rainfall areas (piedmont zones)",
-    "Delta regions"
+    "Very high rainfall coasts",
+    "Low rainfall areas (piedmont zones)"
    ],
-   "a": 2,
+   "a": 3,
    "e": "Piedmont means the foothill zone."
   },
   {
    "q": "Which soil is poor in nitrogen and phosphorus but rich in iron and aluminium?",
    "o": [
-    "Alluvial soil",
-    "Black soil",
     "Red soil",
+    "Black soil",
+    "Alluvial soil",
     "Laterite soil"
    ],
    "a": 3,
@@ -1078,23 +1078,23 @@
   {
    "q": "Most Indian soils are deficient in:",
    "o": [
+    "Silica",
     "Nitrogen, phosphorus and humus",
     "Potash and lime",
-    "Iron and aluminium",
-    "Silica"
+    "Iron and aluminium"
    ],
-   "a": 0,
+   "a": 1,
    "e": "Alluvial soil is rich in potash but poor in phosphorus."
   },
   {
    "q": "Saline and alkaline soils are mainly found in:",
    "o": [
-    "Very high rainfall areas",
     "Drought-prone (arid) areas",
+    "Forests",
     "Snow regions",
-    "Forests"
+    "Very high rainfall areas"
    ],
-   "a": 1,
+   "a": 0,
    "e": "High evaporation leaves salts behind."
   },
   {
@@ -1111,9 +1111,9 @@
   {
    "q": "Which of the following is NOT a soil-forming factor?",
    "o": [
-    "Climate",
     "Relief",
     "Time",
+    "Climate",
     "Magnetic field"
    ],
    "a": 3,
@@ -1122,32 +1122,32 @@
   {
    "q": "Soil thickness is mainly determined by:",
    "o": [
-    "Time",
-    "Rainfall",
+    "Wind",
     "Temperature",
-    "Wind"
+    "Time",
+    "Rainfall"
    ],
-   "a": 0,
+   "a": 2,
    "e": "The longer the time, the thicker the soil."
   },
   {
    "q": "What is the 'O' horizon in a soil profile?",
    "o": [
     "Parent rock",
-    "Layer of organic matter (humus)",
     "Eluviation layer",
-    "Subsoil"
+    "Subsoil",
+    "Layer of organic matter (humus)"
    ],
-   "a": 1,
+   "a": 3,
    "e": "Indian soils are low in humus."
   },
   {
    "q": "What is a characteristic of humus?",
    "o": [
-    "White crystalline",
+    "Metallic mineral",
     "Liquid compound",
     "Dark, amorphous, colloidal solid",
-    "Metallic mineral"
+    "White crystalline"
    ],
    "a": 2,
    "e": "It forms from decomposed leaves and organic matter."
@@ -1155,12 +1155,12 @@
   {
    "q": "What does the 'E' (eluvial) horizon in a soil profile represent?",
    "o": [
-    "Top organic layer",
-    "Parent rock",
     "Layer of mineral accumulation",
-    "Layer from which minerals are leached downwards"
+    "Parent rock",
+    "Layer from which minerals are leached downwards",
+    "Top organic layer"
    ],
-   "a": 3,
+   "a": 2,
    "e": "Few minerals remain in this middle layer."
   },
   {
@@ -1178,52 +1178,52 @@
    "q": "What causes sudden winter rainfall in north-west India?",
    "o": [
     "North-east monsoon",
-    "Western disturbances",
     "South-west monsoon",
+    "Western disturbances",
     "Cyclones"
    ],
-   "a": 1,
+   "a": 2,
    "e": "The jet stream brings them from the Mediterranean; their rain benefits Rabi crops."
   },
   {
    "q": "Western disturbances originate over the:",
    "o": [
-    "Bay of Bengal",
-    "Arabian Sea",
+    "Indian Ocean",
     "Mediterranean Sea",
-    "Indian Ocean"
+    "Bay of Bengal",
+    "Arabian Sea"
    ],
-   "a": 2,
+   "a": 1,
    "e": "They are carried to India by the westerly jet stream."
   },
   {
    "q": "Rainfall on the Coromandel coast in October-November is caused by:",
    "o": [
-    "Western disturbances",
+    "Retreating (north-east) monsoon",
     "South-west monsoon",
-    "Loo",
-    "Retreating (north-east) monsoon"
+    "Western disturbances",
+    "Loo"
    ],
-   "a": 3,
+   "a": 0,
    "e": "Winter rain in north India comes from western disturbances."
   },
   {
    "q": "What is a jet stream?",
    "o": [
-    "Fast-moving winds at a height of 9 to 13 km",
     "Cold surface winds",
     "Ocean currents",
+    "Fast-moving winds at a height of 9 to 13 km",
     "Local summer winds"
    ],
-   "a": 0,
+   "a": 2,
    "e": "They bring western disturbances to India."
   },
   {
    "q": "The hot dry wind 'Loo' in India blows through which process?",
    "o": [
-    "Convection",
-    "Advection",
     "Radiation",
+    "Advection",
+    "Convection",
     "Condensation"
    ],
    "a": 1,
@@ -1243,9 +1243,9 @@
   {
    "q": "Where does the Khamsin wind blow?",
    "o": [
+    "Europe",
     "West of the Sahara",
     "Australia",
-    "Europe",
     "Egypt"
    ],
    "a": 3,
@@ -1254,23 +1254,23 @@
   {
    "q": "Which hot wind from the Sahara causes 'blood rain'?",
    "o": [
+    "Foehn",
     "Sirocco",
     "Harmattan",
-    "Bora",
-    "Foehn"
+    "Bora"
    ],
-   "a": 0,
+   "a": 1,
    "e": "Sirocco carries red dust towards the Mediterranean, causing reddish rain."
   },
   {
    "q": "Which wind is called the 'Doctor wind' on the Guinea coast?",
    "o": [
-    "Sirocco",
-    "Harmattan",
+    "Bora",
     "Khamsin",
-    "Bora"
+    "Harmattan",
+    "Sirocco"
    ],
-   "a": 1,
+   "a": 2,
    "e": "This dry wind is considered healthy as it relieves humidity."
   },
   {
@@ -1288,31 +1288,31 @@
    "q": "What kind of winds are Bora and Mistral, and where do they blow?",
    "o": [
     "Hot winds, Asia",
-    "Cold winds, Africa",
     "Hot winds, America",
-    "Cold winds, Europe"
+    "Cold winds, Europe",
+    "Cold winds, Africa"
    ],
-   "a": 3,
+   "a": 2,
    "e": "They are cold local winds of Europe."
   },
   {
    "q": "Which warm wind blows over the Alps?",
    "o": [
-    "Foehn",
-    "Bora",
     "Mistral",
-    "Chinook"
+    "Chinook",
+    "Bora",
+    "Foehn"
    ],
-   "a": 0,
+   "a": 3,
    "e": "It is a warm, dry wind on the leeward slopes of the Alps."
   },
   {
    "q": "In Koppen's classification, 'A' denotes which climate?",
    "o": [
-    "Dry",
+    "Polar",
     "Tropical",
     "Temperate",
-    "Polar"
+    "Dry"
    ],
    "a": 1,
    "e": "B dry, C warm temperate, D cold snow-forest, E polar."
@@ -1320,120 +1320,120 @@
   {
    "q": "In Koppen's classification, 'B' stands for:",
    "o": [
-    "Tropical",
     "Polar",
-    "Dry climate",
-    "Temperate"
+    "Tropical",
+    "Temperate",
+    "Dry climate"
    ],
-   "a": 2,
+   "a": 3,
    "e": "B is based on rainfall-evaporation ratio, not temperature."
   },
   {
    "q": "In Koppen's classification, 'C' denotes:",
    "o": [
-    "Cold snow-forest",
     "Dry",
+    "Warm temperate",
     "Polar",
-    "Warm temperate"
+    "Cold snow-forest"
    ],
-   "a": 3,
+   "a": 1,
    "e": "Mediterranean (Cs) and Ganga valley (Cwg) fall in this group."
   },
   {
    "q": "In Koppen's classification, 'E' denotes:",
    "o": [
+    "Warm temperate",
     "Polar/very cold climate (tundra)",
-    "Tropical",
     "Dry",
-    "Warm temperate"
+    "Tropical"
    ],
-   "a": 0,
+   "a": 1,
    "e": "Ladakh falls under ET (tundra) type."
   },
   {
    "q": "According to Koppen, the climate type of the Thar Desert is:",
    "o": [
-    "Aw",
     "BWhw (hot desert)",
+    "ET",
     "Cwg",
-    "ET"
+    "Aw"
    ],
-   "a": 1,
+   "a": 0,
    "e": "BS (steppe) type occurs around the Thar towards the Aravallis."
   },
   {
    "q": "According to Koppen, the climate code of the Ganga valley is:",
    "o": [
-    "Aw",
     "As",
-    "Cwg",
-    "BSh"
+    "Aw",
+    "BSh",
+    "Cwg"
    ],
-   "a": 2,
+   "a": 3,
    "e": "C = warm temperate, w = dry winter, g = Ganges type."
   },
   {
    "q": "According to Koppen, the climate code of the Coromandel coast is:",
    "o": [
-    "Aw",
+    "As",
     "Am",
-    "Cwg",
-    "As"
+    "Aw",
+    "Cwg"
    ],
-   "a": 3,
+   "a": 0,
    "e": "Summers here are dry."
   },
   {
    "q": "According to Koppen, the climate type of the Deccan Plateau is:",
    "o": [
+    "ET",
     "Aw (tropical savanna)",
-    "As",
     "Cwg",
-    "ET"
+    "As"
    ],
-   "a": 0,
+   "a": 1,
    "e": "Winters are dry; deciduous forests are found."
   },
   {
    "q": "In Koppen's classification, what do the small letters 'm' and 'f' mean?",
    "o": [
-    "m = drought, f = cold",
     "m = monsoon, f = rain throughout the year",
+    "m = marine, f = plain",
     "m = mountain, f = forest",
-    "m = marine, f = plain"
+    "m = drought, f = cold"
    ],
-   "a": 1,
+   "a": 0,
    "e": "s = dry summer, w = dry winter."
   },
   {
    "q": "How is the annual/daily range of temperature in areas near the sea?",
    "o": [
-    "Very high",
     "Zero",
-    "Low (moderating influence of the sea)",
-    "Varies with time"
+    "Varies with time",
+    "Very high",
+    "Low (moderating influence of the sea)"
    ],
-   "a": 2,
+   "a": 3,
    "e": "Interior areas have a high range due to continentality."
   },
   {
    "q": "Which effect causes a high temperature range in interior regions?",
    "o": [
+    "Continentality effect",
     "Moderating effect",
-    "Coriolis effect",
     "Greenhouse effect",
-    "Continentality effect"
+    "Coriolis effect"
    ],
-   "a": 3,
+   "a": 0,
    "e": "E.g. Delhi and Kanpur have very hot summers and cold winters."
   },
   {
    "q": "Which of the following is NOT one of the four official seasons of the India Meteorological Department (IMD)?",
    "o": [
     "Spring",
+    "South-west monsoon",
     "Winter",
-    "Summer",
-    "South-west monsoon"
+    "Summer"
    ],
    "a": 0,
    "e": "The fourth season is the post-monsoon (retreating monsoon)."
@@ -1441,10 +1441,10 @@
   {
    "q": "When does the winter solstice occur?",
    "o": [
-    "21 June",
+    "23 September",
     "22 December",
-    "21 March",
-    "23 September"
+    "21 June",
+    "21 March"
    ],
    "a": 1,
    "e": "The summer solstice occurs on 21 June."
@@ -1452,12 +1452,12 @@
   {
    "q": "What is the main vegetation of the tundra region?",
    "o": [
-    "Sal and teak",
     "Deodar",
     "Mosses and lichens",
+    "Sal and teak",
     "Acacia"
    ],
-   "a": 2,
+   "a": 1,
    "e": "The ground here is permanently frozen (permafrost)."
   },
   {
@@ -1474,34 +1474,34 @@
   {
    "q": "Mosses belong to which division?",
    "o": [
-    "Bryophyta",
-    "Pteridophyta",
     "Gymnosperms",
-    "Angiosperms"
+    "Pteridophyta",
+    "Angiosperms",
+    "Bryophyta"
    ],
-   "a": 0,
+   "a": 3,
    "e": "They are called the amphibians of the plant kingdom."
   },
   {
    "q": "Dry, drought-resistant (xerophytic) shrub vegetation is found in:",
    "o": [
-    "Tundra",
     "Hot deserts",
-    "Taiga",
-    "Evergreen forests"
+    "Evergreen forests",
+    "Tundra",
+    "Taiga"
    ],
-   "a": 1,
+   "a": 0,
    "e": "Xerophytes are adapted to dry conditions."
   },
   {
    "q": "What type of natural vegetation is found on the Tibetan Plateau?",
    "o": [
-    "Tropical evergreen",
     "Mediterranean",
     "Alpine tundra",
+    "Tropical evergreen",
     "Mangrove"
    ],
-   "a": 2,
+   "a": 1,
    "e": "Tundra-type vegetation on high mountains is called alpine tundra."
   },
   {
@@ -1519,8 +1519,8 @@
    "q": "In which regions do mango showers occur?",
    "o": [
     "Kerala and coastal Karnataka",
-    "Punjab-Haryana",
     "Assam-Bengal",
+    "Punjab-Haryana",
     "Rajasthan-Gujarat"
    ],
    "a": 0,
@@ -1529,12 +1529,12 @@
   {
    "q": "The pre-monsoon shower beneficial for coffee flowering is called:",
    "o": [
+    "Loo",
     "Kalbaisakhi",
-    "Blossom shower (cherry blossom)",
     "Mawat",
-    "Loo"
+    "Blossom shower (cherry blossom)"
    ],
-   "a": 1,
+   "a": 3,
    "e": "It occurs in Kerala and Karnataka."
   },
   {
@@ -1551,9 +1551,9 @@
   {
    "q": "In July, the ITCZ lies at about which latitude?",
    "o": [
-    "0 degrees",
-    "30 degrees S",
     "60 degrees N",
+    "30 degrees S",
+    "0 degrees",
     "20-25 degrees N"
    ],
    "a": 3,
@@ -1562,34 +1562,34 @@
   {
    "q": "What are the horse latitudes?",
    "o": [
-    "30 degrees N and 30 degrees S (subtropical high pressure)",
+    "90 degrees latitude",
     "0 degrees latitude",
     "60 degrees latitude",
-    "90 degrees latitude"
+    "30 degrees N and 30 degrees S (subtropical high pressure)"
    ],
-   "a": 0,
+   "a": 3,
    "e": "This is the subtropical high-pressure belt."
   },
   {
    "q": "What is a front?",
    "o": [
-    "Boundary between two cold air masses",
-    "Boundary where warm and cold air masses meet",
     "An ocean current",
-    "A mountain pass"
+    "A mountain pass",
+    "Boundary where warm and cold air masses meet",
+    "Boundary between two cold air masses"
    ],
-   "a": 1,
+   "a": 2,
    "e": "Its formation is frontogenesis and its dissipation is frontolysis."
   },
   {
    "q": "The process of formation of a front is called:",
    "o": [
     "Frontolysis",
-    "Advection",
     "Frontogenesis",
+    "Advection",
     "Erosion"
    ],
-   "a": 2,
+   "a": 1,
    "e": "Dissipation of a front is called frontolysis."
   },
   {
@@ -1597,30 +1597,30 @@
    "o": [
     "Himalayas",
     "Ganga delta",
-    "Western Ghats",
-    "Thar Desert"
+    "Thar Desert",
+    "Western Ghats"
    ],
-   "a": 3,
+   "a": 2,
    "e": "The heated Tibetan Plateau also helps generate the easterly jet stream."
   },
   {
    "q": "Which jet stream is activated by intense heating of the Tibetan Plateau?",
    "o": [
-    "Easterly jet stream",
     "Westerly jet stream",
-    "Polar jet",
-    "Sub-polar jet"
+    "Easterly jet stream",
+    "Sub-polar jet",
+    "Polar jet"
    ],
-   "a": 0,
+   "a": 1,
    "e": "It helps form the monsoon trough and pulls in the south-west monsoon."
   },
   {
    "q": "Which statement about the role of the Himalayas in India's climate is INCORRECT?",
    "o": [
-    "They block cold winds from Central Asia",
+    "They contribute to snowfall in north India",
     "They generate convection currents",
     "They act as a barrier to monsoon winds",
-    "They contribute to snowfall in north India"
+    "They block cold winds from Central Asia"
    ],
    "a": 1,
    "e": "Convection currents relate to the mantle (Arthur Holmes' theory), not the Himalayas."
@@ -1628,32 +1628,32 @@
   {
    "q": "Which forests cover the largest area in India?",
    "o": [
-    "Evergreen forests",
-    "Thorn forests",
     "Tropical deciduous (monsoon) forests",
-    "Mangroves"
+    "Thorn forests",
+    "Mangroves",
+    "Evergreen forests"
    ],
-   "a": 2,
+   "a": 0,
    "e": "They are divided into moist and dry deciduous forests."
   },
   {
    "q": "Which trees are found in tropical deciduous forests?",
    "o": [
-    "Pine, deodar",
-    "Ebony, mahogany",
+    "Sal, teak, neem, shisham",
     "Babool, kikar",
-    "Sal, teak, neem, shisham"
+    "Pine, deodar",
+    "Ebony, mahogany"
    ],
-   "a": 3,
+   "a": 0,
    "e": "Pine and deodar grow in coniferous forests."
   },
   {
    "q": "Dry deciduous forests are also known as:",
    "o": [
     "Parkland landscape",
-    "Shola",
     "Taiga",
-    "Littoral"
+    "Littoral",
+    "Shola"
    ],
    "a": 0,
    "e": "Palash, neem and similar trees grow here."
@@ -1661,12 +1661,12 @@
   {
    "q": "Which grass grows in tropical thorn forests?",
    "o": [
-    "Elephant grass",
     "Tussocky grass",
+    "Bamboo",
     "Doob grass",
-    "Bamboo"
+    "Elephant grass"
    ],
-   "a": 1,
+   "a": 0,
    "e": "Trees like babool grow here and leaves are modified into thorns."
   },
   {
@@ -1674,18 +1674,18 @@
    "o": [
     "For beauty",
     "Only for protection from insects",
-    "To reduce water loss through transpiration",
-    "For more photosynthesis"
+    "For more photosynthesis",
+    "To reduce water loss through transpiration"
    ],
-   "a": 2,
+   "a": 3,
    "e": "Thorns are modified leaves."
   },
   {
    "q": "What are the temperate montane forests and grasslands of the Western Ghats called?",
    "o": [
-    "Taiga",
-    "Littoral",
     "Mangrove",
+    "Littoral",
+    "Taiga",
     "Shola"
    ],
    "a": 3,
@@ -1695,9 +1695,9 @@
    "q": "Mangrove forests are found in which type of areas?",
    "o": [
     "Coastal saline swamps",
-    "Himalayan peaks",
     "Deserts",
-    "Plateaus"
+    "Plateaus",
+    "Himalayan peaks"
    ],
    "a": 0,
    "e": "The Sundarbans is the world's largest mangrove forest."
@@ -1705,87 +1705,87 @@
   {
    "q": "Salt-tolerant plants are called:",
    "o": [
+    "Epiphytes",
     "Xerophytes",
-    "Halophytes",
     "Hydrophytes",
-    "Epiphytes"
+    "Halophytes"
    ],
-   "a": 1,
+   "a": 3,
    "e": "'Halo' means salt; xerophytes are dry-region plants."
   },
   {
    "q": "What are the breathing roots of mangrove trees called?",
    "o": [
-    "Stilt roots",
+    "Tap roots",
     "Tubers",
-    "Pneumatophores",
-    "Tap roots"
+    "Stilt roots",
+    "Pneumatophores"
    ],
-   "a": 2,
+   "a": 3,
    "e": "These roots rise above the swamp to breathe."
   },
   {
    "q": "Germination of seeds while still attached to the mangrove tree is called:",
    "o": [
-    "Pollination",
-    "Radiation",
+    "Vivipary",
     "Dispersal",
-    "Vivipary"
+    "Radiation",
+    "Pollination"
    ],
-   "a": 3,
+   "a": 0,
    "e": "The seed germinates while still on the tree."
   },
   {
    "q": "Living root bridges are famous in which state?",
    "o": [
-    "Meghalaya",
+    "Uttarakhand",
     "Kerala",
     "Sikkim",
-    "Uttarakhand"
+    "Meghalaya"
    ],
-   "a": 0,
+   "a": 3,
    "e": "They are natural bridges made from tree roots."
   },
   {
    "q": "Tropical evergreen forests are found in areas receiving how much annual rainfall?",
    "o": [
+    "Only in the Himalayas",
     "Less than 70 cm",
-    "More than 200 cm",
     "100 to 150 cm",
-    "Only in the Himalayas"
+    "More than 200 cm"
    ],
-   "a": 1,
+   "a": 3,
    "e": "In India: western slopes of the Western Ghats, Andaman-Nicobar and the north-east."
   },
   {
    "q": "Which of the following trees belongs to tropical evergreen forests?",
    "o": [
+    "Pine",
     "Sal",
     "Babool",
-    "Ebony",
-    "Pine"
+    "Ebony"
    ],
-   "a": 2,
+   "a": 3,
    "e": "Mahogany, cinchona and rosewood also grow in evergreen forests."
   },
   {
    "q": "Quinine, the anti-malarial drug, is obtained from the bark of which tree?",
    "o": [
-    "Neem",
-    "Teak",
+    "Cinchona",
     "Sal",
-    "Cinchona"
+    "Teak",
+    "Neem"
    ],
-   "a": 3,
+   "a": 0,
    "e": "Cinchona is a tree of evergreen forests."
   },
   {
    "q": "What are epiphytes?",
    "o": [
     "Plants that grow on other plants/trees",
-    "Plants buried in the ground",
+    "Desert plants",
     "Aquatic plants",
-    "Desert plants"
+    "Plants buried in the ground"
    ],
    "a": 0,
    "e": "They grow on other trees in evergreen forests."
@@ -1793,21 +1793,21 @@
   {
    "q": "Sandalwood is a tree of which type of forest?",
    "o": [
-    "Evergreen forest",
-    "Deciduous forest",
+    "Mangrove",
     "Tundra",
-    "Mangrove"
+    "Evergreen forest",
+    "Deciduous forest"
    ],
-   "a": 1,
+   "a": 3,
    "e": "Rosewood is a tree of evergreen forests."
   },
   {
    "q": "Which natural vegetation is found in areas with high temperature, high humidity and over 200 cm rainfall?",
    "o": [
-    "Thorny scrub",
+    "Tundra",
     "Taiga",
     "Tropical evergreen",
-    "Tundra"
+    "Thorny scrub"
    ],
    "a": 2,
    "e": "The Amazon rainforest is an example."
@@ -1815,20 +1815,20 @@
   {
    "q": "Which of the following animals is found in the tundra region?",
    "o": [
-    "Desert viper",
-    "Jackal",
     "Cheetah",
-    "Polar bear"
+    "Jackal",
+    "Polar bear",
+    "Desert viper"
    ],
-   "a": 3,
+   "a": 2,
    "e": "Reindeer and Arctic fox are also found in the tundra."
   },
   {
    "q": "Taiga refers to which type of vegetation?",
    "o": [
     "Coniferous forest",
-    "Mangrove forest",
     "Desert scrub",
+    "Mangrove forest",
     "Grassland"
    ],
    "a": 0,
@@ -1837,12 +1837,12 @@
   {
    "q": "Which birds are found in the temperate deciduous forests of Uttarakhand?",
    "o": [
-    "Peacock and crane",
     "Pheasant and monal",
     "Hornbill",
+    "Peacock and crane",
     "Flamingo"
    ],
-   "a": 1,
+   "a": 0,
    "e": "The Himalayan monal is the state bird of Uttarakhand."
   },
   {
@@ -1859,32 +1859,32 @@
   {
    "q": "Which is the most important climatic factor affecting the distribution of natural vegetation in India?",
    "o": [
-    "Wind",
     "Humidity",
     "Temperature",
-    "Rainfall"
+    "Rainfall",
+    "Wind"
    ],
-   "a": 3,
+   "a": 2,
    "e": "Heavy rain supports evergreen and scanty rain thorny vegetation."
   },
   {
    "q": "Where are evergreen forests mainly found in India?",
    "o": [
-    "Western slopes of the Western Ghats, Andaman-Nicobar and the north-east",
     "Chota Nagpur",
+    "Ganga plains",
     "Rajasthan",
-    "Ganga plains"
+    "Western slopes of the Western Ghats, Andaman-Nicobar and the north-east"
    ],
-   "a": 0,
+   "a": 3,
    "e": "Deciduous forests occur on the plateaus of Odisha, Jharkhand, Chhattisgarh and Bengal."
   },
   {
    "q": "What is the main difference between planted and natural vegetation?",
    "o": [
-    "Planted vegetation grows on its own",
-    "Planted vegetation involves human intervention/supervision",
     "Natural vegetation is planted by humans",
-    "There is no difference"
+    "Planted vegetation involves human intervention/supervision",
+    "There is no difference",
+    "Planted vegetation grows on its own"
    ],
    "a": 1,
    "e": "Natural vegetation grows without human help."
@@ -1892,63 +1892,63 @@
   {
    "q": "The lower areas of the Western Ghats with subtropical vegetation lie in which states?",
    "o": [
+    "Kerala, Tamil Nadu and Karnataka",
     "Gujarat and Maharashtra",
     "Goa and Gujarat",
-    "Kerala, Tamil Nadu and Karnataka",
     "Madhya Pradesh and Andhra"
    ],
-   "a": 2,
+   "a": 0,
    "e": "The southern Western Ghats host the montane-subtropical belt."
   },
   {
    "q": "Birch and rhododendron are found in which type of forest?",
    "o": [
-    "Evergreen forest",
     "Thorn forest",
-    "Mangrove",
-    "Alpine forest"
+    "Evergreen forest",
+    "Alpine forest",
+    "Mangrove"
    ],
-   "a": 3,
+   "a": 2,
    "e": "They grow at high altitudes in the Himalayas."
   },
   {
    "q": "What are littoral and swamp forests?",
    "o": [
-    "Coastal marshy (mangrove) forests",
-    "Coniferous forests",
     "Deciduous forests",
-    "Alpine forests"
+    "Coastal marshy (mangrove) forests",
+    "Alpine forests",
+    "Coniferous forests"
    ],
-   "a": 0,
+   "a": 1,
    "e": "These are forests of tidal swamps."
   },
   {
    "q": "Which valuable tree of the western Himalayas is used for construction?",
    "o": [
-    "Sal",
     "Deodar",
-    "Teak",
-    "Neem"
+    "Sal",
+    "Neem",
+    "Teak"
    ],
-   "a": 1,
+   "a": 0,
    "e": "Deodar is a coniferous tree."
   },
   {
    "q": "Which forests are mainly found in areas with 100 to 200 cm annual rainfall?",
    "o": [
-    "Thorn forests",
-    "Tundra",
     "Tropical deciduous forests",
-    "Alpine forests"
+    "Tundra",
+    "Alpine forests",
+    "Thorn forests"
    ],
-   "a": 2,
+   "a": 0,
    "e": "Thorn forests occur where rainfall is below 70 cm."
   },
   {
    "q": "Which forest is found in the foothills of the Himalayas?",
    "o": [
-    "Tundra",
     "Alpine",
+    "Tundra",
     "Temperate deciduous",
     "Tropical deciduous"
    ],
@@ -1958,21 +1958,21 @@
   {
    "q": "The grasslands of North America are called:",
    "o": [
-    "Prairies",
-    "Steppes",
     "Savanna",
+    "Steppes",
+    "Prairies",
     "Veld"
    ],
-   "a": 0,
+   "a": 2,
    "e": "In Eurasia they are called Steppes."
   },
   {
    "q": "The grasslands of Eurasia are called:",
    "o": [
-    "Prairies",
+    "Llanos",
     "Steppes",
-    "Pampas",
-    "Llanos"
+    "Prairies",
+    "Pampas"
    ],
    "a": 1,
    "e": "In North America they are called Prairies."
@@ -1980,45 +1980,45 @@
   {
    "q": "The grasslands of South Africa are called:",
    "o": [
-    "Prairies",
-    "Llanos",
+    "Downs",
     "Veld",
-    "Downs"
+    "Llanos",
+    "Prairies"
    ],
-   "a": 2,
+   "a": 1,
    "e": "Savannas are also found in Africa."
   },
   {
    "q": "The grasslands of Australia are called:",
    "o": [
-    "Veld",
-    "Steppes",
+    "Downs",
     "Pampas",
-    "Downs"
+    "Steppes",
+    "Veld"
    ],
-   "a": 3,
+   "a": 0,
    "e": "Australia's temperate grasslands are called Downs."
   },
   {
    "q": "The grasslands of Venezuela are called:",
    "o": [
-    "Llanos",
-    "Campos",
     "Pampas",
+    "Campos",
+    "Llanos",
     "Veld"
    ],
-   "a": 0,
+   "a": 2,
    "e": "Brazil's grasslands are called Campos."
   },
   {
    "q": "The grasslands of Brazil are called:",
    "o": [
     "Llanos",
-    "Campos",
+    "Steppes",
     "Prairies",
-    "Steppes"
+    "Campos"
    ],
-   "a": 1,
+   "a": 3,
    "e": "Venezuela's grasslands are called Llanos."
   },
   {
@@ -2026,18 +2026,18 @@
    "o": [
     "Deccan Plateau",
     "Chota Nagpur Plateau",
-    "Northern plains and coastal plains",
-    "Himalayan peaks"
+    "Himalayan peaks",
+    "Northern plains and coastal plains"
    ],
-   "a": 2,
+   "a": 3,
    "e": "Groundwater is shallow in alluvial soils."
   },
   {
    "q": "Tank irrigation is mainly practised under which conditions?",
    "o": [
-    "Flat alluvial plains",
-    "Snow-covered regions",
     "Deltas",
+    "Snow-covered regions",
+    "Flat alluvial plains",
     "Uneven terrain and low-rainfall areas"
    ],
    "a": 3,
@@ -2047,9 +2047,9 @@
    "q": "From where does the Indira Gandhi Canal originate?",
    "o": [
     "Harike (Punjab), near the Sutlej-Beas confluence",
+    "Tehri, from the Ganga",
     "Ferozepur, from the Chambal",
-    "Bhakra, from the Yamuna",
-    "Tehri, from the Ganga"
+    "Bhakra, from the Yamuna"
    ],
    "a": 0,
    "e": "It is the longest canal system in India."

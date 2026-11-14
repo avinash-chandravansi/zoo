@@ -22,41 +22,41 @@
   {
    "q": "What is the nature of Himalayan rivers?",
    "o": [
-    "Perennial",
+    "Semi-arid",
     "Ephemeral (seasonal)",
     "Dependent only on the monsoon",
-    "Semi-arid"
+    "Perennial"
    ],
-   "a": 0,
+   "a": 3,
    "e": "Himalayan rivers are fed by glaciers, so they flow throughout the year."
   },
   {
    "q": "Peninsular rivers are generally:",
    "o": [
     "Perennial and glacier-fed",
-    "Ephemeral (seasonal) and rain-dependent",
+    "Very deep and long",
     "Originating from glaciers",
-    "Very deep and long"
+    "Ephemeral (seasonal) and rain-dependent"
    ],
-   "a": 1,
+   "a": 3,
    "e": "Their flow depends on monsoon rainfall; they have no glacial source."
   },
   {
    "q": "In the context of rivers, the term 'ephemeral' refers to:",
    "o": [
-    "Perennial rivers",
-    "Flood-prone rivers",
     "Seasonal rivers",
-    "Inland rivers"
+    "Flood-prone rivers",
+    "Inland rivers",
+    "Perennial rivers"
    ],
-   "a": 2,
+   "a": 0,
    "e": "An ephemeral river is seasonal and flows only during the rainy season."
   },
   {
    "q": "Which statement about Himalayan rivers is correct?",
    "o": [
-    "Their courses are short and shallow",
     "They carry water only in the rainy season",
+    "Their courses are short and shallow",
     "Their source is monsoon rainfall",
     "Their courses are long and deep"
    ],
@@ -66,21 +66,21 @@
   {
    "q": "What is the correct meaning of an 'antecedent' river?",
    "o": [
-    "A river that existed before the Himalayan uplift and cut through the mountains to keep its course",
     "A river that flows eastward",
+    "A river that drains only into the east coast",
     "A river that rises in the east",
-    "A river that drains only into the east coast"
+    "A river that existed before the Himalayan uplift and cut through the mountains to keep its course"
    ],
-   "a": 0,
+   "a": 3,
    "e": "Antecedent does not mean east-flowing; examples are the Indus, Sutlej and Kosi."
   },
   {
    "q": "Which of the following is an antecedent river?",
    "o": [
-    "Godavari",
+    "Kaveri",
     "Sutlej",
     "Narmada",
-    "Kaveri"
+    "Godavari"
    ],
    "a": 1,
    "e": "The Indus, Sutlej, Brahmaputra and Kosi are antecedent rivers."
@@ -88,43 +88,43 @@
   {
    "q": "The Northern Plains of India were formed mainly by which three river systems?",
    "o": [
-    "Ganga, Narmada, Krishna",
-    "Indus, Mahanadi, Godavari",
     "Indus, Ganga, Brahmaputra",
-    "Brahmaputra, Tapti, Kaveri"
+    "Ganga, Narmada, Krishna",
+    "Brahmaputra, Tapti, Kaveri",
+    "Indus, Mahanadi, Godavari"
    ],
-   "a": 2,
+   "a": 0,
    "e": "The total length of the Northern Plains is about 3200 km."
   },
   {
    "q": "What is the approximate length of the Northern Plains within India?",
    "o": [
-    "3200 km",
-    "1600 km",
+    "2400 km",
     "2000 km",
-    "2400 km"
+    "1600 km",
+    "3200 km"
    ],
-   "a": 3,
+   "a": 0,
    "e": "The entire Northern Plains are 3200 km long, of which about 2400 km lie in India."
   },
   {
    "q": "What is the width of the Bhabar belt?",
    "o": [
-    "8 to 16 km",
-    "20 to 30 km",
     "1 to 2 km",
-    "50 to 60 km"
+    "50 to 60 km",
+    "20 to 30 km",
+    "8 to 16 km"
    ],
-   "a": 0,
+   "a": 3,
    "e": "In the Bhabar, rivers disappear among pebbles and boulders."
   },
   {
    "q": "The narrow belt at the foot of the Shiwaliks where rivers disappear among pebbles is called:",
    "o": [
-    "Terai",
+    "Bhangar",
     "Bhabar",
     "Khadar",
-    "Bhangar"
+    "Terai"
    ],
    "a": 1,
    "e": "South of the Bhabar lies the marshy Terai, where the rivers re-emerge."
@@ -132,43 +132,43 @@
   {
    "q": "What is the characteristic feature of the Terai region?",
    "o": [
-    "Rocky and dry",
-    "Old alluvial soil",
     "Marshy, densely forested, rivers re-emerge",
-    "Sandy desert"
+    "Sandy desert",
+    "Old alluvial soil",
+    "Rocky and dry"
    ],
-   "a": 2,
+   "a": 0,
    "e": "Rivers that vanish in the Bhabar reappear in the Terai."
   },
   {
    "q": "What is new alluvial soil called?",
    "o": [
-    "Bhangar",
-    "Bhabar",
     "Reh",
-    "Khadar"
+    "Khadar",
+    "Bhabar",
+    "Bhangar"
    ],
-   "a": 3,
+   "a": 1,
    "e": "Khadar is new alluvium of the floodplains; Bhangar is old alluvium."
   },
   {
    "q": "What is old alluvial soil called?",
    "o": [
-    "Bhangar",
-    "Khadar",
     "Terai",
+    "Khadar",
+    "Bhangar",
     "Floodplain"
    ],
-   "a": 0,
+   "a": 2,
    "e": "Bhangar lies on higher ground beyond the reach of floodwaters."
   },
   {
    "q": "The Indus rises from which glacier?",
    "o": [
-    "Chemayungdung glacier",
+    "Satopanth glacier",
     "Bokhar Chu glacier",
     "Gangotri glacier",
-    "Satopanth glacier"
+    "Chemayungdung glacier"
    ],
    "a": 1,
    "e": "It lies in Tibet near Kailash-Mansarovar."
@@ -187,9 +187,9 @@
   {
    "q": "Which is a right-bank tributary of the Indus?",
    "o": [
-    "Jhelum",
     "Chenab",
     "Ravi",
+    "Jhelum",
     "Kabul"
    ],
    "a": 3,
@@ -198,21 +198,21 @@
   {
    "q": "Which of the following is a left-bank tributary of the Indus?",
    "o": [
+    "Swat",
     "Jhelum",
     "Kabul",
-    "Gilgit",
-    "Swat"
+    "Gilgit"
    ],
-   "a": 0,
+   "a": 1,
    "e": "Jhelum, Chenab, Ravi, Beas, Sutlej (Panjnad) and Zanskar join on the left bank."
   },
   {
    "q": "The Nubra river is a tributary of:",
    "o": [
-    "Indus",
+    "Zanskar",
     "Shyok",
-    "Gilgit",
-    "Zanskar"
+    "Indus",
+    "Gilgit"
    ],
    "a": 1,
    "e": "The Nubra joins the Shyok, not the Indus directly."
@@ -220,76 +220,76 @@
   {
    "q": "The world's highest railway bridge in Jammu and Kashmir is built over which river?",
    "o": [
-    "Jhelum",
-    "Ravi",
     "Chenab",
-    "Indus"
+    "Ravi",
+    "Indus",
+    "Jhelum"
    ],
-   "a": 2,
+   "a": 0,
    "e": "The Chenab Rail Bridge is 359 m high (USBRL project)."
   },
   {
    "q": "What is the approximate height of the Chenab Rail Bridge?",
    "o": [
     "275 m",
-    "450 m",
+    "359 m",
     "180 m",
-    "359 m"
+    "450 m"
    ],
-   "a": 3,
+   "a": 1,
    "e": "It is taller than the Eiffel Tower."
   },
   {
    "q": "Which dams are built on the Chenab?",
    "o": [
+    "Tehri, Koteshwar, Maneri",
     "Baglihar, Dulhasti, Salal",
-    "Tulbul, Kishanganga, Uri",
     "Pong, Bhakra, Ranjit Sagar",
-    "Tehri, Koteshwar, Maneri"
+    "Tulbul, Kishanganga, Uri"
    ],
-   "a": 0,
+   "a": 1,
    "e": "Baglihar, Dulhasti and Salal are on the Chenab."
   },
   {
    "q": "The Tulbul and Kishanganga projects are associated with which river?",
    "o": [
-    "Chenab",
     "Jhelum",
     "Beas",
-    "Sutlej"
+    "Sutlej",
+    "Chenab"
    ],
-   "a": 1,
+   "a": 0,
    "e": "Tulbul is at Wular Lake on the Jhelum; the Kishanganga is a Jhelum tributary."
   },
   {
    "q": "The Pong Dam is located on which river?",
    "o": [
+    "Beas",
     "Sutlej",
     "Ravi",
-    "Beas",
     "Chenab"
    ],
-   "a": 2,
+   "a": 0,
    "e": "Pong Dam is on the Beas in Himachal Pradesh."
   },
   {
    "q": "Which river rises from the Gangotri glacier near Gaumukh in Uttarkashi district?",
    "o": [
-    "Alaknanda",
-    "Mandakini",
+    "Bhagirathi",
     "Yamuna",
-    "Bhagirathi"
+    "Mandakini",
+    "Alaknanda"
    ],
-   "a": 3,
+   "a": 0,
    "e": "The Bhagirathi rises from the Gangotri glacier at Gaumukh."
   },
   {
    "q": "The Alaknanda rises from which glacier?",
    "o": [
     "Satopanth glacier",
+    "Yamunotri glacier",
     "Gangotri glacier",
-    "Chorabari glacier",
-    "Yamunotri glacier"
+    "Chorabari glacier"
    ],
    "a": 0,
    "e": "The Satopanth glacier is near Badrinath."
@@ -297,21 +297,21 @@
   {
    "q": "The Mandakini rises from which glacier?",
    "o": [
-    "Satopanth glacier",
     "Chorabari glacier",
     "Gangotri glacier",
+    "Satopanth glacier",
     "Bandarpunch glacier"
    ],
-   "a": 1,
+   "a": 0,
    "e": "The Mandakini flows past Kedarnath."
   },
   {
    "q": "Which river joins the Alaknanda at Vishnuprayag?",
    "o": [
-    "Nandakini",
     "Pindar",
+    "Mandakini",
     "Dhauliganga",
-    "Mandakini"
+    "Nandakini"
    ],
    "a": 2,
    "e": "Remember 'DV PK MR BD': Dhauli-Vishnu, Nandakini-Nand, Pindar-Karna, Mandakini-Rudra, Bhagirathi-Dev."
@@ -319,12 +319,12 @@
   {
    "q": "Which river joins the Alaknanda at Karnaprayag?",
    "o": [
+    "Pindar",
     "Nandakini",
-    "Mandakini",
     "Dhauliganga",
-    "Pindar"
+    "Mandakini"
    ],
-   "a": 3,
+   "a": 0,
    "e": "Pindar + Alaknanda = Karnaprayag."
   },
   {
@@ -341,31 +341,31 @@
   {
    "q": "Rudraprayag is the confluence of which rivers?",
    "o": [
-    "Alaknanda and Bhagirathi",
     "Alaknanda and Mandakini",
+    "Alaknanda and Bhagirathi",
     "Alaknanda and Pindar",
     "Alaknanda and Nandakini"
    ],
-   "a": 1,
+   "a": 0,
    "e": "Mandakini -> Rudraprayag."
   },
   {
    "q": "The Ganga is formed at Devprayag by the confluence of:",
    "o": [
     "Alaknanda and Mandakini",
-    "Bhagirathi and Yamuna",
     "Alaknanda and Bhagirathi",
-    "Alaknanda and Yamuna"
+    "Alaknanda and Yamuna",
+    "Bhagirathi and Yamuna"
    ],
-   "a": 2,
+   "a": 1,
    "e": "Below Devprayag the river is called the Ganga."
   },
   {
    "q": "What is the correct order of the Panch Prayag (upstream to downstream)?",
    "o": [
+    "Karna, Vishnu, Nand, Dev, Rudra",
     "Dev, Rudra, Karna, Nand, Vishnu",
     "Nand, Vishnu, Rudra, Karna, Dev",
-    "Karna, Vishnu, Nand, Dev, Rudra",
     "Vishnu, Nand, Karna, Rudra, Dev"
    ],
    "a": 3,
@@ -374,42 +374,42 @@
   {
    "q": "The Yamuna rises from a glacier in which range?",
    "o": [
-    "Bandarpunch range (Yamunotri)",
-    "Pir Panjal",
+    "Nag Tibba",
     "Dhauladhar",
-    "Nag Tibba"
-   ],
-   "a": 0,
-   "e": "The Yamuna joins the Ganga at Prayagraj."
-  },
-  {
-   "q": "The 'Triveni Sangam' at Prayagraj is the confluence of which rivers?",
-   "o": [
-    "Ganga, Ghaghara, Son",
-    "Ganga, Yamuna and the (invisible) Saraswati",
-    "Yamuna, Chambal, Ganga",
-    "Ganga, Gomti, Kosi"
-   ],
-   "a": 1,
-   "e": "The Saraswati is not visible today."
-  },
-  {
-   "q": "Which is the longest tributary of the Ganga?",
-   "o": [
-    "Ghaghara",
-    "Son",
-    "Yamuna",
-    "Gandak"
+    "Bandarpunch range (Yamunotri)",
+    "Pir Panjal"
    ],
    "a": 2,
    "e": "The Yamuna joins the Ganga at Prayagraj."
   },
   {
+   "q": "The 'Triveni Sangam' at Prayagraj is the confluence of which rivers?",
+   "o": [
+    "Ganga, Yamuna and the (invisible) Saraswati",
+    "Ganga, Gomti, Kosi",
+    "Yamuna, Chambal, Ganga",
+    "Ganga, Ghaghara, Son"
+   ],
+   "a": 0,
+   "e": "The Saraswati is not visible today."
+  },
+  {
+   "q": "Which is the longest tributary of the Ganga?",
+   "o": [
+    "Yamuna",
+    "Gandak",
+    "Ghaghara",
+    "Son"
+   ],
+   "a": 0,
+   "e": "The Yamuna joins the Ganga at Prayagraj."
+  },
+  {
    "q": "Which of the following is a tributary of the Yamuna?",
    "o": [
-    "Son",
-    "Teesta",
     "Gomti",
+    "Teesta",
+    "Son",
     "Tons"
    ],
    "a": 3,
@@ -418,67 +418,67 @@
   {
    "q": "Which are the right-bank tributaries of the Yamuna?",
    "o": [
-    "Chambal, Sind, Betwa, Ken",
+    "Son, Punpun, Damodar",
     "Ramganga, Gomti, Ghaghara",
-    "Gandak, Kosi, Mahananda",
-    "Son, Punpun, Damodar"
+    "Chambal, Sind, Betwa, Ken",
+    "Gandak, Kosi, Mahananda"
    ],
-   "a": 0,
+   "a": 2,
    "e": "The Tons and Hindon join it from the left."
   },
   {
    "q": "The Hindon, which joins near Noida, is a tributary of:",
    "o": [
+    "Ghaghara",
     "Ganga",
-    "Yamuna",
     "Chambal",
-    "Ghaghara"
+    "Yamuna"
    ],
-   "a": 1,
+   "a": 3,
    "e": "The Tons joins the Yamuna within Uttarakhand itself."
   },
   {
    "q": "Which are the right-bank tributaries of the Ganga?",
    "o": [
+    "Teesta, Manas, Subansiri",
     "Ramganga, Gandak, Kosi",
     "Ghaghara, Gomti, Kosi",
-    "Yamuna, Son, Punpun",
-    "Teesta, Manas, Subansiri"
+    "Yamuna, Son, Punpun"
    ],
-   "a": 2,
+   "a": 3,
    "e": "The Son rises at Amarkantak and joins the Ganga in Bihar."
   },
   {
    "q": "Which are the left-bank tributaries of the Ganga?",
    "o": [
-    "Yamuna, Son, Punpun",
-    "Chambal, Ken, Betwa",
     "Damodar, Hooghly, Subarnarekha",
-    "Ramganga, Gomti, Ghaghara, Gandak, Kosi"
+    "Chambal, Ken, Betwa",
+    "Ramganga, Gomti, Ghaghara, Gandak, Kosi",
+    "Yamuna, Son, Punpun"
    ],
-   "a": 3,
+   "a": 2,
    "e": "The Mahananda is also a left-bank tributary, though less important."
   },
   {
    "q": "Which river basin in India has the highest population density?",
    "o": [
-    "Ganga",
     "Indus",
+    "Krishna",
     "Godavari",
-    "Krishna"
+    "Ganga"
    ],
-   "a": 0,
+   "a": 3,
    "e": "The Ganga basin covers Uttar Pradesh, Bihar and West Bengal."
   },
   {
    "q": "Which river forms deep gorges in the Himalaya and takes a U-turn near Namcha Barwa?",
    "o": [
-    "Godavari",
     "Brahmaputra",
+    "Godavari",
     "Narmada",
     "Mahanadi"
    ],
-   "a": 1,
+   "a": 0,
    "e": "China is planning a mega dam here, larger than the Three Gorges."
   },
   {
@@ -495,9 +495,9 @@
   {
    "q": "By what name is the Brahmaputra known in Tibet?",
    "o": [
-    "Siang",
-    "Dihang",
     "Jamuna",
+    "Dihang",
+    "Siang",
     "Yarlung Tsangpo"
    ],
    "a": 3,
@@ -506,34 +506,34 @@
   {
    "q": "By what name is the Brahmaputra known in Arunachal Pradesh?",
    "o": [
+    "Meghna",
     "Siang/Dihang",
-    "Tsangpo",
     "Jamuna",
-    "Meghna"
+    "Tsangpo"
    ],
-   "a": 0,
+   "a": 1,
    "e": "After entering Assam it is called the Brahmaputra."
   },
   {
    "q": "What is the Brahmaputra called in Bangladesh?",
    "o": [
     "Padma",
-    "Jamuna",
     "Meghna",
-    "Hooghly"
+    "Hooghly",
+    "Jamuna"
    ],
-   "a": 1,
+   "a": 3,
    "e": "The Ganga is called the Padma in Bangladesh."
   },
   {
    "q": "What is the Ganga called in Bangladesh?",
    "o": [
-    "Jamuna",
-    "Meghna",
     "Padma",
+    "Meghna",
+    "Jamuna",
     "Hooghly"
    ],
-   "a": 2,
+   "a": 0,
    "e": "The combined Padma-Jamuna later joins the Meghna."
   },
   {
@@ -550,20 +550,20 @@
   {
    "q": "What is a distributary?",
    "o": [
-    "A channel that branches off from the main river",
-    "A stream that joins the main river",
     "A stream that rises from a glacier",
-    "A stream that drains into a lake"
+    "A channel that branches off from the main river",
+    "A stream that drains into a lake",
+    "A stream that joins the main river"
    ],
-   "a": 0,
+   "a": 1,
    "e": "The Hooghly is a distributary of the Ganga."
   },
   {
    "q": "When was the Farakka Agreement (Ganga Water Treaty) signed?",
    "o": [
-    "1975",
-    "1996",
     "1971",
+    "1996",
+    "1975",
     "2005"
    ],
    "a": 1,
@@ -572,8 +572,8 @@
   {
    "q": "When was the Farakka Barrage commissioned?",
    "o": [
-    "1996",
     "1960",
+    "1996",
     "1975",
     "1985"
    ],
@@ -584,64 +584,64 @@
    "q": "Where does the Barak river originate?",
    "o": [
     "Meghalaya Plateau",
+    "Manipur Hills",
     "Arunachal Himalaya",
-    "Sikkim",
-    "Manipur Hills"
+    "Sikkim"
    ],
-   "a": 3,
+   "a": 1,
    "e": "The Barak is a tributary of the Meghna."
   },
   {
    "q": "The Barakar river is a tributary of:",
    "o": [
-    "Damodar",
-    "Barak",
+    "Mahanadi",
     "Meghna",
-    "Mahanadi"
+    "Barak",
+    "Damodar"
    ],
-   "a": 0,
+   "a": 3,
    "e": "Do not confuse the Barak with the Barakar."
   },
   {
    "q": "Which are left-bank tributaries of the Brahmaputra?",
    "o": [
-    "Subansiri and Manas",
     "Lohit and Dhansiri",
+    "Jaldhaka and Sankosh",
     "Teesta and Kameng",
-    "Jaldhaka and Sankosh"
+    "Subansiri and Manas"
    ],
-   "a": 1,
+   "a": 0,
    "e": "Subansiri, Kameng, Manas, Teesta and Jaldhaka join on the right bank."
   },
   {
    "q": "The Teesta, a tributary of the Brahmaputra, originates in which state?",
    "o": [
-    "Assam",
     "Arunachal Pradesh",
-    "Sikkim",
-    "Nagaland"
+    "Nagaland",
+    "Assam",
+    "Sikkim"
    ],
-   "a": 2,
+   "a": 3,
    "e": "Gurudongmar Lake is in Sikkim."
   },
   {
    "q": "Where is Gurudongmar Lake located?",
    "o": [
+    "Sikkim",
     "Ladakh",
     "Himachal Pradesh",
-    "Uttarakhand",
-    "Sikkim"
+    "Uttarakhand"
    ],
-   "a": 3,
+   "a": 0,
    "e": "It is among the highest lakes in the world (about 5430 m)."
   },
   {
    "q": "Majuli, the world's largest river island, lies in which river?",
    "o": [
     "Brahmaputra",
+    "Indus",
     "Ganga",
-    "Godavari",
-    "Indus"
+    "Godavari"
    ],
    "a": 0,
    "e": "Majuli is in Assam."
@@ -649,43 +649,43 @@
   {
    "q": "Which is the most important right-bank tributary of the Spiti river?",
    "o": [
-    "Chandra",
     "Pin",
+    "Chandra",
     "Bhaga",
     "Sarab"
    ],
-   "a": 1,
+   "a": 0,
    "e": "Pin Valley National Park is in Himachal Pradesh; the Spiti is a tributary of the Sutlej."
   },
   {
    "q": "Where do the Chandra and Bhaga meet to form the Chandrabhaga (Chenab)?",
    "o": [
-    "Keylong",
+    "Kaza",
     "Manali",
-    "Tandi (Himachal Pradesh)",
-    "Kaza"
+    "Keylong",
+    "Tandi (Himachal Pradesh)"
    ],
-   "a": 2,
+   "a": 3,
    "e": "Tandi is in Lahaul and Spiti district."
   },
   {
    "q": "Which pass connects Manali with Lahaul and Spiti?",
    "o": [
-    "Bara-lacha La",
     "Zoji La",
+    "Rohtang",
     "Banihal",
-    "Rohtang"
+    "Bara-lacha La"
    ],
-   "a": 3,
+   "a": 1,
    "e": "The Atal Tunnel was built to bypass the Rohtang Pass."
   },
   {
    "q": "What is the length of the Atal Tunnel?",
    "o": [
     "9.02 km",
+    "4.2 km",
     "11.5 km",
-    "7.5 km",
-    "4.2 km"
+    "7.5 km"
    ],
    "a": 0,
    "e": "The Atal Tunnel runs beneath Rohtang in the eastern Pir Panjal range."
@@ -693,42 +693,42 @@
   {
    "q": "The Ravi and Beas rivers originate near which pass?",
    "o": [
-    "Bara-lacha La",
-    "Rohtang Pass",
+    "Zoji La",
     "Shipki La",
-    "Zoji La"
+    "Rohtang Pass",
+    "Bara-lacha La"
    ],
-   "a": 1,
+   "a": 2,
    "e": "The Beas rises at Beas Kund near Rohtang."
   },
   {
    "q": "Which pass is used to travel from Lahaul and Spiti to Leh?",
    "o": [
-    "Banihal",
     "Burzil",
     "Bara-lacha La",
-    "Pensi La"
+    "Pensi La",
+    "Banihal"
    ],
-   "a": 2,
+   "a": 1,
    "e": "The Chenab (Chandra) rises near Bara-lacha La."
   },
   {
    "q": "The Chenab is considered to originate near which pass?",
    "o": [
-    "Rohtang",
-    "Shipki La",
+    "Bara-lacha La",
     "Nathu La",
-    "Bara-lacha La"
+    "Shipki La",
+    "Rohtang"
    ],
-   "a": 3,
+   "a": 0,
    "e": "The Chandra and Bhaga unite to form the Chandrabhaga."
   },
   {
    "q": "Which pass connects the Kashmir Valley with Leh?",
    "o": [
     "Zoji La",
-    "Banihal",
     "Burzil",
+    "Banihal",
     "Rohtang"
    ],
    "a": 0,
@@ -738,20 +738,20 @@
    "q": "Which pass leads from Kashmir (Srinagar) towards Gilgit (PoK)?",
    "o": [
     "Banihal",
-    "Burzil",
     "Zoji La",
+    "Burzil",
     "Shipki La"
    ],
-   "a": 1,
+   "a": 2,
    "e": "The Burzil Pass lies on the Srinagar-Gilgit route."
   },
   {
    "q": "Which pass is used to go from the Kashmir Valley to Jammu?",
    "o": [
     "Burzil",
-    "Zoji La",
+    "Bara-lacha La",
     "Banihal",
-    "Bara-lacha La"
+    "Zoji La"
    ],
    "a": 2,
    "e": "The Banihal Pass is in the Pir Panjal range."
@@ -759,9 +759,9 @@
   {
    "q": "The Srisailam Dam is located on which river?",
    "o": [
-    "Kaveri",
-    "Godavari",
     "Mahanadi",
+    "Godavari",
+    "Kaveri",
     "Krishna"
    ],
    "a": 3,
@@ -770,41 +770,41 @@
   {
    "q": "The Mettur Dam is located on which river?",
    "o": [
-    "Kaveri",
+    "Tungabhadra",
     "Krishna",
-    "Godavari",
-    "Tungabhadra"
+    "Kaveri",
+    "Godavari"
    ],
-   "a": 0,
+   "a": 2,
    "e": "The Krishna Raja Sagara Dam is also on the Kaveri."
   },
   {
    "q": "The Tehri Dam is built on which river?",
    "o": [
-    "Alaknanda",
     "Bhagirathi",
     "Yamuna",
-    "Sutlej"
+    "Sutlej",
+    "Alaknanda"
    ],
-   "a": 1,
+   "a": 0,
    "e": "Tehri is India's highest dam (earth and rockfill)."
   },
   {
    "q": "Which is India's highest gravity dam?",
    "o": [
-    "Tehri",
-    "Hirakud",
+    "Nagarjuna Sagar",
     "Bhakra",
-    "Nagarjuna Sagar"
+    "Tehri",
+    "Hirakud"
    ],
-   "a": 2,
+   "a": 1,
    "e": "Bhakra Nangal is on the Sutlej."
   },
   {
    "q": "Which is the longest dam in India?",
    "o": [
-    "Bhakra",
     "Tehri",
+    "Bhakra",
     "Mettur",
     "Hirakud"
    ],
@@ -814,21 +814,21 @@
   {
    "q": "In which district is the Hirakud Dam located?",
    "o": [
-    "Sambalpur (Odisha)",
-    "Cuttack",
     "Puri",
+    "Cuttack",
+    "Sambalpur (Odisha)",
     "Balasore"
    ],
-   "a": 0,
+   "a": 2,
    "e": "The Mahanadi was once called the 'Sorrow of Odisha'."
   },
   {
    "q": "In which district is Lonar Lake located?",
    "o": [
-    "Nashik",
+    "Aurangabad",
     "Buldhana (Maharashtra)",
     "Pune",
-    "Aurangabad"
+    "Nashik"
    ],
    "a": 1,
    "e": "Lonar is a saline lake formed by a meteorite impact."
@@ -836,8 +836,8 @@
   {
    "q": "The Kosi river is known as the:",
    "o": [
-    "Sorrow of Odisha",
     "Sorrow of Bengal",
+    "Sorrow of Odisha",
     "Sorrow of Bihar",
     "Sorrow of Assam"
    ],
@@ -847,32 +847,32 @@
   {
    "q": "Why does the Kosi frequently change its course in the plains?",
    "o": [
-    "Earthquakes",
-    "Excessive irrigation",
     "Sea tides",
-    "Heavy deposition of Himalayan sediment"
+    "Excessive irrigation",
+    "Heavy deposition of Himalayan sediment",
+    "Earthquakes"
    ],
-   "a": 3,
+   "a": 2,
    "e": "Sediment deposition blocks the channel, forcing the river to shift course."
   },
   {
    "q": "The Gomti originates from which lake?",
    "o": [
-    "Fulhar Lake",
-    "Wular Lake",
     "Loktak Lake",
-    "Sambhar Lake"
+    "Wular Lake",
+    "Sambhar Lake",
+    "Fulhar Lake"
    ],
-   "a": 0,
+   "a": 3,
    "e": "The Gomti is a left-bank tributary of the Ganga."
   },
   {
    "q": "The Ramganga is considered to originate in which mountain area?",
    "o": [
-    "Nanda Devi",
-    "Dudhatoli range (Pauri Garhwal)",
     "Bandarpunch",
-    "Dhauladhar"
+    "Dudhatoli range (Pauri Garhwal)",
+    "Dhauladhar",
+    "Nanda Devi"
    ],
    "a": 1,
    "e": "The Ramganga is a tributary of the Ganga."
@@ -881,30 +881,30 @@
    "q": "Where does the Ghaghara originate?",
    "o": [
     "Nubine Himal",
-    "Milam glacier",
     "Mapchachungo glacier (Tibet)",
+    "Milam glacier",
     "Gangotri glacier"
    ],
-   "a": 2,
+   "a": 1,
    "e": "Its tributary is the Kali (Sharda)."
   },
   {
    "q": "The Gori Ganga is a tributary of which river?",
    "o": [
-    "Ghaghara",
-    "Gandak",
     "Kosi",
-    "Kali (Mahakali)"
+    "Gandak",
+    "Kali (Mahakali)",
+    "Ghaghara"
    ],
-   "a": 3,
+   "a": 2,
    "e": "The Gori Ganga rises from the Milam glacier."
   },
   {
    "q": "Where does the Gandak originate?",
    "o": [
     "Nubine Himal glacier (Nepal-Tibet border)",
-    "Fulhar Lake",
     "Amarkantak",
+    "Fulhar Lake",
     "Mapchachungo"
    ],
    "a": 0,
@@ -914,22 +914,22 @@
    "q": "The Arun Kosi and Sun Kosi are tributaries of:",
    "o": [
     "Gandak",
-    "Kosi",
     "Ghaghara",
+    "Kosi",
     "Teesta"
    ],
-   "a": 1,
+   "a": 2,
    "e": "The Kosi originates near the Nepal-Tibet border."
   },
   {
    "q": "Why is the Hooghly called the 'Bhagirathi-Hooghly'?",
    "o": [
-    "It is the same Bhagirathi as at Devprayag",
-    "It is a tributary of the Alaknanda",
     "This branch of the Ganga below Farakka is called the Bhagirathi-Hooghly",
-    "It is a branch of the Brahmaputra"
+    "It is a branch of the Brahmaputra",
+    "It is the same Bhagirathi as at Devprayag",
+    "It is a tributary of the Alaknanda"
    ],
-   "a": 2,
+   "a": 0,
    "e": "National Waterway-1 runs along the Ganga-Bhagirathi-Hooghly."
   },
   {
@@ -937,21 +937,21 @@
    "o": [
     "Brahmaputra",
     "Godavari-Krishna",
-    "Barak",
-    "Ganga-Bhagirathi-Hooghly"
+    "Ganga-Bhagirathi-Hooghly",
+    "Barak"
    ],
-   "a": 3,
+   "a": 2,
    "e": "It is the longest national waterway."
   },
   {
    "q": "What is the stretch and length of National Waterway-1?",
    "o": [
-    "Prayagraj to Haldia, 1620 km",
-    "Varanasi to Kolkata, 1000 km",
     "Patna to Farakka, 800 km",
-    "Kanpur to Haldia, 2000 km"
+    "Prayagraj to Haldia, 1620 km",
+    "Kanpur to Haldia, 2000 km",
+    "Varanasi to Kolkata, 1000 km"
    ],
-   "a": 0,
+   "a": 1,
    "e": "It is India's longest national waterway."
   },
   {
@@ -969,19 +969,19 @@
    "q": "Where is National Waterway-3 located?",
    "o": [
     "Assam",
-    "Odisha",
     "Kerala, from Kottapuram to Kollam",
+    "Odisha",
     "Goa"
    ],
-   "a": 2,
+   "a": 1,
    "e": "It is also called the West Coast Canal."
   },
   {
    "q": "National Waterway-4 is on which river system?",
    "o": [
-    "Mahanadi",
     "Narmada",
     "Brahmaputra",
+    "Mahanadi",
     "Godavari-Krishna"
    ],
    "a": 3,
@@ -990,54 +990,54 @@
   {
    "q": "National Waterway-5 is associated with which river?",
    "o": [
-    "Mahanadi (Odisha)",
     "Kaveri",
-    "Godavari",
-    "Ganga"
+    "Ganga",
+    "Mahanadi (Odisha)",
+    "Godavari"
    ],
-   "a": 0,
+   "a": 2,
    "e": "It includes the East Coast Canal and the Brahmani-Mahanadi delta."
   },
   {
    "q": "National Waterway-6 is on which river?",
    "o": [
-    "Brahmaputra",
     "Barak",
-    "Ganga",
-    "Krishna"
+    "Brahmaputra",
+    "Krishna",
+    "Ganga"
    ],
-   "a": 1,
+   "a": 0,
    "e": "The Barak is a tributary of the Meghna."
   },
   {
    "q": "The Zuari river is in which state?",
    "o": [
+    "Odisha",
     "Kerala",
     "Gujarat",
-    "Goa",
-    "Odisha"
+    "Goa"
    ],
-   "a": 2,
+   "a": 3,
    "e": "Goa's two main rivers, the Mandovi and Zuari, both flow west."
   },
   {
    "q": "What caused the ancient Indo-Brahma river system to split into the Indus, Ganga and Brahmaputra?",
    "o": [
+    "Uplift in the Himalayan region during the Pleistocene",
     "Volcanic eruptions",
     "Melting of glaciers",
-    "River capture by erosion",
-    "Uplift in the Himalayan region during the Pleistocene"
+    "River capture by erosion"
    ],
-   "a": 3,
+   "a": 0,
    "e": "Tectonic uplift (e.g. of the Potwar Plateau) during the Pleistocene broke up the Indo-Brahma river."
   },
   {
    "q": "Where do the Sutlej, Beas, Ravi, Chenab and Jhelum together join the Indus?",
    "o": [
     "Mithankot",
-    "Harike",
     "Tandi",
-    "Attock"
+    "Attock",
+    "Harike"
    ],
    "a": 0,
    "e": "These five rivers are together called the Panjnad."
@@ -1046,42 +1046,42 @@
    "q": "At which place does the Indus enter Ladakh?",
    "o": [
     "Shipki La",
-    "Demchok",
     "Leh",
+    "Demchok",
     "Kargil"
    ],
-   "a": 1,
+   "a": 2,
    "e": "The Zanskar is a left-bank tributary of the Indus."
   },
   {
    "q": "Where does the Jhelum originate?",
    "o": [
     "Bara-lacha La",
-    "Rohtang",
     "Verinag",
+    "Rohtang",
     "Mansarovar"
    ],
-   "a": 2,
+   "a": 1,
    "e": "It feeds Wular Lake."
   },
   {
    "q": "Which is the largest freshwater lake in India?",
    "o": [
-    "Dal Lake",
+    "Wular Lake",
     "Chilika Lake",
-    "Loktak Lake",
-    "Wular Lake"
+    "Dal Lake",
+    "Loktak Lake"
    ],
-   "a": 3,
+   "a": 0,
    "e": "The world's largest freshwater lake is Lake Superior (USA-Canada)."
   },
   {
    "q": "Which is the largest tributary of the Indus by volume of water?",
    "o": [
     "Chenab",
-    "Jhelum",
     "Sutlej",
-    "Ravi"
+    "Ravi",
+    "Jhelum"
    ],
    "a": 0,
    "e": "The Chenab carries the most water among the Panjnad rivers; the Sutlej is the longest."
@@ -1089,63 +1089,63 @@
   {
    "q": "Through which pass does the Sutlej enter India?",
    "o": [
-    "Nathu La",
     "Shipki La",
+    "Nathu La",
     "Bara-lacha La",
     "Rohtang"
    ],
-   "a": 1,
+   "a": 0,
    "e": "The Sutlej rises near Rakshastal."
   },
   {
    "q": "By what name is the Sutlej known in Tibet?",
    "o": [
-    "Singi Khamban",
     "Sangpo",
-    "Langchen Khambab (Elephant's Mouth)",
-    "Tsangpo"
+    "Singi Khamban",
+    "Tsangpo",
+    "Langchen Khambab (Elephant's Mouth)"
    ],
-   "a": 2,
+   "a": 3,
    "e": "The Indus is the 'Lion's Mouth' and the Sutlej the 'Elephant's Mouth'."
   },
   {
    "q": "What is the ancient name of the Jhelum?",
    "o": [
     "Asikni",
-    "Shutudri",
     "Vipasha",
-    "Vitasta"
+    "Vitasta",
+    "Shutudri"
    ],
-   "a": 3,
+   "a": 2,
    "e": "The Greek name of the Jhelum is Hydaspes."
   },
   {
    "q": "What is the ancient name of the Chenab?",
    "o": [
-    "Asikni",
-    "Vitasta",
     "Parushni",
-    "Vipasha"
+    "Vipasha",
+    "Vitasta",
+    "Asikni"
    ],
-   "a": 0,
+   "a": 3,
    "e": "Its Greek name is Acesines."
   },
   {
    "q": "What is the ancient name of the Ravi?",
    "o": [
+    "Vitasta",
     "Vipasha",
     "Parushni",
-    "Shutudri",
-    "Vitasta"
+    "Shutudri"
    ],
-   "a": 1,
+   "a": 2,
    "e": "The Greek name of the Ravi is Hydraotes."
   },
   {
    "q": "What is the ancient name of the Beas?",
    "o": [
-    "Shutudri",
     "Asikni",
+    "Shutudri",
     "Vipasha",
     "Vitasta"
    ],
@@ -1155,23 +1155,23 @@
   {
    "q": "What is the ancient name of the Sutlej?",
    "o": [
-    "Vipasha",
     "Parushni",
+    "Shutudri",
     "Vitasta",
-    "Shutudri"
+    "Vipasha"
    ],
-   "a": 3,
+   "a": 1,
    "e": "Its Greek name is Zaradros."
   },
   {
    "q": "Where does the Beas join the Sutlej?",
    "o": [
-    "Harike",
     "Mithankot",
-    "Tandi",
-    "Ferozepur"
+    "Ferozepur",
+    "Harike",
+    "Tandi"
    ],
-   "a": 0,
+   "a": 2,
    "e": "The Indira Gandhi Canal starts from Harike."
   },
   {
@@ -1179,8 +1179,8 @@
    "o": [
     "Ferozepur; Lifeline of Punjab",
     "Harike; Lifeline of Rajasthan (Maru Ganga)",
-    "Ropar; Ganga of the Thar",
-    "Bhakra; Lifeline of Haryana"
+    "Bhakra; Lifeline of Haryana",
+    "Ropar; Ganga of the Thar"
    ],
    "a": 1,
    "e": "It is regarded as India's longest canal system."
@@ -1190,87 +1190,87 @@
    "o": [
     "The Western Ghats are low",
     "Influence of the Himalaya",
-    "The Peninsular plateau slopes towards the east",
-    "Direction of the monsoon"
+    "Direction of the monsoon",
+    "The Peninsular plateau slopes towards the east"
    ],
-   "a": 2,
+   "a": 3,
    "e": "The Narmada and Tapti are exceptions."
   },
   {
    "q": "Which two major rivers of Peninsular India flow westward?",
    "o": [
     "Godavari and Krishna",
+    "Narmada and Tapti",
     "Mahanadi and Kaveri",
-    "Son and Damodar",
-    "Narmada and Tapti"
+    "Son and Damodar"
    ],
-   "a": 3,
+   "a": 1,
    "e": "They flow through rift valleys."
   },
   {
    "q": "Flowing through rift valleys, what do the Narmada and Tapti form at their mouths?",
    "o": [
-    "Estuaries",
-    "Deltas",
     "Lakes",
-    "Waterfall clusters"
+    "Estuaries",
+    "Waterfall clusters",
+    "Deltas"
    ],
-   "a": 0,
+   "a": 1,
    "e": "Low silt load and short courses prevent delta formation."
   },
   {
    "q": "The Narmada flows in a rift valley between which two ranges?",
    "o": [
     "Aravalli and Vindhya",
-    "Vindhya and Satpura",
     "Satpura and Western Ghats",
-    "Mahadeo and Ajanta"
+    "Mahadeo and Ajanta",
+    "Vindhya and Satpura"
    ],
-   "a": 1,
+   "a": 3,
    "e": "The Vindhyas lie to the north and the Satpuras to the south."
   },
   {
    "q": "The Vindhya and Satpura ranges meet in which range?",
    "o": [
     "Aravalli",
-    "Anamalai",
     "Maikal",
-    "Sahyadri"
+    "Sahyadri",
+    "Anamalai"
    ],
-   "a": 2,
+   "a": 1,
    "e": "The Amarkantak plateau lies in the Maikal range."
   },
   {
    "q": "Where does the Narmada originate?",
    "o": [
-    "Betul Plateau",
+    "Amarkantak Plateau",
     "Mahabaleshwar",
     "Trimbakeshwar",
-    "Amarkantak Plateau"
+    "Betul Plateau"
    ],
-   "a": 3,
+   "a": 0,
    "e": "Amarkantak is in the Maikal range."
   },
   {
    "q": "Which is the highest peak of the Satpura range (Mahadeo Hills)?",
    "o": [
+    "Doddabetta",
     "Dhupgarh",
     "Anamudi",
-    "Doddabetta",
     "Guru Shikhar"
    ],
-   "a": 0,
+   "a": 1,
    "e": "Dhupgarh is about 1352 m high."
   },
   {
    "q": "Where does the Tapti originate?",
    "o": [
-    "Amarkantak",
-    "Betul Plateau (Madhya Pradesh)",
     "Sahyadri",
-    "Aravalli"
+    "Amarkantak",
+    "Aravalli",
+    "Betul Plateau (Madhya Pradesh)"
    ],
-   "a": 1,
+   "a": 3,
    "e": "The Tapti flows south of the Satpura range."
   },
   {
@@ -1278,10 +1278,10 @@
    "o": [
     "Vindhya",
     "Aravalli",
-    "Satpura",
-    "Western Ghats"
+    "Western Ghats",
+    "Satpura"
    ],
-   "a": 2,
+   "a": 3,
    "e": "The Tapti rises on the Betul Plateau in the Satpuras."
   },
   {
@@ -1289,30 +1289,30 @@
    "o": [
     "Ong, Jonk, Tel",
     "Bhima, Musi, Koyna",
-    "Penganga, Wardha, Indravati",
-    "Tawa, Shakkar, Halon"
+    "Tawa, Shakkar, Halon",
+    "Penganga, Wardha, Indravati"
    ],
-   "a": 3,
+   "a": 2,
    "e": "Trick: 'Tawe mein shakkar daalkar hila do'."
   },
   {
    "q": "Which river flows through a rift valley and passes near the Durgapur steel plant?",
    "o": [
-    "Damodar",
-    "Mahanadi",
+    "Krishna",
     "Godavari",
-    "Krishna"
+    "Mahanadi",
+    "Damodar"
    ],
-   "a": 0,
+   "a": 3,
    "e": "The Damodar rises on the Chota Nagpur Plateau and joins the Hooghly."
   },
   {
    "q": "The Damodar is a tributary of:",
    "o": [
-    "Ganga",
-    "Hooghly",
     "Mahanadi",
-    "Meghna"
+    "Hooghly",
+    "Meghna",
+    "Ganga"
    ],
    "a": 1,
    "e": "The Barakar is a tributary of the Damodar."
@@ -1332,33 +1332,33 @@
    "q": "Which of the following rivers does NOT rise on the Amarkantak Plateau?",
    "o": [
     "Narmada",
-    "Son",
+    "Godavari",
     "Johila",
-    "Godavari"
+    "Son"
    ],
-   "a": 3,
+   "a": 1,
    "e": "The Narmada, Son and Johila rise at Amarkantak."
   },
   {
    "q": "Which drainage pattern is shown by the Amarkantak Plateau?",
    "o": [
-    "Radial",
     "Dendritic",
     "Trellis",
+    "Radial",
     "Centripetal"
    ],
-   "a": 0,
+   "a": 2,
    "e": "Rivers flow outward in all directions from a central high point."
   },
   {
    "q": "Which drainage pattern is the opposite of the radial pattern?",
    "o": [
-    "Dendritic",
     "Centripetal",
-    "Rectangular",
-    "Parallel"
+    "Dendritic",
+    "Parallel",
+    "Rectangular"
    ],
-   "a": 1,
+   "a": 0,
    "e": "Here rivers drain into a central lake or depression."
   },
   {
@@ -1366,10 +1366,10 @@
    "o": [
     "A trellis",
     "The spokes of a wheel",
-    "The branches of a tree",
-    "A rectangle"
+    "A rectangle",
+    "The branches of a tree"
    ],
-   "a": 2,
+   "a": 3,
    "e": "Most Himalayan rivers of the Indus and Ganga systems show this pattern."
   },
   {
@@ -1377,10 +1377,10 @@
    "o": [
     "60 degrees",
     "45 degrees",
-    "30 degrees",
-    "Right angle (90 degrees)"
+    "Right angle (90 degrees)",
+    "30 degrees"
    ],
-   "a": 3,
+   "a": 2,
    "e": "Tributaries meet the main stream almost perpendicularly."
   },
   {
@@ -1397,21 +1397,21 @@
   {
    "q": "Keibul Lamjao National Park is famous for:",
    "o": [
-    "One-horned rhinoceros",
     "Being a floating national park, home of the Sangai deer",
+    "Tiger",
     "Snow leopard",
-    "Tiger"
+    "One-horned rhinoceros"
    ],
-   "a": 1,
+   "a": 0,
    "e": "The Sangai (brow-antlered deer) is the state animal of Manipur."
   },
   {
    "q": "What are phumdis?",
    "o": [
+    "Sea cliffs",
     "Desert dunes",
-    "Glacial moraines",
     "Floating islands of Loktak Lake",
-    "Sea cliffs"
+    "Glacial moraines"
    ],
    "a": 2,
    "e": "Keibul Lamjao National Park is located on them."
@@ -1419,75 +1419,75 @@
   {
    "q": "Which river flows through a small part of the Great Indian (Thar) Desert?",
    "o": [
-    "Ravi",
+    "Luni",
     "Sutlej",
     "Beas",
-    "Luni"
+    "Ravi"
    ],
-   "a": 3,
+   "a": 0,
    "e": "The Luni rises in the Aravallis near Ajmer."
   },
   {
    "q": "By what other name is the Luni river known?",
    "o": [
-    "Lavanavati (Lavanmari)",
     "Maru Ganga",
+    "Lavanavati (Lavanmari)",
     "Vriddha Ganga",
     "Dakshin Ganga"
    ],
-   "a": 0,
+   "a": 1,
    "e": "Its water is saline because evaporation exceeds rainfall."
   },
   {
    "q": "Where does the Luni river finally disappear?",
    "o": [
-    "Arabian Sea",
     "Rann of Kutch",
+    "Arabian Sea",
     "Gulf of Khambhat",
     "Sambhar Lake"
    ],
-   "a": 1,
+   "a": 0,
    "e": "The Luni is the main inland river of Rajasthan."
   },
   {
    "q": "Which is a major seasonal river of the Thar Desert region?",
    "o": [
-    "Gomti",
     "Ghaghara",
-    "Ghaggar",
-    "Son"
+    "Son",
+    "Gomti",
+    "Ghaggar"
    ],
-   "a": 2,
+   "a": 3,
    "e": "Do not confuse the Ghaggar with the Ghaghara, a tributary of the Ganga."
   },
   {
    "q": "The Ghaggar river is found mainly in which regions?",
    "o": [
-    "Bihar and Bengal",
     "Maharashtra",
     "Assam",
-    "Punjab, Haryana and Rajasthan"
+    "Punjab, Haryana and Rajasthan",
+    "Bihar and Bengal"
    ],
-   "a": 3,
+   "a": 2,
    "e": "It is a monsoon-fed seasonal river."
   },
   {
    "q": "Which of the following Peninsular rivers flows eastward?",
    "o": [
-    "Mahanadi",
-    "Sabarmati",
     "Narmada",
-    "Tapti"
+    "Tapti",
+    "Mahanadi",
+    "Sabarmati"
    ],
-   "a": 0,
+   "a": 2,
    "e": "The Sabarmati is in Gujarat and flows west."
   },
   {
    "q": "Which is the longest west-flowing river?",
    "o": [
-    "Tapti",
-    "Narmada",
     "Sabarmati",
+    "Narmada",
+    "Tapti",
     "Mahi"
    ],
    "a": 1,
@@ -1496,20 +1496,20 @@
   {
    "q": "The Mahanadi rises from which hills?",
    "o": [
+    "Betul",
     "Amarkantak",
     "Mahabaleshwar",
-    "Sihawa Hills (Chhattisgarh)",
-    "Betul"
+    "Sihawa Hills (Chhattisgarh)"
    ],
-   "a": 2,
+   "a": 3,
    "e": "The Mahanadi is mainly a river of Odisha."
   },
   {
    "q": "Which of the following is a tributary of the Mahanadi?",
    "o": [
-    "Wardha",
-    "Musi",
     "Tawa",
+    "Musi",
+    "Wardha",
     "Ib"
    ],
    "a": 3,
@@ -1518,100 +1518,100 @@
   {
    "q": "Which dam is located on the Tapti?",
    "o": [
-    "Ukai",
+    "Srisailam",
     "Indira Sagar",
     "Hirakud",
-    "Srisailam"
+    "Ukai"
    ],
-   "a": 0,
+   "a": 3,
    "e": "Ukai is in Gujarat."
   },
   {
    "q": "The Indira Sagar Dam is on which river?",
    "o": [
+    "Godavari",
     "Tapti",
-    "Narmada",
     "Mahanadi",
-    "Godavari"
+    "Narmada"
    ],
-   "a": 1,
+   "a": 3,
    "e": "It is in Madhya Pradesh."
   },
   {
    "q": "Which is the largest Peninsular river, also called the 'Dakshin Ganga' or 'Vriddha Ganga'?",
    "o": [
+    "Mahanadi",
     "Krishna",
     "Kaveri",
-    "Godavari",
-    "Mahanadi"
+    "Godavari"
    ],
-   "a": 2,
+   "a": 3,
    "e": "The Godavari is about 1465 km long."
   },
   {
    "q": "Where does the Godavari originate?",
    "o": [
     "Mahabaleshwar",
-    "Talakaveri",
+    "Trimbakeshwar (Nashik, Maharashtra)",
     "Amarkantak",
-    "Trimbakeshwar (Nashik, Maharashtra)"
+    "Talakaveri"
    ],
-   "a": 3,
+   "a": 1,
    "e": "The Western Ghats are called the Sahyadri in Maharashtra."
   },
   {
    "q": "Which of the following is NOT a tributary of the Godavari?",
    "o": [
-    "Tungabhadra",
-    "Manjira",
     "Indravati",
-    "Wardha"
+    "Wardha",
+    "Tungabhadra",
+    "Manjira"
    ],
-   "a": 0,
+   "a": 2,
    "e": "The Tungabhadra is a tributary of the Krishna."
   },
   {
    "q": "Which is the correct list of Godavari tributaries?",
    "o": [
     "Bhima, Musi, Koyna, Ghataprabha",
-    "Manjira, Sabari, Purna, Penganga, Pranhita, Wainganga, Wardha, Indravati",
     "Kabini, Bhavani, Hemavati",
-    "Ong, Jonk, Tel, Hasdeo"
+    "Ong, Jonk, Tel, Hasdeo",
+    "Manjira, Sabari, Purna, Penganga, Pranhita, Wainganga, Wardha, Indravati"
    ],
-   "a": 1,
+   "a": 3,
    "e": "Trick: MS Dhoni, MS Subbulakshmi, PPP, WW, I."
   },
   {
    "q": "Which of the following is not a tributary of the Ganga but drains directly into the Bay of Bengal?",
    "o": [
     "Ghaghara",
-    "Kosi",
     "Mahanadi",
+    "Kosi",
     "Gomti"
    ],
-   "a": 2,
+   "a": 1,
    "e": "The Mahanadi is an independent river."
   },
   {
    "q": "Which river is NOT a tributary of the Mahanadi?",
    "o": [
-    "Tel",
-    "Jonk",
     "Mand",
-    "Wardha"
+    "Tel",
+    "Wardha",
+    "Jonk"
    ],
-   "a": 3,
+   "a": 2,
    "e": "The Wardha is a tributary of the Godavari."
   },
   {
    "q": "Which statement about the Brahmani and Baitarani rivers is correct?",
    "o": [
-    "They are independent rivers, not tributaries of any river",
-    "They are tributaries of the Mahanadi",
+    "They are tributaries of the Godavari",
     "They are tributaries of the Ganga",
-    "They are tributaries of the Godavari"
+    "They are independent rivers, not tributaries of any river",
+    "They are tributaries of the Mahanadi"
    ],
-   "a": 0,
+   "a": 2,
    "e": "They drain into the Bay of Bengal north of the Mahanadi."
   },
   {
@@ -1619,8 +1619,8 @@
    "o": [
     "It is a tributary of the Mahanadi",
     "It is an independent river lying north of the Brahmani-Baitarani",
-    "It is a tributary of the Krishna",
-    "It flows westward"
+    "It flows westward",
+    "It is a tributary of the Krishna"
    ],
    "a": 1,
    "e": "It flows through Jharkhand, Odisha and West Bengal."
@@ -1628,23 +1628,23 @@
   {
    "q": "The mouth of the Rushikulya river is famous for the mass nesting of:",
    "o": [
-    "Green turtles",
-    "Crocodiles",
     "Olive Ridley turtles",
-    "Flamingos"
+    "Crocodiles",
+    "Flamingos",
+    "Green turtles"
    ],
-   "a": 2,
+   "a": 0,
    "e": "The mass nesting (arribada) of Olive Ridleys occurs on the Odisha coast."
   },
   {
    "q": "What is the effect of incubation temperature on turtle hatchlings?",
    "o": [
-    "Higher temperature gives males, lower gives females",
     "No effect",
-    "Only females hatch",
-    "Higher temperature gives females, lower gives males"
+    "Higher temperature gives females, lower gives males",
+    "Higher temperature gives males, lower gives females",
+    "Only females hatch"
    ],
-   "a": 3,
+   "a": 1,
    "e": "This is temperature-dependent sex determination."
   },
   {
@@ -1661,42 +1661,42 @@
   {
    "q": "Which type of erosion predominates in the Chambal, forming ravines?",
    "o": [
+    "Coastal erosion",
     "Wind erosion",
     "Gully erosion",
-    "Glacial erosion",
-    "Coastal erosion"
+    "Glacial erosion"
    ],
-   "a": 1,
+   "a": 2,
    "e": "Cultivation is not possible in ravine land."
   },
   {
    "q": "Where does the Krishna originate?",
    "o": [
-    "Trimbakeshwar",
     "Talakaveri",
-    "Mahabaleshwar",
-    "Amarkantak"
+    "Trimbakeshwar",
+    "Amarkantak",
+    "Mahabaleshwar"
    ],
-   "a": 2,
+   "a": 3,
    "e": "Mahabaleshwar is in Maharashtra."
   },
   {
    "q": "Which are tributaries of the Krishna?",
    "o": [
-    "Ong, Jonk, Tel",
     "Kabini, Bhavani, Hemavati",
-    "Wardha, Wainganga, Manjira",
-    "Bhima, Tungabhadra, Musi, Koyna, Ghataprabha, Malaprabha, Dudhganga"
+    "Bhima, Tungabhadra, Musi, Koyna, Ghataprabha, Malaprabha, Dudhganga",
+    "Ong, Jonk, Tel",
+    "Wardha, Wainganga, Manjira"
    ],
-   "a": 3,
+   "a": 1,
    "e": "Trick: 'Bhim tu Musi ko ghat pe le jaake maal receive kar, doodh aaya hai'."
   },
   {
    "q": "The Krishna basin extends mainly over which states?",
    "o": [
     "Maharashtra, Karnataka, Telangana and Andhra Pradesh",
-    "Madhya Pradesh, Gujarat, Odisha",
     "Kerala, Tamil Nadu, Goa",
+    "Madhya Pradesh, Gujarat, Odisha",
     "Bihar, Jharkhand, Bengal"
    ],
    "a": 0,
@@ -1705,43 +1705,43 @@
   {
    "q": "The Nagarjuna Sagar Dam is located on which river?",
    "o": [
+    "Mahanadi",
     "Godavari",
     "Krishna",
-    "Kaveri",
-    "Mahanadi"
+    "Kaveri"
    ],
-   "a": 1,
+   "a": 2,
    "e": "The Srisailam Dam is also on the Krishna."
   },
   {
    "q": "Which river forms a delta on the eastern coastal plain of India?",
    "o": [
     "Narmada",
+    "Sabarmati",
     "Tapti",
-    "Godavari",
-    "Sabarmati"
+    "Godavari"
    ],
-   "a": 2,
+   "a": 3,
    "e": "West-flowing rivers form estuaries."
   },
   {
    "q": "What do west-flowing rivers form at their mouths?",
    "o": [
-    "Deltas",
-    "Lagoons",
     "Waterfalls",
-    "Estuaries"
+    "Estuaries",
+    "Deltas",
+    "Lagoons"
    ],
-   "a": 3,
+   "a": 1,
    "e": "The Mandovi, Zuari, Periyar and Bharathapuzha are west-flowing rivers."
   },
   {
    "q": "Which are the two major west-flowing rivers of Kerala?",
    "o": [
     "Periyar and Bharathapuzha",
-    "Kaveri and Vaigai",
     "Krishna and Pennar",
-    "Narmada and Tapti"
+    "Narmada and Tapti",
+    "Kaveri and Vaigai"
    ],
    "a": 0,
    "e": "They rise in the Western Ghats and drain into the Arabian Sea."
@@ -1749,21 +1749,21 @@
   {
    "q": "Where does the Kaveri originate?",
    "o": [
+    "Amarkantak",
     "Mahabaleshwar",
     "Talakaveri (Kodagu, Karnataka)",
-    "Trimbakeshwar",
-    "Amarkantak"
+    "Trimbakeshwar"
    ],
-   "a": 1,
+   "a": 2,
    "e": "It lies in the Brahmagiri range of the Western Ghats."
   },
   {
    "q": "Which are tributaries of the Kaveri?",
    "o": [
-    "Manjira, Purna, Sabari",
     "Bhima, Musi, Koyna",
+    "Ong, Jonk, Tel",
     "Kabini, Bhavani, Hemavati, Amaravati, Shimsha",
-    "Ong, Jonk, Tel"
+    "Manjira, Purna, Sabari"
    ],
    "a": 2,
    "e": "The Indravati is a tributary of the Godavari, not the Kaveri."
@@ -1771,9 +1771,9 @@
   {
    "q": "The Indravati river is a tributary of:",
    "o": [
-    "Kaveri",
-    "Krishna",
     "Mahanadi",
+    "Krishna",
+    "Kaveri",
     "Godavari"
    ],
    "a": 3,
@@ -1782,65 +1782,65 @@
   {
    "q": "Which dam is built on the Pennar river?",
    "o": [
-    "Somasila",
-    "Srisailam",
     "Mettur",
+    "Srisailam",
+    "Somasila",
     "Hirakud"
    ],
-   "a": 0,
+   "a": 2,
    "e": "The Pennar is an east-flowing river of Andhra Pradesh."
   },
   {
    "q": "Which east-flowing river of Tamil Nadu flows through Madurai?",
    "o": [
-    "Pennar",
     "Vaigai",
-    "Kaveri",
-    "Tamirabarani"
+    "Tamirabarani",
+    "Pennar",
+    "Kaveri"
    ],
-   "a": 1,
+   "a": 0,
    "e": "Madurai lies on the Vaigai; the Tamirabarani flows further south."
   },
   {
    "q": "Which three hill ranges form the Western Ghats in southern India?",
    "o": [
-    "Aravalli, Vindhya, Satpura",
-    "Pir Panjal, Dhauladhar, Zanskar",
+    "Garo, Khasi, Jaintia",
     "Nilgiri, Anamalai, Cardamom",
-    "Garo, Khasi, Jaintia"
+    "Pir Panjal, Dhauladhar, Zanskar",
+    "Aravalli, Vindhya, Satpura"
    ],
-   "a": 2,
+   "a": 1,
    "e": "Anamudi (Anamalai) is the highest peak among them."
   },
   {
    "q": "What is the approximate height of Anamudi?",
    "o": [
-    "2637 m",
-    "1352 m",
+    "2695 m",
     "3000 m",
-    "2695 m"
+    "2637 m",
+    "1352 m"
    ],
-   "a": 3,
+   "a": 0,
    "e": "Anamudi is the highest peak of Peninsular India."
   },
   {
    "q": "Doddabetta peak lies in which hills?",
    "o": [
-    "Nilgiri (Tamil Nadu)",
-    "Anamalai",
     "Cardamom",
-    "Aravalli"
+    "Nilgiri (Tamil Nadu)",
+    "Aravalli",
+    "Anamalai"
    ],
-   "a": 0,
+   "a": 1,
    "e": "Its height is about 2637 m."
   },
   {
    "q": "The word 'monsoon' is derived from a word of which language?",
    "o": [
-    "Persian",
+    "Sanskrit",
     "Arabic (mausim)",
-    "Latin",
-    "Sanskrit"
+    "Persian",
+    "Latin"
    ],
    "a": 1,
    "e": "It means the seasonal reversal of winds."
@@ -1849,33 +1849,33 @@
    "q": "What is the literal meaning of 'monsoon'?",
    "o": [
     "Amount of rainfall",
-    "Stormy winds",
     "Seasonal reversal of wind direction",
+    "Stormy winds",
     "Sea waves"
    ],
-   "a": 2,
+   "a": 1,
    "e": "The Arabic word 'mausim' means season."
   },
   {
    "q": "On 21 June, the Sun's rays fall vertically on the:",
    "o": [
     "Tropic of Capricorn",
-    "Equator",
+    "Tropic of Cancer",
     "Arctic Circle",
-    "Tropic of Cancer"
+    "Equator"
    ],
-   "a": 3,
+   "a": 1,
    "e": "In May-June, north India and the Tibetan Plateau become intensely heated."
   },
   {
    "q": "What does the heated Tibetan Plateau create in summer?",
    "o": [
-    "Low-pressure area",
     "High-pressure area",
     "Cyclone",
-    "Anticyclone"
+    "Anticyclone",
+    "Low-pressure area"
    ],
-   "a": 0,
+   "a": 3,
    "e": "Tibet is called the 'Roof of the World'."
   },
   {
@@ -1883,8 +1883,8 @@
    "o": [
     "Westerly jet stream",
     "Tropical easterly jet stream",
-    "Polar jet",
-    "Subtropical westerly jet"
+    "Subtropical westerly jet",
+    "Polar jet"
    ],
    "a": 1,
    "e": "The monsoon trough creates a low-pressure zone that draws in winds."
@@ -1892,8 +1892,8 @@
   {
    "q": "Which force deflects the direction of the south-west monsoon?",
    "o": [
-    "Gravitational force",
     "Frictional force",
+    "Gravitational force",
     "Coriolis force",
     "Centrifugal force"
    ],
@@ -1903,12 +1903,12 @@
   {
    "q": "In the Northern Hemisphere, the Coriolis force deflects moving objects to the:",
    "o": [
-    "Left",
-    "Upward",
     "No deflection",
-    "Right"
+    "Right",
+    "Upward",
+    "Left"
    ],
-   "a": 3,
+   "a": 1,
    "e": "In the Southern Hemisphere, deflection is to the left."
   },
   {
@@ -1925,10 +1925,10 @@
   {
    "q": "What is the high-pressure area east of Madagascar called?",
    "o": [
-    "Azores High",
+    "Hawaiian High",
     "Mascarene High",
-    "Siberian High",
-    "Hawaiian High"
+    "Azores High",
+    "Siberian High"
    ],
    "a": 1,
    "e": "This high pushes winds towards the low pressure over India."
@@ -1936,64 +1936,64 @@
   {
    "q": "Which branch of the monsoon brings rain to the west coast?",
    "o": [
-    "Bay of Bengal branch",
-    "North-east branch",
     "Arabian Sea branch",
-    "Indian Ocean branch"
+    "Bay of Bengal branch",
+    "Indian Ocean branch",
+    "North-east branch"
    ],
-   "a": 2,
+   "a": 0,
    "e": "It strikes the Western Ghats and causes heavy rainfall."
   },
   {
    "q": "What are the three sub-branches of the Arabian Sea branch of the south-west monsoon?",
    "o": [
-    "Only the Western Ghats branch",
-    "Towards the Himalaya, parallel to the Ganga",
+    "One striking the Western Ghats, one along the Narmada, one parallel to the Aravallis",
     "Towards the Thar, parallel to the Indus",
-    "One striking the Western Ghats, one along the Narmada, one parallel to the Aravallis"
+    "Only the Western Ghats branch",
+    "Towards the Himalaya, parallel to the Ganga"
    ],
-   "a": 3,
+   "a": 0,
    "e": "Blowing parallel to the Aravallis, it brings little rain to the Thar."
   },
   {
    "q": "Where do the Arabian Sea branch and the Bay of Bengal branch meet?",
    "o": [
-    "Punjab plains",
-    "Ganga delta",
     "Rajasthan",
-    "Meghalaya"
+    "Ganga delta",
+    "Meghalaya",
+    "Punjab plains"
    ],
-   "a": 0,
+   "a": 3,
    "e": "The two branches merge over the Punjab plains."
   },
   {
    "q": "Mawsynram, famous for the highest rainfall in the world, lies in which hills?",
    "o": [
-    "Garo Hills",
     "Khasi Hills (Meghalaya)",
-    "Jaintia Hills",
-    "Naga Hills"
+    "Naga Hills",
+    "Garo Hills",
+    "Jaintia Hills"
    ],
-   "a": 1,
+   "a": 0,
    "e": "The Bay of Bengal branch causes heavy rain on the Meghalaya Plateau."
   },
   {
    "q": "Tura, which can receive in one day the rainfall Jaisalmer gets in 10 years, is located in:",
    "o": [
+    "Garo Hills, Meghalaya",
     "Aravallis, Rajasthan",
     "Western Ghats, Kerala",
-    "Garo Hills, Meghalaya",
     "Shiwaliks, Punjab"
    ],
-   "a": 2,
+   "a": 0,
    "e": "Tura is in the Garo Hills of Meghalaya."
   },
   {
    "q": "What does the 'burst' of the monsoon mean?",
    "o": [
-    "A gap of several days in rainfall",
     "Withdrawal of the monsoon",
     "Arrival of a cyclone",
+    "A gap of several days in rainfall",
     "Sudden onset of heavy rain at the start of the monsoon"
    ],
    "a": 3,
@@ -2002,32 +2002,32 @@
   {
    "q": "What does a 'break' in the monsoon mean?",
    "o": [
-    "A dry spell between rainy periods",
     "Sudden heavy rainfall",
     "End of the monsoon",
+    "A dry spell between rainy periods",
     "Cyclone"
    ],
-   "a": 0,
+   "a": 2,
    "e": "Burst = the sudden onset of monsoon rains."
   },
   {
    "q": "In winter, which wind system brings rain to the Coromandel Coast?",
    "o": [
-    "South-west monsoon",
     "North-east (retreating) monsoon",
+    "South-west monsoon",
     "Western Disturbances",
     "Local Loo"
    ],
-   "a": 1,
+   "a": 0,
    "e": "These winds pick up moisture over the Bay of Bengal and bring it to land."
   },
   {
    "q": "The retreating monsoon is also known as the:",
    "o": [
-    "South-west monsoon",
     "Western Disturbances",
+    "Mawath",
     "North-east monsoon",
-    "Mawath"
+    "South-west monsoon"
    ],
    "a": 2,
    "e": "Withdrawal of the monsoon begins from the north-west."
@@ -2035,34 +2035,34 @@
   {
    "q": "From which part of India does the withdrawal of the monsoon begin?",
    "o": [
-    "North-east",
-    "South",
     "East coast",
-    "North-west"
+    "North-west",
+    "North-east",
+    "South"
    ],
-   "a": 3,
+   "a": 1,
    "e": "The withdrawal begins in September."
   },
   {
    "q": "What causes winter rainfall in north India?",
    "o": [
-    "Western Disturbances",
+    "Convection",
     "South-west monsoon",
     "Cyclones",
-    "Convection"
+    "Western Disturbances"
    ],
-   "a": 0,
+   "a": 3,
    "e": "They are brought from the Mediterranean by the westerly jet stream."
   },
   {
    "q": "Where do Western Disturbances originate?",
    "o": [
     "Arabian Sea",
-    "Mediterranean Sea",
     "Bay of Bengal",
-    "Pacific Ocean"
+    "Pacific Ocean",
+    "Mediterranean Sea"
    ],
-   "a": 1,
+   "a": 3,
    "e": "They benefit rabi crops, especially wheat."
   },
   {
@@ -2070,21 +2070,21 @@
    "o": [
     "Loo",
     "Kalbaisakhi",
-    "Mawath",
-    "Mango Showers"
+    "Mango Showers",
+    "Mawath"
    ],
-   "a": 2,
+   "a": 3,
    "e": "It is considered good for the rabi crop."
   },
   {
    "q": "At roughly what height do jet streams blow?",
    "o": [
-    "1 to 2 km",
+    "About 9 to 13 km",
     "50 to 60 km",
-    "100 km",
-    "About 9 to 13 km"
+    "1 to 2 km",
+    "100 km"
    ],
-   "a": 3,
+   "a": 0,
    "e": "These winds blow at very high speeds."
   },
   {
@@ -2092,8 +2092,8 @@
    "o": [
     "In the first week of June (Kerala)",
     "At the end of May",
-    "In the first week of July",
-    "In August"
+    "In August",
+    "In the first week of July"
    ],
    "a": 0,
    "e": "It usually covers the whole country by about mid-July."
@@ -2101,10 +2101,10 @@
   {
    "q": "What is the duration of the south-west monsoon season in India?",
    "o": [
-    "January to March",
-    "June to September",
     "October to December",
-    "March to May"
+    "June to September",
+    "March to May",
+    "January to March"
    ],
    "a": 1,
    "e": "October-November is the retreating monsoon season."
@@ -2112,19 +2112,19 @@
   {
    "q": "What is 'October Heat'?",
    "o": [
-    "Dry Loo winds",
     "Western Disturbances",
-    "Humid heat after the monsoon",
-    "Cyclone"
+    "Cyclone",
+    "Dry Loo winds",
+    "Humid heat after the monsoon"
    ],
-   "a": 2,
+   "a": 3,
    "e": "Clear skies and high humidity make the weather oppressive."
   },
   {
    "q": "What causes the humid heat of October (October Heat)?",
    "o": [
-    "Strong cold winds",
     "Jet streams",
+    "Strong cold winds",
     "Sea storms",
     "Clear skies and evaporation of moisture from the land"
    ],
@@ -2134,32 +2134,32 @@
   {
    "q": "What is the full form of ITCZ?",
    "o": [
-    "Inter Tropical Convergence Zone",
-    "International Tropical Climate Zone",
     "Inland Temperate Cold Zone",
-    "Inter Tidal Current Zone"
+    "Inter Tidal Current Zone",
+    "Inter Tropical Convergence Zone",
+    "International Tropical Climate Zone"
    ],
-   "a": 0,
+   "a": 2,
    "e": "It is the zone where the trade winds converge."
   },
   {
    "q": "What is the literal meaning of 'El Nino'?",
    "o": [
-    "Little girl",
     "Little boy (Christ child)",
-    "Warm current",
-    "Storm"
+    "Little girl",
+    "Storm",
+    "Warm current"
    ],
-   "a": 1,
+   "a": 0,
    "e": "It refers to a rise in sea surface temperature in the Pacific Ocean."
   },
   {
    "q": "What is El Nino?",
    "o": [
-    "A fall in Pacific Ocean temperature",
     "A cyclone in the Indian Ocean",
+    "An Atlantic current",
     "A rise in sea surface temperature of the Pacific Ocean",
-    "An Atlantic current"
+    "A fall in Pacific Ocean temperature"
    ],
    "a": 2,
    "e": "It weakens the monsoon in India."
@@ -2167,32 +2167,32 @@
   {
    "q": "What is the usual effect of El Nino on the Indian monsoon?",
    "o": [
+    "Reduced and delayed rainfall",
     "More rainfall",
-    "No effect",
     "Effect only in winter",
-    "Reduced and delayed rainfall"
+    "No effect"
    ],
-   "a": 3,
+   "a": 0,
    "e": "It recurs at intervals of about 3 to 7 years."
   },
   {
    "q": "What does La Nina mean for India?",
    "o": [
+    "Fewer cyclones",
     "Above-normal rainfall, favourable for the monsoon",
     "Drought",
-    "Fewer cyclones",
     "Cold wave"
    ],
-   "a": 0,
+   "a": 1,
    "e": "In La Nina, Pacific Ocean temperatures fall below normal."
   },
   {
    "q": "Why are fishing grounds off the coast of Peru affected in an El Nino year?",
    "o": [
-    "It becomes extremely cold",
-    "Cold water does not upwell, so phytoplankton decline",
     "The sea dries up",
-    "Ships cannot sail"
+    "Cold water does not upwell, so phytoplankton decline",
+    "Ships cannot sail",
+    "It becomes extremely cold"
    ],
    "a": 1,
    "e": "Accumulated warm water stops the upwelling of nutrients."
@@ -2211,120 +2211,120 @@
   {
    "q": "What is the main reason the monsoon trough intensifies over north India by the end of May?",
    "o": [
-    "Heavy rainfall",
     "Cold winds",
-    "Western Disturbances",
-    "Extreme temperature and low pressure"
+    "Heavy rainfall",
+    "Extreme temperature and low pressure",
+    "Western Disturbances"
    ],
-   "a": 3,
+   "a": 2,
    "e": "Heating makes air rise, creating low pressure."
   },
   {
    "q": "What are the violent pre-monsoon evening thunderstorms of north-east India called?",
    "o": [
-    "Nor'westers",
-    "Loo",
     "Mawath",
-    "Chinook"
+    "Chinook",
+    "Nor'westers",
+    "Loo"
    ],
-   "a": 0,
+   "a": 2,
    "e": "In West Bengal they are called Kalbaisakhi."
   },
   {
    "q": "What are Nor'westers called in West Bengal?",
    "o": [
-    "Bardoli Chheerha",
     "Kalbaisakhi",
-    "Mango Showers",
-    "Mawath"
+    "Mawath",
+    "Bardoli Chheerha",
+    "Mango Showers"
    ],
-   "a": 1,
+   "a": 0,
    "e": "'Kal' means calamity, and the name refers to the month of Baisakh."
   },
   {
    "q": "What are Nor'westers called in Assam?",
    "o": [
-    "Kalbaisakhi",
-    "Loo",
     "Bardoli Chheerha",
-    "Blossom Showers"
+    "Blossom Showers",
+    "Kalbaisakhi",
+    "Loo"
    ],
-   "a": 2,
+   "a": 0,
    "e": "They are beneficial for jute cultivation."
   },
   {
    "q": "What are the pre-monsoon showers of Kerala and coastal Karnataka that help ripen mangoes called?",
    "o": [
-    "Blossom Showers",
+    "Mango Showers",
     "Kalbaisakhi",
     "Mawath",
-    "Mango Showers"
+    "Blossom Showers"
    ],
-   "a": 3,
+   "a": 0,
    "e": "They help in the ripening of mangoes."
   },
   {
    "q": "What are the showers that help coffee flowers blossom called?",
    "o": [
+    "Bardoli Chheerha",
     "Blossom Showers (Cherry Blossom)",
     "Mango Showers",
-    "Kalbaisakhi",
-    "Bardoli Chheerha"
+    "Kalbaisakhi"
    ],
-   "a": 0,
+   "a": 1,
    "e": "They occur in Kerala and Karnataka."
   },
   {
    "q": "What are the main varieties of coffee?",
    "o": [
-    "Basmati, Sona, Kaveri",
-    "Arabica, Liberica, Robusta",
     "Darjeeling, Assam, Nilgiri",
-    "Hybrid, Konark, Kaveri"
+    "Basmati, Sona, Kaveri",
+    "Hybrid, Konark, Kaveri",
+    "Arabica, Liberica, Robusta"
    ],
-   "a": 1,
+   "a": 3,
    "e": "In India, coffee is grown mainly in Karnataka."
   },
   {
    "q": "Which state is the largest producer of jute in India?",
    "o": [
-    "Assam",
     "Bihar",
-    "West Bengal",
-    "Odisha"
+    "Assam",
+    "Odisha",
+    "West Bengal"
    ],
-   "a": 2,
+   "a": 3,
    "e": "Bangladesh is a major exporter of jute."
   },
   {
    "q": "What is the main cause of the Loo?",
    "o": [
-    "Convectional rain",
-    "Cyclones",
     "Western Disturbances",
-    "Horizontal transfer of heat (advection)"
+    "Cyclones",
+    "Horizontal transfer of heat (advection)",
+    "Convectional rain"
    ],
-   "a": 3,
+   "a": 2,
    "e": "The Loo is a hot, dry wind that blows in summer."
   },
   {
    "q": "What role does the subtropical jet stream play in the withdrawal of the monsoon?",
    "o": [
-    "Subsidence and formation of high pressure, triggered by the southward shift of the ITCZ",
-    "Advection of cold winds",
     "Strengthening the tropical easterlies",
-    "Heating Tibet"
+    "Heating Tibet",
+    "Subsidence and formation of high pressure, triggered by the southward shift of the ITCZ",
+    "Advection of cold winds"
    ],
-   "a": 0,
+   "a": 2,
    "e": "The ITCZ shifts as the Sun moves southward."
   },
   {
    "q": "What are the latitudes around 30 degrees N and 30 degrees S called?",
    "o": [
-    "Doldrums",
+    "Shrieking Sixties",
     "Horse Latitudes",
     "Roaring Forties",
-    "Shrieking Sixties"
+    "Doldrums"
    ],
    "a": 1,
    "e": "The calm zone near the equator is called the Doldrums."
@@ -2332,12 +2332,12 @@
   {
    "q": "What is the calm wind zone near the equator called?",
    "o": [
-    "Horse Latitudes",
-    "Roaring Forties",
     "Doldrums",
-    "Polar Front"
+    "Polar Front",
+    "Horse Latitudes",
+    "Roaring Forties"
    ],
-   "a": 2,
+   "a": 0,
    "e": "This is the region of the ITCZ."
   },
   {
@@ -2354,54 +2354,54 @@
   {
    "q": "What are the three main types of rainfall?",
    "o": [
-    "Convectional, cyclonic, orographic (relief)",
     "Monsoonal, winter, summer",
-    "Western, eastern, northern",
-    "Coastal, plain, mountain"
+    "Coastal, plain, mountain",
+    "Convectional, cyclonic, orographic (relief)",
+    "Western, eastern, northern"
    ],
-   "a": 0,
+   "a": 2,
    "e": "Orographic rainfall is also called relief rainfall."
   },
   {
    "q": "In 'orographic rainfall', what does 'oro' mean?",
    "o": [
-    "Sea",
     "Mountain",
+    "Sea",
     "Wind",
     "Cloud"
    ],
-   "a": 1,
+   "a": 0,
    "e": "It is also called relief rainfall."
   },
   {
    "q": "The side of a mountain where air rises and causes more rainfall is called the:",
    "o": [
-    "Leeward slope",
     "Rain shadow",
     "Windward slope",
-    "Summit"
+    "Summit",
+    "Leeward slope"
    ],
-   "a": 2,
+   "a": 1,
    "e": "The opposite side is the rain-shadow area."
   },
   {
    "q": "Which of the following lies in a rain-shadow area?",
    "o": [
     "Mumbai",
+    "Pune",
     "Mangaluru",
-    "Kochi",
-    "Pune"
+    "Kochi"
    ],
-   "a": 3,
+   "a": 1,
    "e": "Pune lies on the eastern (leeward) side of the Western Ghats."
   },
   {
    "q": "Why does the Thar Desert receive little rainfall?",
    "o": [
     "Winds blow parallel to the Aravallis, lack moisture and find no water sources over land",
-    "Height of the Himalaya",
+    "Dense vegetation",
     "Nearness to the sea",
-    "Dense vegetation"
+    "Height of the Himalaya"
    ],
    "a": 0,
    "e": "The Arabian Sea branch passes parallel to the Aravallis."
@@ -2409,10 +2409,10 @@
   {
    "q": "Which part of mainland India receives over 200 cm of average annual rainfall?",
    "o": [
-    "Thar Desert",
-    "Western Ghats",
     "Ladakh",
-    "Interior Deccan"
+    "Western Ghats",
+    "Interior Deccan",
+    "Thar Desert"
    ],
    "a": 1,
    "e": "Ladakh is a cold desert and the Thar is a hot desert."
@@ -2421,33 +2421,33 @@
    "q": "What type of forests are found in the Western Ghats?",
    "o": [
     "Deciduous forests",
-    "Thorn forests",
     "Evergreen forests",
-    "Mangroves"
+    "Mangroves",
+    "Thorn forests"
    ],
-   "a": 2,
+   "a": 1,
    "e": "Heavy rainfall supports evergreen forests here."
   },
   {
    "q": "What type of desert is Ladakh?",
    "o": [
-    "Hot desert",
     "Coastal desert",
-    "Semi-desert",
-    "Cold desert"
+    "Cold desert",
+    "Hot desert",
+    "Semi-desert"
    ],
-   "a": 3,
+   "a": 1,
    "e": "The Thar is a hot desert."
   },
   {
    "q": "What is the gap in the Western Ghats between the Nilgiri and Anamalai hills called?",
    "o": [
-    "Palghat Gap",
+    "Shencottah Gap",
     "Thal Ghat",
     "Bhor Ghat",
-    "Shencottah Gap"
+    "Palghat Gap"
    ],
-   "a": 0,
+   "a": 3,
    "e": "It lies between Kerala and Tamil Nadu."
   }
  ]

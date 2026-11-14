@@ -1,0 +1,3091 @@
+{
+ "title": "Geography Lec 5",
+ "summary": [
+  "Landforms are of two types: erosional and depositional; agents: rivers, wind, glaciers, sea waves and groundwater.",
+  "Wind (aeolian): pediplain, inselberg/monadnock, mushroom rock, yardang, zeugen (erosional); barchan, seif, parabolic and transverse dunes (depositional).",
+  "River: V-shaped valley, gorge, canyon, pothole, plunge pool, waterfall (youthful stage); levee, alluvial fan, braided channel, oxbow lake (mature stage); delta (old stage).",
+  "Groundwater (karst, limestone): sinkhole, uvala, lapies; in caves, stalactites (hang from roof), stalagmites (rise from floor) and pillars.",
+  "Glacier: cirque, tarn, arete, horn, hanging valley, U-shaped valley, fjord; deposits: moraine, drumlin (basket of eggs), esker, outwash plain.",
+  "Sea waves: cliff, sea cave, sea arch, sea stack (erosional); beach, spit, bar, tombolo (depositional); India's west coast is submerged, east coast is emergent.",
+  "Endogenic forces (diastrophism: orogenic, epeirogenic; volcanism, earthquakes) build landforms; exogenic forces (denudation) wear them down; fold mountains: Himalayas/Aravallis, block mountain: Vosges, rift valley: Narmada.",
+  "The Andes is the longest mountain range (Aconcagua is its highest peak); North America's highest peak is Denali/Mount McKinley; the Mid-Atlantic Ridge is the longest landform.",
+  "India has 13 major ports (12 government-owned, 1 corporatised); JNPT is the largest container port, Kochi the 'Queen of the Arabian Sea', Ennore the first corporatised port, Visakhapatnam the deepest landlocked port.",
+  "Earth's layers: crust (SIAL/SIMA), mantle (SIMA), core (NIFE); discontinuities: Conrad, Moho, Repetti, Gutenberg, Lehmann.",
+  "Seismic waves: P (longitudinal, all media, fastest), S (transverse, solids only), surface waves (Rayleigh, Love) most destructive; Mercalli measures intensity, Richter measures magnitude.",
+  "Plate tectonics: convergent (destructive), divergent (constructive), transform (conservative); Wegener 1912 (Pangaea), Harry Hess 1962 (sea-floor spreading), Arthur Holmes (convection currents).",
+  "Cyclones: tropical (over seas, >27°C, Coriolis force, move east to west) vs temperate (fronts, move west to east); cold currents create deserts on western coasts.",
+  "Rocks: igneous (granite, basalt), sedimentary (fossils, limestone), metamorphic (marble, gneiss, quartzite); intrusive forms: batholith, dyke, sill, laccolith, phacolith, lopolith.",
+  "Solar System: Venus is the hottest and rotates in reverse, Jupiter rotates fastest, Saturn has the lowest density, Earth the highest density; Uranus discovered by Herschel; Big Bang theory by Lemaitre (1927)."
+ ],
+ "mcqs": [
+  {
+   "q": "Landforms are mainly of which two types?",
+   "o": [
+    "Mountainous and plain only",
+    "Aquatic and aerial only",
+    "Erosional and depositional",
+    "Volcanic and seismic only"
+   ],
+   "a": 2,
+   "e": "Both erosional and depositional landforms are made by agents like rivers, wind, glaciers, sea waves and groundwater."
+  },
+  {
+   "q": "Which of the following is NOT an agent of erosion?",
+   "o": [
+    "Glacier",
+    "Earthquake",
+    "Running water (river)",
+    "Wind"
+   ],
+   "a": 1,
+   "e": "Agents of erosion are rivers, wind, glaciers, sea waves and groundwater."
+  },
+  {
+   "q": "Landforms created by wind are called:",
+   "o": [
+    "Glacial landforms",
+    "Coastal landforms",
+    "Aeolian landforms",
+    "Karst landforms"
+   ],
+   "a": 2,
+   "e": "Wind-made landforms are called aeolian and are found mainly in deserts."
+  },
+  {
+   "q": "In deserts, the wearing down of rocks by the impact of sand particles is called:",
+   "o": [
+    "Solution",
+    "Abrasion",
+    "Hydration",
+    "Carbonation"
+   ],
+   "a": 1,
+   "e": "Repeated striking by wind-blown sand grains wears rocks down; this is abrasion."
+  },
+  {
+   "q": "Which desert landform is formed by the parallel retreat of slopes (backwasting)?",
+   "o": [
+    "Barchan",
+    "Playa",
+    "Pediplain",
+    "Stalagmite"
+   ],
+   "a": 2,
+   "e": "A pediplain is a nearly flat desert surface formed by the backwasting of slopes; stalagmites are formed by groundwater."
+  },
+  {
+   "q": "An isolated residual hill left standing on a pediplain is called:",
+   "o": [
+    "Inselberg (monadnock)",
+    "Yardang",
+    "Playa",
+    "Zeugen"
+   ],
+   "a": 0,
+   "e": "An isolated hill left after erosion is called an inselberg or monadnock."
+  },
+  {
+   "q": "A nearly flat plain formed by river erosion (the final stage of the erosion cycle) is called:",
+   "o": [
+    "Peneplain",
+    "Playa",
+    "Pediplain",
+    "Hamada"
+   ],
+   "a": 0,
+   "e": "A peneplain is made by running water; a pediplain is a desert landform."
+  },
+  {
+   "q": "How is a mushroom rock formed in deserts?",
+   "o": [
+    "By greater erosion at the top",
+    "By greater wind abrasion near the base",
+    "By glaciers",
+    "By groundwater"
+   ],
+   "a": 1,
+   "e": "Heavy sand moves close to the ground, so abrasion is greater at the base, leaving a narrow base and wide top."
+  },
+  {
+   "q": "A shallow depression in a desert that temporarily fills with water is called:",
+   "o": [
+    "Tarn",
+    "Fjord",
+    "Sinkhole",
+    "Playa"
+   ],
+   "a": 3,
+   "e": "A playa is a shallow desert basin in which a temporary lake forms."
+  },
+  {
+   "q": "Which of the following landforms is formed by wind erosion?",
+   "o": [
+    "Yardang",
+    "Esker",
+    "Stalactite",
+    "Moraine"
+   ],
+   "a": 0,
+   "e": "Yardangs, zeugen, mushroom rocks and pedestal rocks are formed by wind erosion."
+  },
+  {
+   "q": "Crescent-shaped sand dunes, such as those in the Thar, are called:",
+   "o": [
+    "Seif",
+    "Barchan",
+    "Transverse dune",
+    "Parabolic dune"
+   ],
+   "a": 1,
+   "e": "The two horns of a barchan point in the direction of the wind."
+  },
+  {
+   "q": "A long sand dune with a single wing, lying parallel to the wind, is called:",
+   "o": [
+    "Barchan",
+    "Seif",
+    "Parabolic dune",
+    "Transverse dune"
+   ],
+   "a": 1,
+   "e": "A barchan has two horns, whereas a seif has only one."
+  },
+  {
+   "q": "Dunes whose arms point against the wind direction because of vegetation are called:",
+   "o": [
+    "Parabolic dune",
+    "Seif",
+    "Barchan",
+    "Transverse dune"
+   ],
+   "a": 0,
+   "e": "Vegetation anchors the sand, so the arms of parabolic dunes trail upwind."
+  },
+  {
+   "q": "Sand dunes formed at right angles to the wind direction are called:",
+   "o": [
+    "Transverse dune",
+    "Barchan",
+    "Seif",
+    "Parabolic dune"
+   ],
+   "a": 0,
+   "e": "Long dunes perpendicular to the wind are transverse dunes."
+  },
+  {
+   "q": "Barchans, seifs and transverse dunes are which type of landforms?",
+   "o": [
+    "Tectonic",
+    "Depositional",
+    "Erosional",
+    "Volcanic"
+   ],
+   "a": 1,
+   "e": "Sand dunes are formed by deposition, whereas yardangs and inselbergs are erosional."
+  },
+  {
+   "q": "When a river cuts through rocks to form a narrow, steep-sided passage, what is formed?",
+   "o": [
+    "Plain",
+    "Moraine",
+    "Gorge",
+    "Dune"
+   ],
+   "a": 2,
+   "e": "Vertical cutting by a river forms a gorge; plains are formed by deposition."
+  },
+  {
+   "q": "What is the characteristic feature of a canyon?",
+   "o": [
+    "A deep valley with steep, step-like walls",
+    "A sand dune",
+    "A plain with a wide flat floor",
+    "A circular lake"
+   ],
+   "a": 0,
+   "e": "A canyon is a large form of gorge with steep, step-like sides."
+  },
+  {
+   "q": "Which landform is usually formed in the youthful stage of a river?",
+   "o": [
+    "Delta",
+    "Floodplain",
+    "V-shaped valley",
+    "Oxbow lake"
+   ],
+   "a": 2,
+   "e": "In the youthful stage fast flow causes erosion, forming V-shaped valleys, waterfalls, gorges and potholes."
+  },
+  {
+   "q": "Small circular hollows formed in the rocky bed of a river are called:",
+   "o": [
+    "Potholes",
+    "Sinkholes",
+    "Plunge pools",
+    "Tarns"
+   ],
+   "a": 0,
+   "e": "Potholes are small hollows in the river bed; a plunge pool lies at the foot of a waterfall."
+  },
+  {
+   "q": "The deep hollow formed at the base of a waterfall is called:",
+   "o": [
+    "Uvala",
+    "Plunge pool",
+    "Pothole",
+    "Lapies"
+   ],
+   "a": 1,
+   "e": "Water falling from a height scours out a plunge pool."
+  },
+  {
+   "q": "A waterfall in which water drops vertically from a height is called:",
+   "o": [
+    "Rapid",
+    "Cascade",
+    "Cataract",
+    "Plunge waterfall"
+   ],
+   "a": 3,
+   "e": "In a plunge, water falls straight down; a cascade falls over a series of steps."
+  },
+  {
+   "q": "What identifies a cascade waterfall?",
+   "o": [
+    "Found only in deserts",
+    "Formed from ice",
+    "Falling straight down in a single drop",
+    "Falling over a series of steps"
+   ],
+   "a": 3,
+   "e": "A cascade descends in multiple step-like stages."
+  },
+  {
+   "q": "Which waterfall is called a cataract?",
+   "o": [
+    "One with very little water",
+    "One falling into the sea",
+    "One formed by a glacier",
+    "One carrying a very large volume of water"
+   ],
+   "a": 3,
+   "e": "In a cataract a huge volume of water falls over a series of steps."
+  },
+  {
+   "q": "Which of the following is NOT a depositional fluvial landform?",
+   "o": [
+    "Natural levee",
+    "Alluvial fan",
+    "Braided stream",
+    "Gorge"
+   ],
+   "a": 3,
+   "e": "A gorge is formed by erosion; the others by deposition."
+  },
+  {
+   "q": "The raised strip formed by sediment deposited along river banks after floods is called:",
+   "o": [
+    "Drumlin",
+    "Levee (natural embankment)",
+    "Spit",
+    "Esker"
+   ],
+   "a": 1,
+   "e": "When floodwater recedes, sediment is deposited along the banks, forming levees."
+  },
+  {
+   "q": "The fan-shaped deposit laid down by a river where it descends from mountains onto a plain is called:",
+   "o": [
+    "Alluvial fan",
+    "Oxbow lake",
+    "Levee",
+    "Delta"
+   ],
+   "a": 0,
+   "e": "When the slope suddenly decreases, the river drops its load in a fan shape."
+  },
+  {
+   "q": "River channels that repeatedly split and rejoin around sandbars are called:",
+   "o": [
+    "Canyon",
+    "Braided channels",
+    "Gorge",
+    "Meanders"
+   ],
+   "a": 1,
+   "e": "Deposited sediment splits the stream into many interlacing channels."
+  },
+  {
+   "q": "A plateau surrounded on all sides by mountains is called:",
+   "o": [
+    "Continental plateau",
+    "Piedmont plateau",
+    "Lava plateau",
+    "Intermontane plateau"
+   ],
+   "a": 3,
+   "e": "The Tibetan Plateau, surrounded by the Himalayas and other ranges, is an intermontane plateau."
+  },
+  {
+   "q": "Which is the highest plateau in the world?",
+   "o": [
+    "Mexican Plateau",
+    "Tibetan Plateau",
+    "Colorado Plateau",
+    "Deccan Plateau"
+   ],
+   "a": 1,
+   "e": "The Tibetan Plateau is the world's highest plateau."
+  },
+  {
+   "q": "What is the main feature of a plateau?",
+   "o": [
+    "A deep valley",
+    "A pointed peak",
+    "An elevated landmass with a flat top",
+    "A low-lying plain"
+   ],
+   "a": 2,
+   "e": "A plateau has a flat top, unlike the pointed top of a mountain."
+  },
+  {
+   "q": "Landforms created by groundwater are called:",
+   "o": [
+    "Coastal topography",
+    "Glacial topography",
+    "Karst topography",
+    "Aeolian topography"
+   ],
+   "a": 2,
+   "e": "Groundwater forms karst topography in soluble rocks like limestone and dolomite."
+  },
+  {
+   "q": "The term 'karst' comes from a region near the Adriatic Sea. Which one?",
+   "o": [
+    "Alps",
+    "Sahara",
+    "Andes",
+    "Karst (Balkan region)"
+   ],
+   "a": 3,
+   "e": "The Karst region lies near the Adriatic Sea in the Balkans."
+  },
+  {
+   "q": "Karst landforms develop in which rocks?",
+   "o": [
+    "Limestone and dolomite",
+    "Granite",
+    "Quartzite",
+    "Basalt"
+   ],
+   "a": 0,
+   "e": "Groundwater dissolves soluble rocks to form karst features."
+  },
+  {
+   "q": "A large depression in limestone regions formed by the collapse of the surface is called:",
+   "o": [
+    "Fjord",
+    "Pothole",
+    "Cirque",
+    "Sinkhole"
+   ],
+   "a": 3,
+   "e": "Groundwater-formed depressions are called swallow holes, sinkholes and collapse sinks."
+  },
+  {
+   "q": "A valley formed when several sinkholes merge is called:",
+   "o": [
+    "Tarn",
+    "Uvala",
+    "Horn",
+    "Lapies"
+   ],
+   "a": 1,
+   "e": "The merging of several sinkholes forms a long valley called an uvala."
+  },
+  {
+   "q": "The sharp, rough grooves and ridges formed on limestone surfaces are called:",
+   "o": [
+    "Lapies",
+    "Arete",
+    "Stalactite",
+    "Esker"
+   ],
+   "a": 0,
+   "e": "Lapies and limestone pavements are erosional karst features."
+  },
+  {
+   "q": "The calcium carbonate structure hanging from the roof of a cave is called:",
+   "o": [
+    "Stalagmite",
+    "Stalactite",
+    "Uvala",
+    "Pillar"
+   ],
+   "a": 1,
+   "e": "Stalactites hang from the roof ('c' for ceiling)."
+  },
+  {
+   "q": "The calcium carbonate structure rising from the floor of a cave is called:",
+   "o": [
+    "Stalagmite",
+    "Sinkhole",
+    "Doline",
+    "Stalactite"
+   ],
+   "a": 0,
+   "e": "Stalagmites grow upward from the floor ('g' for ground)."
+  },
+  {
+   "q": "What is formed when a stalactite and a stalagmite join together?",
+   "o": [
+    "Tarn",
+    "Batholith",
+    "Dyke",
+    "Pillar (column)"
+   ],
+   "a": 3,
+   "e": "When the two meet, a pillar or column forms in the cave."
+  },
+  {
+   "q": "A rock layer that stores groundwater is called:",
+   "o": [
+    "Esker",
+    "Lagoon",
+    "Lopolith",
+    "Aquifer"
+   ],
+   "a": 3,
+   "e": "An aquifer is a rock layer in which groundwater is stored."
+  },
+  {
+   "q": "Which pair is formed by deposition inside limestone caves?",
+   "o": [
+    "Cirque and horn",
+    "Drumlin and esker",
+    "Stalactite and stalagmite",
+    "Levee and meander"
+   ],
+   "a": 2,
+   "e": "Dripping water inside caves forms stalactites and stalagmites; the others are glacial or fluvial."
+  },
+  {
+   "q": "When a glacier widens, deepens and smooths a pre-existing river valley, which valley is formed?",
+   "o": [
+    "V-shaped valley",
+    "Gorge",
+    "U-shaped valley",
+    "Floodplain"
+   ],
+   "a": 2,
+   "e": "V-shaped valleys are made by rivers; U-shaped valleys by glaciers."
+  },
+  {
+   "q": "A semi-circular, armchair-like hollow formed by glacial erosion is called:",
+   "o": [
+    "Horn",
+    "Cirque",
+    "Drumlin",
+    "Esker"
+   ],
+   "a": 1,
+   "e": "A glacier scoops out the mountainside to form a cirque."
+  },
+  {
+   "q": "A lake formed when water fills a cirque is called:",
+   "o": [
+    "Lagoon",
+    "Oxbow lake",
+    "Tarn lake",
+    "Fjord"
+   ],
+   "a": 2,
+   "e": "Melting ice in a cirque forms a tarn lake."
+  },
+  {
+   "q": "A sharp, knife-edged ridge formed between two cirques is called:",
+   "o": [
+    "Moraine",
+    "Drumlin",
+    "Horn",
+    "Arete"
+   ],
+   "a": 3,
+   "e": "An arete is a sharp ridge; several cirques together form a horn."
+  },
+  {
+   "q": "A sharp pyramidal peak formed where three or more cirques meet is called:",
+   "o": [
+    "Esker",
+    "Tarn",
+    "Horn",
+    "Arete"
+   ],
+   "a": 2,
+   "e": "The Matterhorn in the Alps is a famous example of a horn."
+  },
+  {
+   "q": "A tributary valley left hanging above a main glacial valley is called:",
+   "o": [
+    "Hanging valley",
+    "Uvala",
+    "Gorge",
+    "Rift valley"
+   ],
+   "a": 0,
+   "e": "The main valley is deepened more, leaving the tributary valley hanging above it."
+  },
+  {
+   "q": "Which coastal feature is formed when sea water floods a glacial valley?",
+   "o": [
+    "Estuary",
+    "Lagoon",
+    "Fjord",
+    "Spit"
+   ],
+   "a": 2,
+   "e": "Fjords form when the sea floods glacial valleys, as in Norway."
+  },
+  {
+   "q": "Which of the following is an erosional glacial landform?",
+   "o": [
+    "Drumlin",
+    "Esker",
+    "Moraine",
+    "Cirque"
+   ],
+   "a": 3,
+   "e": "Cirques, aretes, horns, tarns and hanging valleys are erosional; moraines, eskers and drumlins are depositional."
+  },
+  {
+   "q": "Which group correctly lists depositional glacial landforms?",
+   "o": [
+    "Moraine, esker, drumlin, outwash plain",
+    "Cirque, arete, horn, tarn",
+    "Levee, meander, delta",
+    "Spit, bar, tombolo"
+   ],
+   "a": 0,
+   "e": "Moraines, eskers, drumlins and outwash plains are glacial deposits."
+  },
+  {
+   "q": "Which landform gives rise to 'basket of eggs' topography?",
+   "o": [
+    "Cirque",
+    "Moraine",
+    "Drumlin",
+    "Esker"
+   ],
+   "a": 2,
+   "e": "Groups of drumlins look like inverted boats or a basket of eggs."
+  },
+  {
+   "q": "Debris deposited along the sides of a glacier is called:",
+   "o": [
+    "Medial moraine",
+    "Esker",
+    "Lateral moraine",
+    "Drumlin"
+   ],
+   "a": 2,
+   "e": "Deposits along the sides are lateral moraines; those in the middle are medial moraines."
+  },
+  {
+   "q": "A steep rocky wall formed by the erosion of sea waves is called:",
+   "o": [
+    "Bar",
+    "Beach",
+    "Cliff",
+    "Spit"
+   ],
+   "a": 2,
+   "e": "Waves pounding the coast form cliffs."
+  },
+  {
+   "q": "A rock pillar standing detached from the coast is called:",
+   "o": [
+    "Tombolo",
+    "Sea cave",
+    "Sea arch",
+    "Sea stack"
+   ],
+   "a": 3,
+   "e": "A sea stack forms when the roof of an arch collapses."
+  },
+  {
+   "q": "When wave erosion hollows a rock right through, what is formed?",
+   "o": [
+    "Sea cave",
+    "Spit",
+    "Beach",
+    "Sea arch"
+   ],
+   "a": 3,
+   "e": "A hole right through forms an arch; a hollow only partly inward is a sea cave."
+  },
+  {
+   "q": "Which of the following is a depositional coastal landform?",
+   "o": [
+    "Spit",
+    "Cliff",
+    "Sea stack",
+    "Sea arch"
+   ],
+   "a": 0,
+   "e": "Beaches, spits, bars and tombolos are formed by deposition."
+  },
+  {
+   "q": "A sand bar connecting an island to the mainland is called:",
+   "o": [
+    "Sea stack",
+    "Cliff",
+    "Tombolo",
+    "Fjord"
+   ],
+   "a": 2,
+   "e": "A tombolo is a strip of sand linking an island to the mainland."
+  },
+  {
+   "q": "Long sand dunes parallel to the coast form most commonly on:",
+   "o": [
+    "Polar coasts",
+    "High rocky coasts",
+    "Tectonic plate boundaries",
+    "Low sedimentary coasts"
+   ],
+   "a": 3,
+   "e": "Depositional features dominate on low sedimentary (emergent) coasts."
+  },
+  {
+   "q": "India's western coastal plain is an example of which type of coast?",
+   "o": [
+    "Volcanic coast",
+    "Emergent coast",
+    "Tectonic coast",
+    "Submerged coast"
+   ],
+   "a": 3,
+   "e": "The west coast is submerged, hence narrow and suited to natural harbours."
+  },
+  {
+   "q": "What is India's eastern coastal plain like?",
+   "o": [
+    "Narrow and volcanic",
+    "Broad and emergent",
+    "Narrow and submerged",
+    "Broad and submerged"
+   ],
+   "a": 1,
+   "e": "The east coast is broad, emergent and depositional."
+  },
+  {
+   "q": "Why are there few natural harbours on the eastern coastal plain?",
+   "o": [
+    "It is an emergent coast",
+    "Few tourists visit it",
+    "It is close to the Equator",
+    "It has no tides"
+   ],
+   "a": 0,
+   "e": "Emergent coasts have shallow water, so natural harbours are few."
+  },
+  {
+   "q": "Which is an example of young fold mountains?",
+   "o": [
+    "Himalayas",
+    "Vindhyas",
+    "Appalachians",
+    "Aravallis"
+   ],
+   "a": 0,
+   "e": "The Himalayas are young fold mountains; the Aravallis are old (residual) fold mountains."
+  },
+  {
+   "q": "Fold mountains are formed by the folding of which rocks?",
+   "o": [
+    "Sedimentary rocks",
+    "Metamorphic rocks only",
+    "Igneous rocks only",
+    "Lava only"
+   ],
+   "a": 0,
+   "e": "Compressional forces fold sedimentary layers to form fold mountains."
+  },
+  {
+   "q": "Which old fold mountains lie in the eastern part of North America?",
+   "o": [
+    "Appalachians",
+    "Rockies",
+    "Andes",
+    "Alps"
+   ],
+   "a": 0,
+   "e": "The Appalachians are old fold mountains; the Rockies are young fold mountains."
+  },
+  {
+   "q": "The Vosges mountains in France are of which type?",
+   "o": [
+    "Block mountains",
+    "Volcanic mountains",
+    "Residual mountains",
+    "Fold mountains"
+   ],
+   "a": 0,
+   "e": "The Vosges are block mountains; the Alps and Rockies are fold mountains."
+  },
+  {
+   "q": "Geomorphic processes are mainly divided into which two categories?",
+   "o": [
+    "Primary and secondary",
+    "Physical and chemical",
+    "Endogenic and exogenic",
+    "Rapid and slow"
+   ],
+   "a": 2,
+   "e": "Endogenic forces build from within; exogenic forces wear down from outside."
+  },
+  {
+   "q": "The endogenic process that builds landforms is called:",
+   "o": [
+    "Denudation",
+    "Diastrophism",
+    "Weathering",
+    "Erosion"
+   ],
+   "a": 1,
+   "e": "Diastrophism builds relief; denudation wears landforms down."
+  },
+  {
+   "q": "The process of mountain building is called:",
+   "o": [
+    "Epeirogenic",
+    "Volcanism",
+    "Denudation",
+    "Orogenic"
+   ],
+   "a": 3,
+   "e": "'Oros' means mountain; orogeny is mountain building."
+  },
+  {
+   "q": "The process of uplift of large parts of the Earth's crust is called:",
+   "o": [
+    "Orogenic",
+    "Epeirogenic",
+    "Erosion",
+    "Weathering"
+   ],
+   "a": 1,
+   "e": "Epeirogeny involves uplift of areas far larger than mountains."
+  },
+  {
+   "q": "What is the main source of energy for exogenic forces?",
+   "o": [
+    "Earth's core",
+    "The Sun",
+    "Radioactivity",
+    "The Moon"
+   ],
+   "a": 1,
+   "e": "Solar heat drives wind, running water and glaciers."
+  },
+  {
+   "q": "The sunken block between two faults is called:",
+   "o": [
+    "Arete",
+    "Graben (rift valley)",
+    "Horst",
+    "Cirque"
+   ],
+   "a": 1,
+   "e": "The uplifted block is called a horst (block mountain)."
+  },
+  {
+   "q": "The Narmada flows between the Vindhyas and the Satpuras through which structure?",
+   "o": [
+    "Rift valley",
+    "V-shaped valley",
+    "Canyon",
+    "U-shaped valley"
+   ],
+   "a": 0,
+   "e": "The Narmada flows westward through a rift valley between the Vindhya and Satpura ranges."
+  },
+  {
+   "q": "Which mountain range is located in South America?",
+   "o": [
+    "Vosges",
+    "Alps",
+    "Andes",
+    "Rockies"
+   ],
+   "a": 2,
+   "e": "The Andes run along the western coast of South America."
+  },
+  {
+   "q": "Which is the longest mountain range in the world?",
+   "o": [
+    "Alps",
+    "Andes",
+    "Rockies",
+    "Himalayas"
+   ],
+   "a": 1,
+   "e": "The Andes, about 7,000 km long, are the world's longest continental mountain range."
+  },
+  {
+   "q": "Which is the highest peak in South America?",
+   "o": [
+    "Mont Blanc",
+    "Mount Denali",
+    "Mount Kilimanjaro",
+    "Mount Aconcagua"
+   ],
+   "a": 3,
+   "e": "Aconcagua lies in the Andes in Argentina."
+  },
+  {
+   "q": "Which is the highest peak of North America?",
+   "o": [
+    "Mount Aconcagua",
+    "Mount Kosciuszko",
+    "Denali (Mount McKinley)",
+    "Mont Blanc"
+   ],
+   "a": 2,
+   "e": "Denali, also called Mount McKinley, lies in the Alaska Range in Alaska."
+  },
+  {
+   "q": "The grasslands of Venezuela are called:",
+   "o": [
+    "Campos",
+    "Savanna",
+    "Pampas",
+    "Llanos"
+   ],
+   "a": 3,
+   "e": "Campos are the grasslands of Brazil."
+  },
+  {
+   "q": "Shifting cultivation in Brazil is known as:",
+   "o": [
+    "Ladang",
+    "Roca",
+    "Milpa",
+    "Jhum"
+   ],
+   "a": 1,
+   "e": "In India it is called jhum."
+  },
+  {
+   "q": "Which is the largest container port in India?",
+   "o": [
+    "Jawaharlal Nehru Port (Nhava Sheva)",
+    "Visakhapatnam",
+    "Kandla",
+    "Chennai"
+   ],
+   "a": 0,
+   "e": "JNPT near Mumbai is also a satellite port of Mumbai."
+  },
+  {
+   "q": "What is a satellite port?",
+   "o": [
+    "A port built to relieve a nearby port that has reached capacity",
+    "A port located on an island",
+    "A port operated by satellite",
+    "A port used only for fishing"
+   ],
+   "a": 0,
+   "e": "JNPT was built when Mumbai port reached its capacity."
+  },
+  {
+   "q": "Deendayal (Kandla) Port is what type of port?",
+   "o": [
+    "Tidal port",
+    "Artificial island port",
+    "Landlocked port",
+    "River port"
+   ],
+   "a": 0,
+   "e": "Kandla is in Gujarat and depends on tides."
+  },
+  {
+   "q": "Mormugao Port is located at the mouth of which river?",
+   "o": [
+    "Mandovi",
+    "Krishna",
+    "Zuari",
+    "Narmada"
+   ],
+   "a": 2,
+   "e": "Mormugao (Goa) is a major iron-ore exporting port."
+  },
+  {
+   "q": "Which port is called the 'Queen of the Arabian Sea'?",
+   "o": [
+    "Kochi",
+    "Mangalore",
+    "Mumbai",
+    "Kandla"
+   ],
+   "a": 0,
+   "e": "Kochi is in Kerala."
+  },
+  {
+   "q": "Which was India's first corporatised major port?",
+   "o": [
+    "Ennore (Kamarajar) Port",
+    "Chennai",
+    "Paradip",
+    "Tuticorin"
+   ],
+   "a": 0,
+   "e": "Ennore is in Tamil Nadu."
+  },
+  {
+   "q": "Which is the deepest landlocked port in India?",
+   "o": [
+    "Visakhapatnam",
+    "Paradip",
+    "Chennai",
+    "Kolkata"
+   ],
+   "a": 0,
+   "e": "Visakhapatnam is in Andhra Pradesh."
+  },
+  {
+   "q": "Paradip Port is in which state?",
+   "o": [
+    "Odisha",
+    "Andhra Pradesh",
+    "West Bengal",
+    "Tamil Nadu"
+   ],
+   "a": 0,
+   "e": "Paradip is the major port of Odisha."
+  },
+  {
+   "q": "Which is the oldest major port of India?",
+   "o": [
+    "Chennai",
+    "Mumbai",
+    "Kolkata",
+    "Kochi"
+   ],
+   "a": 2,
+   "e": "Kolkata is a riverine port."
+  },
+  {
+   "q": "How many major ports does India have?",
+   "o": [
+    "13",
+    "14",
+    "12",
+    "11"
+   ],
+   "a": 0,
+   "e": "Of the 13 major ports, 12 are government-owned and 1 is corporatised."
+  },
+  {
+   "q": "Major ports are under the control of:",
+   "o": [
+    "Panchayats",
+    "Central government",
+    "State government",
+    "Private companies"
+   ],
+   "a": 1,
+   "e": "Minor ports are under state governments."
+  },
+  {
+   "q": "Which are the three major ports of Tamil Nadu?",
+   "o": [
+    "Mormugao, Chennai, Tuticorin",
+    "Kochi, Chennai, Ennore",
+    "Ennore, Chennai, Tuticorin",
+    "Paradip, Chennai, Ennore"
+   ],
+   "a": 2,
+   "e": "All three are on the east coast."
+  },
+  {
+   "q": "Tides are caused by which forces?",
+   "o": [
+    "Earthquakes",
+    "Gravitational pull of the Sun and Moon and centrifugal force",
+    "Wind only",
+    "Ocean currents"
+   ],
+   "a": 1,
+   "e": "Along with gravitation, centrifugal force also causes tides."
+  },
+  {
+   "q": "When do spring tides occur?",
+   "o": [
+    "When the three bodies are at 90°",
+    "Only during eclipses",
+    "When the Earth is farthest from the Sun",
+    "When the Sun, Earth and Moon are in a straight line (syzygy)"
+   ],
+   "a": 3,
+   "e": "At syzygy, high tides are very high and low tides very low."
+  },
+  {
+   "q": "When do neap tides occur?",
+   "o": [
+    "On full moon day",
+    "When the three bodies are in a straight line",
+    "On new moon day",
+    "When the three bodies are in quadrature (90°)"
+   ],
+   "a": 3,
+   "e": "The tidal range is small during neap tides."
+  },
+  {
+   "q": "How many high tides occur in a day in a diurnal tide?",
+   "o": [
+    "Three",
+    "Four",
+    "Two",
+    "One"
+   ],
+   "a": 3,
+   "e": "A semi-diurnal tide has two high and two low tides a day."
+  },
+  {
+   "q": "The duration of a diurnal tidal cycle is about:",
+   "o": [
+    "24 hours 50 minutes",
+    "24 hours",
+    "12 hours",
+    "18 hours"
+   ],
+   "a": 0,
+   "e": "A lunar day is about 24 hours 50 minutes long."
+  },
+  {
+   "q": "A tree-branch-like drainage pattern, common in the northern plains, is called:",
+   "o": [
+    "Radial",
+    "Centripetal",
+    "Dendritic",
+    "Trellis"
+   ],
+   "a": 2,
+   "e": "Tributaries join the main river like branches of a tree."
+  },
+  {
+   "q": "The Narmada and Son rising from Amarkantak is an example of which drainage pattern?",
+   "o": [
+    "Radial",
+    "Centripetal",
+    "Dendritic",
+    "Trellis"
+   ],
+   "a": 0,
+   "e": "In a radial pattern rivers flow outward in all directions from a central high point."
+  },
+  {
+   "q": "Which is an example of a centripetal drainage pattern?",
+   "o": [
+    "Vembanad Lake",
+    "Chilika Lake",
+    "Dal Lake",
+    "Loktak Lake"
+   ],
+   "a": 3,
+   "e": "Rivers drain into a central depression."
+  },
+  {
+   "q": "Which is the world's only floating national park?",
+   "o": [
+    "Kaziranga",
+    "Sundarbans",
+    "Jim Corbett",
+    "Keibul Lamjao"
+   ],
+   "a": 3,
+   "e": "It lies on Loktak Lake in Manipur."
+  },
+  {
+   "q": "In a trellis drainage pattern, how do tributaries join the main river?",
+   "o": [
+    "At 30°",
+    "Parallel to it",
+    "At nearly right angles (90°)",
+    "At 180°"
+   ],
+   "a": 2,
+   "e": "In a trellis pattern secondary tributaries join at right angles."
+  },
+  {
+   "q": "Which landform results from the winding course of a river on a plain?",
+   "o": [
+    "Oxbow lake",
+    "Waterfall",
+    "Desert",
+    "Rift valley"
+   ],
+   "a": 0,
+   "e": "When a meander is cut off, an oxbow lake forms."
+  },
+  {
+   "q": "What are the main causes of river meandering?",
+   "o": [
+    "Gentle slope and Coriolis force",
+    "Steep slope",
+    "Snowfall",
+    "Earthquakes"
+   ],
+   "a": 0,
+   "e": "On the gentle slopes of plains a river winds from side to side."
+  },
+  {
+   "q": "What is the correct order of the three stages of a river?",
+   "o": [
+    "Old age, maturity, youth",
+    "Youth, old age, maturity",
+    "Youth, maturity, old age",
+    "Maturity, youth, old age"
+   ],
+   "a": 2,
+   "e": "Deltas form in the old stage."
+  },
+  {
+   "q": "An entrenched meander is what type of landform?",
+   "o": [
+    "Erosional",
+    "Aeolian",
+    "Volcanic",
+    "Depositional"
+   ],
+   "a": 0,
+   "e": "It forms when a river cuts deep into rock along its meandering course."
+  },
+  {
+   "q": "High waves generated by an undersea earthquake are called:",
+   "o": [
+    "Storm surge",
+    "Cyclone",
+    "Typhoon",
+    "Tsunami"
+   ],
+   "a": 3,
+   "e": "Tsunami is a Japanese word meaning 'harbour waves'."
+  },
+  {
+   "q": "By volume, which is the largest part of the Earth?",
+   "o": [
+    "Mantle (about 84%)",
+    "Crust",
+    "Inner core",
+    "Outer core"
+   ],
+   "a": 0,
+   "e": "The crust is about 1% and the core about 15% of Earth's volume."
+  },
+  {
+   "q": "The continental crust is made of:",
+   "o": [
+    "SIAL (silica + aluminium)",
+    "SIMA",
+    "NIFE",
+    "Iron only"
+   ],
+   "a": 0,
+   "e": "Continental crust is thicker but less dense."
+  },
+  {
+   "q": "The oceanic crust is made of:",
+   "o": [
+    "SIMA (silica + magnesium)",
+    "Carbon only",
+    "NIFE",
+    "SIAL"
+   ],
+   "a": 0,
+   "e": "Oceanic crust is thinner but denser."
+  },
+  {
+   "q": "The Earth's core is made of:",
+   "o": [
+    "NIFE (nickel + iron)",
+    "Silica",
+    "SIAL",
+    "SIMA"
+   ],
+   "a": 0,
+   "e": "Ni = nickel, Fe = ferrum (iron)."
+  },
+  {
+   "q": "The crust and the upper solid part of the mantle together are called:",
+   "o": [
+    "Mesosphere",
+    "Lithosphere",
+    "Outer core",
+    "Asthenosphere"
+   ],
+   "a": 1,
+   "e": "The lithosphere is broken into tectonic plates."
+  },
+  {
+   "q": "What is the asthenosphere like?",
+   "o": [
+    "Completely solid",
+    "Semi-molten",
+    "Completely gaseous",
+    "Completely liquid"
+   ],
+   "a": 1,
+   "e": "Lithospheric plates move over it."
+  },
+  {
+   "q": "Which layer is responsible for the Earth's magnetic field?",
+   "o": [
+    "Outer core",
+    "Crust",
+    "Inner core",
+    "Mantle"
+   ],
+   "a": 0,
+   "e": "The liquid outer core, together with Earth's rotation, generates the magnetic field."
+  },
+  {
+   "q": "Why is the inner core solid?",
+   "o": [
+    "Because of the Moon's influence",
+    "Because of water",
+    "Because of extreme cold",
+    "Because of extremely high pressure"
+   ],
+   "a": 3,
+   "e": "The outer core, under less pressure, is liquid."
+  },
+  {
+   "q": "The point of origin of an earthquake is called:",
+   "o": [
+    "Fault",
+    "Isoseismal",
+    "Epicentre",
+    "Hypocentre (focus)"
+   ],
+   "a": 3,
+   "e": "The epicentre is the point on the surface directly above it."
+  },
+  {
+   "q": "What is the epicentre of an earthquake?",
+   "o": [
+    "A point no waves reach",
+    "The centre of the Earth",
+    "The surface point that waves reach first and where damage is greatest",
+    "A point found only in the sea"
+   ],
+   "a": 2,
+   "e": "It lies on the surface directly above the hypocentre."
+  },
+  {
+   "q": "Seismic waves are mainly divided into which two categories?",
+   "o": [
+    "Primary and secondary",
+    "P and S only",
+    "Body waves and surface waves",
+    "Rayleigh and Love only"
+   ],
+   "a": 2,
+   "e": "Body waves include P and S waves."
+  },
+  {
+   "q": "Which wave travels through solids, liquids and gases?",
+   "o": [
+    "Rayleigh wave",
+    "Love wave",
+    "P wave",
+    "S wave"
+   ],
+   "a": 2,
+   "e": "P waves are the fastest and arrive first."
+  },
+  {
+   "q": "S waves travel through:",
+   "o": [
+    "Gases only",
+    "Solids only",
+    "Liquids only",
+    "All media"
+   ],
+   "a": 1,
+   "e": "S waves cannot pass through the liquid outer core."
+  },
+  {
+   "q": "What is the nature of P waves?",
+   "o": [
+    "Longitudinal",
+    "Transverse",
+    "Electrical",
+    "Surface"
+   ],
+   "a": 0,
+   "e": "They cause compression and rarefaction of the medium."
+  },
+  {
+   "q": "What is the nature of S waves?",
+   "o": [
+    "Electromagnetic",
+    "Longitudinal",
+    "Transverse",
+    "Sound-like"
+   ],
+   "a": 2,
+   "e": "They form crests and troughs."
+  },
+  {
+   "q": "Which seismic waves are the most destructive?",
+   "o": [
+    "Surface waves",
+    "S waves",
+    "P waves",
+    "Body waves"
+   ],
+   "a": 0,
+   "e": "Surface waves travel along the Earth's surface."
+  },
+  {
+   "q": "What are the two types of surface waves?",
+   "o": [
+    "Rayleigh and Love",
+    "P and S",
+    "Focus and epicentre",
+    "Mercalli and Richter"
+   ],
+   "a": 0,
+   "e": "Rayleigh waves roll; Love waves move side to side."
+  },
+  {
+   "q": "The region where S waves are not recorded is called:",
+   "o": [
+    "Subduction zone",
+    "Epicentre",
+    "Fault zone",
+    "Shadow zone"
+   ],
+   "a": 3,
+   "e": "The S-wave shadow zone is much larger than the P-wave shadow zone."
+  },
+  {
+   "q": "The P-wave shadow zone lies roughly between:",
+   "o": [
+    "145° and 180°",
+    "0° and 105°",
+    "105° and 145°",
+    "90° and 120°"
+   ],
+   "a": 2,
+   "e": "The S-wave shadow zone covers everything beyond 105°."
+  },
+  {
+   "q": "The intensity of an earthquake is measured on which scale?",
+   "o": [
+    "Richter scale",
+    "Mercalli scale",
+    "Barometer",
+    "Anemometer"
+   ],
+   "a": 1,
+   "e": "The Mercalli scale ranges from I to XII."
+  },
+  {
+   "q": "What does the Richter scale measure?",
+   "o": [
+    "Earthquake magnitude",
+    "Wind speed",
+    "Humidity",
+    "Air pressure"
+   ],
+   "a": 0,
+   "e": "It has no theoretical upper limit."
+  },
+  {
+   "q": "Which instrument records seismic waves?",
+   "o": [
+    "Anemometer",
+    "Barometer",
+    "Seismograph",
+    "Hygrometer"
+   ],
+   "a": 2,
+   "e": "An anemometer measures wind speed."
+  },
+  {
+   "q": "At about what depth is the mantle-core boundary?",
+   "o": [
+    "2,900 km",
+    "100 km",
+    "6,400 km",
+    "5,100 km"
+   ],
+   "a": 0,
+   "e": "The Earth's radius is about 6,400 km."
+  },
+  {
+   "q": "Which discontinuity lies between the mantle and the core?",
+   "o": [
+    "Gutenberg",
+    "Moho",
+    "Conrad",
+    "Lehmann"
+   ],
+   "a": 0,
+   "e": "Order from surface: Conrad, Moho, Repetti, Gutenberg, Lehmann."
+  },
+  {
+   "q": "Which discontinuity lies between the crust and the mantle?",
+   "o": [
+    "Gutenberg",
+    "Conrad",
+    "Lehmann",
+    "Moho"
+   ],
+   "a": 3,
+   "e": "The Mohorovicic discontinuity is the crust-mantle boundary."
+  },
+  {
+   "q": "Which discontinuity lies between the upper and lower crust?",
+   "o": [
+    "Repetti",
+    "Lehmann",
+    "Conrad",
+    "Moho"
+   ],
+   "a": 2,
+   "e": "The Repetti discontinuity lies between the upper and lower mantle."
+  },
+  {
+   "q": "Which discontinuity lies between the outer and inner core?",
+   "o": [
+    "Conrad",
+    "Lehmann",
+    "Gutenberg",
+    "Moho"
+   ],
+   "a": 1,
+   "e": "Lehmann is the deepest of the major discontinuities."
+  },
+  {
+   "q": "How were the Himalayas formed?",
+   "o": [
+    "By plates moving apart",
+    "By volcanic activity",
+    "By the collision of the Indian and Eurasian plates",
+    "By wind erosion"
+   ],
+   "a": 2,
+   "e": "Sediments of the Tethys Sea were compressed and folded."
+  },
+  {
+   "q": "What kind of boundary is a convergent plate boundary?",
+   "o": [
+    "Constructive",
+    "Conservative",
+    "Passive",
+    "Destructive"
+   ],
+   "a": 3,
+   "e": "The denser plate sinks and melts."
+  },
+  {
+   "q": "What kind of boundary is a divergent plate boundary?",
+   "o": [
+    "Constructive",
+    "Conservative",
+    "Destructive",
+    "Convergent"
+   ],
+   "a": 0,
+   "e": "Magma rises to form new crust."
+  },
+  {
+   "q": "A transform plate boundary is also called a:",
+   "o": [
+    "Destructive boundary",
+    "Constructive boundary",
+    "Convergent boundary",
+    "Conservative boundary"
+   ],
+   "a": 3,
+   "e": "Plates slide past each other without creating or destroying crust."
+  },
+  {
+   "q": "When an oceanic plate and a continental plate collide, which one sinks?",
+   "o": [
+    "Continental plate",
+    "Both rise",
+    "Neither",
+    "Oceanic plate"
+   ],
+   "a": 3,
+   "e": "Being denser, the oceanic plate sinks; this is called a subduction zone."
+  },
+  {
+   "q": "Which is the longest landform in the world?",
+   "o": [
+    "Mid-Atlantic Ridge",
+    "Himalayas",
+    "Great Barrier Reef",
+    "Andes"
+   ],
+   "a": 0,
+   "e": "It lies along a divergent plate boundary."
+  },
+  {
+   "q": "Who proposed the theory of sea-floor spreading?",
+   "o": [
+    "Harry Hess",
+    "Arthur Holmes",
+    "Alfred Wegener",
+    "Cassini"
+   ],
+   "a": 0,
+   "e": "Harry Hess proposed it in 1962."
+  },
+  {
+   "q": "Who proposed the Continental Drift theory, and when?",
+   "o": [
+    "Alfred Wegener, 1912",
+    "Harry Hess, 1962",
+    "Lemaitre, 1927",
+    "Arthur Holmes, 1930"
+   ],
+   "a": 0,
+   "e": "Wegener was a German meteorologist."
+  },
+  {
+   "q": "What name did Wegener give to the single giant landmass?",
+   "o": [
+    "Pangaea",
+    "Panthalassa",
+    "Gondwana",
+    "Laurasia"
+   ],
+   "a": 0,
+   "e": "Panthalassa was the single global ocean."
+  },
+  {
+   "q": "Pangaea split into which two parts?",
+   "o": [
+    "Laurasia and Gondwanaland",
+    "Asia and Europe",
+    "Tethys and Panthalassa",
+    "Atlantis and Lemuria"
+   ],
+   "a": 0,
+   "e": "Laurasia lay to the north and Gondwanaland to the south."
+  },
+  {
+   "q": "Which of the following was NOT evidence for Wegener's drift theory?",
+   "o": [
+    "Direction of ocean currents",
+    "Similar fossils",
+    "Tillite deposits",
+    "Jigsaw fit of continents"
+   ],
+   "a": 0,
+   "e": "Matching gold-bearing deposits (placer deposits) were also cited as evidence."
+  },
+  {
+   "q": "Which forces did Wegener propose for drift, later found inadequate?",
+   "o": [
+    "Pole-fleeing force and tidal force",
+    "Magnetic force",
+    "Ocean currents",
+    "Convection currents"
+   ],
+   "a": 0,
+   "e": "Convection currents were later accepted as the driving mechanism."
+  },
+  {
+   "q": "Who proposed convection currents as the cause of plate movement?",
+   "o": [
+    "Harry Hess",
+    "Wegener",
+    "Arthur Holmes",
+    "Lemaitre"
+   ],
+   "a": 2,
+   "e": "Holmes proposed mantle convection in the 1930s."
+  },
+  {
+   "q": "Where do convection currents get their energy from?",
+   "o": [
+    "Residual heat and radioactive decay",
+    "The Sun",
+    "Tides",
+    "Wind"
+   ],
+   "a": 0,
+   "e": "They are driven by the Earth's internal heat."
+  },
+  {
+   "q": "The peeling off of the outer layers of rock like onion skins due to temperature changes is called:",
+   "o": [
+    "Frost wedging",
+    "Carbonation",
+    "Abrasion",
+    "Exfoliation"
+   ],
+   "a": 3,
+   "e": "It is a form of mechanical weathering."
+  },
+  {
+   "q": "Carbonation is which type of weathering?",
+   "o": [
+    "Mass movement",
+    "Biological",
+    "Chemical",
+    "Mechanical"
+   ],
+   "a": 2,
+   "e": "Carbonic acid formed from CO2 and water dissolves the rock."
+  },
+  {
+   "q": "Which of the following is NOT chemical weathering?",
+   "o": [
+    "Hydration",
+    "Solution",
+    "Oxidation",
+    "Frost wedging"
+   ],
+   "a": 3,
+   "e": "Frost wedging is mechanical weathering."
+  },
+  {
+   "q": "Why is weathering called an 'in situ' process?",
+   "o": [
+    "It goes into the sea",
+    "The rock breaks down in its original place",
+    "The rock is carried far away",
+    "Wind lifts and carries it away"
+   ],
+   "a": 1,
+   "e": "Weathering involves no transportation of material."
+  },
+  {
+   "q": "Breaking of rocks by tree roots or animals is which type of weathering?",
+   "o": [
+    "Frost weathering",
+    "Chemical weathering",
+    "Thermal weathering",
+    "Biological weathering"
+   ],
+   "a": 3,
+   "e": "Rodents, snakes and plant roots are biological agents."
+  },
+  {
+   "q": "Which weathering dominates in karst landforms?",
+   "o": [
+    "Thermal weathering",
+    "Chemical weathering",
+    "Mechanical weathering",
+    "Biological weathering"
+   ],
+   "a": 1,
+   "e": "Groundwater dissolves limestone."
+  },
+  {
+   "q": "What is the main cause of V-shaped valleys in mountain areas?",
+   "o": [
+    "Glacier movement",
+    "Wind erosion",
+    "Sea waves",
+    "River erosion"
+   ],
+   "a": 3,
+   "e": "Glaciers form U-shaped valleys."
+  },
+  {
+   "q": "Which statement about volcanism is correct?",
+   "o": [
+    "It only destroys landforms",
+    "It creates new landforms on the surface",
+    "It requires running water",
+    "It is controlled only by rainfall"
+   ],
+   "a": 1,
+   "e": "It is an endogenic process."
+  },
+  {
+   "q": "The large-scale downslope movement of rock or soil under gravity is called:",
+   "o": [
+    "Weathering",
+    "Deposition",
+    "Erosion",
+    "Mass movement"
+   ],
+   "a": 3,
+   "e": "Weathering helps but is not a prerequisite for mass movement."
+  },
+  {
+   "q": "Which of the following is a rapid mass movement?",
+   "o": [
+    "Creep",
+    "Landslide",
+    "Sheet erosion",
+    "Solifluction"
+   ],
+   "a": 1,
+   "e": "Landslides, avalanches and mudflows are rapid movements."
+  },
+  {
+   "q": "The slow downslope flow of water-saturated soil is called:",
+   "o": [
+    "Landslide",
+    "Solifluction",
+    "Avalanche",
+    "Slump"
+   ],
+   "a": 1,
+   "e": "Solifluction is slow; a slump involves debris rotating backward as it slides."
+  },
+  {
+   "q": "Where do landslides generally occur most?",
+   "o": [
+    "Mountainous regions",
+    "Deltas",
+    "Plains",
+    "Deserts"
+   ],
+   "a": 0,
+   "e": "The Himalayan region is highly prone to landslides."
+  },
+  {
+   "q": "Which continent is called the 'island continent'?",
+   "o": [
+    "Europe",
+    "Antarctica",
+    "Africa",
+    "Australia"
+   ],
+   "a": 3,
+   "e": "Australia is a continent surrounded by water on all sides."
+  },
+  {
+   "q": "An interconnected submarine mountain chain in the oceans, with a central rift and volcanoes, is called:",
+   "o": [
+    "Oceanic trench",
+    "Continental slope",
+    "Mid-oceanic ridge",
+    "Abyssal plain"
+   ],
+   "a": 2,
+   "e": "It forms at divergent plate boundaries where sea-floor spreading occurs."
+  },
+  {
+   "q": "Which is the first part of the ocean floor from the coast, with a gentle slope of 1° or less?",
+   "o": [
+    "Continental rise",
+    "Abyssal plain",
+    "Continental slope",
+    "Continental shelf"
+   ],
+   "a": 3,
+   "e": "Petroleum and minerals are extracted from the shelf."
+  },
+  {
+   "q": "What is the correct order of ocean floor features from the coast towards the deep sea?",
+   "o": [
+    "Abyssal plain, rise, slope, shelf",
+    "Slope, shelf, rise, plain",
+    "Rise, shelf, slope, plain",
+    "Shelf, slope, rise, abyssal plain"
+   ],
+   "a": 3,
+   "e": "Abyssal plains are also called deep-sea plains."
+  },
+  {
+   "q": "A flat-topped submerged mountain in the ocean is called:",
+   "o": [
+    "Guyot",
+    "Trench",
+    "Seamount",
+    "Atoll"
+   ],
+   "a": 0,
+   "e": "A pointed submerged mountain is a seamount; a flat-topped one is a guyot."
+  },
+  {
+   "q": "A ring-shaped coral reef is called:",
+   "o": [
+    "Lagoon",
+    "Guyot",
+    "Fjord",
+    "Atoll"
+   ],
+   "a": 3,
+   "e": "Atolls are ring-shaped coral reefs, as found in Lakshadweep."
+  },
+  {
+   "q": "Which continent has the highest average elevation?",
+   "o": [
+    "Asia",
+    "Africa",
+    "Antarctica",
+    "South America"
+   ],
+   "a": 2,
+   "e": "Its thick ice sheet gives Antarctica the highest average elevation; it is called the White Continent."
+  },
+  {
+   "q": "Which continent has the largest number of countries?",
+   "o": [
+    "Asia",
+    "North America",
+    "Europe",
+    "Africa"
+   ],
+   "a": 3,
+   "e": "Africa has 54 countries, the most of any continent."
+  },
+  {
+   "q": "Which is the highest peak in Africa?",
+   "o": [
+    "Mount Atlas",
+    "Mount Stanley",
+    "Mount Kenya",
+    "Mount Kilimanjaro"
+   ],
+   "a": 3,
+   "e": "Kilimanjaro, a volcanic mountain, is in Tanzania."
+  },
+  {
+   "q": "Which mountain range lies in northern Africa?",
+   "o": [
+    "Drakensberg",
+    "Atlas Mountains",
+    "Rwenzori",
+    "Kilimanjaro"
+   ],
+   "a": 1,
+   "e": "The Atlas Mountains are in north-west Africa."
+  },
+  {
+   "q": "In oceanography, what does 'halocline' mean?",
+   "o": [
+    "A sharp change in temperature with depth",
+    "A decrease in density with depth",
+    "A sharp change in salinity with depth",
+    "A change in pressure with depth"
+   ],
+   "a": 2,
+   "e": "'Halo' means salt; in a thermocline temperature falls sharply with depth."
+  },
+  {
+   "q": "What is a thermocline?",
+   "o": [
+    "A layer of currents",
+    "A layer of salinity",
+    "A layer of pressure",
+    "A layer where temperature falls rapidly with depth"
+   ],
+   "a": 3,
+   "e": "'Thermo' means heat; the thermocline is the layer of rapid temperature decrease."
+  },
+  {
+   "q": "Which ocean has the largest number of trenches?",
+   "o": [
+    "Atlantic Ocean",
+    "Indian Ocean",
+    "Arctic Ocean",
+    "Pacific Ocean"
+   ],
+   "a": 3,
+   "e": "The Pacific has about 32 trenches, the Indian Ocean only about 6."
+  },
+  {
+   "q": "Which is the deepest trench in the world?",
+   "o": [
+    "Puerto Rico Trench",
+    "Tonga Trench",
+    "Mariana Trench",
+    "Sunda Trench"
+   ],
+   "a": 2,
+   "e": "The Mariana Trench in the Pacific is about 11 km deep."
+  },
+  {
+   "q": "Which is the deepest trench in the Indian Ocean?",
+   "o": [
+    "Sunda (Java) Trench",
+    "Puerto Rico",
+    "Romanche",
+    "Mariana"
+   ],
+   "a": 0,
+   "e": "The Sunda (Java) Trench is the deepest in the Indian Ocean, over 7,000 m."
+  },
+  {
+   "q": "For a tropical cyclone to form, the sea surface temperature should be about:",
+   "o": [
+    "Below 10°C",
+    "0°C",
+    "Above 27°C",
+    "15°C"
+   ],
+   "a": 2,
+   "e": "A large warm sea surface, low pressure and the Coriolis force are needed."
+  },
+  {
+   "q": "Which is NOT a condition for the formation of tropical cyclones?",
+   "o": [
+    "Sea temperature above 27°C",
+    "Coriolis force",
+    "A cold ocean current",
+    "A pre-existing low-pressure area"
+   ],
+   "a": 2,
+   "e": "Warm water is needed, not a cold current."
+  },
+  {
+   "q": "The Coriolis effect is also expressed as:",
+   "o": [
+    "Newton's law",
+    "Kepler's law",
+    "Boyle's law",
+    "Ferrel's law"
+   ],
+   "a": 3,
+   "e": "The Coriolis force arises from the Earth's rotation."
+  },
+  {
+   "q": "Where is the Coriolis force maximum and where is it zero?",
+   "o": [
+    "Maximum at the Equator, zero at the poles",
+    "Maximum at both",
+    "Maximum at the poles, zero at the Equator",
+    "Zero at both"
+   ],
+   "a": 2,
+   "e": "It increases with latitude."
+  },
+  {
+   "q": "In the Northern Hemisphere, the Coriolis force deflects winds and currents to the:",
+   "o": [
+    "Right",
+    "Left",
+    "Upward",
+    "Keeps them straight"
+   ],
+   "a": 0,
+   "e": "In the Southern Hemisphere they are deflected to the left."
+  },
+  {
+   "q": "What is the characteristic of the eye of a cyclone?",
+   "o": [
+    "Fog at the centre",
+    "Heaviest rain at the centre",
+    "Snowfall at the centre",
+    "Calm and cloud-free centre"
+   ],
+   "a": 3,
+   "e": "The eye is surrounded by a wall of cumulonimbus clouds."
+  },
+  {
+   "q": "Which clouds mainly form in a cyclone?",
+   "o": [
+    "Altostratus",
+    "Stratus",
+    "Cirrus",
+    "Cumulonimbus"
+   ],
+   "a": 3,
+   "e": "They have great vertical development and an anvil-shaped top."
+  },
+  {
+   "q": "Which grey clouds block sunlight and cause heavy rain?",
+   "o": [
+    "Cumulus",
+    "Cirrus",
+    "Nimbus",
+    "Cirrocumulus"
+   ],
+   "a": 2,
+   "e": "Nimbus clouds are dark, dense clouds that bring heavy rain."
+  },
+  {
+   "q": "Which clouds have a flat base and a cauliflower-like shape?",
+   "o": [
+    "Nimbus",
+    "Cumulus",
+    "Cirrus",
+    "Stratus"
+   ],
+   "a": 1,
+   "e": "Cumulus clouds look like cotton wool."
+  },
+  {
+   "q": "Which feathery, high-altitude clouds are made of ice crystals?",
+   "o": [
+    "Cirrus",
+    "Cumulus",
+    "Stratus",
+    "Nimbus"
+   ],
+   "a": 0,
+   "e": "Cirrus clouds occur at high altitudes of about 8-12 km."
+  },
+  {
+   "q": "In which direction does a cyclone rotate in the Northern Hemisphere?",
+   "o": [
+    "Anticlockwise",
+    "In a straight line",
+    "Clockwise",
+    "It does not rotate"
+   ],
+   "a": 0,
+   "e": "In the Southern Hemisphere cyclones rotate clockwise."
+  },
+  {
+   "q": "An anticyclone forms around which pressure area?",
+   "o": [
+    "Low pressure",
+    "None",
+    "High pressure",
+    "Zero pressure"
+   ],
+   "a": 2,
+   "e": "High pressure brings clear, fair weather."
+  },
+  {
+   "q": "What is the direction of an anticyclone in the Northern Hemisphere?",
+   "o": [
+    "Vertical",
+    "None",
+    "Anticlockwise",
+    "Clockwise"
+   ],
+   "a": 3,
+   "e": "Opposite to a cyclone; anticlockwise in the Southern Hemisphere."
+  },
+  {
+   "q": "How are temperate cyclones formed?",
+   "o": [
+    "By volcanic eruptions",
+    "By warm seas",
+    "By mountains",
+    "By front formation when warm and cold air masses meet"
+   ],
+   "a": 3,
+   "e": "They form by frontogenesis in mid-latitudes and can occur over both land and sea."
+  },
+  {
+   "q": "In which direction do tropical cyclones move?",
+   "o": [
+    "They remain stationary",
+    "North to south",
+    "East to west",
+    "West to east"
+   ],
+   "a": 2,
+   "e": "They move east to west with the trade winds; temperate cyclones move west to east with the westerlies."
+  },
+  {
+   "q": "Where do tropical cyclones form?",
+   "o": [
+    "Only over land",
+    "Over both land and sea",
+    "Only over the sea",
+    "At the poles"
+   ],
+   "a": 2,
+   "e": "Temperate cyclones can form over both land and sea."
+  },
+  {
+   "q": "What happens in an occluded front?",
+   "o": [
+    "Warm air pushes cold air down",
+    "Both remain equal",
+    "Cold air lifts the warm air completely off the ground",
+    "No movement occurs"
+   ],
+   "a": 2,
+   "e": "Cold air, being heavier, stays below and the warm air is lifted up."
+  },
+  {
+   "q": "Who names tropical cyclones?",
+   "o": [
+    "NASA",
+    "India alone",
+    "The UN alone",
+    "WMO and ESCAP (from lists of regional countries)"
+   ],
+   "a": 3,
+   "e": "Names for the north Indian Ocean come from member countries under the WMO/ESCAP Panel."
+  },
+  {
+   "q": "Which is NOT a factor affecting ocean currents?",
+   "o": [
+    "Insolation",
+    "Coriolis force",
+    "Lunar eclipse",
+    "Density differences"
+   ],
+   "a": 2,
+   "e": "Insolation, density, gravity and the Coriolis force affect ocean currents."
+  },
+  {
+   "q": "Which of the following is a cold ocean current?",
+   "o": [
+    "Gulf Stream",
+    "Kuroshio",
+    "Brazil Current",
+    "Peru (Humboldt) Current"
+   ],
+   "a": 3,
+   "e": "Benguela, Canary, California, Peru, Labrador and Falkland are cold currents."
+  },
+  {
+   "q": "The Canary Current is in which ocean?",
+   "o": [
+    "Pacific Ocean",
+    "Arctic Ocean",
+    "Indian Ocean",
+    "Atlantic Ocean"
+   ],
+   "a": 3,
+   "e": "The cold Canary Current flows off the north-west coast of Africa in the Atlantic."
+  },
+  {
+   "q": "Which is the driest desert in the world, and which current is it linked to?",
+   "o": [
+    "Atacama, Peru Current",
+    "Namib, Benguela",
+    "Sahara, Canary",
+    "Mojave, California"
+   ],
+   "a": 0,
+   "e": "The Atacama (Chile-Peru) is the world's driest desert."
+  },
+  {
+   "q": "The Namib Desert has formed because of which cold current?",
+   "o": [
+    "Labrador Current",
+    "Benguela Current",
+    "Peru Current",
+    "Canary Current"
+   ],
+   "a": 1,
+   "e": "The Benguela Current flows along the south-west coast of Africa."
+  },
+  {
+   "q": "Why are deserts mostly found on the western coasts of continents?",
+   "o": [
+    "Cold currents reduce rainfall",
+    "Due to warm currents",
+    "Due to more forests",
+    "Due to more mountains"
+   ],
+   "a": 0,
+   "e": "Cold air holds less moisture, so rainfall is low."
+  },
+  {
+   "q": "What forms where warm and cold ocean currents meet?",
+   "o": [
+    "Rich fishing grounds",
+    "Deep trenches",
+    "Deserts",
+    "Mountains"
+   ],
+   "a": 0,
+   "e": "Examples are Newfoundland (Grand Banks) and Japan; fog, however, hampers ports there."
+  },
+  {
+   "q": "The meeting of the Oyashio and Kuroshio currents creates a fishing ground near:",
+   "o": [
+    "Brazil",
+    "The coast of Japan",
+    "India",
+    "Australia"
+   ],
+   "a": 1,
+   "e": "Warm and cold currents meet here to create rich fishing grounds."
+  },
+  {
+   "q": "Which warm current moderates the climate of Western Europe?",
+   "o": [
+    "Labrador",
+    "North Atlantic Drift",
+    "Benguela",
+    "Peru"
+   ],
+   "a": 1,
+   "e": "The North Atlantic Drift, an extension of the Gulf Stream, keeps Western Europe warm."
+  },
+  {
+   "q": "A large circular system of ocean currents is called a:",
+   "o": [
+    "Lagoon",
+    "Fjord",
+    "Gyre",
+    "Estuary"
+   ],
+   "a": 2,
+   "e": "Large-scale ocean circulation loops are called gyres."
+  },
+  {
+   "q": "Which current flows eastward between the North and South Equatorial Currents?",
+   "o": [
+    "Equatorial Counter Current",
+    "Canary Current",
+    "Peru Current",
+    "Agulhas Current"
+   ],
+   "a": 0,
+   "e": "It flows near the Equator in the opposite direction."
+  },
+  {
+   "q": "What is the main destructive force of a tropical storm in coastal areas?",
+   "o": [
+    "Snowfall",
+    "Storm surge",
+    "Earthquake",
+    "Volcano"
+   ],
+   "a": 1,
+   "e": "The rise of sea water onto the coast during a cyclone is the most destructive."
+  },
+  {
+   "q": "Which of the following does NOT affect the horizontal distribution of air pressure?",
+   "o": [
+    "Earth's rotation",
+    "Temperature",
+    "Altitude",
+    "Sea salinity"
+   ],
+   "a": 3,
+   "e": "Temperature, altitude and rotation affect air pressure; salinity does not."
+  },
+  {
+   "q": "Which river creates a fertile area in the Thar (Great Indian Desert)?",
+   "o": [
+    "Ghaggar",
+    "Beas",
+    "Narmada",
+    "Tapi"
+   ],
+   "a": 0,
+   "e": "The Ghaggar flows through Haryana and Rajasthan."
+  },
+  {
+   "q": "What is the evidence that the Thar was under the sea in the Mesozoic era?",
+   "o": [
+    "Coal mines",
+    "Volcanic ash",
+    "Glacial moraines",
+    "Marine deposits and wood fossils"
+   ],
+   "a": 3,
+   "e": "These show that the region was once under the sea."
+  },
+  {
+   "q": "The 'Ring of Fire' is located in which ocean?",
+   "o": [
+    "Pacific Ocean",
+    "Indian Ocean",
+    "Atlantic Ocean",
+    "Arctic Ocean"
+   ],
+   "a": 0,
+   "e": "Convergent plate boundaries here cause most earthquakes and volcanoes."
+  },
+  {
+   "q": "What is the shape of the Ring of Fire?",
+   "o": [
+    "A circular line",
+    "Triangular",
+    "Horseshoe-shaped",
+    "A straight line"
+   ],
+   "a": 2,
+   "e": "It is a horseshoe-shaped belt around the Pacific rim, including Japan and Indonesia."
+  },
+  {
+   "q": "A volcano with a layered structure is also called a:",
+   "o": [
+    "Strato (composite) volcano",
+    "Shield volcano",
+    "Cinder cone",
+    "Fissure volcano"
+   ],
+   "a": 0,
+   "e": "Composite volcanoes have thick lava and steep slopes."
+  },
+  {
+   "q": "In which volcano does very fluid lava spread far, giving gentle slopes?",
+   "o": [
+    "Cinder cone",
+    "Shield volcano",
+    "Caldera",
+    "Composite volcano"
+   ],
+   "a": 1,
+   "e": "Fluid basaltic lava forms gentle slopes."
+  },
+  {
+   "q": "Which is the most explosive type of volcano?",
+   "o": [
+    "Fissure",
+    "Cinder cone",
+    "Caldera",
+    "Shield"
+   ],
+   "a": 2,
+   "e": "In a caldera, the volcano collapses into itself after a violent eruption."
+  },
+  {
+   "q": "The bowl-shaped depression at the mouth of a volcano is called:",
+   "o": [
+    "Vent",
+    "Crater",
+    "Caldera",
+    "Batholith"
+   ],
+   "a": 1,
+   "e": "The vent is the passage through which lava emerges; the depression at the top is the crater."
+  },
+  {
+   "q": "What is the characteristic of acidic lava?",
+   "o": [
+    "No silica",
+    "Iron only",
+    "High silica and viscous",
+    "Low silica and fluid"
+   ],
+   "a": 2,
+   "e": "Composite volcanoes usually have acidic, viscous lava."
+  },
+  {
+   "q": "Rocks formed by the solidification of magma inside the Earth are called:",
+   "o": [
+    "Extrusive igneous rocks",
+    "Sedimentary rocks",
+    "Intrusive (plutonic) igneous rocks",
+    "Metamorphic rocks"
+   ],
+   "a": 2,
+   "e": "Intrusive igneous rocks form below the surface."
+  },
+  {
+   "q": "A huge dome-shaped mass formed when magma solidifies in the magma chamber itself is called:",
+   "o": [
+    "Dyke",
+    "Batholith",
+    "Laccolith",
+    "Sill"
+   ],
+   "a": 1,
+   "e": "A batholith is the largest dome-shaped intrusive body."
+  },
+  {
+   "q": "A vertical igneous intrusion is called a:",
+   "o": [
+    "Laccolith",
+    "Phacolith",
+    "Dyke",
+    "Sill"
+   ],
+   "a": 2,
+   "e": "A dyke is vertical; a sill is horizontal."
+  },
+  {
+   "q": "An igneous intrusion solidified between horizontal layers is called a:",
+   "o": [
+    "Sill",
+    "Dyke",
+    "Laccolith",
+    "Batholith"
+   ],
+   "a": 0,
+   "e": "A sill lies horizontally between rock layers."
+  },
+  {
+   "q": "Which dome-shaped intrusive body is connected to a pipe-like conduit?",
+   "o": [
+    "Phacolith",
+    "Batholith",
+    "Laccolith",
+    "Lopolith"
+   ],
+   "a": 2,
+   "e": "A laccolith has a flat base and a domed top, fed by a conduit."
+  },
+  {
+   "q": "An igneous body lying in a wavy form along anticlines and synclines is called a:",
+   "o": [
+    "Sill",
+    "Phacolith",
+    "Lopolith",
+    "Dyke"
+   ],
+   "a": 1,
+   "e": "A phacolith is a wavy intrusive body."
+  },
+  {
+   "q": "A saucer-shaped intrusive igneous body, concave towards the sky, is called a:",
+   "o": [
+    "Lopolith",
+    "Sill",
+    "Laccolith",
+    "Phacolith"
+   ],
+   "a": 0,
+   "e": "A lopolith is saucer-shaped with a sunken centre."
+  },
+  {
+   "q": "Rocks are mainly of how many types?",
+   "o": [
+    "Five",
+    "Three: igneous, sedimentary, metamorphic",
+    "Four",
+    "Two"
+   ],
+   "a": 1,
+   "e": "Three types: igneous (primary), sedimentary and metamorphic."
+  },
+  {
+   "q": "Which of the following is an example of igneous rock?",
+   "o": [
+    "Limestone",
+    "Sandstone",
+    "Granite",
+    "Marble"
+   ],
+   "a": 2,
+   "e": "Granite, basalt, gabbro and pumice are igneous rocks."
+  },
+  {
+   "q": "The oceanic crust is mainly made of which rock?",
+   "o": [
+    "Marble",
+    "Limestone",
+    "Granite",
+    "Basalt"
+   ],
+   "a": 3,
+   "e": "Oceanic crust is basaltic; continental crust is granitic."
+  },
+  {
+   "q": "In which rocks are fossils found?",
+   "o": [
+    "Igneous",
+    "Sedimentary",
+    "Metamorphic",
+    "All of these"
+   ],
+   "a": 1,
+   "e": "Sedimentary rocks form in layers, so fossils are preserved in them."
+  },
+  {
+   "q": "The process by which sedimentary rocks are formed is called:",
+   "o": [
+    "Lineation",
+    "Foliation",
+    "Banding",
+    "Lithification"
+   ],
+   "a": 3,
+   "e": "In lithification, sediments are compacted into rock."
+  },
+  {
+   "q": "Which of the following is an example of sedimentary rock?",
+   "o": [
+    "Sandstone",
+    "Marble",
+    "Quartzite",
+    "Granite"
+   ],
+   "a": 0,
+   "e": "Limestone, sandstone and chalk are sedimentary rocks."
+  },
+  {
+   "q": "Which rock is formed by the metamorphism of limestone?",
+   "o": [
+    "Quartzite",
+    "Slate",
+    "Marble",
+    "Gneiss"
+   ],
+   "a": 2,
+   "e": "Sandstone changes to quartzite and granite to gneiss."
+  },
+  {
+   "q": "Which rock is formed by the metamorphism of granite?",
+   "o": [
+    "Gneiss",
+    "Marble",
+    "Slate",
+    "Quartzite"
+   ],
+   "a": 0,
+   "e": "Gneiss is the metamorphosed form of granite."
+  },
+  {
+   "q": "What is formed by the metamorphism of sandstone?",
+   "o": [
+    "Marble",
+    "Chalk",
+    "Quartzite",
+    "Gneiss"
+   ],
+   "a": 2,
+   "e": "Metamorphic rocks include marble, quartzite, slate and gneiss."
+  },
+  {
+   "q": "The arrangement of minerals in lines or layers during metamorphism is called:",
+   "o": [
+    "Lithification",
+    "Banding",
+    "Exfoliation",
+    "Foliation (lineation)"
+   ],
+   "a": 3,
+   "e": "In banding, alternating light and dark bands form."
+  },
+  {
+   "q": "The continuous process by which one rock changes into another is called:",
+   "o": [
+    "Carbon cycle",
+    "Solar cycle",
+    "Rock cycle",
+    "Water cycle"
+   ],
+   "a": 2,
+   "e": "In the rock cycle, igneous, sedimentary and metamorphic rocks keep transforming into one another."
+  },
+  {
+   "q": "What are the three types of sedimentary rocks by mode of formation?",
+   "o": [
+    "Igneous, aquatic, aerial",
+    "Local, national, regional",
+    "Chemical, mechanical (clastic) and organic",
+    "Thermal, pressure, volumetric"
+   ],
+   "a": 2,
+   "e": "Mechanically formed sedimentary rocks are called clastic."
+  },
+  {
+   "q": "Victoria is the capital of which country?",
+   "o": [
+    "Comoros",
+    "Seychelles",
+    "Mauritius",
+    "Madagascar"
+   ],
+   "a": 1,
+   "e": "Port Louis is the capital of Mauritius, Antananarivo of Madagascar and Moroni of Comoros."
+  },
+  {
+   "q": "Mont Blanc is the highest peak of which mountain range?",
+   "o": [
+    "Himalayas",
+    "Andes",
+    "Western Ghats",
+    "Alps"
+   ],
+   "a": 3,
+   "e": "Everest tops the Himalayas, Aconcagua the Andes and Anamudi the Western Ghats."
+  },
+  {
+   "q": "Which strait separates India from Sri Lanka?",
+   "o": [
+    "Bering Strait",
+    "Strait of Hormuz",
+    "Palk Strait",
+    "Strait of Malacca"
+   ],
+   "a": 2,
+   "e": "The Palk Strait connects the Bay of Bengal with Palk Bay."
+  },
+  {
+   "q": "The Strait of Hormuz connects which two water bodies?",
+   "o": [
+    "Persian Gulf and Gulf of Oman",
+    "Arabian Sea and Bay of Bengal",
+    "Red Sea and Mediterranean Sea",
+    "Black Sea and Mediterranean Sea"
+   ],
+   "a": 0,
+   "e": "A strait connects two large water bodies and separates two landmasses."
+  },
+  {
+   "q": "Which is the southernmost nuclear power plant in India?",
+   "o": [
+    "Tarapur",
+    "Kudankulam",
+    "Narora",
+    "Kalpakkam"
+   ],
+   "a": 1,
+   "e": "Kudankulam is in the far south of Tamil Nadu."
+  },
+  {
+   "q": "The Kakrapar Atomic Power Station is in which state?",
+   "o": [
+    "Karnataka",
+    "Rajasthan",
+    "Uttar Pradesh",
+    "Gujarat"
+   ],
+   "a": 3,
+   "e": "Narora is in Uttar Pradesh and Kaiga in Karnataka."
+  },
+  {
+   "q": "Which is the oldest nuclear power plant in India?",
+   "o": [
+    "Kakrapar",
+    "Tarapur",
+    "Kalpakkam",
+    "Narora"
+   ],
+   "a": 1,
+   "e": "Tarapur (Maharashtra) began operating in 1969."
+  },
+  {
+   "q": "In nuclear fission, what is mainly produced when a neutron strikes uranium?",
+   "o": [
+    "Carbon dioxide",
+    "Helium",
+    "Hydrogen",
+    "Barium, krypton and three neutrons"
+   ],
+   "a": 3,
+   "e": "Fission of U-235 releases barium, krypton and three neutrons, sustaining a chain reaction."
+  },
+  {
+   "q": "What is used in a nuclear reactor to slow down neutrons?",
+   "o": [
+    "Cadmium",
+    "Moderator: heavy water or graphite",
+    "Boron",
+    "Potassium"
+   ],
+   "a": 1,
+   "e": "Control rods are made of cadmium or boron."
+  },
+  {
+   "q": "Control rods of a nuclear reactor are made of:",
+   "o": [
+    "Cadmium or boron",
+    "Graphite",
+    "Uranium",
+    "Heavy water"
+   ],
+   "a": 0,
+   "e": "They absorb neutrons to control the chain reaction."
+  },
+  {
+   "q": "What causes convectional rainfall?",
+   "o": [
+    "Air rising due to intense surface heating",
+    "Ocean currents",
+    "Meeting of cold and warm air",
+    "Air striking mountains"
+   ],
+   "a": 0,
+   "e": "Rising warm moist air cools, forms clouds and causes rain."
+  },
+  {
+   "q": "Rainfall caused when air rises along a mountain barrier is called:",
+   "o": [
+    "Cyclonic rainfall",
+    "Orographic (relief) rainfall",
+    "Frontal rainfall",
+    "Convectional rainfall"
+   ],
+   "a": 1,
+   "e": "Monsoon rainfall on the Western Ghats is orographic."
+  },
+  {
+   "q": "Rainfall caused by temperate cyclones is called:",
+   "o": [
+    "Convectional rainfall",
+    "Oceanic rainfall",
+    "Cyclonic (frontal) rainfall",
+    "Orographic rainfall"
+   ],
+   "a": 2,
+   "e": "Frontal rain occurs where cold and warm air masses meet."
+  },
+  {
+   "q": "Pre-monsoon convectional thunderstorms (such as Nor'westers / Kalbaisakhi) mainly occur in:",
+   "o": [
+    "Lakshadweep",
+    "Kashmir",
+    "Eastern India (Bengal, Assam, Jharkhand region)",
+    "Rajasthan"
+   ],
+   "a": 2,
+   "e": "Pre-monsoon thundershowers here are called Nor'westers."
+  },
+  {
+   "q": "Who proposed the Big Bang theory of the origin of the universe?",
+   "o": [
+    "Copernicus",
+    "Laplace",
+    "Georges Lemaitre",
+    "Immanuel Kant"
+   ],
+   "a": 2,
+   "e": "Georges Lemaitre proposed it in 1927."
+  },
+  {
+   "q": "Who proposed the nebular hypothesis of the origin of the Solar System (from a rotating cloud of gas and dust)?",
+   "o": [
+    "Ptolemy",
+    "Hoyle",
+    "Immanuel Kant and Laplace",
+    "Jeans"
+   ],
+   "a": 2,
+   "e": "It is known as the Kant-Laplace nebular hypothesis."
+  },
+  {
+   "q": "How many planets are there in the Solar System?",
+   "o": [
+    "10",
+    "8",
+    "7",
+    "9"
+   ],
+   "a": 1,
+   "e": "There are eight planets; Ceres is a dwarf planet in the asteroid belt."
+  },
+  {
+   "q": "The asteroid belt lies between which two planets?",
+   "o": [
+    "Jupiter and Saturn",
+    "Earth and Mars",
+    "Venus and Earth",
+    "Mars and Jupiter"
+   ],
+   "a": 3,
+   "e": "The asteroid belt separates the terrestrial and Jovian planets."
+  },
+  {
+   "q": "The inner planets are called:",
+   "o": [
+    "Gas giants",
+    "Ice giants",
+    "Terrestrial planets",
+    "Jovian planets"
+   ],
+   "a": 2,
+   "e": "Mercury, Venus, Earth and Mars are rocky, dense terrestrial planets."
+  },
+  {
+   "q": "What is the density of the outer (Jovian) planets like?",
+   "o": [
+    "Low, as they are made of gases",
+    "Very high",
+    "Equal to Earth's",
+    "Zero"
+   ],
+   "a": 0,
+   "e": "Jupiter, Saturn, Uranus and Neptune are large but low-density gas/ice planets."
+  },
+  {
+   "q": "The Galilean moons belong to which planet?",
+   "o": [
+    "Mars",
+    "Saturn",
+    "Jupiter",
+    "Uranus"
+   ],
+   "a": 2,
+   "e": "Io, Europa, Ganymede and Callisto were discovered by Galileo."
+  },
+  {
+   "q": "Which is the largest moon in the Solar System?",
+   "o": [
+    "Europa",
+    "Ganymede",
+    "Titan",
+    "Io"
+   ],
+   "a": 1,
+   "e": "Ganymede is a moon of Jupiter; Titan is Saturn's famous moon."
+  },
+  {
+   "q": "Which is a famous moon of Saturn?",
+   "o": [
+    "Titan",
+    "Phobos",
+    "Triton",
+    "Europa"
+   ],
+   "a": 0,
+   "e": "Titan is Saturn's largest moon."
+  },
+  {
+   "q": "Which planet completes its revolution around the Sun in the shortest time (about 88 days)?",
+   "o": [
+    "Mars",
+    "Venus",
+    "Mercury",
+    "Earth"
+   ],
+   "a": 2,
+   "e": "Mercury is closest to the Sun; Neptune takes about 165 years."
+  },
+  {
+   "q": "Which planet takes the longest time (about 165 years) to revolve around the Sun?",
+   "o": [
+    "Saturn",
+    "Jupiter",
+    "Neptune",
+    "Uranus"
+   ],
+   "a": 2,
+   "e": "Neptune is the farthest planet from the Sun."
+  },
+  {
+   "q": "Which planet rotates on its axis in the shortest time?",
+   "o": [
+    "Jupiter",
+    "Earth",
+    "Venus",
+    "Mercury"
+   ],
+   "a": 0,
+   "e": "Jupiter rotates once in about 9 hours 55 minutes."
+  },
+  {
+   "q": "Which planet takes the longest time (about 243 days) to rotate on its axis?",
+   "o": [
+    "Mars",
+    "Venus",
+    "Earth",
+    "Mercury"
+   ],
+   "a": 1,
+   "e": "Venus has the slowest rotation."
+  },
+  {
+   "q": "Which planet is called Earth's twin?",
+   "o": [
+    "Mercury",
+    "Venus",
+    "Mars",
+    "Saturn"
+   ],
+   "a": 1,
+   "e": "Venus is also called the Morning Star and the Evening Star."
+  },
+  {
+   "q": "Which is the hottest and brightest planet in the Solar System?",
+   "o": [
+    "Mars",
+    "Jupiter",
+    "Venus",
+    "Mercury"
+   ],
+   "a": 2,
+   "e": "Thick sulphuric acid clouds and the greenhouse effect trap heat on Venus."
+  },
+  {
+   "q": "Which two planets rotate from east to west?",
+   "o": [
+    "Mercury and Mars",
+    "Earth and Saturn",
+    "Venus and Uranus",
+    "Jupiter and Neptune"
+   ],
+   "a": 2,
+   "e": "All other planets rotate from west to east."
+  },
+  {
+   "q": "Which planet is called the 'rolling planet'?",
+   "o": [
+    "Saturn",
+    "Mars",
+    "Neptune",
+    "Uranus"
+   ],
+   "a": 3,
+   "e": "Uranus's axis is tilted by about 98°."
+  },
+  {
+   "q": "Which planet has the lowest density, even less than water?",
+   "o": [
+    "Saturn",
+    "Earth",
+    "Jupiter",
+    "Mercury"
+   ],
+   "a": 0,
+   "e": "Saturn's density is about 0.69 g/cm³, less than water."
+  },
+  {
+   "q": "Which planet has the highest density in the Solar System?",
+   "o": [
+    "Mercury",
+    "Venus",
+    "Mars",
+    "Earth"
+   ],
+   "a": 3,
+   "e": "Earth is the densest of all planets."
+  },
+  {
+   "q": "What are the two moons of Mars?",
+   "o": [
+    "Titan and Mimas",
+    "Io and Europa",
+    "Charon and Nix",
+    "Phobos and Deimos"
+   ],
+   "a": 3,
+   "e": "Iron oxide gives Mars its red colour, hence the 'Red Planet'."
+  },
+  {
+   "q": "What percentage of the Earth's surface is covered by water and land respectively?",
+   "o": [
+    "About 71% water and 29% land",
+    "80% water, 20% land",
+    "60% water, 40% land",
+    "50% - 50%"
+   ],
+   "a": 0,
+   "e": "That is why Earth is called the Blue Planet."
+  },
+  {
+   "q": "About what percentage of the Earth's total water is fresh water?",
+   "o": [
+    "About 25%",
+    "About 10%",
+    "About 50%",
+    "About 2.8%"
+   ],
+   "a": 3,
+   "e": "Most water is saline; most fresh water is locked in glaciers and ice caps."
+  },
+  {
+   "q": "Where is the largest share of fresh water (about 68%) stored?",
+   "o": [
+    "Lakes",
+    "Groundwater",
+    "Glaciers and ice caps",
+    "Rivers"
+   ],
+   "a": 2,
+   "e": "Most fresh water exists as ice."
+  },
+  {
+   "q": "Which surface has the highest albedo (reflectivity)?",
+   "o": [
+    "Desert sand",
+    "Forests",
+    "Fresh snow and glaciers",
+    "Oceans"
+   ],
+   "a": 2,
+   "e": "Freshly fallen snow reflects the most sunlight."
+  },
+  {
+   "q": "Who discovered Uranus?",
+   "o": [
+    "William Herschel",
+    "Urbain Le Verrier",
+    "Johann Galle",
+    "Galileo"
+   ],
+   "a": 0,
+   "e": "William Herschel discovered Uranus in 1781."
+  },
+  {
+   "q": "Whose names are associated with the discovery/prediction of Neptune?",
+   "o": [
+    "Cassini",
+    "Galileo",
+    "William Herschel",
+    "Galle and Le Verrier"
+   ],
+   "a": 3,
+   "e": "Le Verrier predicted Neptune and Johann Galle observed it in 1846."
+  },
+  {
+   "q": "Which of these planets is the farthest from the Sun?",
+   "o": [
+    "Neptune",
+    "Jupiter",
+    "Mars",
+    "Saturn"
+   ],
+   "a": 0,
+   "e": "Neptune is the eighth and outermost planet of the Solar System."
+  },
+  {
+   "q": "Which planets are the cold 'ice giants'?",
+   "o": [
+    "Uranus and Neptune",
+    "Earth and Mars",
+    "Jupiter and Saturn",
+    "Mercury and Venus"
+   ],
+   "a": 0,
+   "e": "Jupiter and Saturn are called gas giants."
+  },
+  {
+   "q": "Where is the dwarf planet Ceres located?",
+   "o": [
+    "In Saturn's orbit",
+    "In the asteroid belt",
+    "Beyond the Kuiper Belt",
+    "In Earth's orbit"
+   ],
+   "a": 1,
+   "e": "Ceres is a dwarf planet in the asteroid belt between Mars and Jupiter."
+  },
+  {
+   "q": "Approximately when did Arthur Holmes propose his convection current model?",
+   "o": [
+    "In 1912",
+    "In 1962",
+    "In 1990",
+    "In the 1930s"
+   ],
+   "a": 3,
+   "e": "Wegener's theory came in 1912 and Holmes's convection model in the 1930s."
+  },
+  {
+   "q": "Landslides and land subsidence linked to mining are more common in which type of region?",
+   "o": [
+    "Only on sea coasts",
+    "Only in plains",
+    "In deserts",
+    "In mountainous regions"
+   ],
+   "a": 3,
+   "e": "Landslides associated with mining and subsidence are more frequent on mountain slopes."
+  },
+  {
+   "q": "A sharp, wind-cut ridge in the desert aligned with the wind direction is called:",
+   "o": [
+    "Yardang",
+    "Tarn",
+    "Moraine",
+    "Zeugen"
+   ],
+   "a": 0,
+   "e": "A yardang is a sharp ridge parallel to the wind direction."
+  },
+  {
+   "q": "A flat-topped, table-like rock in the desert is called:",
+   "o": [
+    "Barchan",
+    "Yardang",
+    "Inselberg",
+    "Zeugen"
+   ],
+   "a": 3,
+   "e": "A zeugen is a tabular rock with a hard, flat cap layer."
+  }
+ ]
+}

@@ -22,9 +22,9 @@
    "q": "From which country has India adopted the parliamentary system of government, also called the Westminster model?",
    "o": [
     "Britain (UK)",
-    "USA",
     "Australia",
-    "Ireland"
+    "Ireland",
+    "USA"
    ],
    "a": 0,
    "e": "Westminster is the seat of the British Parliament, hence the name Westminster model."
@@ -32,9 +32,9 @@
   {
    "q": "Which is the supreme forum for discussion and debate on public issues and national policy?",
    "o": [
-    "Election Commission",
     "NITI Aayog",
     "Supreme Court",
+    "Election Commission",
     "Parliament"
    ],
    "a": 3,
@@ -54,42 +54,42 @@
   {
    "q": "In the USA, the principle of judicial review first emerged from which case?",
    "o": [
-    "Brown v. Board of Education",
-    "Marbury v. Madison",
     "Roe v. Wade",
-    "McCulloch v. Maryland"
+    "McCulloch v. Maryland",
+    "Marbury v. Madison",
+    "Brown v. Board of Education"
    ],
-   "a": 1,
+   "a": 2,
    "e": "Judicial review was established in Marbury v. Madison (1803)."
   },
   {
    "q": "Which Part of the Indian Constitution deals with the Union Parliament?",
    "o": [
-    "Part VIII",
     "Part V",
+    "Part VIII",
     "Part VI",
     "Part IV"
    ],
-   "a": 1,
+   "a": 0,
    "e": "Part V deals with the Union, Part VI with the States and Part VIII with Union Territories."
   },
   {
    "q": "Why is Part VII of the Constitution not available?",
    "o": [
-    "It was repealed by the 7th Amendment",
     "It was never added",
-    "It was deleted by the 42nd Amendment",
-    "It was deleted by the 44th Amendment"
+    "It was repealed by the 7th Amendment",
+    "It was deleted by the 44th Amendment",
+    "It was deleted by the 42nd Amendment"
    ],
-   "a": 0,
+   "a": 1,
    "e": "Part VII (Part B States) was repealed by the 7th Amendment (1956)."
   },
   {
    "q": "How many chapters are there in Part V of the Constitution?",
    "o": [
     "6",
-    "4",
     "7",
+    "4",
     "5"
    ],
    "a": 3,
@@ -98,45 +98,45 @@
   {
    "q": "What is the range of Articles in Part V?",
    "o": [
-    "Articles 245 to 263",
-    "Articles 36 to 51",
     "Articles 52 to 151",
-    "Articles 152 to 237"
+    "Articles 36 to 51",
+    "Articles 152 to 237",
+    "Articles 245 to 263"
    ],
-   "a": 2,
+   "a": 0,
    "e": "Part V: Articles 52-151."
   },
   {
    "q": "Chapter I of Part V (The Union Executive) covers which Articles?",
    "o": [
-    "148 to 151",
-    "124 to 147",
     "52 to 78",
-    "79 to 122"
+    "148 to 151",
+    "79 to 122",
+    "124 to 147"
    ],
-   "a": 2,
+   "a": 0,
    "e": "Chapter I, The Executive: Articles 52-78."
   },
   {
    "q": "Parliament is described in which Articles of Part V?",
    "o": [
-    "52 to 78",
-    "79 to 122",
+    "123 to 130",
     "124 to 147",
-    "123 to 130"
+    "52 to 78",
+    "79 to 122"
    ],
-   "a": 1,
+   "a": 3,
    "e": "Chapter II, Parliament: Articles 79-122."
   },
   {
    "q": "The President's power to promulgate ordinances is given in which Article?",
    "o": [
-    "Article 123",
-    "Article 213",
     "Article 111",
-    "Article 124"
+    "Article 124",
+    "Article 123",
+    "Article 213"
    ],
-   "a": 0,
+   "a": 2,
    "e": "Article 123 covers the President's ordinances and Article 213 the Governor's."
   },
   {
@@ -144,128 +144,128 @@
    "o": [
     "123 to 130",
     "214 to 231",
-    "148 to 151",
-    "124 to 147"
+    "124 to 147",
+    "148 to 151"
    ],
-   "a": 3,
+   "a": 2,
    "e": "Chapter IV, Union Judiciary: Articles 124-147."
   },
   {
    "q": "Which Articles deal with the Comptroller and Auditor General (CAG)?",
    "o": [
+    "148 to 151",
     "124 to 147",
-    "233 to 237",
     "52 to 78",
-    "148 to 151"
+    "233 to 237"
    ],
-   "a": 3,
+   "a": 0,
    "e": "Chapter V, CAG: Articles 148-151."
   },
   {
    "q": "Which of the following is NOT a part of the Union Executive?",
    "o": [
-    "President",
-    "Attorney General",
+    "Vice-President",
     "Speaker of Lok Sabha",
-    "Vice-President"
+    "Attorney General",
+    "President"
    ],
-   "a": 2,
+   "a": 1,
    "e": "Union Executive: President, Vice-President, PM and Council of Ministers, Attorney General."
   },
   {
    "q": "Who takes the place of the Attorney General in the State Executive?",
    "o": [
-    "Chief Secretary",
     "Advocate General",
     "Law Secretary",
+    "Chief Secretary",
     "Governor"
    ],
-   "a": 1,
+   "a": 0,
    "e": "States have an Advocate General."
   },
   {
    "q": "Which post in the State Executive is equivalent to the Vice-President?",
    "o": [
-    "No equivalent post exists",
-    "Deputy Chief Minister",
+    "Lieutenant Governor",
     "Speaker of the Assembly",
-    "Lieutenant Governor"
+    "Deputy Chief Minister",
+    "No equivalent post exists"
    ],
-   "a": 0,
+   "a": 3,
    "e": "There is no constitutional post like a Vice-Governor in the states."
   },
   {
    "q": "Which Article describes the constitution of the Indian Parliament?",
    "o": [
-    "Article 79",
     "Article 80",
     "Article 83",
-    "Article 81"
+    "Article 81",
+    "Article 79"
    ],
-   "a": 0,
+   "a": 3,
    "e": "Article 79: Parliament = President + Lok Sabha + Rajya Sabha."
   },
   {
    "q": "Who constitute the Indian Parliament?",
    "o": [
+    "President, Lok Sabha and Rajya Sabha",
     "Only Lok Sabha and Rajya Sabha",
     "Prime Minister, Lok Sabha, Rajya Sabha",
-    "President, Vice-President, Lok Sabha",
-    "President, Lok Sabha and Rajya Sabha"
+    "President, Vice-President, Lok Sabha"
    ],
-   "a": 3,
+   "a": 0,
    "e": "No bill becomes law without the President's assent, so the President is an integral part of Parliament."
   },
   {
    "q": "The composition of the Rajya Sabha is described in which Article?",
    "o": [
-    "Article 81",
-    "Article 82",
     "Article 80",
-    "Article 79"
+    "Article 79",
+    "Article 81",
+    "Article 82"
    ],
-   "a": 2,
+   "a": 0,
    "e": "Article 80 covers the Rajya Sabha and Article 81 the Lok Sabha."
   },
   {
    "q": "The composition of the Lok Sabha is given in which Article?",
    "o": [
+    "Article 84",
     "Article 83",
-    "Article 81",
     "Article 80",
-    "Article 84"
+    "Article 81"
    ],
-   "a": 1,
+   "a": 3,
    "e": "Article 81 lays down the composition of the Lok Sabha."
   },
   {
    "q": "By what other name is the Lok Sabha known?",
    "o": [
-    "Permanent House",
-    "House of the People (First Chamber)",
     "Council of States",
-    "House of Elders"
+    "House of Elders",
+    "Permanent House",
+    "House of the People (First Chamber)"
    ],
-   "a": 1,
+   "a": 3,
    "e": "Lok Sabha = House of the People, Lower House, First Chamber."
   },
   {
    "q": "By which name is the Rajya Sabha NOT known?",
    "o": [
-    "House of the People",
     "Federal Chamber",
+    "Permanent House",
     "House of Elders",
-    "Permanent House"
+    "House of the People"
    ],
-   "a": 0,
+   "a": 3,
    "e": "Rajya Sabha: Council of States, Permanent House, House of Elders, Federal Chamber, Second Chamber."
   },
   {
    "q": "What is the maximum strength of the Rajya Sabha?",
    "o": [
-    "245",
     "552",
     "238",
+    "245",
     "250"
    ],
    "a": 3,
@@ -275,77 +275,77 @@
    "q": "How many members does the President nominate to the Rajya Sabha?",
    "o": [
     "15",
+    "10",
     "2",
-    "12",
-    "10"
+    "12"
    ],
-   "a": 2,
+   "a": 3,
    "e": "12 members are nominated from art, literature, science and social service."
   },
   {
    "q": "From which fields does the President nominate members to the Rajya Sabha?",
    "o": [
-    "Sports, politics, law, education",
     "Industry, agriculture, science, defence",
     "Literature, science, art and social service",
+    "Sports, politics, law, education",
     "Literature, law, commerce, sports"
    ],
-   "a": 2,
+   "a": 1,
    "e": "Mnemonic LASS: Literature, Art, Science, Social service."
   },
   {
    "q": "Allocation of seats in the Rajya Sabha is given in which Schedule?",
    "o": [
     "Sixth Schedule",
+    "Second Schedule",
     "Fourth Schedule",
-    "First Schedule",
-    "Second Schedule"
+    "First Schedule"
    ],
-   "a": 1,
+   "a": 2,
    "e": "The Fourth Schedule allocates Rajya Sabha seats."
   },
   {
    "q": "What is the main basis for allocation of seats in the Rajya Sabha?",
    "o": [
-    "Population of the State/UT",
-    "Literacy rate",
     "Area",
-    "Income of the State"
+    "Population of the State/UT",
+    "Income of the State",
+    "Literacy rate"
    ],
-   "a": 0,
+   "a": 1,
    "e": "Representation is based on population, so UP has the most seats (31)."
   },
   {
    "q": "Which Union Territories are represented in the Rajya Sabha (as per the lecture)?",
    "o": [
+    "Delhi and Puducherry (along with Jammu and Kashmir)",
     "Chandigarh and Lakshadweep",
     "Andaman and Dadra",
-    "Ladakh and Delhi",
-    "Delhi and Puducherry (along with Jammu and Kashmir)"
+    "Ladakh and Delhi"
    ],
-   "a": 3,
+   "a": 0,
    "e": "Only UTs with legislatures (Delhi, Puducherry, Jammu and Kashmir) are represented in the Rajya Sabha."
   },
   {
    "q": "Members of the Rajya Sabha are elected by which system?",
    "o": [
+    "Proportional representation by single transferable vote",
     "List system",
-    "First-past-the-post (FPTP)",
     "Direct adult franchise",
-    "Proportional representation by single transferable vote"
+    "First-past-the-post (FPTP)"
    ],
-   "a": 3,
+   "a": 0,
    "e": "The election is indirect; elected MLAs of the states cast the votes."
   },
   {
    "q": "When was the first sitting of the Lok Sabha and Rajya Sabha held?",
    "o": [
     "6 April 1952",
-    "26 January 1950",
     "13 May 1952",
-    "17 April 1952"
+    "17 April 1952",
+    "26 January 1950"
    ],
-   "a": 2,
+   "a": 1,
    "e": "First sitting on 13 May 1952; Rajya Sabha constituted on 3 April and Lok Sabha on 17 April 1952."
   },
   {
@@ -353,8 +353,8 @@
    "o": [
     "South Africa",
     "Ireland",
-    "Australia",
-    "Germany"
+    "Germany",
+    "Australia"
    ],
    "a": 1,
    "e": "From Ireland (RED): Rajya Sabha nomination, Election of President, DPSP."
@@ -363,9 +363,9 @@
    "q": "The method of election of Rajya Sabha members was borrowed from which country?",
    "o": [
     "South Africa",
-    "USA",
     "Canada",
-    "Ireland"
+    "Ireland",
+    "USA"
    ],
    "a": 0,
    "e": "From South Africa: amendment procedure (Art. 368) and election of Rajya Sabha members."
@@ -375,8 +375,8 @@
    "o": [
     "South Africa",
     "Britain",
-    "Japan",
-    "Ireland"
+    "Ireland",
+    "Japan"
    ],
    "a": 0,
    "e": "South Africa: amendment procedure and election of Rajya Sabha members."
@@ -384,32 +384,32 @@
   {
    "q": "From which country did India borrow the method of election of the President and the DPSP?",
    "o": [
-    "France",
-    "USA",
     "South Africa",
-    "Ireland"
+    "Ireland",
+    "USA",
+    "France"
    ],
-   "a": 3,
+   "a": 1,
    "e": "From Ireland (RED): Rajya Sabha nomination, Election of President, DPSP."
   },
   {
    "q": "The First Schedule deals with what?",
    "o": [
+    "Administration of tribal areas",
     "Allowances and salaries",
     "Oaths",
-    "Names and territories of States and Union Territories",
-    "Administration of tribal areas"
+    "Names and territories of States and Union Territories"
    ],
-   "a": 2,
+   "a": 3,
    "e": "First Schedule: names and territories of States and UTs."
   },
   {
    "q": "What is described in the Second Schedule?",
    "o": [
-    "Oaths",
+    "Defection",
     "Emoluments and allowances of constitutional functionaries",
     "Allocation of Rajya Sabha seats",
-    "Defection"
+    "Oaths"
    ],
    "a": 1,
    "e": "Second Schedule: emoluments of the President, Governors, Speaker, judges, etc."
@@ -419,8 +419,8 @@
    "o": [
     "Panchayat subjects",
     "Forms of oaths/affirmations of various functionaries",
-    "Land reform laws",
-    "Languages"
+    "Languages",
+    "Land reform laws"
    ],
    "a": 1,
    "e": "Third Schedule: forms of oaths and affirmations."
@@ -430,8 +430,8 @@
    "o": [
     "Assam, Meghalaya, Tripura and Mizoram",
     "Arunachal, Assam, Manipur, Mizoram",
-    "Nagaland, Manipur, Sikkim, Assam",
-    "Assam, Bihar, Jharkhand, Odisha"
+    "Assam, Bihar, Jharkhand, Odisha",
+    "Nagaland, Manipur, Sikkim, Assam"
    ],
    "a": 0,
    "e": "The Fifth Schedule covers tribal areas of other states."
@@ -439,152 +439,152 @@
   {
    "q": "Which Schedule of the Citizenship Act, 1955 lays down the qualifications for citizenship by naturalisation?",
    "o": [
+    "Third Schedule",
     "First Schedule",
-    "Fourth Schedule",
     "Tenth Schedule",
-    "Third Schedule"
+    "Fourth Schedule"
    ],
-   "a": 3,
+   "a": 0,
    "e": "Qualifications for naturalisation (Section 6) are in the Third Schedule; the oath is in the Second Schedule."
   },
   {
    "q": "Why do changes in the First and Fourth Schedules not require a constitutional amendment under Art. 368?",
    "o": [
-    "Because Rajya Sabha's consent is not required",
-    "Because the President issues a notification",
+    "Because of Article 3",
     "Under Article 4, such changes are made by simple majority",
-    "Because of Article 3"
+    "Because the President issues a notification",
+    "Because Rajya Sabha's consent is not required"
    ],
-   "a": 2,
+   "a": 1,
    "e": "Article 4: laws under Articles 2 and 3 are not deemed amendments under Art. 368."
   },
   {
    "q": "Reservation of seats for SCs/STs in the Lok Sabha is provided in which Article?",
    "o": [
-    "Article 333",
-    "Article 331",
     "Article 330",
+    "Article 331",
+    "Article 333",
     "Article 332"
    ],
-   "a": 2,
+   "a": 0,
    "e": "Art. 330 for the Lok Sabha and Art. 332 for State Assemblies."
   },
   {
    "q": "Reservation of seats for SCs/STs in State Legislative Assemblies is provided in which Article?",
    "o": [
-    "Article 330",
     "Article 332",
     "Article 334",
-    "Article 331"
+    "Article 331",
+    "Article 330"
    ],
-   "a": 1,
+   "a": 0,
    "e": "Art. 332 provides SC/ST reservation in State Assemblies."
   },
   {
    "q": "What changed in the Lok Sabha/State Assemblies by the 104th Constitutional Amendment?",
    "o": [
+    "OBC reservation increased",
     "Anglo-Indian nomination ended and SC/ST reservation extended by 10 years",
     "EWS reservation introduced",
-    "Women's reservation implemented",
-    "OBC reservation increased"
+    "Women's reservation implemented"
    ],
-   "a": 0,
+   "a": 1,
    "e": "Anglo-Indian nominations under Art. 331 and 333 were discontinued."
   },
   {
    "q": "Under Article 331, how many members of the Anglo-Indian community could the President nominate to the Lok Sabha?",
    "o": [
-    "12",
-    "3",
+    "2",
     "1",
-    "2"
+    "3",
+    "12"
    ],
-   "a": 3,
+   "a": 0,
    "e": "The President could nominate 2; this was ended by the 104th Amendment."
   },
   {
    "q": "Under Article 333, who nominated an Anglo-Indian member to the State Assembly?",
    "o": [
-    "Speaker of the Assembly",
     "President",
-    "Chief Minister",
-    "Governor"
+    "Speaker of the Assembly",
+    "Governor",
+    "Chief Minister"
    ],
-   "a": 3,
+   "a": 2,
    "e": "The Governor could nominate 1 Anglo-Indian; now discontinued."
   },
   {
    "q": "Reservation for SCs/STs and women in Panchayats is provided in which Article?",
    "o": [
     "Article 243E",
-    "Article 243I",
     "Article 243D",
-    "Article 243G"
+    "Article 243G",
+    "Article 243I"
    ],
-   "a": 2,
+   "a": 1,
    "e": "243D: reservation, including one-third seats for women."
   },
   {
    "q": "Reservation in Municipalities is provided in which Article?",
    "o": [
-    "Article 243W",
     "Article 243T",
+    "Article 243W",
     "Article 243U",
     "Article 243D"
    ],
-   "a": 1,
+   "a": 0,
    "e": "243D for Panchayats, 243T for Municipalities."
   },
   {
    "q": "Powers, authority and responsibilities of Panchayats are given in which Article?",
    "o": [
-    "Article 243G",
     "Article 243K",
+    "Article 243J",
     "Article 243E",
-    "Article 243J"
+    "Article 243G"
    ],
-   "a": 0,
+   "a": 3,
    "e": "The corresponding Article for Municipalities is 243W."
   },
   {
    "q": "Audit of accounts of Panchayats is provided in which Article?",
    "o": [
-    "Article 243J",
-    "Article 243I",
     "Article 243K",
-    "Article 243G"
+    "Article 243J",
+    "Article 243G",
+    "Article 243I"
    ],
-   "a": 0,
+   "a": 1,
    "e": "The corresponding Article for Municipalities is 243Z."
   },
   {
    "q": "Wards Committees of Municipalities are provided in which Article?",
    "o": [
-    "Article 243V",
+    "Article 243S",
     "Article 243U",
     "Article 243T",
-    "Article 243S"
+    "Article 243V"
    ],
-   "a": 3,
+   "a": 0,
    "e": "243S: Wards Committees."
   },
   {
    "q": "The duration of Panchayats (5 years) is given in which Article?",
    "o": [
-    "Article 243D",
     "Article 243F",
-    "Article 243E",
-    "Article 243U"
+    "Article 243D",
+    "Article 243U",
+    "Article 243E"
    ],
-   "a": 2,
+   "a": 3,
    "e": "Duration of Municipalities is in Article 243U."
   },
   {
    "q": "Duration of Municipalities is provided in which Article?",
    "o": [
-    "Article 243T",
-    "Article 243U",
     "Article 243S",
+    "Article 243U",
+    "Article 243T",
     "Article 243E"
    ],
    "a": 1,
@@ -593,34 +593,34 @@
   {
    "q": "The State Finance Commission for Panchayats is provided in which Article?",
    "o": [
-    "Article 243K",
     "Article 243I",
+    "Article 243K",
     "Article 243J",
     "Article 243H"
    ],
-   "a": 1,
+   "a": 0,
    "e": "For Municipalities, Article 243Y refers to the State Finance Commission."
   },
   {
    "q": "When was the Mandal Commission (Second Backward Classes Commission) set up?",
    "o": [
-    "1979",
     "1990",
-    "1953",
-    "1992"
+    "1992",
+    "1979",
+    "1953"
    ],
-   "a": 0,
+   "a": 2,
    "e": "Set up in 1979; its recommendations were implemented by the V.P. Singh government in 1990."
   },
   {
    "q": "The Mandal Commission's recommendations were implemented during the tenure of which Prime Minister?",
    "o": [
-    "Chandra Shekhar",
     "P.V. Narasimha Rao",
-    "Rajiv Gandhi",
-    "V.P. Singh (1990)"
+    "V.P. Singh (1990)",
+    "Chandra Shekhar",
+    "Rajiv Gandhi"
    ],
-   "a": 3,
+   "a": 1,
    "e": "The V.P. Singh government implemented them in 1990."
   },
   {
@@ -628,43 +628,43 @@
    "o": [
     "1990",
     "2006",
-    "1992",
-    "1973"
+    "1973",
+    "1992"
    ],
-   "a": 2,
+   "a": 3,
    "e": "The Supreme Court upheld OBC reservation but disallowed reservation in promotions."
   },
   {
    "q": "What did the Supreme Court hold in the Indra Sawhney case?",
    "o": [
     "Reservation is unconstitutional",
+    "The 50% ceiling is abolished",
     "Reservation in promotion is valid",
-    "OBC reservation is valid but not in promotions",
-    "The 50% ceiling is abolished"
+    "OBC reservation is valid but not in promotions"
    ],
-   "a": 2,
+   "a": 3,
    "e": "Later the 77th Amendment inserted Art. 16(4A) allowing reservation in promotion."
   },
   {
    "q": "Article 16(4A) provides reservation for whom?",
    "o": [
-    "OBCs in education",
     "SCs/STs in promotion",
-    "Women",
-    "EWS"
+    "EWS",
+    "OBCs in education",
+    "Women"
    ],
-   "a": 1,
+   "a": 0,
    "e": "Inserted by the 77th Amendment; reservation in promotion."
   },
   {
    "q": "Clause (6) of Article 15 relates to reservation for whom?",
    "o": [
+    "SCs/STs",
     "Economically Weaker Sections (EWS), 10%",
     "Women, 33%",
-    "OBCs, 27%",
-    "SCs/STs"
+    "OBCs, 27%"
    ],
-   "a": 0,
+   "a": 1,
    "e": "Inserted by the 103rd Amendment; Art. 16(6) has a similar provision."
   },
   {
@@ -681,9 +681,9 @@
   {
    "q": "Which clause of Article 15 prohibits restrictions on access to public places?",
    "o": [
-    "Clause (1)",
     "Clause (5)",
     "Clause (3)",
+    "Clause (1)",
     "Clause (2)"
    ],
    "a": 3,
@@ -692,97 +692,97 @@
   {
    "q": "Clause (5) of Article 15 relates to what?",
    "o": [
-    "Special provisions for women",
-    "Reservation in promotion",
     "Special provisions for backward classes in educational institutions",
-    "EWS reservation"
+    "Reservation in promotion",
+    "EWS reservation",
+    "Special provisions for women"
    ],
-   "a": 2,
+   "a": 0,
    "e": "Clause 5: reservation in educational institutions, including private ones."
   },
   {
    "q": "Article 16 deals with what?",
    "o": [
+    "Right to education",
     "Abolition of untouchability",
     "Equality of opportunity in public employment",
-    "Right to education",
     "Right to property"
    ],
-   "a": 1,
+   "a": 2,
    "e": "Under Art. 16(3), Parliament may prescribe residence requirements."
   },
   {
    "q": "Reservation for women in the Lok Sabha and State Legislative Assemblies has been provided by which amendment?",
    "o": [
-    "106th Constitutional Amendment",
     "104th",
+    "106th Constitutional Amendment",
     "73rd",
     "103rd"
    ],
-   "a": 0,
+   "a": 1,
    "e": "One-third seats in the Lok Sabha and State Assemblies, effective after the next census-based delimitation, for 15 years."
   },
   {
    "q": "What percentage of seats is reserved for women under the 106th Amendment?",
    "o": [
-    "33%",
+    "50%",
     "10%",
     "25%",
-    "50%"
+    "33%"
    ],
-   "a": 0,
+   "a": 3,
    "e": "Nari Shakti Vandan Adhiniyam; reservation for 15 years."
   },
   {
    "q": "What is the minimum age for membership of the Lok Sabha?",
    "o": [
+    "25 years",
     "21 years",
-    "35 years",
     "30 years",
-    "25 years"
+    "35 years"
    ],
-   "a": 3,
+   "a": 0,
    "e": "Article 84: Lok Sabha 25 years, Rajya Sabha 30 years."
   },
   {
    "q": "What is the minimum age for membership of the Rajya Sabha?",
    "o": [
-    "40 years",
-    "35 years",
     "30 years",
-    "25 years"
+    "40 years",
+    "25 years",
+    "35 years"
    ],
-   "a": 2,
+   "a": 0,
    "e": "Hence the Rajya Sabha is called the House of Elders."
   },
   {
    "q": "Qualifications for membership of Parliament are given in which Article?",
    "o": [
-    "Article 85",
-    "Article 84",
+    "Article 83",
     "Article 102",
-    "Article 83"
+    "Article 84",
+    "Article 85"
    ],
-   "a": 1,
+   "a": 2,
    "e": "Art. 83 duration, 84 qualifications, 85 summoning of sessions."
   },
   {
    "q": "The anti-defection law was added by which amendment?",
    "o": [
     "42nd Amendment",
-    "52nd Amendment (1985)",
     "44th Amendment",
+    "52nd Amendment (1985)",
     "73rd Amendment"
    ],
-   "a": 1,
+   "a": 2,
    "e": "It added the Tenth Schedule."
   },
   {
    "q": "Which Schedule of the Constitution deals with disqualification on grounds of defection?",
    "o": [
     "Tenth Schedule",
-    "Eleventh Schedule",
     "Ninth Schedule",
+    "Eleventh Schedule",
     "Twelfth Schedule"
    ],
    "a": 0,
@@ -791,23 +791,23 @@
   {
    "q": "Under the anti-defection law, when is an independent MP disqualified for joining a political party?",
    "o": [
-    "One year after election",
-    "Within 6 months",
+    "If he joins at any time",
     "After 6 months",
-    "If he joins at any time"
+    "Within 6 months",
+    "One year after election"
    ],
-   "a": 3,
+   "a": 0,
    "e": "The six-month window applies only to nominated members."
   },
   {
    "q": "When is a nominated member disqualified for joining a political party?",
    "o": [
-    "After 3 months",
-    "Within 6 months",
     "If he joins after 6 months",
+    "Within 6 months",
+    "After 3 months",
     "At any time"
    ],
-   "a": 2,
+   "a": 0,
    "e": "Joining within 6 months of taking the seat does not attract disqualification."
   },
   {
@@ -825,64 +825,64 @@
    "q": "Who generally decides the disqualification of a member on grounds of defection?",
    "o": [
     "Supreme Court",
-    "Presiding Officer of the House (Speaker)",
+    "Election Commission",
     "President",
-    "Election Commission"
+    "Presiding Officer of the House (Speaker)"
    ],
-   "a": 1,
+   "a": 3,
    "e": "The decision is subject to judicial review (Kihoto Hollohan v. Zachillhu, 1992)."
   },
   {
    "q": "In which case was it held that the Speaker's decision on defection is subject to judicial review?",
    "o": [
-    "Kihoto Hollohan v. Zachillhu",
     "Minerva Mills",
     "Kesavananda Bharati",
+    "Kihoto Hollohan v. Zachillhu",
     "Golaknath"
    ],
-   "a": 0,
+   "a": 2,
    "e": "Decided in 1992."
   },
   {
    "q": "The Eleventh Schedule relates to what?",
    "o": [
     "Municipalities (18 subjects)",
-    "Rajya Sabha",
     "Land reforms",
-    "Panchayati Raj (29 subjects)"
+    "Panchayati Raj (29 subjects)",
+    "Rajya Sabha"
    ],
-   "a": 3,
+   "a": 2,
    "e": "Added by the 73rd Amendment (1992); came into force on 24 April 1993."
   },
   {
    "q": "How many functional subjects are there in the Twelfth Schedule?",
    "o": [
-    "29",
     "12",
-    "10",
-    "18"
+    "29",
+    "18",
+    "10"
    ],
-   "a": 3,
+   "a": 2,
    "e": "Added by the 74th Amendment; relates to Municipalities."
   },
   {
    "q": "The Eleventh Schedule was added by which amendment?",
    "o": [
-    "74th Amendment",
-    "42nd Amendment",
     "73rd Amendment",
-    "52nd Amendment"
+    "52nd Amendment",
+    "74th Amendment",
+    "42nd Amendment"
    ],
-   "a": 2,
+   "a": 0,
    "e": "Passed in 1992 and came into force in 1993."
   },
   {
    "q": "The Ninth Schedule relates to what?",
    "o": [
-    "Panchayats",
+    "Defection",
     "Laws relating to land reforms",
     "Languages",
-    "Defection"
+    "Panchayats"
    ],
    "a": 1,
    "e": "Land reform laws are placed in the Ninth Schedule."
@@ -890,54 +890,54 @@
   {
    "q": "Disqualification of an MP is provided in which Article?",
    "o": [
-    "Article 102",
-    "Article 104",
     "Article 103",
-    "Article 101"
+    "Article 101",
+    "Article 104",
+    "Article 102"
    ],
-   "a": 0,
+   "a": 3,
    "e": "Art. 102 disqualifications; Art. 101 vacation of seats."
   },
   {
    "q": "Who has the final say on questions of disqualification of an MP (Art. 103)?",
    "o": [
-    "President (on the opinion of the Election Commission)",
     "Speaker of Lok Sabha",
     "Prime Minister",
+    "President (on the opinion of the Election Commission)",
     "Supreme Court"
    ],
-   "a": 0,
+   "a": 2,
    "e": "The President decides after obtaining the Election Commission's opinion."
   },
   {
    "q": "Which section of the Representation of the People Act, 1951 deals with disqualification on conviction?",
    "o": [
-    "Section 3",
-    "Section 5",
     "Section 6",
-    "Section 8"
+    "Section 5",
+    "Section 8",
+    "Section 3"
    ],
-   "a": 3,
+   "a": 2,
    "e": "Conviction with 2 or more years' sentence disqualifies, plus 6 years after release."
   },
   {
    "q": "Under the RPA 1951, what sentence disqualifies an MP/MLA?",
    "o": [
-    "5 years",
-    "1 year",
+    "6 months",
     "Imprisonment of 2 years or more",
-    "6 months"
+    "5 years",
+    "1 year"
    ],
-   "a": 2,
+   "a": 1,
    "e": "Disqualification continues for 6 years after release."
   },
   {
    "q": "The President's special address is followed by which motion in the House?",
    "o": [
-    "No-confidence motion",
+    "Cut motion",
     "Motion of Thanks",
-    "Adjournment motion",
-    "Cut motion"
+    "No-confidence motion",
+    "Adjournment motion"
    ],
    "a": 1,
    "e": "The Constitution calls it the 'Special Address by the President'."
@@ -945,45 +945,45 @@
   {
    "q": "The President's special address is provided in which Article?",
    "o": [
-    "Article 85",
     "Article 87",
     "Article 86",
+    "Article 85",
     "Article 88"
    ],
-   "a": 1,
+   "a": 0,
    "e": "Art. 86 right to address/send messages; Art. 87 special address."
   },
   {
    "q": "When does the President address both Houses assembled together?",
    "o": [
-    "At the first session after a general election and the first session of each year",
-    "Only in the Budget session",
     "Only in the Winter session",
-    "In every session"
+    "Only in the Budget session",
+    "In every session",
+    "At the first session after a general election and the first session of each year"
    ],
-   "a": 0,
+   "a": 3,
    "e": "The address is drafted by the government (Council of Ministers)."
   },
   {
    "q": "Who prepares the President's address?",
    "o": [
-    "Vice-President",
-    "Speaker of Lok Sabha",
+    "Council of Ministers (Government)",
     "The President himself",
-    "Council of Ministers (Government)"
+    "Vice-President",
+    "Speaker of Lok Sabha"
    ],
-   "a": 3,
+   "a": 0,
    "e": "The President reads it as drafted."
   },
   {
    "q": "What happens if the Motion of Thanks is defeated in the Lok Sabha?",
    "o": [
-    "The Speaker resigns",
     "The Rajya Sabha is dissolved",
-    "The government falls",
-    "The President resigns"
+    "The President resigns",
+    "The Speaker resigns",
+    "The government falls"
    ],
-   "a": 2,
+   "a": 3,
    "e": "It means the government has lost its majority."
   },
   {
@@ -991,51 +991,51 @@
    "o": [
     "Article 85",
     "Article 82",
-    "Article 83",
-    "Article 84"
+    "Article 84",
+    "Article 83"
    ],
-   "a": 2,
+   "a": 3,
    "e": "Art. 83: Rajya Sabha is permanent, Lok Sabha has 5 years."
   },
   {
    "q": "What is the term of a Rajya Sabha member?",
    "o": [
-    "3 years",
-    "6 years",
     "4 years",
-    "5 years"
+    "5 years",
+    "3 years",
+    "6 years"
    ],
-   "a": 1,
+   "a": 3,
    "e": "One-third of members retire every two years."
   },
   {
    "q": "What proportion of Rajya Sabha members retire every 2 years?",
    "o": [
+    "Half",
     "One-third",
-    "One-fourth",
     "All",
-    "Half"
+    "One-fourth"
    ],
-   "a": 0,
+   "a": 1,
    "e": "Hence the Rajya Sabha is never dissolved."
   },
   {
    "q": "The power to summon and prorogue Parliament and dissolve the Lok Sabha is given in which Article?",
    "o": [
-    "Article 84",
+    "Article 85",
     "Article 87",
-    "Article 83",
-    "Article 85"
+    "Article 84",
+    "Article 83"
    ],
-   "a": 3,
+   "a": 0,
    "e": "The President exercises these on the advice of the Council of Ministers."
   },
   {
    "q": "How many sessions of Parliament are usually held in a year?",
    "o": [
     "Two",
-    "Five",
     "Four",
+    "Five",
     "Three"
    ],
    "a": 3,
@@ -1044,20 +1044,20 @@
   {
    "q": "What is the maximum permissible gap between two sessions of Parliament?",
    "o": [
-    "3 months",
-    "1 year",
+    "4 months",
     "6 months",
-    "4 months"
+    "1 year",
+    "3 months"
    ],
-   "a": 2,
+   "a": 1,
    "e": "The gap between two sessions cannot exceed 6 months."
   },
   {
    "q": "Which is the longest session of Parliament?",
    "o": [
-    "Winter session",
-    "Budget session",
     "Monsoon session",
+    "Budget session",
+    "Winter session",
     "Special session"
    ],
    "a": 1,
@@ -1066,86 +1066,86 @@
   {
    "q": "Which is the shortest session of Parliament?",
    "o": [
+    "Budget session",
     "Winter session",
     "Monsoon session",
-    "Budget session",
     "Special session"
    ],
-   "a": 0,
+   "a": 1,
    "e": "The Winter session is held in November-December."
   },
   {
    "q": "Who has the power to dissolve a House?",
    "o": [
-    "President (Lok Sabha only)",
-    "Speaker of Lok Sabha",
     "Vice-President",
+    "Speaker of Lok Sabha",
+    "President (Lok Sabha only)",
     "Prime Minister"
    ],
-   "a": 0,
+   "a": 2,
    "e": "The Rajya Sabha cannot be dissolved."
   },
   {
    "q": "Who has the power to adjourn a sitting of the House?",
    "o": [
-    "Election Commission",
     "Prime Minister",
+    "Presiding Officer",
     "President",
-    "Presiding Officer"
+    "Election Commission"
    ],
-   "a": 3,
+   "a": 1,
    "e": "The Speaker in the Lok Sabha and the Chairman in the Rajya Sabha."
   },
   {
    "q": "Who is the ex-officio Chairman of the Rajya Sabha?",
    "o": [
-    "Speaker of Lok Sabha",
     "President",
-    "Vice-President",
-    "Prime Minister"
+    "Prime Minister",
+    "Speaker of Lok Sabha",
+    "Vice-President"
    ],
-   "a": 2,
+   "a": 3,
    "e": "Articles 64 and 89; he is not a member of either House."
   },
   {
    "q": "What is the quorum of a House?",
    "o": [
-    "1/3",
-    "One-tenth of the total members",
     "1/2",
-    "1/4"
+    "1/4",
+    "One-tenth of the total members",
+    "1/3"
    ],
-   "a": 1,
+   "a": 2,
    "e": "Article 100(3); without quorum the presiding officer may adjourn the House."
   },
   {
    "q": "The quorum of a House is provided in which Article?",
    "o": [
-    "Article 99",
-    "Article 100(3)",
+    "Article 100(1)",
     "Article 101",
-    "Article 100(1)"
+    "Article 100(3)",
+    "Article 99"
    ],
-   "a": 1,
+   "a": 2,
    "e": "Article 100(1) relates to voting in the House."
   },
   {
    "q": "What does 'Adjournment sine die' mean?",
    "o": [
-    "Adjourning the House without fixing a date for the next sitting",
-    "Adjournment to the next day",
     "Dissolution of the House",
-    "Removal of the Speaker"
+    "Removal of the Speaker",
+    "Adjourning the House without fixing a date for the next sitting",
+    "Adjournment to the next day"
    ],
-   "a": 0,
+   "a": 2,
    "e": "No date is fixed for the next sitting."
   },
   {
    "q": "Which judicial doctrine holds that Parliament can amend the Constitution without destroying its basic structure?",
    "o": [
-    "Harmonious construction",
-    "Doctrine of eclipse",
     "Doctrine of severability",
+    "Doctrine of eclipse",
+    "Harmonious construction",
     "Basic structure doctrine"
    ],
    "a": 3,
@@ -1154,10 +1154,10 @@
   {
    "q": "The Doctrine of Severability is related to which Article?",
    "o": [
-    "Article 14",
     "Article 32",
+    "Article 368",
     "Article 13",
-    "Article 368"
+    "Article 14"
    ],
    "a": 2,
    "e": "Only the inconsistent part of a law is struck down, not the entire law."
@@ -1165,23 +1165,23 @@
   {
    "q": "The Doctrine of Eclipse relates to what?",
    "o": [
-    "Ordinances",
-    "Money bills",
+    "Constitutional amendments",
     "Pre-constitutional laws",
-    "Constitutional amendments"
+    "Ordinances",
+    "Money bills"
    ],
-   "a": 2,
+   "a": 1,
    "e": "Pre-constitutional laws inconsistent with Fundamental Rights become dormant (eclipsed)."
   },
   {
    "q": "Which doctrine allows laws implementing DPSP to be read in harmony with Fundamental Rights?",
    "o": [
-    "Basic structure doctrine",
     "Doctrine of harmonious construction",
-    "Doctrine of eclipse",
-    "Severability"
+    "Severability",
+    "Basic structure doctrine",
+    "Doctrine of eclipse"
    ],
-   "a": 1,
+   "a": 0,
    "e": "Doctrine of Harmonious Construction."
   },
   {
@@ -1189,8 +1189,8 @@
    "o": [
     "Article 169",
     "Article 168",
-    "Article 170",
-    "Article 171"
+    "Article 171",
+    "Article 170"
    ],
    "a": 0,
    "e": "No Art. 368 amendment is needed; Parliament acts by ordinary law."
@@ -1198,111 +1198,111 @@
   {
    "q": "Vacation of seats of Members of Parliament is provided in which Article?",
    "o": [
-    "Article 104",
     "Article 102",
-    "Article 99",
-    "Article 101"
+    "Article 101",
+    "Article 104",
+    "Article 99"
    ],
-   "a": 3,
+   "a": 1,
    "e": "Art. 99 oath, 100 voting/quorum, 101 vacation, 102 disqualification, 103 decision, 104 penalty."
   },
   {
    "q": "Oath/affirmation of Members of Parliament is provided in which Article?",
    "o": [
     "Article 100",
-    "Article 101",
     "Article 98",
-    "Article 99"
+    "Article 99",
+    "Article 101"
    ],
-   "a": 3,
+   "a": 2,
    "e": "The Pro-tem Speaker administers the oath to newly elected members."
   },
   {
    "q": "Who administers the oath to members of a new Lok Sabha?",
    "o": [
-    "Prime Minister",
-    "President",
     "Pro-tem Speaker",
-    "Chief Justice"
+    "President",
+    "Chief Justice",
+    "Prime Minister"
    ],
-   "a": 2,
+   "a": 0,
    "e": "The Pro-tem Speaker is temporary and appointed by the President."
   },
   {
    "q": "Who appoints the Pro-tem Speaker?",
    "o": [
-    "Vice-President",
     "President",
+    "Vice-President",
     "Prime Minister",
     "Elected members"
    ],
-   "a": 1,
+   "a": 0,
    "e": "The President also administers the oath to the Pro-tem Speaker."
   },
   {
    "q": "Who was the Pro-tem Speaker of the 18th Lok Sabha?",
    "o": [
-    "Bhartruhari Mahtab",
-    "Kirit Somaiya",
+    "Om Birla",
     "Radha Mohan Singh",
-    "Om Birla"
+    "Kirit Somaiya",
+    "Bhartruhari Mahtab"
    ],
-   "a": 0,
+   "a": 3,
    "e": "He administered oaths; the House then elected Om Birla as Speaker."
   },
   {
    "q": "Election of the Speaker and Deputy Speaker of the Lok Sabha is provided in which Article?",
    "o": [
-    "Article 93",
     "Article 89",
     "Article 97",
-    "Article 94"
+    "Article 94",
+    "Article 93"
    ],
-   "a": 0,
+   "a": 3,
    "e": "Art. 89-92 Rajya Sabha officers, 93-96 Lok Sabha officers."
   },
   {
    "q": "What does Article 96 provide?",
    "o": [
-    "Election of the Speaker",
+    "Speaker/Deputy Speaker not to preside while a resolution for his removal is under consideration",
     "Resignation of the Speaker",
     "Salary of the Speaker",
-    "Speaker/Deputy Speaker not to preside while a resolution for his removal is under consideration"
+    "Election of the Speaker"
    ],
-   "a": 3,
+   "a": 0,
    "e": "Art. 94 covers vacation, resignation and removal."
   },
   {
    "q": "Resignation, vacation and removal of the Speaker and Deputy Speaker are provided in which Article?",
    "o": [
-    "Article 95",
-    "Article 97",
     "Article 94",
-    "Article 93"
+    "Article 93",
+    "Article 97",
+    "Article 95"
    ],
-   "a": 2,
+   "a": 0,
    "e": "Art. 97 covers salaries of the Chairman, Deputy Chairman, Speaker and Deputy Speaker."
   },
   {
    "q": "Salaries and allowances of the Speaker, Deputy Speaker, Chairman and Deputy Chairman are provided in which Article?",
    "o": [
-    "Article 98",
-    "Article 97",
     "Article 94",
-    "Article 96"
+    "Article 96",
+    "Article 98",
+    "Article 97"
    ],
-   "a": 1,
+   "a": 3,
    "e": "Art. 98 deals with the Secretariat of Parliament."
   },
   {
    "q": "To whom does the Speaker of the Lok Sabha submit his resignation?",
    "o": [
-    "President",
-    "Deputy Speaker",
+    "Vice-President",
     "Prime Minister",
-    "Vice-President"
+    "Deputy Speaker",
+    "President"
    ],
-   "a": 1,
+   "a": 2,
    "e": "The Deputy Speaker resigns to the Speaker."
   },
   {
@@ -1310,8 +1310,8 @@
    "o": [
     "Speaker of Lok Sabha",
     "Prime Minister",
-    "Election Commission",
-    "President"
+    "President",
+    "Election Commission"
    ],
    "a": 0,
    "e": "The date of the Speaker's election is fixed by the President."
@@ -1320,33 +1320,33 @@
    "q": "Since when has the post of Deputy Speaker of the Lok Sabha been vacant?",
    "o": [
     "Since 2009",
-    "Since 2014",
     "Since 2024",
-    "Since 2019"
+    "Since 2019",
+    "Since 2014"
    ],
-   "a": 3,
+   "a": 2,
    "e": "It stayed vacant through the 17th Lok Sabha (2019-24) and remains so."
   },
   {
    "q": "The joint sitting is provided in which Article?",
    "o": [
-    "Article 110",
     "Article 107",
     "Article 108",
-    "Article 109"
+    "Article 109",
+    "Article 110"
    ],
-   "a": 2,
+   "a": 1,
    "e": "Art. 107 ordinary bills, 109 money bill procedure, 110 definition."
   },
   {
    "q": "The concept of a joint sitting is borrowed from which country's constitution?",
    "o": [
-    "Britain",
+    "Japan",
     "USA",
-    "Australia",
-    "Japan"
+    "Britain",
+    "Australia"
    ],
-   "a": 2,
+   "a": 3,
    "e": "From Australia: joint sitting, Concurrent List, freedom of trade and commerce."
   },
   {
@@ -1374,20 +1374,20 @@
   {
    "q": "Who presides over a joint sitting?",
    "o": [
-    "Prime Minister",
     "President",
+    "Speaker of Lok Sabha",
     "Chairman of Rajya Sabha",
-    "Speaker of Lok Sabha"
+    "Prime Minister"
    ],
-   "a": 3,
+   "a": 1,
    "e": "In his absence the Deputy Speaker, then the Deputy Chairman; never the Chairman."
   },
   {
    "q": "Why does the Chairman of the Rajya Sabha (Vice-President) not preside over a joint sitting?",
    "o": [
+    "The Constitution expressly forbids it",
     "He is from the Lok Sabha",
     "He is a member of the Rajya Sabha",
-    "The Constitution expressly forbids it",
     "He is not a member of either House"
    ],
    "a": 3,
@@ -1396,53 +1396,53 @@
   {
    "q": "A joint sitting is governed by whose rules?",
    "o": [
+    "Rules of the Lok Sabha",
     "Rules of the Constitution",
     "Orders of the President",
-    "Rules of the Lok Sabha",
     "Rules of the Rajya Sabha"
    ],
-   "a": 2,
+   "a": 0,
    "e": "Decisions are taken by simple majority."
   },
   {
    "q": "How is a bill passed in a joint sitting?",
    "o": [
-    "By special majority",
-    "By simple majority of members present and voting",
     "By 2/3 majority",
-    "By ratification of states"
+    "By special majority",
+    "By ratification of states",
+    "By simple majority of members present and voting"
    ],
-   "a": 1,
+   "a": 3,
    "e": "The Lok Sabha dominates owing to its larger numbers."
   },
   {
    "q": "How many times has a joint sitting been held so far?",
    "o": [
-    "3 times",
     "5 times",
     "7 times",
+    "3 times",
     "Once"
    ],
-   "a": 0,
+   "a": 2,
    "e": "Dowry Prohibition Bill 1961, Banking Service Commission (Repeal) Bill 1978, POTA 2002."
   },
   {
    "q": "On which of the following bills was a joint sitting NOT held?",
    "o": [
-    "Farm Laws Repeal Bill",
-    "Banking Service Commission Bill",
     "Dowry Prohibition Bill",
-    "POTA Bill"
+    "POTA Bill",
+    "Banking Service Commission Bill",
+    "Farm Laws Repeal Bill"
    ],
-   "a": 0,
+   "a": 3,
    "e": "Joint sittings were held in 1961, 1978 and 2002."
   },
   {
    "q": "When was a joint sitting held to pass the POTA (Prevention of Terrorism) Bill?",
    "o": [
     "1961",
-    "1978",
     "1999",
+    "1978",
     "2002"
    ],
    "a": 3,
@@ -1451,10 +1451,10 @@
   {
    "q": "Ordinary bills are provided for in which Article?",
    "o": [
-    "Article 108",
     "Article 109",
+    "Article 110",
     "Article 107",
-    "Article 110"
+    "Article 108"
    ],
    "a": 2,
    "e": "An ordinary bill goes through three readings: first, second and third."
@@ -1462,10 +1462,10 @@
   {
    "q": "When does a deadlock arise over an ordinary bill?",
    "o": [
-    "The first House does not pass it in 3 months",
-    "The other House rejects the bill or takes no action for 6 months",
     "Rajya Sabha does not return it in 14 days",
-    "The President withholds assent"
+    "The other House rejects the bill or takes no action for 6 months",
+    "The President withholds assent",
+    "The first House does not pass it in 3 months"
    ],
    "a": 1,
    "e": "A joint sitting under Art. 108 is called to resolve the deadlock."
@@ -1473,21 +1473,21 @@
   {
    "q": "Every ordinary bill passes through how many readings?",
    "o": [
-    "Five",
     "Three",
+    "Four",
     "Two",
-    "Four"
+    "Five"
    ],
-   "a": 1,
+   "a": 0,
    "e": "First reading: introduction; second: discussion/amendments; third: voting."
   },
   {
    "q": "The President's assent to bills (veto) is provided in which Article?",
    "o": [
     "Article 111",
+    "Article 112",
     "Article 110",
-    "Article 123",
-    "Article 112"
+    "Article 123"
    ],
    "a": 0,
    "e": "The President may give assent, withhold it, or return the bill."
@@ -1495,21 +1495,21 @@
   {
    "q": "Which veto does the Indian President NOT possess?",
    "o": [
+    "Qualified veto",
     "Pocket veto",
     "Absolute veto",
-    "Suspensive veto",
-    "Qualified veto"
+    "Suspensive veto"
    ],
-   "a": 3,
+   "a": 0,
    "e": "The qualified veto is available to the US President."
   },
   {
    "q": "What happens under an absolute veto?",
    "o": [
-    "The bill is returned",
+    "The bill is passed",
     "No response is given",
     "The President withholds assent and the bill ends",
-    "The bill is passed"
+    "The bill is returned"
    ],
    "a": 2,
    "e": "Under suspensive veto the bill is returned; under pocket veto no response is given."
@@ -1517,42 +1517,42 @@
   {
    "q": "What does pocket veto mean?",
    "o": [
-    "Returning the bill",
-    "Cancelling the bill",
+    "Giving assent",
     "The President takes no decision on the bill",
-    "Giving assent"
+    "Cancelling the bill",
+    "Returning the bill"
    ],
-   "a": 2,
+   "a": 1,
    "e": "The Constitution prescribes no time limit for the President's decision."
   },
   {
    "q": "On which bill can the President NOT exercise the suspensive veto?",
    "o": [
-    "Private member's bill",
-    "Money bill",
     "Bill replacing an ordinance",
-    "Ordinary bill"
+    "Ordinary bill",
+    "Private member's bill",
+    "Money bill"
    ],
-   "a": 1,
+   "a": 3,
    "e": "A money bill is introduced only with the President's prior recommendation."
   },
   {
    "q": "Which amendment made it clear that the President has no veto over Constitutional Amendment Bills?",
    "o": [
-    "24th Amendment (1971)",
     "52nd Amendment",
     "44th Amendment",
+    "24th Amendment (1971)",
     "42nd Amendment"
    ],
-   "a": 0,
+   "a": 2,
    "e": "The President is bound to give assent."
   },
   {
    "q": "A bill to change the names, boundaries or areas of states (Art. 3) is introduced in Parliament on whose prior recommendation?",
    "o": [
-    "Governor",
-    "Speaker of Lok Sabha",
     "Prime Minister",
+    "Speaker of Lok Sabha",
+    "Governor",
     "President"
    ],
    "a": 3,
@@ -1562,31 +1562,31 @@
    "q": "Which amendment empowered the President to fix a time limit for the State Legislature's views on an Art. 3 bill?",
    "o": [
     "1st Amendment",
-    "14th Amendment",
+    "5th Amendment (1955)",
     "7th Amendment",
-    "5th Amendment (1955)"
+    "14th Amendment"
    ],
-   "a": 3,
+   "a": 1,
    "e": "The President can specify the period for the State Legislature to respond."
   },
   {
    "q": "Which type of bill can be introduced in the Lok Sabha only on the President's prior recommendation?",
    "o": [
-    "Private bill",
-    "Ordinary bill",
     "Money bill",
-    "Any Rajya Sabha bill"
+    "Private bill",
+    "Any Rajya Sabha bill",
+    "Ordinary bill"
    ],
-   "a": 2,
+   "a": 0,
    "e": "Art. 3 bills also need the President's recommendation."
   },
   {
    "q": "The procedure for money bills is given in which Article?",
    "o": [
-    "Article 108",
-    "Article 109",
     "Article 110",
-    "Article 112"
+    "Article 109",
+    "Article 112",
+    "Article 108"
    ],
    "a": 1,
    "e": "Article 110 defines a money bill."
@@ -1594,21 +1594,21 @@
   {
    "q": "A money bill is defined in which Article?",
    "o": [
-    "Article 110",
-    "Article 111",
     "Article 112",
-    "Article 109"
+    "Article 111",
+    "Article 109",
+    "Article 110"
    ],
-   "a": 0,
+   "a": 3,
    "e": "Article 110 contains the definition of a money bill."
   },
   {
    "q": "In which House can a money bill be introduced?",
    "o": [
     "Only the Lok Sabha",
+    "Either House",
     "In a joint sitting",
-    "Only the Rajya Sabha",
-    "Either House"
+    "Only the Rajya Sabha"
    ],
    "a": 0,
    "e": "The Rajya Sabha can only make recommendations."
@@ -1616,64 +1616,64 @@
   {
    "q": "Within how many days must the Rajya Sabha return a money bill?",
    "o": [
-    "6 months",
-    "7 days",
+    "14 days",
     "30 days",
-    "14 days"
+    "7 days",
+    "6 months"
    ],
-   "a": 3,
+   "a": 0,
    "e": "Otherwise it is deemed passed in the form passed by the Lok Sabha."
   },
   {
    "q": "Who certifies that a bill is a money bill?",
    "o": [
-    "Finance Minister",
+    "President",
     "Chairman of Rajya Sabha",
-    "Speaker of Lok Sabha",
-    "President"
+    "Finance Minister",
+    "Speaker of Lok Sabha"
    ],
-   "a": 2,
+   "a": 3,
    "e": "His decision is final under Art. 110(3), though courts examined it in the Aadhaar case."
   },
   {
    "q": "Which case dealt with the controversy over passing the Aadhaar Act as a money bill?",
    "o": [
-    "Indra Sawhney case",
-    "K.S. Puttaswamy case (Aadhaar case, 2018)",
     "Kesavananda Bharati case",
-    "S.R. Bommai case"
+    "S.R. Bommai case",
+    "Indra Sawhney case",
+    "K.S. Puttaswamy case (Aadhaar case, 2018)"
    ],
-   "a": 1,
+   "a": 3,
    "e": "Puttaswamy is also known for the right to privacy."
   },
   {
    "q": "What power does the Rajya Sabha have over a money bill?",
    "o": [
     "Power to stall it",
+    "Power to reject it",
     "Only to make recommendations",
-    "Power to amend it",
-    "Power to reject it"
+    "Power to amend it"
    ],
-   "a": 1,
+   "a": 2,
    "e": "The Lok Sabha is not bound to accept its recommendations."
   },
   {
    "q": "Who introduces a Private Member's Bill?",
    "o": [
-    "An MP who is not a minister",
-    "Prime Minister",
     "President",
-    "Any minister"
+    "Any minister",
+    "Prime Minister",
+    "An MP who is not a minister"
    ],
-   "a": 0,
+   "a": 3,
    "e": "It is a type of ordinary bill."
   },
   {
    "q": "The Annual Financial Statement (Budget) is provided in which Article?",
    "o": [
-    "Article 110",
-    "Article 115",
     "Article 114",
+    "Article 115",
+    "Article 110",
     "Article 112"
    ],
    "a": 3,
@@ -1682,12 +1682,12 @@
   {
    "q": "In whose name is the Union Budget laid before Parliament?",
    "o": [
-    "Finance Minister",
+    "Speaker of Lok Sabha",
     "Prime Minister",
-    "President",
-    "Speaker of Lok Sabha"
+    "Finance Minister",
+    "President"
    ],
-   "a": 2,
+   "a": 3,
    "e": "The Finance Minister presents it on behalf of the President."
   },
   {
@@ -1705,161 +1705,161 @@
    "q": "What is India's financial year?",
    "o": [
     "1 October to 30 September",
+    "1 July to 30 June",
     "1 April to 31 March",
-    "1 January to 31 December",
-    "1 July to 30 June"
+    "1 January to 31 December"
    ],
-   "a": 1,
+   "a": 2,
    "e": "The Annual Financial Statement covers this period."
   },
   {
    "q": "The Appropriation Bill is provided in which Article?",
    "o": [
-    "Article 114",
-    "Article 117",
+    "Article 112",
     "Article 115",
-    "Article 112"
+    "Article 114",
+    "Article 117"
    ],
-   "a": 0,
+   "a": 2,
    "e": "Without it the government cannot withdraw money from the Consolidated Fund."
   },
   {
    "q": "The Consolidated Fund of India is provided in which Article?",
    "o": [
     "Article 267",
-    "Article 112",
     "Article 114",
-    "Article 266"
+    "Article 266",
+    "Article 112"
    ],
-   "a": 3,
+   "a": 2,
    "e": "Art. 267 deals with the Contingency Fund."
   },
   {
    "q": "Supplementary, additional and excess grants are provided in which Article?",
    "o": [
-    "Article 114",
     "Article 112",
+    "Article 115",
     "Article 117",
-    "Article 115"
+    "Article 114"
    ],
-   "a": 3,
+   "a": 1,
    "e": "These grants are sought when needs arise after the Budget."
   },
   {
    "q": "The Finance Bill is provided in which Article?",
    "o": [
-    "Article 114",
     "Article 115",
     "Article 117",
+    "Article 114",
     "Article 116"
    ],
-   "a": 2,
+   "a": 1,
    "e": "The Finance Bill relates to taxation proposals."
   },
   {
    "q": "Under Article 104, what is the penalty per day for sitting or voting in the House without oath or when disqualified?",
    "o": [
-    "Rs 1000",
     "Rs 500",
+    "Rs 1000",
     "Rs 100",
     "Rs 5000"
    ],
-   "a": 1,
+   "a": 0,
    "e": "The penalty of Rs 500 is levied for each day."
   },
   {
    "q": "Privileges and immunities of Members of Parliament are given in which Article?",
    "o": [
-    "Article 105",
-    "Article 194",
     "Article 104",
-    "Article 106"
+    "Article 106",
+    "Article 194",
+    "Article 105"
    ],
-   "a": 0,
+   "a": 3,
    "e": "An MP is not liable in any court for anything said or any vote given in the House."
   },
   {
    "q": "For how many days before and after a session can no civil proceedings be brought against an MP?",
    "o": [
-    "40 days",
     "60 days",
+    "40 days",
     "30 days",
     "14 days"
    ],
-   "a": 0,
+   "a": 1,
    "e": "This immunity does not extend to criminal cases."
   },
   {
    "q": "How many months' prior notice is required for a civil suit against the President/Governor during the term of office?",
    "o": [
+    "2 months",
     "3 months",
-    "1 month",
     "6 months",
-    "2 months"
+    "1 month"
    ],
-   "a": 3,
+   "a": 0,
    "e": "No criminal proceedings can be instituted against them during their term."
   },
   {
    "q": "Under Article 246, who has exclusive power to make laws on the Union List?",
    "o": [
-    "President",
-    "Supreme Court",
     "Parliament",
-    "State Legislature"
+    "State Legislature",
+    "Supreme Court",
+    "President"
    ],
-   "a": 2,
+   "a": 0,
    "e": "Both can legislate on the Concurrent List; in conflict, Parliament's law prevails."
   },
   {
    "q": "In case of conflict on a Concurrent List subject, when can a state law prevail?",
    "o": [
     "Never",
-    "When the bill reserved by the Governor receives the President's assent",
+    "With the Rajya Sabha's consent",
     "With the Supreme Court's permission",
-    "With the Rajya Sabha's consent"
+    "When the bill reserved by the Governor receives the President's assent"
    ],
-   "a": 1,
+   "a": 3,
    "e": "Art. 254(2); Parliament can still override it later."
   },
   {
    "q": "Reservation of a bill by the Governor for the President's consideration is provided in which Article?",
    "o": [
+    "Article 213",
     "Article 254",
     "Article 200",
-    "Article 213",
     "Article 201"
    ],
-   "a": 1,
+   "a": 2,
    "e": "Art. 200 deals with the Governor's assent to bills."
   },
   {
    "q": "The 'Doctrine of Repugnancy' regarding conflict between Union and State laws is in which Article?",
    "o": [
-    "Article 254",
     "Article 249",
-    "Article 253",
-    "Article 246"
+    "Article 246",
+    "Article 254",
+    "Article 253"
    ],
-   "a": 0,
+   "a": 2,
    "e": "It relates to Concurrent List subjects."
   },
   {
    "q": "What did the Supreme Court hold in the Kesavananda Bharati case (1973)?",
    "o": [
-    "The President can change the basic structure",
     "Parliament cannot change Fundamental Rights",
     "Parliament cannot make any amendment",
-    "Parliament can amend the Constitution but cannot alter its basic structure"
+    "Parliament can amend the Constitution but cannot alter its basic structure",
+    "The President can change the basic structure"
    ],
-   "a": 3,
+   "a": 2,
    "e": "The term 'basic structure' does not appear in the Constitution."
   },
   {
    "q": "In how many situations can Parliament legislate on a State List subject (as per the lecture)?",
    "o": [
-    "4",
     "6",
+    "4",
     "5",
     "3"
    ],
@@ -1869,10 +1869,10 @@
   {
    "q": "Which Article allows the Rajya Sabha to empower Parliament to legislate on the State List in the national interest?",
    "o": [
-    "Article 252",
     "Article 250",
+    "Article 253",
     "Article 249",
-    "Article 253"
+    "Article 252"
    ],
    "a": 2,
    "e": "The Rajya Sabha passes a resolution by 2/3 of members present and voting."
@@ -1882,8 +1882,8 @@
    "o": [
     "Article 356",
     "Article 250",
-    "Article 249",
-    "Article 352"
+    "Article 352",
+    "Article 249"
    ],
    "a": 1,
    "e": "A National Emergency is proclaimed under Article 352."
@@ -1903,29 +1903,29 @@
    "q": "Under which Article does Parliament legislate on the State List to implement international treaties?",
    "o": [
     "Article 252",
-    "Article 249",
+    "Article 253",
     "Article 250",
-    "Article 253"
+    "Article 249"
    ],
-   "a": 3,
+   "a": 1,
    "e": "Art. 253: international agreements and conventions."
   },
   {
    "q": "President's Rule is imposed under which Article?",
    "o": [
-    "Article 365",
     "Article 352",
-    "Article 360",
-    "Article 356"
+    "Article 356",
+    "Article 365",
+    "Article 360"
    ],
-   "a": 3,
+   "a": 1,
    "e": "National Emergency 352, Financial Emergency 360."
   },
   {
    "q": "How long does a law made under Article 250 remain in force?",
    "o": [
-    "1 year",
     "2 years",
+    "1 year",
     "Up to 6 months after the emergency ceases",
     "Until the emergency ends"
    ],
@@ -1935,10 +1935,10 @@
   {
    "q": "Which parliamentary committee is a financial committee?",
    "o": [
-    "Rules Committee",
+    "Committee of Privileges",
     "Public Accounts Committee",
     "Committee on Petitions",
-    "Committee of Privileges"
+    "Rules Committee"
    ],
    "a": 1,
    "e": "Three financial committees: Public Accounts, Estimates, Public Undertakings."
@@ -1946,56 +1946,56 @@
   {
    "q": "Which are the three financial committees?",
    "o": [
-    "Public Accounts, Estimates and Public Undertakings Committees",
     "Public Undertakings, Rules, Business Advisory",
-    "Public Accounts, Petitions, Rules",
-    "Estimates, Privileges, Ethics"
+    "Public Accounts, Estimates and Public Undertakings Committees",
+    "Estimates, Privileges, Ethics",
+    "Public Accounts, Petitions, Rules"
    ],
-   "a": 0,
+   "a": 1,
    "e": "These are standing committees."
   },
   {
    "q": "Members of the Departmentally Related Standing Committees are nominated by whom?",
    "o": [
-    "Presiding Officers (Speaker/Chairman)",
-    "Prime Minister",
+    "President",
     "Election Commission",
-    "President"
+    "Prime Minister",
+    "Presiding Officers (Speaker/Chairman)"
    ],
-   "a": 0,
+   "a": 3,
    "e": "Standing committees are permanent; ad hoc committees are temporary."
   },
   {
    "q": "What is a temporary parliamentary committee called?",
    "o": [
-    "Finance Committee",
-    "Business Advisory Committee",
+    "Ad hoc Committee",
     "Standing Committee",
-    "Ad hoc Committee"
+    "Finance Committee",
+    "Business Advisory Committee"
    ],
-   "a": 3,
+   "a": 0,
    "e": "A standing committee functions continuously."
   },
   {
    "q": "When was the Public Accounts Committee (PAC) first set up?",
    "o": [
-    "1935",
-    "1964",
     "1921 (under the Government of India Act 1919)",
-    "1950"
+    "1950",
+    "1935",
+    "1964"
    ],
-   "a": 2,
+   "a": 0,
    "e": "After independence it was first constituted in 1950."
   },
   {
    "q": "How many members are there in the Public Accounts Committee?",
    "o": [
-    "22 (all from Lok Sabha)",
     "22 (15 Lok Sabha + 7 Rajya Sabha)",
+    "22 (all from Lok Sabha)",
     "15 (10 Lok Sabha + 5 Rajya Sabha)",
     "30 (all from Lok Sabha)"
    ],
-   "a": 1,
+   "a": 0,
    "e": "Term 1 year; a minister cannot be a member."
   },
   {
@@ -2013,9 +2013,9 @@
    "q": "On whose recommendation was the Estimates Committee set up in 1950?",
    "o": [
     "John Mathai",
-    "K.C. Neogy",
+    "C.D. Deshmukh",
     "Krishna Menon",
-    "C.D. Deshmukh"
+    "K.C. Neogy"
    ],
    "a": 0,
    "e": "John Mathai was then the Finance Minister."
@@ -2023,56 +2023,56 @@
   {
    "q": "The Committee on Public Undertakings (COPU) was set up on whose recommendation?",
    "o": [
-    "John Mathai Committee",
-    "Sarkaria Commission",
     "Santhanam Committee",
-    "Krishna Menon Committee"
+    "Krishna Menon Committee",
+    "John Mathai Committee",
+    "Sarkaria Commission"
    ],
-   "a": 3,
+   "a": 1,
    "e": "It has 22 members (15 Lok Sabha + 7 Rajya Sabha)."
   },
   {
    "q": "Who was the chairman of the First Finance Commission?",
    "o": [
-    "Krishna Menon",
     "C.D. Deshmukh",
     "K.C. Neogy",
-    "John Mathai"
+    "John Mathai",
+    "Krishna Menon"
    ],
-   "a": 2,
+   "a": 1,
    "e": "K.C. Neogy headed the First Finance Commission in 1951."
   },
   {
    "q": "What is the main purpose of a parliamentary committee?",
    "o": [
-    "To amend the Constitution",
     "To conduct elections across the country",
     "To examine bills and policies in detail",
-    "To appoint executive officers"
+    "To appoint executive officers",
+    "To amend the Constitution"
    ],
-   "a": 2,
+   "a": 1,
    "e": "Elections are held by the Election Commission; amendments are made by Parliament."
   },
   {
    "q": "The Delimitation Commission is constituted under which Article?",
    "o": [
+    "Article 170",
     "Article 83",
     "Article 82",
-    "Article 170",
     "Article 81"
    ],
-   "a": 1,
+   "a": 2,
    "e": "After each census Parliament enacts a Delimitation Act and a commission is set up."
   },
   {
    "q": "In which years have Delimitation Commission Acts been enacted?",
    "o": [
-    "1952, 1962, 1972, 2002",
-    "1950, 1960, 1970, 2000",
     "1951, 1961, 1971, 2001",
-    "1952, 1963, 1973, 2001"
+    "1952, 1963, 1973, 2001",
+    "1950, 1960, 1970, 2000",
+    "1952, 1962, 1972, 2002"
    ],
-   "a": 0,
+   "a": 3,
    "e": "Four commissions have been set up."
   },
   {
@@ -2080,52 +2080,52 @@
    "o": [
     "84th Amendment",
     "44th Amendment",
-    "87th Amendment",
-    "42nd Amendment"
+    "42nd Amendment",
+    "87th Amendment"
    ],
-   "a": 3,
+   "a": 2,
    "e": "Seats were frozen on the basis of the 1971 Census."
   },
   {
    "q": "Which amendment extended the freeze on delimitation until 2026?",
    "o": [
-    "87th Amendment",
-    "42nd Amendment",
     "91st Amendment",
-    "84th Amendment (2001)"
+    "84th Amendment (2001)",
+    "42nd Amendment",
+    "87th Amendment"
    ],
-   "a": 3,
+   "a": 1,
    "e": "The freeze lasts until the first census after 2026."
   },
   {
    "q": "Internal readjustment of constituencies on the basis of the 2001 Census was made possible by which amendment?",
    "o": [
-    "84th Amendment",
+    "42nd Amendment",
     "73rd Amendment",
-    "87th Amendment",
-    "42nd Amendment"
+    "84th Amendment",
+    "87th Amendment"
    ],
-   "a": 2,
+   "a": 3,
    "e": "The number of seats was unchanged; only boundaries changed."
   },
   {
    "q": "To whom has the Constitution given the power to define the powers and privileges of MPs?",
    "o": [
     "Supreme Court",
-    "Parliament itself",
     "Election Commission",
-    "President"
+    "President",
+    "Parliament itself"
    ],
-   "a": 1,
+   "a": 3,
    "e": "Art. 105(3) lets Parliament define them by law."
   },
   {
    "q": "How many chapters are there in Part VI of the Constitution?",
    "o": [
     "6",
-    "4",
+    "7",
     "5",
-    "7"
+    "4"
    ],
    "a": 0,
    "e": "Part VI deals with the States."
@@ -2133,30 +2133,30 @@
   {
    "q": "What is the range of Articles in Part VI (The States)?",
    "o": [
-    "152 to 237",
+    "238 to 243",
     "52 to 151",
     "245 to 263",
-    "238 to 243"
+    "152 to 237"
    ],
-   "a": 0,
+   "a": 3,
    "e": "Article 152 defines 'State'."
   },
   {
    "q": "What is defined in Chapter I of Part VI?",
    "o": [
-    "The Governor",
     "The Legislative Assembly",
-    "The High Court",
-    "The term 'State'"
+    "The Governor",
+    "The term 'State'",
+    "The High Court"
    ],
-   "a": 3,
+   "a": 2,
    "e": "'State' has a different meaning in Parts III and IV."
   },
   {
    "q": "The State Legislature is described in which Articles?",
    "o": [
-    "213",
     "153 to 167",
+    "213",
     "168 to 212",
     "214 to 231"
    ],
@@ -2167,55 +2167,55 @@
    "q": "The Governor's power to promulgate ordinances is in which Article?",
    "o": [
     "Article 123",
-    "Article 213",
     "Article 200",
+    "Article 213",
     "Article 202"
    ],
-   "a": 1,
+   "a": 2,
    "e": "Formula: add 90 to the President's Article (123 + 90)."
   },
   {
    "q": "High Courts are described in which Articles?",
    "o": [
-    "233 to 237",
     "214 to 231",
     "124 to 147",
+    "233 to 237",
     "152 to 167"
    ],
-   "a": 1,
+   "a": 0,
    "e": "Part VI, Chapter V."
   },
   {
    "q": "Subordinate courts are described in which Articles?",
    "o": [
-    "233 to 237",
-    "124 to 147",
+    "148 to 151",
     "214 to 231",
-    "148 to 151"
+    "124 to 147",
+    "233 to 237"
    ],
-   "a": 0,
+   "a": 3,
    "e": "Part VI, Chapter VI."
   },
   {
    "q": "Why is there no CAG-like post at the state level?",
    "o": [
-    "The Finance Commission does its work",
     "The Advocate General does it",
+    "There is no separate CAG for states at all",
     "States do not get audited",
-    "There is no separate CAG for states at all"
+    "The Finance Commission does its work"
    ],
-   "a": 3,
+   "a": 1,
    "e": "The last chapter of Part V is on the CAG; Part VI has no counterpart."
   },
   {
    "q": "Who generally makes laws on police, public health and agriculture?",
    "o": [
-    "Parliament",
-    "Supreme Court",
+    "President",
     "State Legislature",
-    "President"
+    "Supreme Court",
+    "Parliament"
    ],
-   "a": 2,
+   "a": 1,
    "e": "These are State List subjects."
   },
   {
@@ -2233,30 +2233,30 @@
    "q": "What is the minimum strength of a State Legislative Assembly?",
    "o": [
     "50",
+    "40",
     "60",
-    "30",
-    "40"
+    "30"
    ],
-   "a": 1,
+   "a": 2,
    "e": "Exceptions: Sikkim 32, Goa 40, Mizoram 40 (Puducherry UT 30)."
   },
   {
    "q": "Which of the following states has fewer than 60 seats in its Legislative Assembly?",
    "o": [
-    "Goa",
-    "Arunachal Pradesh",
     "Nagaland",
-    "Meghalaya"
+    "Meghalaya",
+    "Goa",
+    "Arunachal Pradesh"
    ],
-   "a": 0,
+   "a": 2,
    "e": "Goa 40, Mizoram 40, Sikkim 32; Arunachal, Meghalaya, Nagaland have 60."
   },
   {
    "q": "How many seats are there in the Sikkim Legislative Assembly?",
    "o": [
     "30",
-    "60",
     "40",
+    "60",
     "32"
    ],
    "a": 3,
@@ -2265,67 +2265,67 @@
   {
    "q": "What is the minimum strength of a State Legislative Council?",
    "o": [
-    "50",
-    "60",
+    "40",
     "30",
-    "40"
+    "60",
+    "50"
    ],
-   "a": 3,
+   "a": 0,
    "e": "Legislative Council: minimum 40, maximum one-third of the Assembly's strength."
   },
   {
    "q": "Which Union Territories have Legislative Assemblies?",
    "o": [
+    "Puducherry, Ladakh, Lakshadweep",
     "Delhi, Chandigarh, Ladakh",
     "Delhi, Andaman and Nicobar, Goa",
-    "Delhi, Puducherry and Jammu and Kashmir",
-    "Puducherry, Ladakh, Lakshadweep"
+    "Delhi, Puducherry and Jammu and Kashmir"
    ],
-   "a": 2,
+   "a": 3,
    "e": "Delhi got its Assembly under Art. 239AA."
   },
   {
    "q": "Which amendment designated Delhi as the National Capital Territory (NCT)?",
    "o": [
+    "74th Amendment",
     "73rd Amendment",
     "69th Amendment (1991)",
-    "74th Amendment",
     "61st Amendment"
    ],
-   "a": 1,
+   "a": 2,
    "e": "It inserted Article 239AA."
   },
   {
    "q": "The Legislative Assembly of Delhi is provided in which Article?",
    "o": [
+    "Article 239",
     "Article 239AA",
     "Article 240",
-    "Article 239",
     "Article 371"
    ],
-   "a": 0,
+   "a": 1,
    "e": "Inserted by the 69th Amendment."
   },
   {
    "q": "The Union Territory of Goa, Daman and Diu was formed by which amendment?",
    "o": [
-    "12th Amendment",
     "56th Amendment",
-    "10th Amendment",
-    "14th Amendment"
+    "14th Amendment",
+    "12th Amendment",
+    "10th Amendment"
    ],
-   "a": 0,
+   "a": 2,
    "e": "In 1962."
   },
   {
    "q": "Puducherry was made a Union Territory by which amendment?",
    "o": [
     "12th Amendment",
-    "10th Amendment",
     "7th Amendment",
-    "14th Amendment"
+    "14th Amendment",
+    "10th Amendment"
    ],
-   "a": 3,
+   "a": 2,
    "e": "It was acquired from French control."
   },
   {
@@ -2333,19 +2333,19 @@
    "o": [
     "56th Amendment",
     "12th Amendment",
-    "10th Amendment",
-    "14th Amendment"
+    "14th Amendment",
+    "10th Amendment"
    ],
-   "a": 2,
+   "a": 3,
    "e": "In 1961."
   },
   {
    "q": "By which amendment/year did Goa attain full statehood (as per the lecture)?",
    "o": [
-    "12th Amendment, 1962",
+    "7th Amendment, 1956",
     "56th Amendment, 1987",
     "14th Amendment, 1962",
-    "7th Amendment, 1956"
+    "12th Amendment, 1962"
    ],
    "a": 1,
    "e": "Goa became the 25th state in 1987."
@@ -2364,19 +2364,19 @@
   {
    "q": "How many states in India have a bicameral legislature?",
    "o": [
-    "6",
     "8",
-    "7",
-    "5"
+    "6",
+    "5",
+    "7"
    ],
-   "a": 0,
+   "a": 1,
    "e": "Andhra Pradesh, Telangana, Karnataka, Maharashtra, Bihar, Uttar Pradesh."
   },
   {
    "q": "Which of the following states has a Legislative Council?",
    "o": [
-    "Madhya Pradesh",
     "Tamil Nadu",
+    "Madhya Pradesh",
     "Rajasthan",
     "Bihar"
    ],
@@ -2387,9 +2387,9 @@
    "q": "Which of the following states does NOT have a Legislative Council?",
    "o": [
     "Uttar Pradesh",
-    "Maharashtra",
+    "Karnataka",
     "Tamil Nadu",
-    "Karnataka"
+    "Maharashtra"
    ],
    "a": 2,
    "e": "Tamil Nadu has a unicameral legislature."
@@ -2397,8 +2397,8 @@
   {
    "q": "The State Legislative Council is considered equivalent to which House?",
    "o": [
-    "Legislative Assembly",
     "Parliament",
+    "Legislative Assembly",
     "Rajya Sabha",
     "Lok Sabha"
    ],
@@ -2420,9 +2420,9 @@
    "q": "Within what time after an emergency ends must elections be held?",
    "o": [
     "Within 6 months",
+    "1 year",
     "15 days",
-    "3 months",
-    "1 year"
+    "3 months"
    ],
    "a": 0,
    "e": "An extended term cannot continue beyond 6 months after the emergency ceases."
@@ -2430,34 +2430,34 @@
   {
    "q": "Which amendment raised the Lok Sabha's term from 5 to 6 years, and which restored it to 5?",
    "o": [
-    "44th raised to 6, 42nd restored 5",
     "73rd raised to 6, 74th restored 5",
+    "42nd raised to 6, 44th restored 5",
     "52nd raised to 6, 61st restored 5",
-    "42nd raised to 6, 44th restored 5"
+    "44th raised to 6, 42nd restored 5"
    ],
-   "a": 3,
+   "a": 1,
    "e": "The 42nd Amendment was passed during Indira Gandhi's tenure."
   },
   {
    "q": "What is the English name of the Vidhan Sabha?",
    "o": [
+    "Legislative Assembly",
     "Council of States",
-    "Legislative Council",
     "Parliament",
-    "Legislative Assembly"
+    "Legislative Council"
    ],
-   "a": 3,
+   "a": 0,
    "e": "The Vidhan Parishad is called the Legislative Council."
   },
   {
    "q": "What is a feature of the State Legislative Council?",
    "o": [
     "It is dissolved like the Assembly",
+    "Directly elected by the people",
     "Fixed term of 5 years",
-    "It is a permanent House and is not dissolved",
-    "Directly elected by the people"
+    "It is a permanent House and is not dissolved"
    ],
-   "a": 2,
+   "a": 3,
    "e": "One-third of members retire every 2 years."
   },
   {
@@ -2474,45 +2474,45 @@
   {
    "q": "What proportion of Legislative Council members retire every 2 years?",
    "o": [
-    "One-third",
-    "Half",
     "One-fifth",
-    "One-fourth"
+    "Half",
+    "One-fourth",
+    "One-third"
    ],
-   "a": 0,
+   "a": 3,
    "e": "Members serve a 6-year term."
   },
   {
    "q": "The composition of the Legislative Assembly is provided in which Article?",
    "o": [
-    "Article 170",
     "Article 171",
     "Article 168",
+    "Article 170",
     "Article 169"
    ],
-   "a": 0,
+   "a": 2,
    "e": "Art. 81 + 89 = 170."
   },
   {
    "q": "The composition of the Legislative Council is provided in which Article?",
    "o": [
-    "Article 169",
     "Article 170",
     "Article 172",
-    "Article 171"
+    "Article 171",
+    "Article 169"
    ],
-   "a": 3,
+   "a": 2,
    "e": "Art. 169 creation/abolition, 170 Assembly, 171 Legislative Council."
   },
   {
    "q": "What is the maximum strength of a Legislative Council?",
    "o": [
-    "2/3",
-    "1/2",
     "One-third of the Assembly's strength",
-    "1/4"
+    "2/3",
+    "1/4",
+    "1/2"
    ],
-   "a": 2,
+   "a": 0,
    "e": "Raised from 1/4 to 1/3 by the 7th Amendment."
   },
   {
@@ -2529,10 +2529,10 @@
   {
    "q": "What proportion of Legislative Council members is elected by MLAs?",
    "o": [
-    "1/12",
+    "1/2",
     "1/3",
     "1/6",
-    "1/2"
+    "1/12"
    ],
    "a": 1,
    "e": "1/3 by local bodies, 1/12 by graduates, 1/12 by teachers, 1/6 nominated by the Governor."
@@ -2541,9 +2541,9 @@
    "q": "What proportion of Legislative Council members does the Governor nominate?",
    "o": [
     "1/6",
+    "1/4",
     "1/12",
-    "1/3",
-    "1/4"
+    "1/3"
    ],
    "a": 0,
    "e": "From literature, science, art, co-operative movement and social service."
@@ -2551,21 +2551,21 @@
   {
    "q": "What is the minimum qualification for graduate electors of a Legislative Council?",
    "o": [
-    "Graduated 5 years earlier",
-    "Graduated 1 year earlier",
     "Postgraduate",
-    "Graduated at least 3 years earlier"
+    "Graduated at least 3 years earlier",
+    "Graduated 1 year earlier",
+    "Graduated 5 years earlier"
    ],
-   "a": 3,
+   "a": 1,
    "e": "Teacher electors also need at least 3 years of teaching experience."
   },
   {
    "q": "Besides literature, science, art and social service, the Governor's nominees to the Legislative Council may have special knowledge of which field?",
    "o": [
     "Journalism",
-    "Judiciary",
+    "Sports",
     "Co-operative movement",
-    "Sports"
+    "Judiciary"
    ],
    "a": 2,
    "e": "Art. 171(5) lists literature, science, art, co-operative movement and social service."
@@ -2574,88 +2574,88 @@
    "q": "The 97th Amendment gave constitutional status to which subject?",
    "o": [
     "Economically weaker sections",
-    "Panchayats",
     "Co-operative societies",
+    "Panchayats",
     "Municipalities"
    ],
-   "a": 2,
+   "a": 1,
    "e": "It inserted Part IXB."
   },
   {
    "q": "Which Articles of Part IXB relate to co-operative societies?",
    "o": [
+    "243A to 243O",
     "243P to 243ZG",
     "243ZH to 243ZT",
-    "243A to 243O",
     "243ZU to 243ZZ"
    ],
-   "a": 1,
+   "a": 2,
    "e": "Art. 43B was also added to the Directive Principles."
   },
   {
    "q": "The oath of newly elected members of a State Legislature is in which Article?",
    "o": [
-    "Article 188",
+    "Article 190",
     "Article 99",
-    "Article 194",
-    "Article 190"
+    "Article 188",
+    "Article 194"
    ],
-   "a": 0,
+   "a": 2,
    "e": "Art. 99 for Parliament; for states 99 + 89 = 188."
   },
   {
    "q": "Roughly what number must be added to a Parliament Article to get the State Legislature Article (lecture formula)?",
    "o": [
     "10",
-    "52",
     "100",
-    "89"
+    "89",
+    "52"
    ],
-   "a": 3,
+   "a": 2,
    "e": "For example 81->170, 85->174, 87->176, 102->191, 99->188."
   },
   {
    "q": "Summoning, prorogation of the State Legislature and dissolution of the Assembly are provided in which Article?",
    "o": [
-    "Article 85",
     "Article 172",
     "Article 176",
-    "Article 174"
+    "Article 174",
+    "Article 85"
    ],
-   "a": 3,
+   "a": 2,
    "e": "85 + 89 = 174."
   },
   {
    "q": "The Governor's special address is in which Article?",
    "o": [
-    "Article 87",
-    "Article 175",
     "Article 176",
-    "Article 178"
+    "Article 175",
+    "Article 178",
+    "Article 87"
    ],
-   "a": 2,
+   "a": 0,
    "e": "87 + 89 = 176."
   },
   {
    "q": "Disqualification of State Legislature members is in which Article?",
    "o": [
     "Article 192",
-    "Article 191",
+    "Article 190",
     "Article 102",
-    "Article 190"
+    "Article 191"
    ],
-   "a": 1,
+   "a": 3,
    "e": "102 + 89 = 191."
   },
   {
    "q": "Which Article relates to the Chairman and Deputy Chairman of the Legislative Council?",
    "o": [
-    "Article 182",
     "Article 93",
     "Article 89",
+    "Article 182",
     "Article 178"
    ],
-   "a": 0,
+   "a": 2,
    "e": "182 = 93 + 89; Assembly Speaker is Art. 178."
   },
   {
@@ -2663,8 +2663,8 @@
    "o": [
     "Article 178",
     "Article 93",
-    "Article 182",
-    "Article 177"
+    "Article 177",
+    "Article 182"
    ],
    "a": 0,
    "e": "In states the Assembly comes first, then the Council; in Parliament the order is reversed."
@@ -2672,12 +2672,12 @@
   {
    "q": "Who elects the Speaker of a State Legislative Assembly?",
    "o": [
-    "Chief Minister",
-    "Governor",
+    "Members of the Assembly",
     "President",
-    "Members of the Assembly"
+    "Governor",
+    "Chief Minister"
    ],
-   "a": 3,
+   "a": 0,
    "e": "They choose the Speaker and Deputy Speaker from among themselves."
   },
   {
@@ -2705,10 +2705,10 @@
   {
    "q": "Who is the current Vice-President (as per the lecture)?",
    "o": [
-    "Jagdeep Dhankhar",
-    "C.P. Radhakrishnan",
     "M. Venkaiah Naidu",
-    "Harivansh Narayan Singh"
+    "C.P. Radhakrishnan",
+    "Harivansh Narayan Singh",
+    "Jagdeep Dhankhar"
    ],
    "a": 1,
    "e": "He is the ex-officio Chairman of the Rajya Sabha."
@@ -2716,32 +2716,32 @@
   {
    "q": "Who is the Deputy Chairman of the Rajya Sabha (as per the lecture)?",
    "o": [
-    "Harivansh Narayan Singh",
     "Bhartruhari Mahtab",
     "Om Birla",
+    "Harivansh Narayan Singh",
     "C.P. Radhakrishnan"
    ],
-   "a": 0,
+   "a": 2,
    "e": "The Deputy Chairman is elected by Rajya Sabha members."
   },
   {
    "q": "Who is the current Speaker of the Lok Sabha (as per the lecture)?",
    "o": [
-    "Meira Kumar",
     "Bhartruhari Mahtab",
-    "Sumitra Mahajan",
-    "Om Birla"
+    "Om Birla",
+    "Meira Kumar",
+    "Sumitra Mahajan"
    ],
-   "a": 3,
+   "a": 1,
    "e": "He was re-elected Speaker in the 18th Lok Sabha."
   },
   {
    "q": "Under the RPA 1951, what qualification is needed to become a member of a State Legislature?",
    "o": [
+    "Being an income tax payer",
     "Being a graduate",
-    "Being a permanent resident",
     "Being registered as an elector in an assembly constituency of that state",
-    "Being an income tax payer"
+    "Being a permanent resident"
    ],
    "a": 2,
    "e": "For the Rajya Sabha, the domicile condition was removed in 2003."
@@ -2749,8 +2749,8 @@
   {
    "q": "When was the requirement of being an elector of the concerned state removed for the Rajya Sabha?",
    "o": [
-    "1951",
     "2019",
+    "1951",
     "2003",
     "1985"
    ],
@@ -2761,30 +2761,30 @@
    "q": "What is the minimum age to become a member of a Legislative Assembly?",
    "o": [
     "21 years",
-    "25 years",
     "35 years",
-    "30 years"
+    "30 years",
+    "25 years"
    ],
-   "a": 1,
+   "a": 3,
    "e": "30 years for a Legislative Council member."
   },
   {
    "q": "What is the minimum age to become a member of a Legislative Council?",
    "o": [
+    "21 years",
     "30 years",
     "25 years",
-    "21 years",
     "35 years"
    ],
-   "a": 0,
+   "a": 1,
    "e": "Same as for the Rajya Sabha."
   },
   {
    "q": "The Annual Financial Statement (Budget) of a state is in which Article?",
    "o": [
-    "Article 112",
-    "Article 213",
     "Article 201",
+    "Article 213",
+    "Article 112",
     "Article 202"
    ],
    "a": 3,
@@ -2794,11 +2794,11 @@
    "q": "In whose name is the State Budget laid?",
    "o": [
     "Finance Minister",
-    "Chief Minister",
+    "Governor",
     "Speaker of the Assembly",
-    "Governor"
+    "Chief Minister"
    ],
-   "a": 3,
+   "a": 1,
    "e": "The Finance Minister presents it."
   },
   {
@@ -2816,53 +2816,53 @@
    "q": "Who administers the Contingency Fund of a state?",
    "o": [
     "Chief Minister",
-    "Governor",
+    "President",
     "Finance Secretary",
-    "President"
+    "Governor"
    ],
-   "a": 1,
+   "a": 3,
    "e": "The Contingency Fund of India is at the disposal of the President (Art. 267)."
   },
   {
    "q": "Who appoints the Chief Minister?",
    "o": [
-    "Governor",
     "Speaker of the Assembly",
     "Prime Minister",
+    "Governor",
     "President"
    ],
-   "a": 0,
+   "a": 2,
    "e": "The Council of Ministers headed by the CM is collectively responsible to the Assembly."
   },
   {
    "q": "To whom is the State Council of Ministers collectively responsible?",
    "o": [
-    "Legislative Assembly",
     "Legislative Council",
     "President",
+    "Legislative Assembly",
     "Governor"
    ],
-   "a": 0,
+   "a": 2,
    "e": "Article 164(2)."
   },
   {
    "q": "On whose advice does the Governor dissolve the Legislative Assembly?",
    "o": [
-    "The President",
-    "The Speaker",
+    "The Council of Ministers headed by the Chief Minister",
     "The Prime Minister",
-    "The Council of Ministers headed by the Chief Minister"
+    "The President",
+    "The Speaker"
    ],
-   "a": 3,
+   "a": 0,
    "e": "The Governor acts on the advice of the Council of Ministers."
   },
   {
    "q": "Is there a provision for joint sittings in State Legislatures?",
    "o": [
     "Yes, like Art. 108",
-    "Yes, in Art. 197",
+    "Yes, the Governor summons it",
     "No, there is no joint sitting in State Legislatures",
-    "Yes, the Governor summons it"
+    "Yes, in Art. 197"
    ],
    "a": 2,
    "e": "In a deadlock the Council can only delay a bill."
@@ -2881,31 +2881,31 @@
   {
    "q": "Within how long after reassembly must an ordinance be approved by the legislature?",
    "o": [
-    "14 days",
-    "6 weeks",
     "3 months",
-    "6 months"
+    "14 days",
+    "6 months",
+    "6 weeks"
    ],
-   "a": 1,
+   "a": 3,
    "e": "Otherwise it lapses automatically."
   },
   {
    "q": "In which case was repeated re-promulgation of ordinances called a 'fraud on the Constitution'?",
    "o": [
-    "D.C. Wadhwa v. State of Bihar",
     "Indra Sawhney",
+    "Minerva Mills",
     "Kesavananda Bharati",
-    "Minerva Mills"
+    "D.C. Wadhwa v. State of Bihar"
    ],
-   "a": 0,
+   "a": 3,
    "e": "The Governor of Bihar had repeatedly re-promulgated ordinances."
   },
   {
    "q": "On which subjects can the President/Governor promulgate ordinances?",
    "o": [
-    "Only the Union List",
     "Only the State List",
     "Only the Concurrent List",
+    "Only the Union List",
     "Subjects on which Parliament/State Legislature can make laws"
    ],
    "a": 3,
@@ -2914,12 +2914,12 @@
   {
    "q": "Privileges of State Legislature members are in which Article?",
    "o": [
-    "Article 105",
-    "Article 193",
+    "Article 195",
     "Article 194",
-    "Article 195"
+    "Article 105",
+    "Article 193"
    ],
-   "a": 2,
+   "a": 1,
    "e": "105 + 89 = 194."
   },
   {
@@ -2936,12 +2936,12 @@
   {
    "q": "Who decides questions of disqualification of State Legislature members (Art. 192)?",
    "o": [
-    "Chief Minister",
-    "Governor (on the opinion of the Election Commission)",
+    "Speaker of the Assembly",
     "High Court",
-    "Speaker of the Assembly"
+    "Chief Minister",
+    "Governor (on the opinion of the Election Commission)"
    ],
-   "a": 1,
+   "a": 3,
    "e": "Like Art. 103 for Parliament; Art. 192 for states."
   }
  ]
