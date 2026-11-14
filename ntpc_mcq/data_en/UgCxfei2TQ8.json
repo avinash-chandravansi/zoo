@@ -1,0 +1,2156 @@
+{
+ "title": "Geography Lec 2",
+ "summary": [
+  "India is divided into six physiographic divisions; the largest is the Peninsular Plateau.",
+  "Himalaya: Trans Himalaya (Karakoram, Ladakh, Zaskar), Greater Himalaya (average 6000 m), Lesser (Middle) Himalaya and Shiwaliks (Outer); Duns lie between the Lesser Himalaya and the Shiwaliks.",
+  "In the Northeast the Shiwaliks are replaced by the Duars, famous for tea gardens.",
+  "Alignment of the Himalaya: NW to SE in Kashmir, east-west in Sikkim-Darjeeling, and NE to SW in the Purvanchal region.",
+  "Major peaks: Everest 8848 m, K2 8611 m (Karakoram, PoK), Kanchenjunga 8598 m (highest in India), Lhotse 8516 m, Nanda Devi 7816 m (Uttarakhand).",
+  "Siachen is the longest glacier of the Karakoram; Operation Meghdoot was carried out in Siachen.",
+  "Purvanchal (Himalayan): Dafla, Miri, Abor, Mishmi, Patkai, Barail, Naga, Manipur, Mizo hills; Garo-Khasi-Jaintia, Mikir and Rengma hills are part of the Peninsular Plateau.",
+  "The Himalaya is about 50 million years old (young fold mountains); the Aravalli is about 500 million years old.",
+  "Passes: Shipki La (Sutlej), Rohtang, Bara-lacha La (Himachal); Banihal (J&K), Burzil (to Gilgit), Zoji La (to Leh); Mig La is the highest motorable pass.",
+  "Western Ghats: higher (about 1200 m), continuous, highest peak Anamudi 2695 m; Eastern Ghats: about 600 m, discontinuous; the two meet at the Nilgiris.",
+  "Peninsular Plateau: Central Highlands north of the Narmada, Deccan Plateau to the south; the Rajmahal Hills form the eastern edge, followed by the Malda Gap and the Meghalaya Plateau.",
+  "Major peaks: Guru Shikhar (Aravalli, 1722 m), Dhupgarh (Satpura), Amarkantak (Maikal), Parasnath (Chota Nagpur, 1365 m), Kalsubai (Maharashtra).",
+  "Coastal plains: western is narrow, submerged and indented; eastern is broad, emergent, with deltas and lagoons.",
+  "Northern Plains: Bhabar (8-16 km), Terai (15-30 km), Bhangar (old alluvium), Khadar (new alluvium); length within India about 2400 km.",
+  "Islands: 9° Channel (Lakshadweep-Minicoy), 8° Channel (Minicoy-Maldives), 10° Channel (Andaman-Nicobar); Barren is an active volcano, Narcondam dormant; Andrott is the largest and Bitra the smallest island of Lakshadweep."
+ ],
+ "mcqs": [
+  {
+   "q": "India is divided into how many physiographic divisions?",
+   "o": [
+    "Six",
+    "Four",
+    "Five",
+    "Seven"
+   ],
+   "a": 0,
+   "e": "Northern Mountains, Northern Plains, Thar Desert, Peninsular Plateau, Coastal Plains and Islands."
+  },
+  {
+   "q": "Which is the largest physiographic division of India?",
+   "o": [
+    "Northern Plains",
+    "Peninsular Plateau",
+    "Himalaya",
+    "Coastal Plains"
+   ],
+   "a": 1,
+   "e": "The Peninsular Plateau is the largest physiographic division."
+  },
+  {
+   "q": "How many lines of latitude are there in total on the Earth?",
+   "o": [
+    "180",
+    "179",
+    "181",
+    "360"
+   ],
+   "a": 2,
+   "e": "90 in each hemisphere plus the Equator make 181 (the poles count as points)."
+  },
+  {
+   "q": "How many latitudinal circles are there?",
+   "o": [
+    "181",
+    "180",
+    "90",
+    "179"
+   ],
+   "a": 3,
+   "e": "The poles are points, not circles, so 181 - 2 = 179."
+  },
+  {
+   "q": "Which is the most densely populated desert in the world?",
+   "o": [
+    "Thar Desert",
+    "Sahara",
+    "Gobi",
+    "Kalahari"
+   ],
+   "a": 0,
+   "e": "The Thar lies to the northwest of the Aravalli."
+  },
+  {
+   "q": "Which statement about the Himalaya is correct?",
+   "o": [
+    "It is a single mountain",
+    "It is not one range but a series of several parallel ranges",
+    "It is just a single peak",
+    "It is a plateau"
+   ],
+   "a": 1,
+   "e": "Trans Himalaya, Greater, Lesser and Shiwalik: several parallel ranges."
+  },
+  {
+   "q": "Which ranges form the Trans Himalaya (from north to south)?",
+   "o": [
+    "Zaskar, Karakoram, Pir Panjal",
+    "Dhauladhar, Pir Panjal, Ladakh",
+    "Karakoram, Ladakh, Zaskar",
+    "Shiwalik, Ladakh, Karakoram"
+   ],
+   "a": 2,
+   "e": "Towards Tibet this chain is known as the Kailash Range."
+  },
+  {
+   "q": "Which two landmasses were formed by the break-up of Pangaea?",
+   "o": [
+    "Eurasia and Angara",
+    "Panthalassa and Tethys",
+    "Laurasia and Tethys",
+    "Laurasia and Gondwana"
+   ],
+   "a": 3,
+   "e": "India was part of Gondwanaland; the surrounding ocean was Panthalassa."
+  },
+  {
+   "q": "Which sea existed earlier in place of the Himalaya?",
+   "o": [
+    "Tethys Sea",
+    "Panthalassa",
+    "Arabian Sea",
+    "Caspian Sea"
+   ],
+   "a": 0,
+   "e": "The Tethys was a geosyncline where sediments were deposited."
+  },
+  {
+   "q": "The Himalaya was formed by the collision of which plates?",
+   "o": [
+    "African and Arabian plates",
+    "Indian and Eurasian plates",
+    "Pacific and Indian plates",
+    "Antarctic and Eurasian plates"
+   ],
+   "a": 1,
+   "e": "The Indian Plate drifted north from the Southern Hemisphere and collided with Eurasia."
+  },
+  {
+   "q": "Why does the Himalaya have several parallel ranges?",
+   "o": [
+    "Due to a single collision",
+    "Due to volcanism",
+    "Due to repeated phases of collision and uplift",
+    "Due to glaciers"
+   ],
+   "a": 2,
+   "e": "Successive phases of compression produced several parallel ranges."
+  },
+  {
+   "q": "What is the Pamir Knot called?",
+   "o": [
+    "Lungs of the World",
+    "Third Pole",
+    "Water Tower of Asia",
+    "Roof of the World"
+   ],
+   "a": 3,
+   "e": "The Tibetan Plateau is also called the Roof of the World."
+  },
+  {
+   "q": "Which mountain ranges converge at the Pamir Knot?",
+   "o": [
+    "Hindu Kush, Karakoram, Kunlun, etc.",
+    "Aravalli, Satpura",
+    "Western Ghats, Eastern Ghats",
+    "Vindhya, Mahadeo"
+   ],
+   "a": 0,
+   "e": "The Hindu Kush lies in Afghanistan-Pakistan, not in India."
+  },
+  {
+   "q": "Which is the innermost range of the Himalaya?",
+   "o": [
+    "Lesser Himalaya",
+    "Greater Himalaya (Himadri)",
+    "Shiwalik",
+    "Trans Himalaya"
+   ],
+   "a": 1,
+   "e": "The Greater Himalaya is also called the Inner Himalaya."
+  },
+  {
+   "q": "By what other name is the Lesser Himalaya known?",
+   "o": [
+    "Outer Himalaya",
+    "Inner Himalaya",
+    "Middle Himalaya",
+    "Purvanchal"
+   ],
+   "a": 2,
+   "e": "It is also called the Himachal."
+  },
+  {
+   "q": "By what other name are the Shiwaliks known?",
+   "o": [
+    "Inner Himalaya",
+    "Middle Himalaya",
+    "Trans Himalaya",
+    "Outer Himalaya"
+   ],
+   "a": 3,
+   "e": "The Shiwaliks are the outermost and lowest range."
+  },
+  {
+   "q": "What is the approximate average height of the Greater Himalaya?",
+   "o": [
+    "6000 m",
+    "4000 m",
+    "1000 m",
+    "3000 m"
+   ],
+   "a": 0,
+   "e": "Greater Himalaya is the highest; Lesser about 4000 m and Shiwalik about 1000 m."
+  },
+  {
+   "q": "What is the approximate average height of the Shiwaliks?",
+   "o": [
+    "3000 m",
+    "900-1100 m",
+    "4000 m",
+    "6000 m"
+   ],
+   "a": 1,
+   "e": "The Shiwalik is the lowest Himalayan range."
+  },
+  {
+   "q": "What is the approximate average width of the Greater Himalaya?",
+   "o": [
+    "About 25 km",
+    "About 150 km",
+    "About 400 km",
+    "About 5 km"
+   ],
+   "a": 0,
+   "e": "The Greater Himalaya is very high but only about 25 km wide on average."
+  },
+  {
+   "q": "Which range of the Himalaya is largely absent in the Northeast (towards Arunachal)?",
+   "o": [
+    "Greater Himalaya",
+    "Lesser Himalaya",
+    "Trans Himalaya",
+    "Shiwalik"
+   ],
+   "a": 3,
+   "e": "The Duars occupy the place of the Shiwaliks here."
+  },
+  {
+   "q": "What does the word 'Duar' mean?",
+   "o": [
+    "Door / gate",
+    "Valley",
+    "River",
+    "Plateau"
+   ],
+   "a": 0,
+   "e": "The Duars are famous for tea gardens and replace the Shiwaliks."
+  },
+  {
+   "q": "The longitudinal valleys between the Lesser Himalaya and the Shiwaliks are called:",
+   "o": [
+    "Doabs",
+    "Duns",
+    "Khadar",
+    "Karewas"
+   ],
+   "a": 1,
+   "e": "Examples: Dehradun, Kotli Dun, Patli Dun."
+  },
+  {
+   "q": "Which is the largest Dun valley?",
+   "o": [
+    "Kotli Dun",
+    "Patli Dun",
+    "Dehradun",
+    "Nahan Dun"
+   ],
+   "a": 2,
+   "e": "Dehradun lies between the Lesser Himalaya and the Shiwaliks."
+  },
+  {
+   "q": "What does 'Doab' mean?",
+   "o": [
+    "Mouth of a river",
+    "Mountain pass",
+    "Shore of a lake",
+    "Land between two rivers"
+   ],
+   "a": 3,
+   "e": "The Raichur Doab lies between the Krishna and the Tungabhadra."
+  },
+  {
+   "q": "The Raichur Doab lies between which two rivers?",
+   "o": [
+    "Krishna and Tungabhadra",
+    "Godavari and Krishna",
+    "Kaveri and Vaigai",
+    "Narmada and Tapti"
+   ],
+   "a": 0,
+   "e": "It was a disputed region between the Vijayanagara and Bahmani kingdoms."
+  },
+  {
+   "q": "The Atal Tunnel is built in which Himalayan range?",
+   "o": [
+    "Dhauladhar",
+    "Pir Panjal",
+    "Karakoram",
+    "Zaskar"
+   ],
+   "a": 1,
+   "e": "It is 9.02 km long and lies in Himachal Pradesh."
+  },
+  {
+   "q": "The Atal Tunnel connects:",
+   "o": [
+    "Shimla with Kullu",
+    "Srinagar with Leh",
+    "Manali with the Lahaul-Spiti valley",
+    "Jammu with Srinagar"
+   ],
+   "a": 2,
+   "e": "It is an alternative to the Rohtang Pass, which also links Manali and Lahaul."
+  },
+  {
+   "q": "In which part of the Himalaya is the variation in altitude the greatest?",
+   "o": [
+    "Western Himalaya",
+    "Kashmir Himalaya",
+    "Punjab Himalaya",
+    "Eastern Himalaya"
+   ],
+   "a": 3,
+   "e": "E.g. in Sikkim, Kanchenjunga rises close to very low hills."
+  },
+  {
+   "q": "In which direction does the Himalaya extend in Jammu and Kashmir?",
+   "o": [
+    "Northwest to southeast",
+    "East to west",
+    "Northeast to southwest",
+    "North to south"
+   ],
+   "a": 0,
+   "e": "In Sikkim-Darjeeling the alignment is roughly east-west."
+  },
+  {
+   "q": "In which direction does the Himalaya trend in Arunachal (Eastern Himalaya)?",
+   "o": [
+    "Northwest to southeast",
+    "Northeast to southwest",
+    "East-west",
+    "South to north"
+   ],
+   "a": 1,
+   "e": "Here the ranges take a sharp bend towards the Purvanchal hills."
+  },
+  {
+   "q": "Which glacier in the Karakoram is the world's second longest outside the polar regions?",
+   "o": [
+    "Gangotri",
+    "Baltoro",
+    "Siachen",
+    "Hispar"
+   ],
+   "a": 2,
+   "e": "The longest non-polar glacier is the Fedchenko in Tajikistan."
+  },
+  {
+   "q": "Which is the longest glacier in the world?",
+   "o": [
+    "Siachen",
+    "Fedchenko",
+    "Baltoro",
+    "Lambert (Antarctica)"
+   ],
+   "a": 3,
+   "e": "It lies in the polar region; the Fedchenko is the longest non-polar glacier."
+  },
+  {
+   "q": "In which country is the Fedchenko Glacier located?",
+   "o": [
+    "Tajikistan",
+    "Nepal",
+    "India",
+    "Pakistan"
+   ],
+   "a": 0,
+   "e": "It is the longest non-polar glacier."
+  },
+  {
+   "q": "Which of the following is NOT a Karakoram glacier?",
+   "o": [
+    "Baltoro",
+    "Gangotri",
+    "Hispar",
+    "Biafo"
+   ],
+   "a": 1,
+   "e": "Gangotri is in the Greater Himalaya in Uttarakhand; Siachen is also in the Karakoram."
+  },
+  {
+   "q": "Where was Operation Meghdoot carried out?",
+   "o": [
+    "Kargil",
+    "Galwan",
+    "Siachen Glacier",
+    "Tawang"
+   ],
+   "a": 2,
+   "e": "Launched by the Indian Army in 1984; Siachen is the world's highest battlefield."
+  },
+  {
+   "q": "Which is the highest peak in the world?",
+   "o": [
+    "K2",
+    "Kanchenjunga",
+    "Lhotse",
+    "Mount Everest"
+   ],
+   "a": 3,
+   "e": "About 8848 m, on the Nepal-Tibet (China) border."
+  },
+  {
+   "q": "What is the approximate height of Mount Everest?",
+   "o": [
+    "8848 m",
+    "8611 m",
+    "8598 m",
+    "8516 m"
+   ],
+   "a": 0,
+   "e": "It lies on the Nepal-Tibet (China) border."
+  },
+  {
+   "q": "What is the other name of K2?",
+   "o": [
+    "Depsang",
+    "Godwin-Austen",
+    "Nanga Parbat",
+    "Mount Kamet"
+   ],
+   "a": 1,
+   "e": "8611 m high, in the Karakoram in PoK (Gilgit-Baltistan)."
+  },
+  {
+   "q": "What is the height of K2?",
+   "o": [
+    "8848 m",
+    "8598 m",
+    "8611 m",
+    "8516 m"
+   ],
+   "a": 2,
+   "e": "It is the second highest peak in the world."
+  },
+  {
+   "q": "In which mountain range is K2 located?",
+   "o": [
+    "Greater Himalaya",
+    "Lesser Himalaya",
+    "Shiwalik",
+    "Karakoram (Trans Himalaya)"
+   ],
+   "a": 3,
+   "e": "Everest and Kanchenjunga are in the Greater Himalaya, but K2 is in the Karakoram."
+  },
+  {
+   "q": "Excluding PoK, which is the highest peak in India?",
+   "o": [
+    "Kanchenjunga",
+    "K2",
+    "Nanda Devi",
+    "Kamet"
+   ],
+   "a": 0,
+   "e": "Located in Sikkim, height 8598 m."
+  },
+  {
+   "q": "In which state is Kanchenjunga located?",
+   "o": [
+    "Uttarakhand",
+    "Sikkim",
+    "Arunachal Pradesh",
+    "Himachal Pradesh"
+   ],
+   "a": 1,
+   "e": "It is the third highest peak in the world."
+  },
+  {
+   "q": "Which is the third highest peak in the world?",
+   "o": [
+    "Lhotse",
+    "Makalu",
+    "Kanchenjunga",
+    "Annapurna"
+   ],
+   "a": 2,
+   "e": "The fourth is Lhotse (about 8516 m)."
+  },
+  {
+   "q": "What is the approximate height of Lhotse?",
+   "o": [
+    "8848 m",
+    "8611 m",
+    "8598 m",
+    "8516 m"
+   ],
+   "a": 3,
+   "e": "Fourth highest peak in the world, on the Nepal-Tibet border."
+  },
+  {
+   "q": "In which country are the Makalu, Dhaulagiri and Annapurna peaks?",
+   "o": [
+    "Nepal",
+    "India",
+    "Bhutan",
+    "Pakistan"
+   ],
+   "a": 0,
+   "e": "They lie in the Greater Himalaya in Nepal."
+  },
+  {
+   "q": "Which is the highest peak of Uttarakhand?",
+   "o": [
+    "Kamet",
+    "Nanda Devi",
+    "Trishul",
+    "Kedarnath"
+   ],
+   "a": 1,
+   "e": "7816 m; the highest peak lying entirely within India."
+  },
+  {
+   "q": "What is the height of Nanda Devi?",
+   "o": [
+    "8598 m",
+    "7756 m",
+    "7816 m",
+    "6000 m"
+   ],
+   "a": 2,
+   "e": "It lies in the Greater Himalaya in Uttarakhand."
+  },
+  {
+   "q": "In which state is Mount Kamet?",
+   "o": [
+    "Himachal Pradesh",
+    "Sikkim",
+    "Arunachal Pradesh",
+    "Uttarakhand"
+   ],
+   "a": 3,
+   "e": "About 7756 m; second highest peak of Uttarakhand."
+  },
+  {
+   "q": "What does 'Dhaulagiri' mean?",
+   "o": [
+    "White mountain",
+    "Blue mountain",
+    "Golden mountain",
+    "Black mountain"
+   ],
+   "a": 0,
+   "e": "Dhaulagiri is a peak in Nepal, while Dhauladhar is a range in Himachal."
+  },
+  {
+   "q": "What is the Dhauladhar?",
+   "o": [
+    "A peak in Nepal",
+    "The local name of the Lesser Himalaya in Himachal Pradesh",
+    "A branch of the Karakoram",
+    "A peak of the Shiwaliks"
+   ],
+   "a": 1,
+   "e": "Pir Panjal in Kashmir, Nag Tibba in Uttarakhand, Mahabharat Range in Nepal."
+  },
+  {
+   "q": "By what name is the Lesser Himalaya known in Uttarakhand?",
+   "o": [
+    "Dhauladhar",
+    "Pir Panjal",
+    "Nag Tibba",
+    "Mahabharat"
+   ],
+   "a": 2,
+   "e": "In Nepal it is called the Mahabharat Range."
+  },
+  {
+   "q": "By what name is the Lesser Himalaya known in Nepal?",
+   "o": [
+    "Nag Tibba",
+    "Pir Panjal",
+    "Dhauladhar",
+    "Mahabharat Range"
+   ],
+   "a": 3,
+   "e": "Pir Panjal in Kashmir and Dhauladhar in Himachal."
+  },
+  {
+   "q": "From west to east, the Himalaya extends between which rivers?",
+   "o": [
+    "Indus to Brahmaputra",
+    "Ganga to Yamuna",
+    "Sutlej to Ganga",
+    "Chenab to Kosi"
+   ],
+   "a": 0,
+   "e": "The Indus in the west and the Brahmaputra (Dihang) in the east."
+  },
+  {
+   "q": "What are the summer grasslands of Uttarakhand called?",
+   "o": [
+    "Karewa",
+    "Bugyal",
+    "Dun",
+    "Duar"
+   ],
+   "a": 1,
+   "e": "The Bhotiya tribe lives in this region."
+  },
+  {
+   "q": "Which tribe is found in the Bugyal region of Uttarakhand?",
+   "o": [
+    "Gaddi",
+    "Gujjar",
+    "Bhotiya",
+    "Tharu"
+   ],
+   "a": 2,
+   "e": "Bugyals are summer grasslands."
+  },
+  {
+   "q": "What are 'Karewas' in the Kashmir Himalaya?",
+   "o": [
+    "Glacial lakes",
+    "Grasslands",
+    "Tea gardens",
+    "Lacustrine (lake) deposits"
+   ],
+   "a": 3,
+   "e": "They are considered good for saffron cultivation."
+  },
+  {
+   "q": "Karewas are suitable for which crop?",
+   "o": [
+    "Saffron",
+    "Tea",
+    "Cotton",
+    "Sugarcane"
+   ],
+   "a": 0,
+   "e": "A special landform of the Kashmir Himalaya."
+  },
+  {
+   "q": "In the river-based division of the Himalaya, the part between the Indus and the Sutlej is called:",
+   "o": [
+    "Kumaon Himalaya",
+    "Punjab Himalaya",
+    "Nepal Himalaya",
+    "Assam Himalaya"
+   ],
+   "a": 1,
+   "e": "Kumaon: Sutlej-Kali; Nepal: Kali-Teesta; Assam: Teesta-Dihang."
+  },
+  {
+   "q": "Which Himalayan section lies between the Sutlej and the Kali rivers?",
+   "o": [
+    "Punjab Himalaya",
+    "Nepal Himalaya",
+    "Kumaon Himalaya",
+    "Assam Himalaya"
+   ],
+   "a": 2,
+   "e": "It covers the Kumaon-Garhwal region of Uttarakhand."
+  },
+  {
+   "q": "Which Himalayan section lies between the Kali and the Teesta rivers?",
+   "o": [
+    "Kumaon Himalaya",
+    "Punjab Himalaya",
+    "Assam Himalaya",
+    "Nepal Himalaya"
+   ],
+   "a": 3,
+   "e": "The Assam Himalaya lies between the Teesta and the Dihang."
+  },
+  {
+   "q": "Which Himalayan section lies between the Teesta and the Dihang (Brahmaputra)?",
+   "o": [
+    "Assam Himalaya",
+    "Nepal Himalaya",
+    "Kumaon Himalaya",
+    "Punjab Himalaya"
+   ],
+   "a": 0,
+   "e": "Beyond this begin the Purvanchal hills."
+  },
+  {
+   "q": "In which range is the Fotu La pass located?",
+   "o": [
+    "Karakoram",
+    "Zaskar Range",
+    "Pir Panjal",
+    "Dhauladhar"
+   ],
+   "a": 1,
+   "e": "It is in Ladakh, on the Srinagar-Leh highway."
+  },
+  {
+   "q": "Which is the world's highest motorable pass (as taught in the lecture)?",
+   "o": [
+    "Umling La",
+    "Khardung La",
+    "Mig La",
+    "Nathu La"
+   ],
+   "a": 2,
+   "e": "In eastern Ladakh, about 5913 m high."
+  },
+  {
+   "q": "Where is the Mig La pass located?",
+   "o": [
+    "Sikkim",
+    "Uttarakhand",
+    "Arunachal Pradesh",
+    "Eastern Ladakh"
+   ],
+   "a": 3,
+   "e": "Earlier Umling La was considered the highest."
+  },
+  {
+   "q": "Which of the following are passes of Uttarakhand?",
+   "o": [
+    "Niti, Mana, Lipulekh, Mangsha Dhura",
+    "Nathu La, Jelep La",
+    "Bum La, Yonggyap",
+    "Shipki La, Rohtang"
+   ],
+   "a": 0,
+   "e": "Uttarakhand's passes lie on the border with Tibet (China)."
+  },
+  {
+   "q": "Which of the following is NOT a pass of Arunachal Pradesh?",
+   "o": [
+    "Bum La",
+    "Nathu La",
+    "Yonggyap",
+    "Dihang"
+   ],
+   "a": 1,
+   "e": "Nathu La and Jelep La are in Sikkim."
+  },
+  {
+   "q": "Which of the following are passes of Sikkim?",
+   "o": [
+    "Bum La and Yonggyap",
+    "Niti and Mana",
+    "Nathu La and Jelep La",
+    "Shipki La and Rohtang"
+   ],
+   "a": 2,
+   "e": "Nathu La is an India-China trade route."
+  },
+  {
+   "q": "Where is the Diphu Pass located?",
+   "o": [
+    "Sikkim",
+    "Uttarakhand",
+    "Himachal Pradesh",
+    "India-China-Myanmar tri-junction (Arunachal)"
+   ],
+   "a": 3,
+   "e": "Other Arunachal passes: Bum La, Bomdi La, Yonggyap, Dihang."
+  },
+  {
+   "q": "Through which pass does the Sutlej enter India?",
+   "o": [
+    "Shipki La",
+    "Rohtang",
+    "Bara-lacha La",
+    "Nathu La"
+   ],
+   "a": 0,
+   "e": "Shipki La is in Himachal Pradesh."
+  },
+  {
+   "q": "The Rohtang Pass connects:",
+   "o": [
+    "Srinagar with Leh",
+    "Manali with Lahaul-Spiti",
+    "Jammu with Kashmir",
+    "Shimla with Kinnaur"
+   ],
+   "a": 1,
+   "e": "The Atal Tunnel is its tunnel alternative."
+  },
+  {
+   "q": "The Bara-lacha La connects:",
+   "o": [
+    "Manali with Kullu",
+    "Srinagar with Jammu",
+    "Lahaul-Spiti with Leh (Ladakh)",
+    "Shimla with Manali"
+   ],
+   "a": 2,
+   "e": "Three key passes of Himachal: Shipki La, Rohtang, Bara-lacha La."
+  },
+  {
+   "q": "The Banihal Pass connects:",
+   "o": [
+    "Srinagar with Leh",
+    "Kashmir with Gilgit",
+    "Leh with Manali",
+    "Jammu with the Kashmir Valley (Srinagar)"
+   ],
+   "a": 3,
+   "e": "It lies in the Pir Panjal Range."
+  },
+  {
+   "q": "The Burzil Pass connects:",
+   "o": [
+    "Kashmir with Gilgit (PoK)",
+    "Kashmir with Leh",
+    "Jammu with Kashmir",
+    "Leh with Himachal"
+   ],
+   "a": 0,
+   "e": "It lies on the Srinagar-Gilgit route."
+  },
+  {
+   "q": "The Zoji La connects:",
+   "o": [
+    "Jammu with Kashmir",
+    "Srinagar (Kashmir) with Leh (Ladakh)",
+    "Kashmir with Gilgit",
+    "Leh with Manali"
+   ],
+   "a": 1,
+   "e": "It lies on the Srinagar-Kargil-Leh route."
+  },
+  {
+   "q": "In which range/region are the Mintaka and Aghil passes?",
+   "o": [
+    "Pir Panjal",
+    "Dhauladhar",
+    "Karakoram (Ladakh region)",
+    "Shiwalik"
+   ],
+   "a": 2,
+   "e": "They are passes on the northern frontier."
+  },
+  {
+   "q": "Which of the following is NOT part of the Purvanchal hills?",
+   "o": [
+    "Patkai Bum",
+    "Naga Hills",
+    "Mizo Hills",
+    "Garo-Khasi-Jaintia"
+   ],
+   "a": 3,
+   "e": "Garo-Khasi-Jaintia hills are part of the Peninsular Plateau."
+  },
+  {
+   "q": "What is the other name of the Mizo Hills?",
+   "o": [
+    "Lushai Hills",
+    "Barail Range",
+    "Manipur Hills",
+    "Patkai"
+   ],
+   "a": 0,
+   "e": "They are part of the Purvanchal (Himalayan) system."
+  },
+  {
+   "q": "The Garo, Khasi and Jaintia hills are part of:",
+   "o": [
+    "Purvanchal Himalaya",
+    "Peninsular Plateau (Meghalaya Plateau)",
+    "Shiwalik",
+    "Trans Himalaya"
+   ],
+   "a": 1,
+   "e": "The Meghalaya Plateau is also called the Shillong Plateau."
+  },
+  {
+   "q": "The Mikir and Rengma hills are part of:",
+   "o": [
+    "Himalaya",
+    "Purvanchal",
+    "Peninsular Plateau (Karbi Anglong Plateau)",
+    "Western Ghats"
+   ],
+   "a": 2,
+   "e": "They are located in Assam."
+  },
+  {
+   "q": "What type of mountains is the Himalaya?",
+   "o": [
+    "Old fold mountains",
+    "Volcanic mountains",
+    "Residual mountains",
+    "Young fold mountains"
+   ],
+   "a": 3,
+   "e": "About 40-50 million years old."
+  },
+  {
+   "q": "Approximately how old is the Aravalli range considered to be?",
+   "o": [
+    "About 500 million years",
+    "About 50 million years",
+    "About 5 million years",
+    "About 5 billion years"
+   ],
+   "a": 0,
+   "e": "One of the oldest fold mountains in the world, about ten times older than the Himalaya."
+  },
+  {
+   "q": "Which Indian mountain range is among the oldest fold mountains in the world?",
+   "o": [
+    "Himalaya",
+    "Aravalli",
+    "Eastern Ghats",
+    "Purvanchal"
+   ],
+   "a": 1,
+   "e": "The Aravalli forms the northwestern edge of the Peninsular Plateau."
+  },
+  {
+   "q": "Which is the highest peak of the Western Ghats?",
+   "o": [
+    "Doddabetta",
+    "Mahendragiri",
+    "Anamudi",
+    "Guru Shikhar"
+   ],
+   "a": 2,
+   "e": "2695 m; also the highest peak of South India."
+  },
+  {
+   "q": "In which state and range is Anamudi located?",
+   "o": [
+    "Tamil Nadu, Nilgiri",
+    "Karnataka, Cardamom",
+    "Kerala, Nilgiri",
+    "Kerala, Anamalai Range"
+   ],
+   "a": 3,
+   "e": "The Western Ghats are highest in the Kerala region."
+  },
+  {
+   "q": "What is the height of Anamudi?",
+   "o": [
+    "2695 m",
+    "2637 m",
+    "1722 m",
+    "1501 m"
+   ],
+   "a": 0,
+   "e": "Highest peak of South India."
+  },
+  {
+   "q": "Doddabetta, a major peak of the Western Ghats, lies in which range?",
+   "o": [
+    "Anamalai",
+    "Nilgiri",
+    "Cardamom",
+    "Palani"
+   ],
+   "a": 1,
+   "e": "It is the highest peak of the Nilgiris, near Ooty in Tamil Nadu."
+  },
+  {
+   "q": "In which state is Doddabetta located?",
+   "o": [
+    "Kerala",
+    "Karnataka",
+    "Tamil Nadu",
+    "Andhra Pradesh"
+   ],
+   "a": 2,
+   "e": "It is the highest peak of the Nilgiris."
+  },
+  {
+   "q": "Which are the major hill ranges of the southern Western Ghats?",
+   "o": [
+    "Seshachalam, Nallamala, Palkonda",
+    "Vindhya, Satpura, Aravalli",
+    "Mahadeo, Maikal, Rajpipla",
+    "Nilgiri, Anamalai, Cardamom"
+   ],
+   "a": 3,
+   "e": "Anamudi is in the Anamalai and Doddabetta in the Nilgiri hills."
+  },
+  {
+   "q": "Which peak lies in the northern part of the Eastern Ghats?",
+   "o": [
+    "Mahendragiri (Odisha)",
+    "Anamudi",
+    "Doddabetta",
+    "Parasnath"
+   ],
+   "a": 0,
+   "e": "Height about 1501 m."
+  },
+  {
+   "q": "Which is considered the highest peak of the Eastern Ghats?",
+   "o": [
+    "Mahendragiri",
+    "Jindhagada / Arma Konda (Andhra Pradesh)",
+    "Anamudi",
+    "Dhupgarh"
+   ],
+   "a": 1,
+   "e": "Height about 1680-1690 m, in the Visakhapatnam hills."
+  },
+  {
+   "q": "On which hills is the Tirupati Balaji temple located?",
+   "o": [
+    "Nallamala",
+    "Palani",
+    "Seshachalam Hills",
+    "Javadi"
+   ],
+   "a": 2,
+   "e": "Part of the Eastern Ghats in Andhra Pradesh."
+  },
+  {
+   "q": "Which of the following is NOT a hill of the Eastern Ghats?",
+   "o": [
+    "Nallamala",
+    "Javadi",
+    "Shevaroy",
+    "Anamalai"
+   ],
+   "a": 3,
+   "e": "Anamalai is in the Western Ghats."
+  },
+  {
+   "q": "The average heights of the Western Ghats and the Eastern Ghats are respectively about:",
+   "o": [
+    "1200 m and 600 m",
+    "600 m and 1200 m",
+    "1000 m and 500 m",
+    "2000 m and 1000 m"
+   ],
+   "a": 0,
+   "e": "The Western Ghats are higher, and their height increases from north to south."
+  },
+  {
+   "q": "In which direction does the height of the Western Ghats increase?",
+   "o": [
+    "South to north",
+    "North to south",
+    "East to west",
+    "West to east"
+   ],
+   "a": 1,
+   "e": "The highest peaks are in the south (Kerala)."
+  },
+  {
+   "q": "Which Ghats are continuous?",
+   "o": [
+    "Eastern Ghats",
+    "Both",
+    "Western Ghats",
+    "Neither"
+   ],
+   "a": 2,
+   "e": "The Eastern Ghats are cut through by rivers at several places."
+  },
+  {
+   "q": "Why are the Eastern Ghats discontinuous?",
+   "o": [
+    "Due to earthquakes",
+    "Due to glaciers",
+    "Due to sea waves",
+    "Erosion by rivers, as the plateau slopes eastwards"
+   ],
+   "a": 3,
+   "e": "The Peninsular Plateau tilts east, so most rivers flow east and cut through the Eastern Ghats."
+  },
+  {
+   "q": "The Western Ghats extend across how many states?",
+   "o": [
+    "6",
+    "4",
+    "5",
+    "8"
+   ],
+   "a": 0,
+   "e": "Gujarat, Maharashtra, Goa, Karnataka, Kerala, Tamil Nadu."
+  },
+  {
+   "q": "When were the Western Ghats declared a UNESCO World Heritage Site?",
+   "o": [
+    "2002",
+    "2012",
+    "2006",
+    "2018"
+   ],
+   "a": 1,
+   "e": "Famous for their biodiversity."
+  },
+  {
+   "q": "When is the International Day for Biological Diversity observed?",
+   "o": [
+    "22 March",
+    "22 April",
+    "22 May",
+    "5 June"
+   ],
+   "a": 2,
+   "e": "22 March is World Water Day, 22 April is Earth Day."
+  },
+  {
+   "q": "When is World Water Day observed?",
+   "o": [
+    "22 April",
+    "22 May",
+    "5 June",
+    "22 March"
+   ],
+   "a": 3,
+   "e": "Earth Day is observed on 22 April."
+  },
+  {
+   "q": "When is World Earth Day observed?",
+   "o": [
+    "22 April",
+    "22 March",
+    "22 May",
+    "5 June"
+   ],
+   "a": 0,
+   "e": "Biodiversity Day is 22 May."
+  },
+  {
+   "q": "Which hill station is in the Nilgiri Hills?",
+   "o": [
+    "Munnar",
+    "Ooty (Udhagamandalam)",
+    "Kodaikanal",
+    "Mahabaleshwar"
+   ],
+   "a": 1,
+   "e": "The Western and Eastern Ghats meet at the Nilgiris."
+  },
+  {
+   "q": "Where do the Western and Eastern Ghats meet?",
+   "o": [
+    "Anamalai",
+    "Seshachalam",
+    "Nilgiri Hills",
+    "Palani"
+   ],
+   "a": 2,
+   "e": "Doddabetta is located here."
+  },
+  {
+   "q": "Which pass lies between the Nilgiri and the Anamalai hills?",
+   "o": [
+    "Bhor Ghat",
+    "Thal Ghat",
+    "Shencottah",
+    "Palakkad (Palghat) Gap"
+   ],
+   "a": 3,
+   "e": "It links Kerala and Tamil Nadu."
+  },
+  {
+   "q": "Bhor Ghat connects which cities?",
+   "o": [
+    "Mumbai and Pune",
+    "Mumbai and Nashik",
+    "Pune and Goa",
+    "Mumbai and Surat"
+   ],
+   "a": 0,
+   "e": "Bhor Ghat links Mumbai with Pune; Thal Ghat links Mumbai with Nashik."
+  },
+  {
+   "q": "Thal Ghat connects which cities?",
+   "o": [
+    "Mumbai and Pune",
+    "Mumbai and Nashik",
+    "Pune and Bengaluru",
+    "Nashik and Nagpur"
+   ],
+   "a": 1,
+   "e": "Bhor Ghat connects Mumbai and Pune."
+  },
+  {
+   "q": "The Peninsular Plateau is mainly made up of which rocks?",
+   "o": [
+    "Young volcanic lava",
+    "Young sedimentary rocks",
+    "Ancient crystalline igneous and metamorphic rocks",
+    "Limestone layers"
+   ],
+   "a": 2,
+   "e": "Black soil is found in the Deccan Trap (volcanic) region."
+  },
+  {
+   "q": "The Narmada divides the Peninsular Plateau into which two parts?",
+   "o": [
+    "Himalaya and plains",
+    "Eastern and Western Ghats",
+    "Malwa and Mewar",
+    "Central Highlands and Deccan Plateau"
+   ],
+   "a": 3,
+   "e": "The Deccan Plateau is shaped like an inverted triangle."
+  },
+  {
+   "q": "What is the shape of the Deccan Plateau?",
+   "o": [
+    "Inverted triangle",
+    "Rectangular",
+    "Circular",
+    "Upright triangle"
+   ],
+   "a": 0,
+   "e": "It lies to the south of the Narmada."
+  },
+  {
+   "q": "Which plateau lies to the north of the Narmada?",
+   "o": [
+    "Maharashtra Plateau",
+    "Malwa Plateau",
+    "Karnataka Plateau",
+    "Telangana Plateau"
+   ],
+   "a": 1,
+   "e": "Central Highlands include Mewar/Marwar, Malwa, Bundelkhand, Baghelkhand and Chota Nagpur."
+  },
+  {
+   "q": "What is the typical average height of a plateau and its main feature?",
+   "o": [
+    "6000 m; pointed top",
+    "100 m; sloping",
+    "500-600 m; flat top",
+    "2000 m; snow-covered"
+   ],
+   "a": 2,
+   "e": "Unlike mountains, a plateau has no pointed summit."
+  },
+  {
+   "q": "Which of the following is NOT a part of the Central Highlands?",
+   "o": [
+    "Malwa Plateau",
+    "Bundelkhand Plateau",
+    "Baghelkhand Plateau",
+    "Maharashtra (Deccan Lava) Plateau"
+   ],
+   "a": 3,
+   "e": "The Central Highlands lie north of the Narmada; the Maharashtra Plateau is part of the Deccan."
+  },
+  {
+   "q": "The Chota Nagpur Plateau is known as:",
+   "o": [
+    "The Ruhr of India (storehouse of minerals)",
+    "The Roof of India",
+    "The Lungs of India",
+    "The Granary of India"
+   ],
+   "a": 0,
+   "e": "It is a mineral-rich region."
+  },
+  {
+   "q": "The Ranchi and Hazaribagh plateaus are part of:",
+   "o": [
+    "Malwa Plateau",
+    "Chota Nagpur Plateau",
+    "Deccan Plateau",
+    "Meghalaya Plateau"
+   ],
+   "a": 1,
+   "e": "The Damodar flows through this plateau."
+  },
+  {
+   "q": "The Damodar river flows through which plateau?",
+   "o": [
+    "Malwa Plateau",
+    "Meghalaya Plateau",
+    "Chota Nagpur Plateau",
+    "Deccan Plateau"
+   ],
+   "a": 2,
+   "e": "It is a tributary of the Hooghly."
+  },
+  {
+   "q": "Which hills form the eastern edge of the main Peninsular Plateau, before the Malda Gap?",
+   "o": [
+    "Aravalli Hills",
+    "Nilgiri Hills",
+    "Parasnath Hills",
+    "Rajmahal Hills"
+   ],
+   "a": 3,
+   "e": "Beyond them lies the Malda Gap, then the Meghalaya Plateau."
+  },
+  {
+   "q": "The gap between the Rajmahal Hills and the Meghalaya Plateau is called:",
+   "o": [
+    "Malda Gap",
+    "Palakkad Gap",
+    "Thar Gap",
+    "Bhor Ghat"
+   ],
+   "a": 0,
+   "e": "Here the plateau dips under the alluvium towards Bangladesh."
+  },
+  {
+   "q": "By what other name is the Meghalaya Plateau known?",
+   "o": [
+    "Karbi Anglong",
+    "Shillong Plateau",
+    "Malwa Plateau",
+    "Chota Nagpur"
+   ],
+   "a": 1,
+   "e": "It includes the Garo, Khasi and Jaintia hills."
+  },
+  {
+   "q": "In which state is the Karbi Anglong Plateau?",
+   "o": [
+    "Meghalaya",
+    "Nagaland",
+    "Assam",
+    "Manipur"
+   ],
+   "a": 2,
+   "e": "The Mikir and Rengma hills are part of it."
+  },
+  {
+   "q": "Which of the following is NOT part of the Shillong Plateau?",
+   "o": [
+    "Garo",
+    "Khasi",
+    "Jaintia",
+    "Maikal"
+   ],
+   "a": 3,
+   "e": "The Maikal range is in central India where the Vindhya and Satpura meet."
+  },
+  {
+   "q": "Which is the highest peak of the Maikal Range?",
+   "o": [
+    "Amarkantak",
+    "Dhupgarh",
+    "Parasnath",
+    "Kalsubai"
+   ],
+   "a": 0,
+   "e": "The Maikal is the junction of the Vindhya and Satpura ranges."
+  },
+  {
+   "q": "Which is the highest peak of the Satpura Range?",
+   "o": [
+    "Amarkantak",
+    "Dhupgarh",
+    "Parasnath",
+    "Sadbhavna Shikhar"
+   ],
+   "a": 1,
+   "e": "In the Mahadeo Hills, about 1350 m high."
+  },
+  {
+   "q": "What is the west-to-east order of the Satpura ranges?",
+   "o": [
+    "Maikal, Mahadeo, Asirgarh, Rajpipla",
+    "Mahadeo, Rajpipla, Maikal, Asirgarh",
+    "Rajpipla, Asirgarh, Mahadeo, Maikal",
+    "Asirgarh, Maikal, Mahadeo, Rajpipla"
+   ],
+   "a": 2,
+   "e": "Asirgarh Fort is in Burhanpur (Madhya Pradesh)."
+  },
+  {
+   "q": "Which is the highest peak of the Vindhya Range?",
+   "o": [
+    "Dhupgarh",
+    "Amarkantak",
+    "Guru Shikhar",
+    "Sadbhavna Shikhar"
+   ],
+   "a": 3,
+   "e": "Also called Kalumar Peak, about 752 m high."
+  },
+  {
+   "q": "Which is the highest peak of the Chota Nagpur Plateau?",
+   "o": [
+    "Parasnath",
+    "Dhupgarh",
+    "Amarkantak",
+    "Guru Shikhar"
+   ],
+   "a": 0,
+   "e": "In Giridih district of Jharkhand, about 1365 m high."
+  },
+  {
+   "q": "Parasnath Hill is associated with which Jain Tirthankara?",
+   "o": [
+    "Rishabhdev",
+    "Parshvanath, the 23rd Tirthankara",
+    "Mahavira",
+    "Neminath"
+   ],
+   "a": 1,
+   "e": "It is a Jain pilgrimage site (Shikharji)."
+  },
+  {
+   "q": "Which is the highest peak of the Aravalli?",
+   "o": [
+    "Kalsubai",
+    "Parasnath",
+    "Guru Shikhar",
+    "Amarkantak"
+   ],
+   "a": 2,
+   "e": "At Mount Abu, 1722 m high."
+  },
+  {
+   "q": "In which mountain area is Guru Shikhar located?",
+   "o": [
+    "Nilgiri",
+    "Satpura",
+    "Patkai",
+    "Mount Abu (Rajasthan)"
+   ],
+   "a": 3,
+   "e": "Highest peak of the Aravalli."
+  },
+  {
+   "q": "Which is the highest peak of Maharashtra?",
+   "o": [
+    "Kalsubai",
+    "Dhupgarh",
+    "Guru Shikhar",
+    "Mahabaleshwar"
+   ],
+   "a": 0,
+   "e": "It lies in the Sahyadri (Western Ghats)."
+  },
+  {
+   "q": "Anamudi lies at the junction of which three hill ranges?",
+   "o": [
+    "Nilgiri, Palani, Shevaroy",
+    "Anamalai, Cardamom and Palani",
+    "Anamalai, Nilgiri, Cardamom",
+    "Cardamom, Nallamala, Palani"
+   ],
+   "a": 1,
+   "e": "It is part of the Anamalai Range."
+  },
+  {
+   "q": "Why is the Peninsular Plateau considered geologically stable?",
+   "o": [
+    "Plates frequently collide here",
+    "It is a young fold mountain system",
+    "It is an ancient shield with low seismic activity",
+    "Volcanoes are active here"
+   ],
+   "a": 2,
+   "e": "It lies away from plate boundaries, whereas the Himalaya lies on one and has frequent earthquakes."
+  },
+  {
+   "q": "Which fault in the Peninsular Plateau is known for frequent seismic activity?",
+   "o": [
+    "Narmada fault",
+    "Malda fault",
+    "Vindhya fault",
+    "Bhima fault"
+   ],
+   "a": 3,
+   "e": "It lies in the Maharashtra-Karnataka region."
+  },
+  {
+   "q": "When did the devastating earthquake strike Bhuj in Gujarat?",
+   "o": [
+    "2001",
+    "1993",
+    "2005",
+    "2011"
+   ],
+   "a": 0,
+   "e": "Though the peninsula is stable, the Kutch region is seismically active."
+  },
+  {
+   "q": "Which of the following is NOT a major part of the Peninsular Plateau?",
+   "o": [
+    "Central Highlands",
+    "Purvanchal hills",
+    "Deccan Plateau",
+    "North-eastern Plateau (Meghalaya)"
+   ],
+   "a": 1,
+   "e": "The Purvanchal is part of the Himalayan system."
+  },
+  {
+   "q": "What is the characteristic of the Western Coastal Plain?",
+   "o": [
+    "Broad and emergent",
+    "Has many deltas",
+    "Narrow, submerged and indented coast",
+    "Straight coastline"
+   ],
+   "a": 2,
+   "e": "It has more natural harbours."
+  },
+  {
+   "q": "What is the characteristic of the Eastern Coastal Plain?",
+   "o": [
+    "Narrow and submerged",
+    "Indented coast",
+    "More natural harbours",
+    "Broad, emergent, with depositional features and deltas"
+   ],
+   "a": 3,
+   "e": "The western coast is narrow with natural harbours."
+  },
+  {
+   "q": "An indented coastline with natural harbours is a feature of which coast?",
+   "o": [
+    "Konkan coast (Western Coastal Plain)",
+    "Coromandel coast",
+    "Utkal plain",
+    "Northern Circars"
+   ],
+   "a": 0,
+   "e": "The east coast has more artificial harbours."
+  },
+  {
+   "q": "What is the coast of Karnataka called?",
+   "o": [
+    "Konkan coast",
+    "Kannada coast",
+    "Malabar coast",
+    "Kathiawar coast"
+   ],
+   "a": 1,
+   "e": "Konkan for Maharashtra-Goa; Malabar for Kerala."
+  },
+  {
+   "q": "What is the coast of Maharashtra and Goa called?",
+   "o": [
+    "Kannada coast",
+    "Malabar coast",
+    "Konkan coast",
+    "Coromandel coast"
+   ],
+   "a": 2,
+   "e": "Konkani is spoken in Goa."
+  },
+  {
+   "q": "By what name is the coast of Kerala known?",
+   "o": [
+    "Konkan coast",
+    "Kannada coast",
+    "Coromandel coast",
+    "Malabar coast"
+   ],
+   "a": 3,
+   "e": "The Kathiawar coast lies in Gujarat."
+  },
+  {
+   "q": "What is the coast of Tamil Nadu called?",
+   "o": [
+    "Coromandel coast",
+    "Northern Circars",
+    "Utkal coast",
+    "Malabar coast"
+   ],
+   "a": 0,
+   "e": "The Andhra coast is called the Northern Circars."
+  },
+  {
+   "q": "What is the coastal plain of Andhra Pradesh called?",
+   "o": [
+    "Coromandel",
+    "Northern Circars",
+    "Utkal plain",
+    "Kannada coast"
+   ],
+   "a": 1,
+   "e": "Odisha has the Utkal plain."
+  },
+  {
+   "q": "What is the coastal plain of Odisha called?",
+   "o": [
+    "Northern Circars",
+    "Coromandel",
+    "Utkal plain",
+    "Kathiawar"
+   ],
+   "a": 2,
+   "e": "The West Bengal coast is called the Bengal coast."
+  },
+  {
+   "q": "What is the coast of Gujarat called?",
+   "o": [
+    "Konkan coast",
+    "Malabar coast",
+    "Kannada coast",
+    "Kathiawar coast"
+   ],
+   "a": 3,
+   "e": "Beyond the Rann of Kutch lies Saurashtra/Kathiawar."
+  },
+  {
+   "q": "What is the width of the Bhabar belt?",
+   "o": [
+    "8 to 16 km",
+    "15 to 30 km",
+    "2 to 4 km",
+    "100 to 200 km"
+   ],
+   "a": 0,
+   "e": "A narrow belt where streams disappear underground."
+  },
+  {
+   "q": "What is the characteristic of the Bhabar belt?",
+   "o": [
+    "Marshy area",
+    "Pebble-studded zone where rivers go underground",
+    "New alluvial soil",
+    "Sea coast"
+   ],
+   "a": 1,
+   "e": "It lies at the foot of the Shiwaliks."
+  },
+  {
+   "q": "What is the approximate width of the Terai belt?",
+   "o": [
+    "8 to 16 km",
+    "1 to 2 km",
+    "15 to 30 km",
+    "100 km"
+   ],
+   "a": 2,
+   "e": "Here the streams re-emerge."
+  },
+  {
+   "q": "Which best describes the Terai belt?",
+   "o": [
+    "Dry coastal plain",
+    "Rocky plateau",
+    "Desert",
+    "Marshy, densely forested zone where streams re-emerge"
+   ],
+   "a": 3,
+   "e": "The Terai lies south of the Bhabar."
+  },
+  {
+   "q": "What is Khadar?",
+   "o": [
+    "New alluvium",
+    "Old alluvium",
+    "Black soil",
+    "Red soil"
+   ],
+   "a": 0,
+   "e": "Renewed by floods every year, hence more fertile."
+  },
+  {
+   "q": "What is Bhangar?",
+   "o": [
+    "New alluvium",
+    "Old alluvium",
+    "Sandy soil",
+    "Marshy land"
+   ],
+   "a": 1,
+   "e": "It contains calcareous nodules (kankar)."
+  },
+  {
+   "q": "Which is more fertile, Khadar or Bhangar, and why?",
+   "o": [
+    "Bhangar, because it is older",
+    "Both are equal",
+    "Khadar, because it is renewed by floods every year",
+    "Bhangar, because it has more kankar"
+   ],
+   "a": 2,
+   "e": "Khadar receives fresh silt every year."
+  },
+  {
+   "q": "What is the approximate west-to-east length of the Northern Plains within India?",
+   "o": [
+    "3200 km",
+    "1000 km",
+    "5000 km",
+    "2400 km"
+   ],
+   "a": 3,
+   "e": "The total length including Pakistan and Bangladesh is about 3200 km."
+  },
+  {
+   "q": "The Northern Plains are formed by which three river systems?",
+   "o": [
+    "Indus, Ganga and Brahmaputra",
+    "Godavari, Krishna, Kaveri",
+    "Narmada, Tapti, Mahanadi",
+    "Yamuna, Chambal, Kosi"
+   ],
+   "a": 0,
+   "e": "In that order from west to east."
+  },
+  {
+   "q": "Why is canal irrigation more suitable in the Northern Plains?",
+   "o": [
+    "Rugged surface",
+    "Level land and perennial rivers",
+    "Rivers flow only in the monsoon",
+    "Very heavy rainfall"
+   ],
+   "a": 1,
+   "e": "The Indus, Ganga and Brahmaputra are glacier-fed and perennial."
+  },
+  {
+   "q": "Which is a correct feature of the Northern Plains?",
+   "o": [
+    "The land is rocky",
+    "It is a volcanic region",
+    "Bhabar, Terai and alluvial plains occur in sequence below the Shiwaliks",
+    "It is very sparsely populated"
+   ],
+   "a": 2,
+   "e": "Sequence: Shiwalik, Bhabar, Terai, alluvial plains."
+  },
+  {
+   "q": "Which state has the highest population density (Census 2011)?",
+   "o": [
+    "West Bengal",
+    "Uttar Pradesh",
+    "Kerala",
+    "Bihar"
+   ],
+   "a": 3,
+   "e": "About 1106 persons per sq km; West Bengal is second."
+  },
+  {
+   "q": "Which hills lie immediately to the west of the Malda Gap?",
+   "o": [
+    "Rajmahal Hills",
+    "Aravalli",
+    "Bundelkhand",
+    "Garo Hills"
+   ],
+   "a": 0,
+   "e": "The Malda Gap separates the Rajmahal Hills from the Meghalaya (Garo) hills."
+  },
+  {
+   "q": "Which Indian island group is closest to the Malabar coast?",
+   "o": [
+    "Andaman",
+    "Lakshadweep",
+    "Nicobar",
+    "New Moore"
+   ],
+   "a": 1,
+   "e": "Lakshadweep falls under the Kerala High Court."
+  },
+  {
+   "q": "Which High Court has jurisdiction over Lakshadweep?",
+   "o": [
+    "Tamil Nadu",
+    "Karnataka",
+    "Kerala",
+    "Andhra Pradesh"
+   ],
+   "a": 2,
+   "e": "Lakshadweep lies near the Malabar coast."
+  },
+  {
+   "q": "The Palk Strait separates:",
+   "o": [
+    "India and Maldives",
+    "Andaman and Nicobar",
+    "Lakshadweep and Minicoy",
+    "India and Sri Lanka"
+   ],
+   "a": 3,
+   "e": "The Gulf of Mannar lies to its south."
+  },
+  {
+   "q": "The Nine Degree Channel separates:",
+   "o": [
+    "Lakshadweep from Minicoy",
+    "Minicoy from Maldives",
+    "Andaman from Nicobar",
+    "India from Sri Lanka"
+   ],
+   "a": 0,
+   "e": "Minicoy is also part of the UT of Lakshadweep."
+  },
+  {
+   "q": "The Eight Degree Channel separates:",
+   "o": [
+    "Andaman from Nicobar",
+    "Minicoy (Lakshadweep) from Maldives",
+    "Lakshadweep from Minicoy",
+    "India from Sri Lanka"
+   ],
+   "a": 1,
+   "e": "It marks the southern limit of Lakshadweep."
+  },
+  {
+   "q": "The Eleven Degree Channel divides Lakshadweep into which two groups?",
+   "o": [
+    "Andaman and Nicobar",
+    "Minicoy and Kavaratti",
+    "Amindivi and Cannanore groups",
+    "Andrott and Bitra"
+   ],
+   "a": 2,
+   "e": "The 9° Channel separates Minicoy."
+  },
+  {
+   "q": "The Ten Degree Channel separates:",
+   "o": [
+    "Lakshadweep from Minicoy",
+    "India from Sri Lanka",
+    "Minicoy from Maldives",
+    "Andaman from Nicobar"
+   ],
+   "a": 3,
+   "e": "It lies between Little Andaman and Car Nicobar."
+  },
+  {
+   "q": "Which waterway lies between Little Andaman and South Andaman?",
+   "o": [
+    "Duncan Passage",
+    "Ten Degree Channel",
+    "Palk Strait",
+    "Eleven Degree Channel"
+   ],
+   "a": 0,
+   "e": "The 10° Channel separates Little Andaman from Car Nicobar."
+  },
+  {
+   "q": "Which is the highest peak of the Andaman Islands?",
+   "o": [
+    "Mount Thuillier",
+    "Saddle Peak (North Andaman)",
+    "Mount Diavolo",
+    "Barren"
+   ],
+   "a": 1,
+   "e": "Height about 732 m."
+  },
+  {
+   "q": "Which is India's only active volcano?",
+   "o": [
+    "Narcondam",
+    "Mount Thuillier",
+    "Barren Island",
+    "Saddle Peak"
+   ],
+   "a": 2,
+   "e": "It lies in the Andaman Sea, east of the Andaman Islands."
+  },
+  {
+   "q": "What is the status of the volcano on Narcondam Island?",
+   "o": [
+    "Active",
+    "Completely extinct",
+    "Submarine",
+    "Dormant"
+   ],
+   "a": 3,
+   "e": "It lies east of North Andaman."
+  },
+  {
+   "q": "Barren Island, India's only active volcano, lies in which water body?",
+   "o": [
+    "Andaman Sea",
+    "Arabian Sea",
+    "Laccadive Sea",
+    "Palk Bay"
+   ],
+   "a": 0,
+   "e": "It lies about 135 km northeast of Sri Vijaya Puram (Port Blair)."
+  },
+  {
+   "q": "What is the capital of Andaman and Nicobar Islands?",
+   "o": [
+    "Kavaratti",
+    "Sri Vijaya Puram (Port Blair)",
+    "Puducherry",
+    "Daman"
+   ],
+   "a": 1,
+   "e": "It is located in South Andaman."
+  },
+  {
+   "q": "Which is the largest island of the Andaman group?",
+   "o": [
+    "North Andaman",
+    "South Andaman",
+    "Middle Andaman",
+    "Little Andaman"
+   ],
+   "a": 2,
+   "e": "Middle Andaman is the largest in the entire Andaman and Nicobar chain."
+  },
+  {
+   "q": "Which is the largest island of the Nicobar group?",
+   "o": [
+    "Little Nicobar",
+    "Car Nicobar",
+    "Camorta",
+    "Great Nicobar"
+   ],
+   "a": 3,
+   "e": "It is the southernmost island of the group."
+  },
+  {
+   "q": "What is the approximate total area of the Andaman and Nicobar Islands?",
+   "o": [
+    "8249 sq km",
+    "32 sq km",
+    "3200 sq km",
+    "82490 sq km"
+   ],
+   "a": 0,
+   "e": "Lakshadweep's area is about 32 sq km."
+  },
+  {
+   "q": "What is the approximate total area of Lakshadweep?",
+   "o": [
+    "8249 sq km",
+    "32 sq km",
+    "320 sq km",
+    "3200 sq km"
+   ],
+   "a": 1,
+   "e": "It is India's smallest Union Territory."
+  },
+  {
+   "q": "Which is the largest island of Lakshadweep?",
+   "o": [
+    "Bitra",
+    "Kavaratti",
+    "Andrott",
+    "Minicoy"
+   ],
+   "a": 2,
+   "e": "The smallest is Bitra."
+  },
+  {
+   "q": "Which is the smallest island of Lakshadweep?",
+   "o": [
+    "Andrott",
+    "Kavaratti",
+    "Agatti",
+    "Bitra"
+   ],
+   "a": 3,
+   "e": "The largest is Andrott."
+  },
+  {
+   "q": "Which is the southernmost island of Lakshadweep?",
+   "o": [
+    "Minicoy",
+    "Kavaratti",
+    "Bitra",
+    "Andrott"
+   ],
+   "a": 0,
+   "e": "It lies close to the 8° Channel."
+  },
+  {
+   "q": "Which of the following belongs to the Lakshadweep group?",
+   "o": [
+    "Camorta",
+    "Cannanore Islands",
+    "Chowra",
+    "Havelock"
+   ],
+   "a": 1,
+   "e": "Camorta and Chowra belong to the Nicobar group."
+  },
+  {
+   "q": "To which group do Camorta and Chowra islands belong?",
+   "o": [
+    "Lakshadweep",
+    "Puducherry",
+    "Andaman and Nicobar",
+    "Sundarbans"
+   ],
+   "a": 2,
+   "e": "They are part of the Nicobar group."
+  },
+  {
+   "q": "Which of the following is NOT an island of the Andaman group?",
+   "o": [
+    "Havelock",
+    "Neil",
+    "Barren",
+    "Minicoy"
+   ],
+   "a": 3,
+   "e": "Minicoy is part of Lakshadweep."
+  },
+  {
+   "q": "What does 'archipelago' mean?",
+   "o": [
+    "A group of islands",
+    "A single large island",
+    "A sea route",
+    "A coral reef"
+   ],
+   "a": 0,
+   "e": "Lakshadweep and Andaman and Nicobar are archipelagos."
+  },
+  {
+   "q": "Which state has the longest coastline?",
+   "o": [
+    "Tamil Nadu",
+    "Gujarat",
+    "Andhra Pradesh",
+    "Maharashtra"
+   ],
+   "a": 1,
+   "e": "Among states, Gujarat leads, followed by Tamil Nadu and Andhra Pradesh."
+  },
+  {
+   "q": "Which Union Territory has the longest coastline?",
+   "o": [
+    "Lakshadweep",
+    "Puducherry",
+    "Andaman and Nicobar Islands",
+    "Daman and Diu"
+   ],
+   "a": 2,
+   "e": "Nine states of India have a coastline."
+  },
+  {
+   "q": "Which option is correct about the number of inhabited islands in Andaman and Nicobar?",
+   "o": [
+    "Fewer than 14",
+    "Exactly 22",
+    "Exactly 18",
+    "More than 30"
+   ],
+   "a": 3,
+   "e": "About 37-38 of the islands are inhabited."
+  },
+  {
+   "q": "What is the main reason for the formation of lagoons on the east coast?",
+   "o": [
+    "Deposition along the coast by rivers and wave action",
+    "Growth of coral reefs",
+    "Tectonic activity",
+    "Volcanic islands"
+   ],
+   "a": 0,
+   "e": "Chilika and Pulicat are examples."
+  },
+  {
+   "q": "Under what conditions do coral reefs flourish?",
+   "o": [
+    "In fresh water",
+    "In clear, saline, sunlit warm water",
+    "In muddy water",
+    "In cold water"
+   ],
+   "a": 1,
+   "e": "Algae (zooxanthellae) inside the polyps carry out photosynthesis."
+  },
+  {
+   "q": "Why do coral reefs not develop at river mouths?",
+   "o": [
+    "It is cold there",
+    "There are no tides",
+    "Fresh, muddy water is unsuitable for them",
+    "The water is too deep"
+   ],
+   "a": 2,
+   "e": "Corals need saline, clear water."
+  },
+  {
+   "q": "In which coastal state are the plateau, plains and coastal plain all found?",
+   "o": [
+    "Madhya Pradesh",
+    "Punjab",
+    "Uttar Pradesh",
+    "Tamil Nadu"
+   ],
+   "a": 3,
+   "e": "Madhya Pradesh, Punjab and Uttar Pradesh are landlocked."
+  },
+  {
+   "q": "Which is the highest peak of Mizoram?",
+   "o": [
+    "Phawngpui (Blue Mountain)",
+    "Kangto",
+    "Shillong Peak",
+    "Betling Shib"
+   ],
+   "a": 0,
+   "e": "It is also called the Blue Mountain."
+  },
+  {
+   "q": "Which is the highest peak of Tripura?",
+   "o": [
+    "Phawngpui",
+    "Betling Shib",
+    "Kangto",
+    "Shillong Peak"
+   ],
+   "a": 1,
+   "e": "It lies in the Jampui hills."
+  },
+  {
+   "q": "Which is the highest peak of Arunachal Pradesh?",
+   "o": [
+    "Phawngpui",
+    "Betling Shib",
+    "Kangto",
+    "Dafla"
+   ],
+   "a": 2,
+   "e": "It lies in the Eastern Himalaya."
+  },
+  {
+   "q": "Which is the highest peak of Meghalaya?",
+   "o": [
+    "Kangto",
+    "Phawngpui",
+    "Jaintia",
+    "Shillong Peak"
+   ],
+   "a": 3,
+   "e": "It lies on the Meghalaya (Shillong) Plateau."
+  },
+  {
+   "q": "The Barail Range is part of:",
+   "o": [
+    "Purvanchal Himalaya",
+    "Peninsular Plateau",
+    "Western Ghats",
+    "Aravalli"
+   ],
+   "a": 0,
+   "e": "Dafla, Miri, Abor, Mishmi, Patkai Bum, Naga, Manipur and Mizo hills also belong to it."
+  },
+  {
+   "q": "What topic was announced for the next day at the end of the lecture?",
+   "o": [
+    "Soils and agriculture",
+    "Rivers (Himalayan and Peninsular) and monsoon",
+    "Forests",
+    "Minerals"
+   ],
+   "a": 1,
+   "e": "Later topics: agriculture, soils, climate, and forests and grasslands."
+  }
+ ]
+}
