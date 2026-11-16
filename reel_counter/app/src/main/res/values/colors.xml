@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#FFF7F0</color>
+    <color name="card">#FFFFFF</color>
+    <color name="text">#2A1D17</color>
+    <color name="muted">#8A7A70</color>
+    <color name="track">#F1E4DA</color>
+    <color name="accent">#FF6F91</color>
+    <color name="accent_ink">#FFFFFF</color>
+    <color name="pill">#4A2A20</color>
+    <color name="pill_text">#FFB067</color>
+    <color name="ok">#2E9D5B</color>
+    <color name="bad">#D9443A</color>
+    <color name="icon_bg">#FFF1E6</color>
+</resources>
